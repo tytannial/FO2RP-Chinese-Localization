@@ -1,0 +1,28 @@
+{100}{}{你看见一个穿着高科技动力装甲二代，很不友善的人。}
+{101}{}{你看见穿着高科技动力装甲二代的卡贾。}
+{102}{}{一大堆枪械的铁块。}
+{103}{}{我已经累了，快点决胜负吧。}
+{104}{}{这是最后一次见到卡贾。}
+{105}{}{你打不过卡贾。}
+{106}{}{来生再见吧。}
+{107}{}{你还算是个不错的敌人。}
+{108}{}{这个地方不需要你这种人。}
+{109}{}{杀了你以后，我就是这里最强的人。}
+{110}{}{我已经等不急的要去烧毁阿罗由了。}
+{111}{}{杀了你以后卡贾就会变得很有名。}
+
+{120}{}{Kagaaaaaaaa!}
+
+#added by RP 1.3
+{150}{}{[A tall and powerfully built warrior stands before you, his eyes blaze with hatred as he looks you over.] So, they cast out Kaga, then deem YOU the Chosen One? Ha! You think being the grandchild of the Vault Dweller makes you special?! You think you are better than I, Kaga the Great?!}
+{151}{}{Well, I AM the Chosen One, aren't I?}
+{152}{}{Hey now, hold on a second. I never said I was better than you.}
+
+{160}{}{That title will mean nothing when Kaga rips the head from your shoulders!}
+{161}{}{No words can save your hide. With your death, Kaga's honor shall be restored. Kaga will now take his vengeance!}
+
+#dumb dialogue
+{200}{}{Ooglie?}
+{201}{}{What!? They picked *you* to be the Chosen One? Oh my, they've become desperate.}
+{202}{}{Me no likie. U lookie bad.}
+{203}{}{Kaga won't even bother speaking with you further. Prepare to die at the hands of Kaga!}

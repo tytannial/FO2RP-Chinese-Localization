@@ -1,0 +1,853 @@
+
+#
+# Messages for Maps
+#
+
+#
+# Map Names for (Automap) Descriptions
+#	Note: This order must *NOT* change!
+#
+#	Note: The maximum description width is approximately:
+#	  "Brotherhood of Steel (Lower Levels)" -- about 34 characters,
+#	  but it's proportional, so you need to double-check it by
+#	  going into mapper/game and going to the automap for that map.
+#
+#	Note: Descriptions *MUST* *NOT* be empty, and so temporary
+#	  descriptions are just the map name itself (this also helps
+#	  pinpoint unfinished ones when you go through here).
+#
+{100}{}{沙漠}				// DESERT1.MAP
+{101}{}{沙漠}			    // DESERT2.MAP
+{102}{}{沙漠}			    // DESERT3.MAP
+{103}{}{阿罗由} 			  // arcaves.MAP
+{104}{}{阿罗由} 			  // arvillag.MAP
+{105}{}{阿罗由} 			  // arbridge.MAP
+{106}{}{丹恩城} 			  // denbus1.MAP
+{107}{}{丹恩城} 			     // denbus2.MAP
+{108}{}{丹恩城} 			     // denres1.MAP
+{109}{}{克拉马斯城}			  // .MAP  ;Downtown
+{110}{}{克拉马斯城}			     // .MAP  ;Mall
+{111}{}{克拉马斯城}			     // .MAP  ;Rat Caves
+{112}{}{克拉马斯城}			     // .MAP  ;Toxic Caves
+{113}{}{克拉马斯城}			     // .MAP  ;Trapping Caves
+{114}{}{克拉马斯城}			     // .MAP  ;Grazing Area
+{115}{}{地下掩体市} 		      // vctyctyd.MAP
+{116}{}{地下掩体市} 		      // vctydwtn.MAP
+{117}{}{地下掩体市} 		      // vctycocl.MAP
+{118}{}{error:Map Name} 		       // .MAP
+{119}{}{城市遗迹}			     // CITY1.MAP
+{120}{}{海湾}				      // COAST1.MAP
+{121}{}{海湾}				     // COAST2.MAP
+{122}{}{沙漠}				     // COLATRUK.MAP
+{123}{}{沙漠}				     // FSAUSER.MAP
+{124}{}{error:Map Name} 			     // RAIDERS.MAP
+{125}{}{error:Map Name} 			 // SHADYE.MAP
+{126}{}{error:Map Name} 			 // SHADYW.MAP
+{127}{}{error:Map Name} 				// GLOWENT.MAP
+{128}{}{error:Map Name} 			    // LAADYTUM.MAP
+{129}{}{error:Map Name} 			    // LAFOLLWR.MAP
+{130}{}{error:Map Name} 		       // MBENT.MAP
+{131}{}{error:Map Name} 		       // MBSTRG12.MAP
+{132}{}{error:Map Name} 		       // MBVATS12.MAP
+{133}{}{error:Map Name} 		       // MSTRLR12.MAP
+{134}{}{error:Map Name} 		       // MSTRLR34.MAP
+{135}{}{error:Map Name} 			    // V13ENT.MAP
+{136}{}{error:Map Name} 				 // HUBENT.MAP
+{137}{}{哈伯}				      // DETHCLAW.MAP
+{138}{}{哈伯}				       // HUBDWNTN.MAP
+{139}{}{哈伯}				       // HUBHEIGT.MAP
+{140}{}{哈伯}				       // HUBOLDTN.MAP
+{141}{}{哈伯}				       // HUBWATER.MAP
+{142}{}{Glow}				      // GLOW1.MAP
+{143}{}{Glow}				      // GLOW2.MAP
+{144}{}{Boneyard}			      // LABLADES.MAP
+{145}{}{Boneyard}			      // LARIPPER.MAP
+{146}{}{Boneyard}			      // LAGUNRUN.MAP
+{147}{}{Cathedral}			      // CHILDEAD.MAP
+{148}{}{Military}			      // MBDEAD.MAP
+{149}{}{Mountains}			      // MOUNTN1.MAP
+{150}{}{Mountains}			      // MOUNTN2.MAP
+{151}{}{Desert} 			      // FOOT.MAP
+{152}{}{Desert} 			      // TARDIS.MAP
+{153}{}{Desert} 			      // TALKCOW.MAP
+{154}{}{Desert} 			      // USEDCAR.MAP
+{155}{}{Brotherhood}			      // BRODEAD.MAP
+{156}{}{Desert} 			      // DESCRVN1.MAP
+{157}{}{Desert} 			      // DESCRVN2.MAP
+{158}{}{Mountains}			      // MNTCRVN1.MAP
+{159}{}{Mountains}			      // MNTCRVN2.MAP
+{160}{}{Viper Camp}
+{161}{}{Desert}
+{162}{}{Mountains}
+{163}{}{Desert}
+{164}{}{Mountains}
+{165}{}{EPA}                                 // epax.MAP
+{166}{}{EPA}                                 // EPAMAIN.MAP
+{167}{}{EPA Warehouse}                       // epawrhse.MAP
+{168}{}{Merchant}                            // vilmerch.map
+{169}{}{Shi Submarine}                       // sfsub.map
+
+
+#
+# City elevation names -- AUTOMAP Names!
+#
+# Format: 3 (max elevations), by city
+#
+# 00: Desert, DESERT1.MAP
+{200}{}{沙漠}
+{201}{}{}
+{202}{}{}
+# 01: Desert, DESERT2.MAP
+{203}{}{沙漠}
+{204}{}{}
+{205}{}{}
+# 02: Desert, DESERT3.MAP
+{206}{}{沙漠}
+{207}{}{}
+{208}{}{}
+# 03: Arroyo Temple, ARCAVES.MAP
+{209}{}{神殿：大厅}
+{210}{}{神殿：走廊}
+{211}{}{神殿：内殿}
+# 04: Arroyo Village, .MAP
+{212}{}{村庄}
+{213}{}{}
+{214}{}{}
+# 05: Arroyo Bridge, .MAP
+{215}{}{桥}
+{216}{}{毁掉的桥}
+{217}{}{}
+# 06: Den, denbus1.MAP
+{218}{}{商业区}
+{219}{}{}
+{220}{}{}
+# 07: Den, denbus2.MAP
+{221}{}{商业区}
+{222}{}{}
+{223}{}{}
+# 08: Den, denres1.MAP
+{224}{}{住宅区}
+{225}{}{}
+{226}{}{}
+# 09: , .MAP ;Klamath Downtown
+{227}{}{市中心}
+{228}{}{市中心}
+{229}{}{市中心}
+# 10: , .MAP ;Klamath Mall
+{230}{}{商场}
+{231}{}{商场}
+{232}{}{}
+# 11: , .MAP ;Klamath Rat Caves
+{233}{}{鼠洞}
+{234}{}{鼠洞}
+{235}{}{鼠洞}
+# 12: , .MAP ;Klamath Toxic Caves
+{236}{}{毒沼洞}
+{237}{}{毒沼洞}
+{238}{}{毒沼洞}
+# 13: , .MAP ;Klamath Trapping Caves
+{239}{}{狩猎区}
+{240}{}{狩猎区}
+{241}{}{狩猎区}
+# 14: , .MAP ;Klamath Grazing Area
+{242}{}{牧畜区}
+{243}{}{牧畜区}
+{244}{}{}
+# 15: , .MAP ; Vault City Courtyard
+{245}{}{广场}
+{246}{}{}
+{247}{}{}
+# 16: , .MAP ; Vault City Downtown
+{248}{}{市中心}
+{249}{}{}
+{250}{}{}
+# 17: , .MAP ; Vault City Council
+{251}{}{市政区}
+{252}{}{}
+{253}{}{}
+# 18: , .MAP ; Modoc Main Street
+{254}{}{主街}
+{255}{}{}
+{256}{}{}
+# 19: , .MAP ; Modoc Bed & Breakfast
+{257}{}{旅店}
+{258}{}{}
+{259}{}{}
+# 20: , .MAP ; Modoc Brahmin Pastures
+{260}{}{牧场}
+{261}{}{}
+{262}{}{}
+# 21: , .MAP ; Modoc Farrel's Garden
+{263}{}{费尔的花园}
+{264}{}{}
+{265}{}{}
+# 22: , .MAP ; Modoc Down the Shitter
+{266}{}{山洞}
+{267}{}{}
+{268}{}{}
+# 23: , .MAP ; Modoc Town Hall
+{269}{}{镇喷水池}
+{270}{}{}
+{271}{}{}
+# 24: , .MAP ; Modoc Ghost Town: The Ghost Farm
+{272}{}{农场}
+{273}{}{}
+{274}{}{}
+# 25: , .MAP ; Modoc Ghost Town: Main Cavern
+{275}{}{洞穴}
+{276}{}{}
+{277}{}{}
+# 26: , .MAP ; Modoc Ghost Town: Underground Lake
+{278}{}{地下湖}
+{279}{}{}
+{280}{}{}
+# 27: , .MAP ; Sierra Army Depot: The Battlefield
+{281}{}{战场}
+{282}{}{}
+{283}{}{}
+# 28: , .MAP ; Sierra Army Depot: Levels 1-3
+{284}{}{人事区}
+{285}{}{除存区}
+{286}{}{机器实验室}
+# 29: , .MAP ; Sierra Army Depot: Level 4
+{287}{}{生化研究区}
+{288}{}{}
+{289}{}{}
+# 30: Vault City Vault, .MAP
+{290}{}{避难所第一区}
+{291}{}{避难所第二区}
+{292}{}{避难所第三区}
+# 31: Gecko Settlement
+{293}{}{居住区}
+{294}{}{居住区}
+{295}{}{居住区}
+# 32: Gecko Power Plant, .MAP
+{296}{}{发电厂}
+{297}{}{发电厂}
+{298}{}{}
+# 33: Gecko Junkyard, .MAP
+{299}{}{废物场}
+{300}{}{废物场}
+{301}{}{废物场}
+# 34: Gecko Access Tunnels, .MAP
+{302}{}{通道}
+{303}{}{通道}
+{304}{}{通道}
+# 35: Arroyo Wilderness, .MAP
+{305}{}{野外}
+{306}{}{}
+{307}{}{}
+# 36: Vault 15, .MAP
+{308}{}{１５号避难所第一区}
+{309}{}{１５号避难所第二区}
+{310}{}{１５号避难所第三区}
+# 37: Vault 15, .MAP
+{311}{}{流浪汉}
+{312}{}{}
+{313}{}{}
+# 38: Vault 15, .MAP
+{314}{}{流浪汉}
+{315}{}{}
+{316}{}{}
+# 39: Vault 15, .MAP
+{317}{}{东边入口}
+{318}{}{}
+{319}{}{}
+# 40: Vault 13, .MAP
+{320}{}{第一区}
+{321}{}{第二区}
+{322}{}{第三区}
+# 41: Vault 13, .MAP
+{323}{}{洞穴}
+{324}{}{}
+{325}{}{}
+# 42: NCR, .MAP
+{326}{}{市中心}
+{327}{}{}
+{328}{}{}
+# 43: NCR, .MAP
+{329}{}{市政厅}
+{330}{}{}
+{331}{}{}
+# 44: NCR, .MAP
+{332}{}{卫斯丁牧场}
+{333}{}{}
+{334}{}{}
+# 45: NCR, .MAP
+{335}{}{牧畜地带}
+{336}{}{}
+{337}{}{}
+# 46: NCR, .MAP
+{338}{}{市场}
+{339}{}{}
+{340}{}{}
+# 47: NCR, .MAP
+{341}{}{市政厅}
+{342}{}{}
+{343}{}{}
+# 48: Klamath, klacanyn.MAP
+{344}{}{溪谷}
+{345}{}{溪谷}
+{346}{}{溪谷}
+# 49: Military Base, mbase12.MAP
+{347}{}{第一区}
+{348}{}{第二区}
+{349}{}{}
+# 50: Military Base, mbase34.MAP
+{350}{}{第三区}
+{351}{}{第四区}
+{352}{}{}
+# 51: Military Base, mbclose.MAP
+{353}{}{入口}
+{354}{}{}
+{355}{}{}
+# 52: Den Slave Run dnslvrun.MAP
+{356}{}{沙漠}
+{357}{}{村庄}
+{358}{}{营地}
+# 53: Car Desert out-of-gas, CarDesrt.MAP
+{359}{}{沙漠}
+{360}{}{}
+{361}{}{}
+# 54: New Reno 1 newr1.MAP
+{362}{}{处女街}
+{363}{}{凶徒赌场地下室}
+{364}{}{凶徒赌场二楼}
+# 55: New Reno 2 newr2.MAP
+{365}{}{第二街}
+{366}{}{暗楼}
+{367}{}{鲨鱼俱乐部三楼}
+# 56: New Reno 3 newr3.MAP
+{368}{}{商业区}
+{369}{}{军火店地下室}
+{370}{}{}
+# 57: New Reno 4 newr4.MAP
+{371}{}{东边}
+{372}{}{火车站}
+{373}{}{}
+# 58: New Reno Chop Shop newrcs.MAP
+{374}{}{店}
+{375}{}{}
+{376}{}{}
+# 59: New Reno GO newrgo.MAP
+{377}{}{墓场}
+{378}{}{避难所}
+{379}{}{}
+# 60: New Reno ST newrst.MAP
+{380}{}{}
+{381}{}{实验室}
+{382}{}{}
+# 61: New Reno Boxing Arena newrba.MAP
+{383}{}{拳击场}
+{384}{}{拳击场}
+{385}{}{拳击场}
+# 62: Redding Wanamingo Mine Entrance  RedWame.Map
+{386}{}{矿坑入口}
+{387}{}{矿坑入口}
+{388}{}{矿坑入口}
+# 63: Great Wanamingo Mine, Level 1 and 2  RedWan1.MAP
+{389}{}{矿坑第一区}
+{390}{}{矿坑第二区}
+{391}{}{}
+# 64: Redding Downtown	RedDown.MAP
+{392}{}{市中心}
+{393}{}{市中心}
+{394}{}{市中心}
+# 65: Redding Mine Entrance   RedMEnt.MAP
+{395}{}{矿坑入口}
+{396}{}{矿坑入口}
+{397}{}{矿坑入口}
+# 66: Redding Downtown Tunnels	RedDTun.MAP
+{398}{}{隧道}
+{399}{}{隧道}
+{400}{}{隧道}
+# 67: Redding Mine Entrance Tunnels
+{401}{}{隧道}
+{402}{}{隧道}
+{403}{}{隧道}
+# 68: Random Encounter City 1
+{404}{}{城市}
+{405}{}{城市}
+{406}{}{城市}
+# 69: Random Encounter Cavern 0
+{407}{}{山区}
+{408}{}{山区}
+{409}{}{山区}
+# 70: Random Encounter Cavern 1
+{410}{}{山洞}
+{411}{}{山洞}
+{412}{}{山洞}
+# 71: Random Encounter Cavern 2
+{413}{}{山洞}
+{414}{}{山洞}
+{415}{}{山洞}
+# 72: Random Encounter Cavern 3
+{416}{}{山洞}
+{417}{}{山洞}
+{418}{}{山洞}
+# 73: Random Encounter Cavern 4
+{419}{}{山洞}
+{420}{}{山洞}
+{421}{}{山洞}
+# 74: Random Encounter Mountain 1
+{422}{}{山区}
+{423}{}{山区}
+{424}{}{山区}
+# 75: Random ncounter Mountain 2
+{425}{}{山区}
+{426}{}{山区}
+{427}{}{山区}
+# 76: Random Encounter Coast 1
+{428}{}{海湾}
+{429}{}{海湾}
+{430}{}{海湾}
+# 77: Random Encounter Coast 2
+{431}{}{海湾}
+{432}{}{海湾}
+{433}{}{海湾}
+# 78: Broken Hills 1  broken1.map
+{434}{}{市中心}
+{435}{}{地下室}
+{436}{}{Unused}
+# 79: Broken Hills 2 broken2.map
+{437}{}{住宅区}
+{438}{}{地下}
+{439}{}{矿坑}
+# 80: Random Encounter Cavern 5
+{440}{}{山洞}
+{441}{}{山洞}
+{442}{}{山洞}
+# 81: Random Encounter Desert 4
+{443}{}{沙漠}
+{444}{}{沙漠}
+{445}{}{沙漠}
+# 82. Random Encounter Desert 5
+{446}{}{沙漠}
+{447}{}{沙漠}
+{448}{}{沙漠}
+# 83. Random Encounter Desert 6
+{449}{}{沙漠}
+{450}{}{沙漠}
+{451}{}{沙漠}
+# 84. Random Encounter Desert 7
+{452}{}{沙漠}
+{453}{}{沙漠}
+{454}{}{沙漠}
+# 85. Random Encounter Coast 3
+{455}{}{海湾}
+{456}{}{海湾}
+{457}{}{海湾}
+# 86. Random Eer Coast 4
+{458}{}{海湾}
+{459}{}{海湾}
+{460}{}{海湾}
+# 87. Random Eer Coast 5
+{461}{}{海湾}
+{462}{}{海湾}
+{463}{}{海湾}
+# 88. Random Eer Coast 6
+{464}{}{海湾}
+{465}{}{海湾}
+{466}{}{海湾}
+# 89. Random Eer Coast 7
+{467}{}{海湾}
+{468}{}{海湾}
+{469}{}{海湾}
+# 90. Random Eer Coast 8
+{470}{}{海湾}
+{471}{}{海湾}
+{472}{}{海湾}
+# 91. Random Encounter Coast 9
+{473}{}{海湾}
+{474}{}{海湾}
+{475}{}{海湾}
+# 92. Raiders Camp 1
+{476}{}{歹徒基地}
+{477}{}{歹徒基地}
+{478}{}{歹徒基地}
+# 93. Raider Camp 2
+{479}{}{山洞入口}
+{480}{}{毒蝎巢穴}
+{481}{}{兵营}
+# 94. Broken Hills Random Encounter Desert
+{482}{}{沙漠}
+{483}{}{沙漠}
+{484}{}{沙漠}
+# 95. Broken om Encounter Mountain
+{485}{}{山区}
+{486}{}{山区}
+{487}{}{山区}
+# 96. Special: Whale
+{488}{}{沙漠}
+{489}{}{沙漠}
+{490}{}{沙漠}
+# 97. Special: Tin Woodsman
+{491}{}{沙漠}
+{492}{}{沙漠}
+{493}{}{沙漠}
+# 98. Special: Talking Head
+{494}{}{沙漠}
+{495}{}{沙漠}
+{496}{}{沙漠}
+# 99. Special: Federation Shuttle
+{497}{}{沙漠}
+{498}{}{沙漠}
+{499}{}{沙漠}
+# 100. Speciar: Unwashed Villagers
+{500}{}{沙漠}
+{501}{}{沙漠}
+{502}{}{沙漠}
+# 101. Special Encounter: Bridge
+{503}{}{死亡之桥}
+{504}{}{死亡之桥}
+{505}{}{死亡之桥}
+# 102. Special Encounter: Cafe of Broken Dreams
+{506}{}{碎梦咖啡}
+{507}{}{碎梦咖啡}
+{508}{}{碎梦咖啡}
+# 103. Special Encounter: Holy Hand Grenade 1
+{509}{}{沙漠}
+{510}{}{沙漠}
+{511}{}{沙漠}
+# 104. Special Encounter: Holy Hand Grenade 2
+{512}{}{山区}
+{513}{}{山洞}
+{514}{}{山洞}
+# 105. Special Encounter: Guardian of Forever
+{515}{}{守护神}
+{516}{}{１３号避难所}
+{517}{}{１３号避难所}
+# 106. Special Encounter: Toxic Waste Dump
+{518}{}{毒废料倾倒区}
+{519}{}{毒废料倾倒区}
+{520}{}{毒废料倾倒区}
+# 107. Special Encounter: Pahiahs
+{521}{}{沙漠}
+{522}{}{沙漠}
+{523}{}{沙漠}
+# 108. Specialer: Mad Brahmin
+{524}{}{沙漠}
+{525}{}{沙漠}
+{526}{}{沙漠}
+# 109. Navarro Entrance
+{527}{}{加油站}
+{528}{}{地下}
+{529}{}{飞鸟基地}
+# 110. Coast Encounter 10
+{530}{}{海岸线}
+{531}{}{海岸线}
+{532}{}{海岸线}
+# 111. Coast En
+{533}{}{海岸线}
+{534}{}{海岸线}
+{535}{}{海岸线}
+# 112. Coast En
+{536}{}{海岸线}
+{537}{}{海岸线}
+{538}{}{海岸线}
+# 113. Desert Encounter 8
+{539}{}{沙漠}
+{540}{}{沙漠}
+{541}{}{沙漠}
+# 114. Desert Er 9
+{542}{}{沙漠}
+{543}{}{沙漠}
+{544}{}{沙漠}
+# 115. Desert Er 10
+{545}{}{沙漠}
+{546}{}{沙漠}
+{547}{}{沙漠}
+# 116. Desert Er 11
+{548}{}{沙漠}
+{549}{}{沙漠}
+{550}{}{沙漠}
+# 117. Desert Er 12
+{551}{}{沙漠}
+{552}{}{沙漠}
+{553}{}{沙漠}
+# 118. Cavern Encounter 5
+{554}{}{山洞}
+{555}{}{山洞}
+{556}{}{山洞}
+# 119. Cavern er 6
+{557}{}{山洞}
+{558}{}{山洞}
+{559}{}{山洞}
+# 120. Cavern er 7
+{560}{}{山洞}
+{561}{}{山洞}
+{562}{}{山洞}
+# 121. Mountain Encounter 3
+{563}{}{山区}
+{564}{}{山区}
+{565}{}{山区}
+# 122. Mountaier 4
+{566}{}{山区}
+{567}{}{山区}
+{568}{}{山区}
+# 123. Mountaier 5
+{569}{}{山区}
+{570}{}{山区}
+{571}{}{山区}
+# 124. Mountaier 6
+{572}{}{山区}
+{573}{}{山区}
+{574}{}{山区}
+# 125. City Encounter
+{575}{}{遗弃的城市}
+{576}{}{城市荒野}
+{577}{}{城市荒野}
+# 126. Arroyo Temple
+{578}{}{神殿入口}
+{579}{}{神殿入口}
+{580}{}{神殿入口}
+# 127. Destroyed Arroyo
+{581}{}{被摧毁的桥}
+{582}{}{被摧毁的桥}
+{583}{}{被摧毁的桥}
+# [Map 128] lookup_name=Enclave Detention
+{584}{}{牢房}
+{585}{}{牢房}
+{586}{}{牢房}
+# [Map 129] lookup_name=Enclave Dock
+{587}{}{码头}
+{588}{}{码头}
+{589}{}{码头}
+# [Map 130] lookup_name=Enclave End Fight
+{590}{}{英克雷}
+{591}{}{英克雷}
+{592}{}{英克雷}
+# [Map 131] lookup_name=Enclave Guard Barracks
+{593}{}{军营}
+{594}{}{军营}
+{595}{}{军营}
+# [Map 132] lookup_name=Enclave Presidential
+{596}{}{监督者}
+{597}{}{监督者}
+{598}{}{监督者}
+# [Map 133] lookup_name=Enclave Reactor
+{599}{}{反应炉}
+{600}{}{反应炉}
+{601}{}{反应炉}
+# [Map 134] lookup_name=Enclave Trap Room
+{602}{}{通道}
+{603}{}{通道}
+{604}{}{通道}
+# [Map 135] lookup_name=San Fran Tanker
+{605}{}{油轮}
+{606}{}{油轮}
+{607}{}{油轮}
+# [Map 136] lookup_name=San Fran Dock
+{608}{}{码头}
+{609}{}{码头}
+{610}{}{码头}
+# [Map 137] lookup_name=San Fran China
+{611}{}{中国城}
+{612}{}{中国城}
+{613}{}{中国城}
+# 138. Shuttle Exterior
+{614}{}{航天飞机停留区}
+{615}{}{航天飞机停留区}
+{616}{}{航天飞机停留区}
+# 139. Shuttle Interior
+{617}{}{航天飞机内部}
+{618}{}{航天飞机内部}
+{619}{}{航天飞机内部}
+# 140. Hubologist Base
+{620}{}{哈伯教基地}
+{621}{}{哈伯教基地}
+{622}{}{哈伯教基地}
+# 141. City Encounter 3
+{623}{}{摧毁的城市}
+{624}{}{摧毁的城市}
+{625}{}{摧毁的城市}
+# 142. City Encount
+{626}{}{摧毁的城市}
+{627}{}{摧毁的城市}
+{628}{}{摧毁的城市}
+# 143. City Encount
+{629}{}{摧毁的城市}
+{630}{}{摧毁的城市}
+{631}{}{摧毁的城市}
+# 144. City Encount
+{632}{}{摧毁的城市}
+{633}{}{摧毁的城市}
+{634}{}{摧毁的城市}
+# 145. City Encount
+{635}{}{摧毁的城市}
+{636}{}{摧毁的城市}
+{637}{}{摧毁的城市}
+# 146. City Encount
+{638}{}{摧毁的城市}
+{639}{}{摧毁的城市}
+{640}{}{摧毁的城市}
+# 147. New Reno VB  newrvb.MAP
+{641}{}{飞鸟区}
+{642}{}{飞鸟区}
+{643}{}{飞鸟区}
+# 148. Shi Temple
+{644}{}{始族神庙}
+{645}{}{始族神庙}
+{646}{}{始族神庙}
+# 149. In Game Movie
+{647}{}{沙漠}
+{648}{}{沙漠}
+{649}{}{沙漠}
+# 150. RndBess
+{650}{}{沙漠}
+{651}{}{沙漠}
+{652}{}{沙漠}
+# 151. Abbey Entrance
+{653}{}{Entrance}
+{654}{}{Second Floor}
+{655}{}{Third Floor}
+# 152. Abbey Basement
+{656}{}{Basement}
+{657}{}{enter name}
+{658}{}{enter name}
+# 153. Abbey Cave
+{659}{}{Cave}
+{660}{}{enter name}
+{661}{}{enter name}
+# 154. Village
+{662}{}{Village}
+{663}{}{Village}
+{664}{}{Village}
+# 155. Village
+{665}{}{Woodland}
+{666}{}{Tribe}
+{667}{}{Tribe}
+# 156. Village Waterside
+{668}{}{Fishing Area}
+{669}{}{Small Cave}
+{670}{}{enter name}
+# 157. EPA, epax.map
+{671}{}{Entrance}
+{672}{}{Air, Water, and Power Facility Level}
+{673}{}{Robot Maintenance}
+# 158. EPA Sub-levels, EPAMAIN.map
+{674}{}{Level One}
+{675}{}{Level Two}
+{676}{}{Level Three}
+# 159. Warehouse, epawrhse.map
+{677}{}{Secret Level}
+{678}{}{enter name}
+{679}{}{enter name}
+# 160. Slaver Camp
+{680}{}{Main Camp}
+{681}{}{enter name}
+{682}{}{enter name}
+# 161. Gecko Enclave Patrol
+{683}{}{Desert}
+{684}{}{Desert}
+{685}{}{Desert}
+# 162. Hubologist Stash
+{686}{}{Entrance}
+{687}{}{Level One}
+{688}{}{Level Two}
+# 163. Ranger Safe House 1
+{689}{}{Ranger Safe House}
+{690}{}{Ranger Safe House}
+{691}{}{Ranger Safe House}
+# 164. Ranger Safe House 1
+{692}{}{Ranger Safe House}
+{693}{}{Ranger Safe House}
+{694}{}{Ranger Safe House}
+# 165. Ranger Safe House 1
+{695}{}{Ranger Safe House}
+{696}{}{Ranger Safe House}
+{697}{}{Ranger Safe House}
+# 166. Easter Egg Encounter
+{698}{}{Desert}
+{699}{}{Desert}
+{700}{}{Desert}
+# 167. Merchant
+{701}{}{Desert}
+{702}{}{Desert}
+{703}{}{Desert}
+# 168. Vault Village Merchant
+{704}{}{Desert}
+{705}{}{Desert}
+{706}{}{Desert}
+# 169. Shi Submarine
+{707}{}{Sub Surface}
+{708}{}{Sub Interior Level 1}
+{709}{}{}
+# 170. EPA Sub-levels, EPAMAIN1.map
+{710}{}{Level One}
+{711}{}{Level Two}
+{712}{}{Level Three}
+# 171. EPA Sub-levels, EPAMAIN2.map
+{713}{}{Level One}
+{714}{}{Level Two}
+{715}{}{Level Three}
+# 172. Dr. Sheng Hideout sfsheng
+{716}{}{Abandoned House}
+{717}{}{Cavern}
+{718}{}{}
+
+
+#
+#	Short City names
+#
+{1500}{}{阿罗由}
+{1501}{}{丹恩城}
+{1502}{}{克拉马斯}
+{1503}{}{摩多克城}
+{1504}{}{地下掩体市}
+{1505}{}{蜥蝪城}
+{1506}{}{破碎丘}
+{1507}{}{新里诺}
+{1508}{}{山岭军事基地}
+{1509}{}{第１５号避难所}
+{1510}{}{新加州共和国}
+{1511}{}{第１３号避难所}
+{1512}{}{军事基地}
+{1513}{}{瑞丁城}
+{1514}{}{三番市}
+{1515}{}{那瓦罗}
+{1516}{}{英克雷}
+{1517}{}{沙漠}		 # Abbey
+{1518}{}{沙漠}		 # Primitive Tribe
+{1519}{}{沙漠}		 # EPA
+{1520}{}{鬼农场}
+{1521}{}{没能源的车}
+{1522}{}{阿罗由}
+{1523}{}{毒沼洞}
+{1524}{}{丹恩城奴隶区}
+{1525}{}{歹徒}
+{1526}{}{沙漠}
+{1527}{}{山区}
+{1528}{}{城市荒野}
+{1529}{}{海湾}
+{1530}{}{葛洛沙}
+{1531}{}{鲸鱼}
+{1532}{}{山林里的人}
+{1533}{}{说话的头}
+{1534}{}{联邦宇宙飞船}
+{1535}{}{村人}
+{1536}{}{桥}
+{1537}{}{碎梦咖啡}
+{1538}{}{派拉丁}
+{1539}{}{鼠洞}
+{1540}{}{永恒守护神}
+{1541}{}{毒废料倾倒区}
+{1542}{}{派拉斯}
+{1543}{}{疯牛}
+{1544}{}{山洞}
+{1545}{}{第１３号避难所}
+{1546}{}{假的第１３号避难所}
+{1547}{}{奇特遭遇}
+{1548}{}{马厩}
+{1549}{}{Village}
+{1550}{}{Slaver Camp}
+{1551}{}{Hubologist Stash}
+{1552}{}{Safe House}
+{1553}{}{Safe House}
+{1554}{}{Safe House}
+{1555}{}{RP Easter Egg Encounter}
+{1556}{}{Merchant}
+{1557}{}{Merchant}
+{1558}{}{Shi Submarine}
+{1559}{}{Abandoned House}
+{1560}{}{Gecko Enclave Patrol}
