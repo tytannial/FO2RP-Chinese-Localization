@@ -1,5 +1,4 @@
-# FO2RP-Chinese-Loacalzation
-Fallout 2 Restoration Project 2.3.3 Chinese Loacalzation  
+# Fallout 2 Restoration Project 2.3.3 Chinese Localization
 辐射2RP 2.3.3 MOD 简体中文汉化工程  
   
 由于BN13的辐射2的RP2.2汉化工程弃坑太久 又没有放出任何资源 所以只好自己开了个项目开始了这个漫长的远征  

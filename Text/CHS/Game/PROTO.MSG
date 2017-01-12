@@ -246,7 +246,7 @@
 #
 # Not Enough AP message
 #
-{700}{}{你没有足够的动作点数。}
+{700}{}{你没有足够的行动点数。}
 #
 # Book messages
 #
