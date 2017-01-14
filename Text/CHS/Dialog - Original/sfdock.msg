@@ -1,0 +1,2 @@
+# {100}{}{You enter the dockside area of San Francisco. You see a large oil tanker floating in the water ahead. The sound of seagulls can be heard in the sky above.}
+{100}{}{你进入三番市的码头区域。你看到一个大型油轮漂浮在水中前进。这声音是飞翔在天空上海鸥叫声。}

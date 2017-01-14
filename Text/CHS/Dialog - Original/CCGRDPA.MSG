@@ -1,0 +1,68 @@
+{100}{}{你看到一个卫兵。}
+{101}{}{你看到一个穿着动力装甲的卫兵。}
+{102}{}{你看到一个穿着你没看过的动力装甲的人。在装甲的上面有着你没有看过的标志。}
+
+{103}{}{没什么好报告的。}
+{104}{}{我没什么事。你呢？}
+{105}{}{你不是应该在你岗位上吗？不要随便的乱跑。}
+
+{106}{}{你没有穿制服。}
+{107}{}{你最好去找上士，叫他给你制服穿。}
+{108}{}{不穿制服是违规的，你最好去补给拿一套新的制服。}
+
+{109}{}{你们是谁．．警报！有入侵者！}
+{110}{}{我们被侵入了！警报！}
+{111}{}{有许多个入侵者！响警钟！}
+
+{112}{}{安全警报！将基地封起来！}
+{113}{}{所有岗哨！我们进入了警报状态}
+{114}{}{入侵者警报！到红色警戒！}
+
+{115}{}{我们会将你们杀死的！}
+{116}{}{英克雷军会统治世界的！}
+{117}{}{你会死的！}
+
+{200}{}{．．混帐．．}
+{201}{}{．．是啊，你们最好快逃．．}
+{202}{}{．．你这王八．．}
+{203}{}{．．是的！干！．．}
+
+
+#ipisgfx译
+#{300}{}{Hold on there. What do you think you are doing with that aircraft? There are no scheduled flights for several days.}
+{300}{}{站那别动。你在想用那飞机干什么？这几天没有飞行任务。}
+{301}{}{#￥%？}
+#{302}{}{I am aware of this.}
+{302}{}{我知道这个。}
+{303}{}{报歉，我只是看看。我现在就走。}
+#{304}{}{There's been a change of plans. I'm taking this aircraft.}
+{304}{}{计划有变。我正在占这架领飞机。}
+
+#{310}{}{What? Oh, I see. Look, don't touch. Okay? Touch again and you die.}
+{310}{}{什么？好吧，我明白了。别碰它，知道吗？再碰一下你就死定了。}
+{311}{}{(笑了笑开始攻击)}
+{312}{}{(离开)}
+
+#{315}{}{Oh shit, looks like we got ourselves an intruder. Code Red! I repeat code Red!}
+{315}{}{混蛋，看起来我们有入侵略者了。红色警戒！重复红色警戒！}
+#{316}{}{That sounds like a good idea. Touch the aircraft again and I'll put a bullet in your head.}
+{316}{}{听起来是个好主意。再碰一下这飞机我就把子弹打进你的木瓜脑袋里。}
+
+#{320}{}{Right. And therefore you are...}
+{320}{}{对的，你会的....}
+{321}{}{对不起打扰你。}
+#{322}{}{About to deliver an important message to the President of the United States.}
+{322}{}{有一个重要信息要交给美国总统。}
+#{323}{}{Oh, really? And what does this message say.}
+{323}{}{噢，是吗？是个什么信息？}
+#{324}{}{It's super top secret. I cannot tell you.}
+{324}{}{这是顶级机密。我不能告诉你。}
+#{325}{}{It's a matter of national security. It has come to our attention that one of the recent shipments of slaves is infected with a unknown virus strain. If I do not get this information to the main base immediatly lives will be lost!}
+{325}{}{是有关国家安全的。是说近来我们装船的奴隶感染了某种未知病毒。如果我不把这信息送去总部大家都得死翘翘！}
+#{326}{}{Yeah, I believe you. Looks like we got ourselves an intruder...}
+{326}{}{是的，我相信你才怪。看起来我们有入侵略者了。}
+#{327}{}{Damnit! Ah, whatever. I never get told shit around here. Fine. Be on your way.}
+{327}{}{他妈的！我从没听过这么胡扯。很好。}
+#{328}{}{Woah, that is important. Well, get moving then. I don't want to be responsible for anything.}
+{328}{}{哇哈，真是很重要。很好，快走吧。我可不想背上什么责任。}
+{329}{}{[完成]}

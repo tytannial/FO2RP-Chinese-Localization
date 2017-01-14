@@ -1,0 +1,31 @@
+#############################################################
+#  Message File: ACSporPL.msg				    #
+#							    #
+#	Body Type:  Spore Plant(Plant with Dark Soul)	    #
+#	Combat AI: ?					    #
+#	Weapons: ?					    #
+#	HP: ?						    #
+#	Skills to note: None				    #
+#							    #
+#  Log: 						    #
+#							    #
+#  Created: December 01, 1997				    #
+#							    #
+#  Updated:						    #
+#############################################################
+
+#############################################################
+#  The following lines are for describing the NPC when	    #
+#  glanced and and examined.				    #
+#############################################################
+{100}{}{你看到一株黑暗植物。}
+{101}{}{这些植物不只单是对花园有害而已，他们也有着攻击人类的能力。}
+{102}{}{这些植物是变种的结果。}
+{103}{}{这些植物除了会攻击人类之外，没有什么特别的了。}
+
+#############################################################
+#  The following lines are for the dialog which the NPC     #
+#  says. This will be disorganized because of the Design    #
+#  Tool.						    #
+#############################################################
+{150}{}{你得要将花园中所有的黑暗植物都给除掉。}
