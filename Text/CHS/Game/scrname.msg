@@ -166,9 +166,9 @@
 {248}{}{地图}                     # DepoLvB.int     ; Map script for Sierra. Underground B
 {249}{}{安全机器人}                 # WCSecBot.int    ; Sierra Base, Security Robot (generic)
 {250}{}{维修机器人}                   # WCRepBot.int    ; Sierra Base, Repair Robot (generic)
-{251}{}{实体显像磁片}                       # WIEvcDsk.int    ; Sierra Base, Evacuation Holodisk
-{252}{}{实体显像磁片}                       # WIMedDsk.int    ; Sierra Base, Medical Log 1 Holodisk
-{253}{}{实体显像磁片}                       # WIExpDsk.int    ; Sierra Base, Experiment Log Holodisk
+{251}{}{全息卡带}                       # WIEvcDsk.int    ; Sierra Base, Evacuation Holodisk
+{252}{}{全息卡带}                       # WIMedDsk.int    ; Sierra Base, Medical Log 1 Holodisk
+{253}{}{全息卡带}                       # WIExpDsk.int    ; Sierra Base, Experiment Log Holodisk
 {254}{}{控制器}                       # WSTerm1A.int    ; Security Computer, Level 1 -- Sierra Base
 {255}{}{控制器}                       # WSTerm1B.int    ; Security Systems, Level 1 -- Sierra Base
 {256}{}{控制器}                       # WSTerm2A.int    ; Security Computer, Level 2 -- Sierra Base
@@ -349,7 +349,7 @@
 {431}{}{家具}                      # stuff.int       ; signals critters on steal attempt
 {432}{}{地板}                          # trespass.int    ; same as stuff only for an area
 {433}{}{格朗特}                         # ATDeath.int     ; Spatial telling the player about Nagor dead
-{434}{}{实体显像磁片}                       # SIFakhlo.int    ; Fake holodisk you get from Merk in NCR.
+{434}{}{全息卡带}                       # SIFakhlo.int    ; Fake holodisk you get from Merk in NCR.
 {435}{}{廉尼}                          # SCLenny.int     ; Lenny a guy in NCR Entrance
 {436}{}{箱子}                            # SCPtbox.int     ; Players temp box to hold his stuff for the fight with lenny
 {437}{}{妓女}                     # ncProsti.int    ; New Reno Prostitute with billions of messages
@@ -376,11 +376,11 @@
 {458}{}{新里诺肉店}             # NewRCS.int      ; New Reno Map Chop Shop
 {459}{}{新里诺葛洛沙}              # NewRGo.int      ; New Reno Map Gologtha
 {460}{}{新里诺彼希的地下室}       # NewRBa.int      ; New Reno Map Bishop Basement
-{461}{}{实体显像磁片}                       # EIOutDsk.int    ; Military Base Holodisk (Outside)
-{462}{}{实体显像磁片}                       # EILv1Dsk.int    ; Military Base Holodisk (Level 1)
-{463}{}{实体显像磁片}                       # EILv2Dsk.int    ; Military Base Holodisk (Level 2)
-{464}{}{实体显像磁片}                       # EILv3Dsk.int    ; Military Base Holodisk (Level 3)
-{465}{}{实体显像磁片}                       # EILv4Dsk.int    ; Military Base Holodisk (Level 4)
+{461}{}{全息卡带}                       # EIOutDsk.int    ; Military Base Holodisk (Outside)
+{462}{}{全息卡带}                       # EILv1Dsk.int    ; Military Base Holodisk (Level 1)
+{463}{}{全息卡带}                       # EILv2Dsk.int    ; Military Base Holodisk (Level 2)
+{464}{}{全息卡带}                       # EILv3Dsk.int    ; Military Base Holodisk (Level 3)
+{465}{}{全息卡带}                       # EILv4Dsk.int    ; Military Base Holodisk (Level 4)
 {466}{}{士兵}                          # SCGteGrd.int    ; Ncr gate guard
 {467}{}{矿车}                      # ESMinCrt.int    ; Military Base Mine Cart to explode on door
 {468}{}{麦尔开}                       # ECMelchr.int    ; Melchoir the Magnificent (pseudo-mage)
@@ -1106,9 +1106,9 @@
 {1188}{}{拳击手}                         # ncPrzFtr.int    ; New Reno Prize Fighter
 {1189}{}{门}                          # VIVltDr2.int    ; Vault Doors in Vault 8
 {1190}{}{骗子}               # ncCheat.int     ; New Reno Cheat Character
-{1191}{}{实体显像磁片}                      # WIGNNDsk.int    ; Sierra Base GNN Transscript
-{1192}{}{实体显像磁片}                      # WIMisDsk.int    ; Sierra Base Mission Statement Disk
-{1193}{}{实体显像磁片}                      # FIElrDsk.int    ; Hubologist Holodisk
+{1191}{}{全息卡带}                      # WIGNNDsk.int    ; Sierra Base GNN Transscript
+{1192}{}{全息卡带}                      # WIMisDsk.int    ; Sierra Base Mission Statement Disk
+{1193}{}{全息卡带}                      # FIElrDsk.int    ; Hubologist Holodisk
 {1194}{}{纸条}                          # HINote.int      ; Script for Francis/Zaius Note
 {1195}{}{狗肉}                       # ECDogMet.int    ; Dog Meat from Special random encounter
 {1196}{}{猫爪杂志第5期}         # niCatPw5.int    ; New Reno Cat's Paw magazine 5
