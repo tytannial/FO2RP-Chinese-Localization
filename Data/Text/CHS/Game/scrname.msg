@@ -129,7 +129,7 @@
 {211}{}{哈利}                          # VCHarry.int     ; Happy Harry the store keep in Vault City
 {212}{}{史密斯太太}                     # VCFSmith.int    ; Mrs. Smith from Vault City (Farmer)
 {213}{}{麦琳达}                        # VCMelind.int    ; Town Greeter Melinda, Vault City
-{214}{}{蜥蝪猎人}                        # KCTrapr.int     ; Generic trapper in Klamath
+{214}{}{蜥蜴猎人}                        # KCTrapr.int     ; Generic trapper in Klamath
 {215}{}{史密斯先生}                      # VCMSmith.int    ; Mr. Smith from Vault City (Farmer)
 {216}{}{史其夫}                         # VCSkeeve.int    ; Skeeve, sells fake passes to Vault City
 {217}{}{葛列格理地方官}              # VCGreg.int      ; Proconsul Gregory of Vault City
@@ -215,7 +215,7 @@
 {297}{}{摩多克水井}                       # ModWell.int     ; Modoc Well
 {298}{}{新加州共和国第二区}                     # ncr2.int        ; NCR area 2
 {299}{}{阿罗由花园}                 # ArGarden.int    ; Arroyo Gardens map script
-{300}{}{蜥蝪人}                          # ACGecko.int     ; generic Gecko creature
+{300}{}{蜥蜴}                          # ACGecko.int     ; generic Gecko creature
 {301}{}{布拉克花}                    # AIBroc.int      ; Arroyo Broc Flower
 {302}{}{山德根}                    # AIXander.int    ; Arroyo Xander Root
 {303}{}{双头牛}                        # ZCBrahmn.int    ; Generic Brahmin
@@ -317,7 +317,7 @@
 {399}{}{沃尔斯}                         # SCVortis.int    ; Script for Vortis slave pen dude in NCR entrance
 {400}{}{澡堂服务生}                 # Kcbgirl.int     ; Script for Klamath bath girl
 {401}{}{奴隶}                         # SCSlaves.int    ; Script for NCR Entrance slaves
-{402}{}{毒蝎子}                       # Kcscorp.int     ; Script for Klamath scorpions on the graze map
+{402}{}{辐射蝎}                       # Kcscorp.int     ; Script for Klamath scorpions on the graze map
 {403}{}{双头牛}                        # Kcbrahmn.int    ; Script for Klamath brahmin on the graze map
 {404}{}{车}                            # ZSDrvCar.int    ; Drivable Car for the player
 {405}{}{桌子}                          # diVicTbl.int    ; Den, table that Vic works at
@@ -524,7 +524,7 @@
 {606}{}{超级变种人}                   # ECRogMut.int    ; Random Encounter Rogue Super Mutants
 {607}{}{渔夫}                      # ECFshrmn.int    ; Random Encounter Fisherman
 {608}{}{奴隶商人}                         # ECSlaver.int    ; Random Encounter Slaver
-{609}{}{蜥蝪猎人}                        # ECTrappr.int    ; Random Encounter Trapper
+{609}{}{蜥蜴猎人}                        # ECTrappr.int    ; Random Encounter Trapper
 {610}{}{卡洛森的小孩}                  # SCCarkid.int    ; Carlson's kid NCR map 2
 {611}{}{卡洛森}                        # SCCarlsn.int    ; Carlson NCR 2
 {612}{}{}                               # Animfrv.int     ; Animate forever
@@ -631,7 +631,7 @@
 {713}{}{查德}                           # hcchad.int      ; Chad from Broken Hills
 {714}{}{胞子植物}                    # ECPlant.int     ; Random Encounter Spore Plant
 {715}{}{}                               # ECGecko.int     ; Random Encounter Gecko
-{716}{}{毒蝎子}                    # ECScorp.int     ; Random Encounter Scorpions
+{716}{}{辐射蝎}                    # ECScorp.int     ; Random Encounter Scorpions
 {717}{}{}                               # ECRat.int       ; Random Encounter Rats
 {718}{}{战士}                        # ECWarPty.int    ; Random Encounter War Party
 {719}{}{食人族}                       # ECCanibl.int    ; Random Encounter Cannibals
@@ -1150,8 +1150,8 @@
 {1232}{}{布莱恩}                         # hcBrian.int     ; Brian, the Power Technician
 {1233}{}{发电机}                     # hiPower.int     ; Power Generator for Broken Hills
 {1234}{}{控制台}                       # hiConsole.int   ; Power Station Console in Broken Hills
-{1235}{}{大蚂蚁}                     # hcAnt1.int      ; Standard Broken Hills Ant
-{1236}{}{大蚂蚁}                     # hcAnt2.int      ; Broken Hills Ant - Missing Person Quest
+{1235}{}{巨蚁}                     # hcAnt1.int      ; Standard Broken Hills Ant
+{1236}{}{巨蚁}                     # hcAnt2.int      ; Broken Hills Ant - Missing Person Quest
 {1237}{}{门}                          # csXDoor.int     ; Another lousy door script -signals xarn to leave
 {1238}{}{}                              # htSecret.int    ; Spatial for secret area of Broken Hills Mine
 {1239}{}{箱子}                           # niEthBox.int    ; New Reno Ethyl Wright Shop Box
@@ -1188,7 +1188,7 @@
 {1270}{}{}                              # FSTnkrdr.int    ; Tanker Doors in San Fran
 {1271}{}{平民}                       # OCPeaon.int     ; NCR peaons
 {1272}{}{凡德之花}           # diRebBok.int    ; Den Becky's Book
-{1273}{}{毒蝎子}                   # hcScorp.int     ; Broken Hills Scorpion
+{1273}{}{辐射蝎}                   # hcScorp.int     ; Broken Hills Scorpion
 {1274}{}{教授}                     # hcProf.int      ; Broken Hills Professor
 {1275}{}{箱子}                           # hiPrfBx1.int    ; Professor's Box in Broken Hills
 {1276}{}{箱子}                           # hiPrfBx2.int    ; Professor's Box in Broken Hills
@@ -1215,7 +1215,7 @@
 {1297}{}{十字架}                         # niCross.int     ; Cross - Golgotha - Buried Cash
 {1298}{}{犁}                          # viPlow1.int     ; Plow - Vault City
 {1299}{}{犁}                          # viPlow2.int     ; Plow - Vault City
-{1300}{}{毒蝎子}                      # kcScorpa.int    ; Attacking scorpion in klamath
+{1300}{}{辐射蝎}                      # kcScorpa.int    ; Attacking scorpion in klamath
 {1301}{}{发电机}                     # kcGnratr.int    ; Generator player repairs in toxic caves
 {1302}{}{门}                          # kcLvatr.int     ; Elevator door in toxic caves
 {1303}{}{门}                          # SIVDor.int      ; Vortis Slave Door
@@ -1427,7 +1427,7 @@
 {1509}{}{战士}                       # epac13.int      ; Doctor's personal bodyguards
 {1510}{}{Bug Spray}                     # epac14.int      ; Script for bug spray
 {1511}{}{Doctor's Prisoner}             # epac15.int      ; Script for captured tribals
-{1512}{}{大蚂蚁}                     # epac16.int      ; Script for EPA ants
+{1512}{}{巨蚁}                     # epac16.int      ; Script for EPA ants
 {1513}{}{The Doctor}                    # epac17.int      ; Script for EPA Doctor
 {1514}{}{Fruit Fly}                     # epac18.int      ; Script for mutant fruit flies
 {1515}{}{Creature}                      # epac19.int      ; Script for doctors crestures

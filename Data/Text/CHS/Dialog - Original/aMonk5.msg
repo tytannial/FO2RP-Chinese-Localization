@@ -28,9 +28,9 @@
 {404}{}{他是一个好的领导者。怪物杀了托马斯修士之后他有一些暴躁。}
 {405}{}{什么样的怪物？}
 #{406}{}{I haven't see it but I think that it is a large radscorpion.}
-{406}{}{我没见过不过我认为是一只巨大的毒蝎子。}
-{407}{}{为什么你认为是一只巨大的毒蝎子？}
-{408}{}{因为我听见过洞穴传来的声音，听起来就像毒蝎子发出的。}
+{406}{}{我没见过不过我认为是一只巨大的辐射蝎。}
+{407}{}{为什么你认为是一只巨大的辐射蝎？}
+{408}{}{因为我听见过洞穴传来的声音，听起来就像辐射蝎发出的。}
 {409}{}{对。}
 #{410}{}{In fact we do, take a look on that computer over there. Use this access card to access our encrypted files. (He hands you an access card)}
 {410}{}{实际上我们做了。看看那边的电脑。用这个通行卡解开文件。(他给你一把通行卡)}
