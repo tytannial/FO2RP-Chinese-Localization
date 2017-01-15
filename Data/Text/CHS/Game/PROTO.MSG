@@ -233,13 +233,13 @@
 {656}{}{错误……}   # new
 {660}{}{你看不到那里}
 {661}{}{太远了}
-{670}{}{好的}    # F2: Used in PM: CombatAI settings
-{671}{}{没问题}    # F2: Used in PM: CombatAI settings
-{672}{}{遵命}       # F2: Used in PM: CombatAI settings
-{673}{}{你说了算}  # F2: Used in PM: CombatAI settings
-{674}{}{我会尽力的}          # F2: Used in PM: CombatAI settings
-{675}{}{我不能那样做}   # F2: Used in PM: CombatAI settings
-{676}{}{我想我做不到}   # F2: Used in PM: CombatAI settings
+{670}{}{好的。}    # F2: Used in PM: CombatAI settings
+{671}{}{没问题。}    # F2: Used in PM: CombatAI settings
+{672}{}{遵命。}       # F2: Used in PM: CombatAI settings
+{673}{}{你说了算。}  # F2: Used in PM: CombatAI settings
+{674}{}{我会尽力的。}          # F2: Used in PM: CombatAI settings
+{675}{}{我不能那样做。}   # F2: Used in PM: CombatAI settings
+{676}{}{我想我做不到。}   # F2: Used in PM: CombatAI settings
 {677}{}{Arf!}   # F2: Used in PM: CombatAI settings -- RoboDog
 {678}{}{Woof!}  # F2: Used in PM: CombatAI settings -- RoboDog
 
