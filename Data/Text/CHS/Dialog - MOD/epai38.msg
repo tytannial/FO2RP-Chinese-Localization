@@ -12,4 +12,3 @@
 {213}{}{ fails to enable the force field.}
 
 {300}{}{You have destroyed the computer.}
-

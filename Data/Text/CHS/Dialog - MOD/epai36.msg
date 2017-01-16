@@ -62,4 +62,3 @@
  relying on fertile soil and rainfall, they're able to derive nutrients by killing and eating animals, just like
  people! All through the wonders of science!}
 {421}{}{[Logoff.]}
-
