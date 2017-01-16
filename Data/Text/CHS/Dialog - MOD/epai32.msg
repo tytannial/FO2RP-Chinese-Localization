@@ -47,11 +47,11 @@
 {266}{}{返回}
 
 {270}{}{储藏罐1显示有5包来自美国粮食增产项目的样子种子。种子大多是玉米和小麦的改良品种，可以有效免疫病虫害。}
-{271}{}{储藏罐2显示有2包来自中国农业科学院最新成果“BN13号”超级杂交水稻的基因改良版种子样本，特点是超高产，免疫各种病虫害，适应各种气候。哇塞……}
+{271}{}{Storage Tank Two reports 2 remaining seed packets, each of similar or different families. No research has been conducted and the outcome of seed germination is unknown.}
 {273}{}{取出种子。}
 
-{280}{}{收集种子……成功收集到5包美国粮食增产项目的种子。种子下降到收集箱……成功	．．关闭收集箱……成功}
-{281}{}{收集种子……成功收集到2包“BN13号”超级杂交水稻种子。种子下降到收集箱……成功	．．关闭收集箱……成功}
+{280}{}{收集种子……成功收集到5包美国粮食增产项目的种子。种子下降到收集箱……成功	……关闭收集箱……成功}
+{281}{}{Collecting seed samples...Successfully collected 2 packets of unknown seeds. Depositing packets to collection container...Success... Closing storage container...Success.}
 
 {290}{}{下载植物学资料到磁盘……已完成75%……全部完成。请取出磁盘返回主菜单。}
 {291}{}{返回}
