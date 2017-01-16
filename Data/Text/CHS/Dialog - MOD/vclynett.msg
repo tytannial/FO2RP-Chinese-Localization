@@ -610,6 +610,7 @@
 {706}{lyn118}{很好，这是你的酬劳。现在告诉我你所知道的。}
 {707}{}{我找到他们的大本营了。他们的基地就在南方山麓小丘中一连串的山洞里面}
 {708}{}{我摧毁了他们的大本营。他们的基地就在南方山麓小丘中一连串的山洞里面}
+{1708}{}{They were holed up in a series of caves in the foothills to the South. I convinced their guide to not help them anymore. Without him, they will be unable to find their way through the mountains.}
 {709}{}{事实上，我什么也不知道。}
 {710}{}{谢谢你的钱啦。我要走了。}
 {711}{lyn119}{我要你马上到新加州共和国去找卫斯丁参谋长，罗杰．卫斯丁。将实体显像磁片交给他。这样一来，就应该不会再发生“歹徒”受到雇用的事了。}

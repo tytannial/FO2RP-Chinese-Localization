@@ -197,6 +197,12 @@
 {594}{}{那么．．你跟麦丽雅。你们可以跟别人交往吗？还是．．}
 {595}{}{你要交换老婆？等我有老婆的时候才能给你。}
 
+# 24a. KITSUNE (WTG)  - killap
+{596}{}{So...who is this hot oriental looking chick?}
+{597}{}{Kitsune's kinda cute. Can I...well, you know...how about it?}
+{598}{}{This oriental chick suuuure is a looker.}
+{599}{}{So...you and Kitsune. Are you two going out or something?}
+
 # 25. WAITING TO JOIN, 2 (WTG)
 {600}{}{准备好了吗？}
 
@@ -930,3 +936,8 @@
 {3025}{}{随便。}
 
 {4000}{}{是，那很容易，我在你地图上作个记号。也可能在地下深处。}
+
+#added by kilap - NPC info
+{5000}{}{Fuck! Fuck! I can't feel this limb anymore!}
+{5001}{}{I feel like I am fucking melting!}
+{5002}{}{I'm puking my fucking guts out over here!}

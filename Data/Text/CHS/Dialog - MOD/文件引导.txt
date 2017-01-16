@@ -3,9 +3,14 @@
 请用注释标注好脚本对应的NPC名字以便以后校对。
 
 阿罗由
-	ACMynoc.msg #守桥人
+	ACMynoc.msg	#守桥人
 丹恩城
-	dcMom.msg #妈妈桑
+	dcMom.msg	#妈妈桑
+新里诺
+	ncRenesc.msg	#洛尼司可
+	nhMyron.msg	#麦朗
+地下掩体市
+	vclynett.msg #琳娜特
 EPA(暂译：环境保护机构，在新维加斯：旧世蓝调中提及) 
 *由于RP更新后文本变动非常大，需要重新翻译和校对
 	EPA1.msg
@@ -78,8 +83,8 @@ EPA(暂译：环境保护机构，在新维加斯：旧世蓝调中提及)
 	epas11.msg
 	epax.msg
 随机遭遇
-	ECKAGA1.MSG #卡贾遭遇事件1
-	ECKAGA2.MSG #卡贾遭遇事件2
-	ECKAGA3.MSG #卡贾遭遇事件3
-	ECKAGA4.MSG #卡贾遭遇事件4
-	ECKAGA5.MSG #卡贾遭遇事件5
+	ECKAGA1.MSG	#卡贾遭遇事件1
+	ECKAGA2.MSG	#卡贾遭遇事件2
+	ECKAGA3.MSG	#卡贾遭遇事件3
+	ECKAGA4.MSG	#卡贾遭遇事件4
+	ECKAGA5.MSG	#卡贾遭遇事件5
