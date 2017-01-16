@@ -1,0 +1,85 @@
+﻿说明：该文件用于标记修改后的文件记录，
+校对和修改后的文本从Dialog - Original移动到Dialog - MOD，
+请用注释标注好脚本对应的NPC名字以便以后校对。
+
+阿罗由
+	ACMynoc.msg #守桥人
+丹恩城
+	dcMom.msg #妈妈桑
+EPA(暂译：环境保护机构，在新维加斯：旧世蓝调中提及) 
+*由于RP更新后文本变动非常大，需要重新翻译和校对
+	EPA1.msg
+	EPA2.msg
+	epa3.msg
+	epac1.msg
+	epac2.msg
+	epac3.msg
+	epac4.msg
+	epac5.msg
+	epac6.msg
+	epac7.msg
+	epac8.msg
+	epac9.msg
+	epac10.msg
+	epac11.msg
+	epac12.msg
+	epac13.msg
+	epac14.msg
+	epac15.msg
+	epac17.msg
+	epac22.msg
+	epac24.msg
+	epai1.msg
+	epai2.msg
+	epai3.msg
+	epai4.msg
+	epai5.msg
+	epai6.msg
+	epai7.msg
+	epai8.msg
+	epai9.msg
+	epai11.msg
+	epai13.msg
+	epai14.msg
+	epai16.msg
+	epai17.msg
+	epai19.msg
+	epai20.msg
+	epai21.msg
+	epai22.msg
+	epai23.msg
+	epai25.msg
+	epai26.msg
+	epai27.msg
+	epai28.msg
+	epai29.msg
+	epai30.msg
+	epai31.msg
+	epai32.msg
+	epai33.msg
+	epai34.msg
+	epai35.msg
+	epai36.msg
+	epai37.msg
+	epai38.msg
+	epai39.msg
+	epai40.msg
+	epai41.msg
+	epai42.msg
+	epai43.msg
+	epai44.msg
+	epas1.msg
+	epas4.msg
+	epas6.msg
+	epas7.msg
+	epas8.msg
+	epas9.msg
+	epas10.msg
+	epas11.msg
+	epax.msg
+随机遭遇
+	ECKAGA1.MSG #卡贾遭遇事件1
+	ECKAGA2.MSG #卡贾遭遇事件2
+	ECKAGA3.MSG #卡贾遭遇事件3
+	ECKAGA4.MSG #卡贾遭遇事件4
+	ECKAGA5.MSG #卡贾遭遇事件5
