@@ -19,8 +19,8 @@
 #  glanced and and examined.                                #
 #############################################################
 
-{100}{}{You see the bridge guard.}
-{101}{}{You see Mynoc, the bridge guard.}
+{100}{}{你看到守桥兵。}
+{101}{}{你看到曼那克，守桥兵。}
 
 #############################################################
 #  The following lines are for the dialog which the NPC     #
@@ -28,188 +28,153 @@
 #  Tool.                                                    #
 #############################################################
 
-{150}{}{Before you stands a large warrior of your village,
- holding a spear.}
-{151}{}{[TALK]}
-{152}{}{Hello, Chosen One. Off to find the GECK?}
-{153}{}{Yes.}
-{154}{}{Yes. But before I go, I would like to ask you some
- questions.}
-{155}{}{Not just yet. I'm going to look around a little
- bit more.}
-{156}{}{Well, may the gods watch over you.}
-{157}{}{Thank you, goodbye.}
-{158}{}{What do you want to know?}
-{159}{}{What can you tell me of the men who trade with our
- village?}
-{160}{}{What can you tell me about this object I have from
- a vault?}
-{161}{}{Nothing, never mind.}
-{162}{}{Very well, but don't waste too much time. Without the GECK,
- we're doomed.}
-{163}{}{I know, don't worry -- I've got it all under control.}
-{164}{}{Why?}
-{165}{}{I must be going. Goodbye.}
-{166}{}{The traders? They come from Klamath about every two months. There
- won't be another here for a month or more, but Klamath's only a few days
- east of here.}
-{167}{}{Thank you. Goodbye.}
-{168}{}{What can you tell me about this object I have from
- the sacred vault?}
-{169}{}{Looks like a metal water gourd. Maybe the
- vault sent it to us as an omen.}
-{170}{}{Can you tell me who brought this item to our village?}
-{171}{}{Thank you. I must be going. Goodbye.}
-{172}{}{I hope you do.}
-{173}{}{Your overconfidence makes all of us suffer! Goodbye!}
-{174}{}{Goodbye.}
-{175}{}{Why? Look around you -- our village dies. The gardens wither and
- every day children and old ones collapse. You must bring Eden to us before
- it is too late!}
-{176}{}{And I will take care of it. Goodbye.}
-{177}{}{I am the Chosen One -- I "must" do only as I
- please. Goodbye.}
-{178}{}{I don't remember his name, just that he was old and loud -- too
- loud for proper manners -- but he knew many things. He was from Klamath, east
- like I said.}
-{179}{}{Thank you, goodbye.}
-{180}{}{Are you still here? You must go find the GECK. Staying here
- doesn't help us.}
-{181}{}{This bridge is all you need to worry about,
- friend. I can take care of myself.}
-{182}{}{I was just heading out. Goodbye, my friend.}
-{183}{}{I will speak to you no longer, insubordinate pig!}
-{184}{}{I would like to ask you another question.}
-{185}{}{That was quick! Have you found the holy Vault 13?}
-{186}{}{Yes.}
-{187}{}{No, not yet.}
-{188}{}{You have? Wonderful! Did you bring back the
- GECK?}
-{189}{}{No.}
-{190}{}{No. I haven't spoken to the people of the vault yet.}
-{191}{}{I don't believe that's any business of yours, my friend.}
-{192}{}{No? Chosen One, three old ones have died since you left. You must
- not waste any more time.}
-{193}{}{I'll find it, don't worry.}
-{194}{}{I'm getting sick of your constant nagging.}
-{195}{}{Well, why are you talking to me? Talk to them, and get the GECK.}
-{196}{}{I will -- all in good time, my friend.}
-{197}{}{I'm getting sick of your constant nagging.}
-{198}{}{What news of the GECK, Chosen One?}
-{199}{}{I have found the vault!}
-{200}{}{I have not been able to find Vault 13.}
-{201}{}{Well, look, it's the Chosen One.}
-{202}{}{Hello.}
-{203}{}{Shut up.}
-{204}{}{Can I ask you a question?}
-{205}{}{No, I've no time for you.}
-{206}{}{Whatever. Good bye.}
-{207}{}{Oh well. See you around.}
-{208}{}{Go die.}
-{209}{}{Greetings, dull one! See bridge? You cross, you be careful.
- Bridge dangerous. You not want to fall. Okay?}
-{210}{}{Umm... Hunh?}
-{211}{}{Wretch! You have failed the village!}
-{212}{}{You betray us. For that you'll die!}
-{213}{}{You are a traitor to your own people.}
-{214}{}{Why do you do this?}
-{215}{}{The Elder was wrong. You are evil.}
+{150}{}{站在你面前的是个强壮的战士，手持一只矛。}
+{151}{}{[谈话]}
+{152}{}{你好，获选者，要去找伊甸园创造器了吗？}
+{153}{}{是。}
+{154}{}{是。但是在我走之前，我想要问你一些问题。}
+{155}{}{还没有，我想要在这边看看。}
+{156}{}{好吧，希望神保佑你。}
+{157}{}{谢谢你，再见。}
+{158}{}{你想要知道什么？}
+{159}{}{对于跟我们村里交易的那个男人，你知道些什么？}
+{160}{}{对于这一个从避难所来的东西，你知道些什么？}
+{161}{}{没事，算了。}
+{162}{}{好吧，但是不要浪费时间。因为没有伊甸园创造器的话，我们就完了。}
+{163}{}{我知道，不要担心－－我会做好的。}
+{164}{}{为什么？}
+{165}{}{我得走了，再见。}
+{166}{}{那商人吗？他们每两个月都会从克拉马斯来。这一个月之内他们都不会再来的。不过，克拉马斯就在这里的东边。}
+{167}{}{谢谢，再见。}
+{168}{}{对于这一个从避难所来的东西，你知道些什么？}
+{169}{}{看起来像是一个铁水瓢。}
+{170}{}{你可以告诉我是谁将这东西带到村里来的呢？}
+{171}{}{谢谢你，我得走了。再见。}
+{172}{}{我希望你可以。}
+{173}{}{你千万不要自信满满，再见！}
+{174}{}{再见。}
+{175}{}{看看－－我们的村子快要灭亡了。小孩挨饿，老人死去。赶快将伊甸园创造器拿回来吧！}
+{176}{}{我会的，再见。}
+{177}{}{我是获选者－－只要是我喜欢，怎样做都可以。再见。}
+{178}{}{我不记得他的名字，只记得他很老，说话很大声－－而且没有礼貌－－但是，他知道很多的东西。他是从克拉马斯来的。}
+{179}{}{谢谢你，再见。}
+{180}{}{你还在这边？你一定要去找伊甸园创造器，杵在这边是帮不了我们的。}
+{181}{}{你只要专心守着这桥就好了。}
+{182}{}{我正要去，再见。}
+{183}{}{我不想再跟你说了，猪头！}
+{184}{}{我想要问你另外一个问题。}
+{185}{}{好快啊！你找到了神圣的第１３号避难所了吗？}
+{186}{}{是。}
+{187}{}{还没有。}
+{188}{}{你找到了？真好！那你找到了伊甸园创造器了吗？}
+{189}{}{没有。}
+{190}{}{没有，我还没有跟避难所里面的人谈。}
+{191}{}{我觉得这是与你无关的，我的朋友。}
+{192}{}{没有？获选者，自你离开后，已有三个老人死亡了。已经没有时间了，不要再浪费时间了。}
+{193}{}{我会去找的，不要担心。}
+{194}{}{你一直烦我，我觉得很讨厌。}
+{195}{}{那你为什么要跟我说话呢？去跟他们谈啊，去拿伊甸园创造器啊。}
+{196}{}{我会的。}
+{197}{}{你一直烦我，我觉得很讨厌。}
+{198}{}{有什么好消息，获选者？}
+{199}{}{我找到避难所了！}
+{200}{}{我无法找到第１３号避难所。}
+{201}{}{看啊，是获选者。}
+{202}{}{你好。}
+{203}{}{住口。}
+{204}{}{我可以问你一个问题吗？}
+{205}{}{我没有时间。}
+{206}{}{再见。}
+{207}{}{好吧，再见。}
+{208}{}{去死。}
+{209}{}{你好，过桥小心，不要掉下去了。}
+{210}{}{嗯．．嗯？}
+{211}{}{你让整个村庄都很失望！}
+{212}{}{你背叛了我们。你去死吧！}
+{213}{}{你是背叛者。}
+{214}{}{你为什么要这样？}
+{215}{}{长老错了，你是邪恶的。}
 
-{300}{}{My father taught me how to make stronger blades than most. Get me a piece
- of flint and I'll fix your spear, too. You'll need it in the wilderness.}
-{301}{}{Where would I get some of this flint?}
-{302}{}{They say your Aunt Morlis has been hoarding a piece. She's so
- ill-tempered I don't think anyone's asked her. Of course, the witch will want
- something in return.}
-{303}{}{Thanks. Goodbye.}
-{304}{}{Did you talk your aunt out of her flint?}
-{305}{}{Yes, I have some right here.}
-{306}{}{Not yet.}
-{307}{}{It's a good piece. Give me your spear.}
-{308}{}{Here you go.}
-{309}{}{I guess I don't have one.}
-{310}{}{Now, you put the pieces like so...}
-{311}{}{The Chosen One without a spear? Well, you'll have to take one of
- mine. Now, let's get to work...}
-{312}{}{Here is your new spear.}
-{313}{}{Thank you, my friend -- this will help a lot.}
-{314}{}{Yes, but I was wondering about your spear. It looks a little
- different.}
+{300}{}{我的爸爸教过我如何让刀变得更锐利。帮我找块磨刀石，我就把你的矛磨尖。}
+{301}{}{我在那可以找到磨刀石呢？}
+{302}{}{他们说你的莫丽姑妈有一块，但是她脾气不好。我想，如果你跟她要的话，她不会免费给你的。}
+{303}{}{谢谢，再见。}
+{304}{}{你拿到了磨刀石了吗？}
+{305}{}{有，就在这边。}
+{306}{}{还没有。}
+{307}{}{看起还很好，把你的矛给我。}
+{308}{}{拿去。}
+{309}{}{我想吧，我没有。}
+{310}{}{你将它这样．．}
+{311}{}{获选者没有矛？那你可以拿我的。}
+{312}{}{这是你的新矛。}
+{313}{}{谢谢你，我的朋友－－那会帮我很多忙的。}
+{314}{}{是，但我刚刚在看你的矛。它看起来有一些不同。}
 
 
 # added in for time limit
-{400}{}{Welcome home, Chosen One! Did you find the vault? Have you returned with the GECK?}
-{401}{}{Me not find yet.}
-{402}{}{No, I haven't found it yet.}
-{403}{}{I'm not in the mood for your questions. Goodbye.}
-{404}{}{Things are not going well, Chosen One. The drought is getting worse and our crops are
- sure to fail. We are trying to salvage what we can to build up our food reserves.}
-{405}{}{Why no trade with other villages?}
-{406}{}{Me doing best me can. Me find GECK. Me return.}
-{407}{}{Why can't we trade with other villages for the food we need? }
-{408}{}{I'm doing my best. When I find the GECK I'll return with it.}
-{409}{}{We are a simple people and have little to offer in trade. The few towns that we have
- contacted while you were away have shown no interest in helping us.}
-{410}{}{Me see.}
-{411}{}{I see.}
-{412}{}{You are our only hope, Chosen One. Please do not fail us!}
-{413}{}{It is good to see you, Chosen One. How fares your quest?}
-{414}{}{Me still look.}
-{415}{}{I'm still looking.}
-{416}{}{I don't want to talk about it.}
-{417}{}{You must hurry. Things are getting worse here at home. Soon there will be little food and
- the Elder speaks of rationing what we have. I fear for the future of Arroyo.}
-{418}{}{Chosen One! Please tell me that you have completed your quest. Our village is dying, and so
- are our people. }
-{419}{}{No, me still look.}
-{420}{}{No, I'm still looking.}
-{421}{}{How are things?}
-{422}{}{I am sorry, Chosen One, but I am beginning to question my faith in you. The very lives of
- our people are in your hands. Please find the holy Thirteen and return to us with the GECK!}
-{423}{}{Our crops fail, the brahmin die, everyone goes hungry now. The cries of the children at night
- allow no one any sleep. We are becoming a desperate people.}
-{424}{}{Me continue look.}
-{425}{}{I'll do what I can.}
-{426}{}{Once again you return to us, Chosen One. Not empty-handed, I hope?}
-{427}{}{Me sorry, no find GECK yet.}
-{428}{}{I'm sorry, I still haven't found the GECK.}
-{429}{}{I've had enough of this.}
-{430}{}{People are dying here while you stroll about the lands. Perhaps you should be searching
- elsewhere instead of returning here.}
+{400}{}{欢迎回家，获选者！你找到避难所了吗？找到了伊甸园创造器了吗？}
+{401}{}{没有。}
+{402}{}{没，我还没有找到。}
+{403}{}{我没有心情回答你的问题。再见。}
+{404}{}{这边情况很糟。干旱越来越严重了，我们已经快没有吃的了。}
+{405}{}{为何不与其他村庄交易呢？}
+{406}{}{我会尽力，会带伊甸园创造器回来的。}
+{407}{}{为什么不与其他村庄交换食物呢？}
+{408}{}{我会尽力的。我会带伊甸园创造器回来的。}
+{409}{}{我们没有什么可以跟别人交换的东西。}
+{410}{}{这样啊。}
+{411}{}{这样啊。}
+{412}{}{你是我们最后的希望，请不要让我们失望！}
+{413}{}{很高兴见到你，事情办得如何了？}
+{414}{}{我还在找。}
+{415}{}{我还在找。}
+{416}{}{我不想要提这件事。}
+{417}{}{那你得快。这边的情况越来越糟了。}
+{418}{}{获选者！请告诉我你完成了你的任务。}
+{419}{}{还没，我还再找。}
+{420}{}{还没，我还再找。}
+{421}{}{情况如何？}
+{422}{}{我很抱歉，但是我对你的能力开始质疑了。请快去找伊甸园创造器！}
+{423}{}{我们情况已糟到极点了。}
+{424}{}{我还在找。}
+{425}{}{我会尽力的。}
+{426}{}{你回来了，我希望你这次不是空手回来的。}
+{427}{}{抱歉，我还没有找到。}
+{428}{}{抱歉，我还没有找到。}
+{429}{}{我受够了。}
+{430}{}{村民开始死了，我看你也不用回来了。}
 
-{500}{}{Have you talked to the Elder yet?}
+{500}{}{你跟长老谈过了吗？}
 
 #############################################################
-#  TELL - ME - ABOUTS                                       #
+#  TELL - ME - ABOUTS					    #
 #############################################################
-{1000}{}{Elder}
-{1001}{}{Founder}
-{1002}{}{Vault Dweller}
-{1003}{}{Arroyo}
-{1004}{}{Klamath}
-{1005}{}{Vault}
-{1006}{}{Chosen One}
-{1007}{}{Shaman}
-{1008}{}{Hakunin}
-{1009}{}{Healing Powder}
-{1010}{}{Bridge}
-{1011}{}{Mynoc}
+{1000}{}{长老}
+{1001}{}{创造者}
+{1002}{}{避难所住民}
+{1003}{}{阿罗由}
+{1004}{}{克拉马斯}
+{1005}{}{避难所}
+{1006}{}{获选者}
+{1007}{}{巫师}
+{1008}{}{哈库林}
+{1009}{}{治伤粉}
+{1010}{}{桥}
+{1011}{}{曼那克}
 
-{1100}{}{The Elder is your mother and our leader.}
-{1101}{}{Our great ancestor who gave us knowledge.}
-{1102}{}{The first to fight and win over chaos.}
-{1103}{}{That would be our beautiful village.}
-{1104}{}{That's a trading outpost a few days east of here.}
-{1105}{}{The Vault is heaven.}
-{1106}{}{You are the Chosen One.}
-{1107}{}{He heals us with his herbs and magic. He is in the
- northern part of our village.}
-{1108}{}{He heals us with his herbs and magic. He is in the
- north part of our village.}
-{1109}{}{It is a magic powder which will heal you, but will
- make you sleepy.}
-{1110}{}{The Great Bridge exits our village in the south.}
-{1111}{}{That would be me.}
+{1100}{}{长老是你的母亲，是我们的领袖。}
+{1101}{}{伟大的祖先给予了我们知识。}
+{1102}{}{对付混乱的第一人。}
+{1103}{}{这就是我们漂亮的村庄。}
+{1104}{}{在东边几天的路程有一个贸易集散地。}
+{1105}{}{避难所是天堂。}
+{1106}{}{你是获选者。}
+{1107}{}{他用草药以及魔法治疗我们。他在村的北方。}
+{1108}{}{他用草药以及魔法治疗我们。他在村的北方。}
+{1109}{}{他用草药以及魔法治疗我们，但是治疗之后却会想睡觉。}
+{1110}{}{那桥是通往村外的唯一道路，就在村的南边。}
+{1111}{}{那就是我。}
 
 #added by killap - expansion
 {600}{}{Any final advice for me before I head out into the unknown?}
@@ -217,8 +182,7 @@
 {602}{}{Got it. Anything else?}
 {603}{}{Do not give your trust freely. Honor means very little out in the wastes. Stay alert and always question the motives of others.}
 {604}{}{Sure thing. Is that all?}
-{605}{}{Never forget your roots. The world outside our village is full of shiny toys and luxuries that might make our life here in Arroyo appear simple and plain.
- But remember that the lifestyle of the Outsiders produces wicked men ruled by greed and corruption. Be wary not to become like He-Who-Must-Not-Be-Named.}
+{605}{}{Never forget your roots. The world outside our village is full of shiny toys and luxuries that might make our life here in Arroyo appear simple and plain. But remember that the lifestyle of the Outsiders produces wicked men ruled by greed and corruption. Be wary not to become like He-Who-Must-Not-Be-Named.}
 {606}{}{I'll never forget my roots. Thanks for the advice, Mynoc.}
 {607}{}{He-Who-Must-Not-Be-Named? Uh... who?}
 {608}{}{Are you so drunk with the glory of being the Chosen One that you've forgotten about... [Mynoc quickly glances around to be sure no one is listening in, then leans forward and lowers his voice to a whisper.] ... Kaga?}
@@ -249,8 +213,7 @@
 {633}{}{I'll keep that in mind. Take care, Mynoc.}
 
 {640}{}{Could you tell me anything about this Kaga guy?}
-{641}{}{[His eyes go wide and he looks around nervously as if expecting to suddenly be struck by lightning.] Have you lost your senses out in the wastes?! You should know better than to speak the name of the outcast! He is to be referred to only as He-Who-Must-Not-Be-Named.
- Our village suffers enough without inviting the wrath of the Gods upon us. [He raises his eyes nervously to the sky.]}
+{641}{}{[His eyes go wide and he looks around nervously as if expecting to suddenly be struck by lightning.] Have you lost your senses out in the wastes?! You should know better than to speak the name of the outcast! He is to be referred to only as He-Who-Must-Not-Be-Named. Our village suffers enough without inviting the wrath of the Gods upon us. [He raises his eyes nervously to the sky.]}
 {642}{}{Sorry about that, Mynoc. But would you mind telling me what Ka... I mean, "He-Who's" deal is again? I really love that story.}
 {643}{}{You know, I'd forgotten how stupidly superstitious you people could be. I'll see you around.}
 
@@ -260,4 +223,3 @@
 
 {661}{}{Indeed. I'll see you around, Mynoc.}
 {662}{}{Whatever. He seemed like an asshole to me. I'll see you around, Mynoc.}
-
