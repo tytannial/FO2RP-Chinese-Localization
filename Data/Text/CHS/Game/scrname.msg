@@ -366,7 +366,7 @@
 {448}{}{彼希的手下}                   # ncBisMen.int    ; New Reno Bishop's Men
 {449}{}{莫丁诺的手下}                  # ncMorMen.int    ; New Reno Mordino's Men
 {450}{}{莱特的孩子}                 # ncWriTee.int    ; New Reno Wright's Sons & Daughters
-{451}{}{赌场保镳}                 # ncCasBou.int    ; New Reno Generic Casino Bouncer
+{451}{}{赌场保镖}                 # ncCasBou.int    ; New Reno Generic Casino Bouncer
 {452}{}{麦拉}                           # SCMira.int      ; NCR entrance bartender
 {453}{}{新里诺处女街}         # NewR1.int       ; New Reno Map Virgin Street
 {454}{}{新里诺第二街}            # NewR2.int       ; New Reno Map 2nd Street
@@ -434,7 +434,7 @@
 {516}{}{三张牌定胜负}               # nc3Monte.int    ; New Reno Three Card Monte
 {517}{}{阿尔基南}                       # ncAlgern.int    ; New Reno Algernon
 {518}{}{比尔}                           # ncBill .int     ; New Reno Bill (Trees Lounge)
-{519}{}{保镳}                      # ncBisGrd.int    ; New Reno Bishop's Bodyguards
+{519}{}{保镖}                      # ncBisGrd.int    ; New Reno Bishop's Bodyguards
 {520}{}{约翰彼希}                    # ncBishop.int    ; New Reno John Bishop
 {521}{}{赌场机器}                 # niCasMac.int    ; New Reno Casino Machine
 {522}{}{机器行员工}                  # ncChpBoy.int    ; New Reno Chop Shop Boys
@@ -1202,7 +1202,7 @@
 {1284}{}{}                              # SIElnObj.int    ; Elise Notify Object
 {1285}{}{}                              # SIGcaObj.int    ; NCR Guard Captain notify obj
 {1286}{}{泰丰}                        # hcTyphon.int    ; Typhon, Son of Set - Broken Hills
-{1287}{}{保镳}                     # ECBdyGrd.int    ; BodyGuard in Vignette
+{1287}{}{保镖}                     # ECBdyGrd.int    ; BodyGuard in Vignette
 {1288}{}{地图}                    # GamMovie.int    ; Game Movie map
 {1289}{}{锁柜}                        # ziLocker.int    ; Generic Locker Script
 {1290}{}{水井}                          # hiWell.int      ; Broken Hills Well
