@@ -16,7 +16,7 @@
 #
 # Combat Flag Strings (all of these happen to you, the MALE player)
 #
-{200}{}{你被击飞了}
+{200}{}{你被击晕了}
 {201}{}{你被击倒了}
 {202}{}{你的左腿伤残}
 {203}{}{你的右腿伤残}
@@ -42,7 +42,7 @@
 #
 # Combat Flag Strings (all of these happen to you, the FEMALE player)
 #
-{250}{}{你被击飞了}
+{250}{}{你被击晕了}
 {251}{}{你被击倒了}
 {252}{}{你的左腿伤残}
 {253}{}{你的右腿伤残}
@@ -68,7 +68,7 @@
 #
 # Combat Flag Strings (all of these happen to a male)
 #
-{300}{}{他被击飞了}
+{300}{}{他被击晕了}
 {301}{}{他被击倒了}
 {302}{}{伤的左腿伤残}
 {303}{}{伤的右腿伤残}
@@ -94,7 +94,7 @@
 #
 # Combat Flag Strings (all of these happen to a female)
 #
-{400}{}{她被击飞了}
+{400}{}{她被击晕了}
 {401}{}{她被击倒了}
 {402}{}{伤的左腿伤残}
 {403}{}{伤的右腿伤残}
