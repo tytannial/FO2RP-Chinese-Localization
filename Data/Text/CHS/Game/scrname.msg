@@ -862,7 +862,7 @@
 {944}{}{地下掩体市奴仆}                  # VCSlave.int     ; Vault City Slave
 {945}{}{通风口}              # VIShft2b.int    ; Vault City Ventilation Shaft 2B
 {946}{}{查理}                        # VCCharli.int    ; Vault City Puking Charlie
-{947}{}{冷却器控制介面}          # GSValve.int     ; Gecko Coolant Control Panel
+{947}{}{冷却器控制界面}          # GSValve.int     ; Gecko Coolant Control Panel
 {948}{}{牛粪}                            # ziBraPoo.int    ; Generic BRAHMIN SHIT!!! YES YES YES
 {949}{}{葛兰}                          # scWesGrd.int    ; Westin's Force Field Guard
 {950}{}{发射器}                        # SSEmiWes.int    ; Westin's Force Field Emitter
