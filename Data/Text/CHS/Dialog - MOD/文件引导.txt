@@ -5,6 +5,8 @@
 阿罗由
 	ACMynoc.msg	#守桥人
 	ACFIST.MSG	#卢卡斯-首席战士 传授拳脚功夫
+	ACJORDON.MSG 	#乔登-长矛战士 传授长矛功夫
+	ACJORDaN.MSG	#乔登-长矛战士 传授长矛功夫
 丹恩城
 	dcMom.msg	#妈妈桑
 新里诺
