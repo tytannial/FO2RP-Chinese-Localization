@@ -296,7 +296,7 @@
 {392}{}{只是枪毙几只地鼠？好的，我接了。}
 {393}{}{为何？}
 #{394}{}{What about the NCR expedition?}
-{394}{}{新加州共合国考察怎么样了？}
+{394}{}{新加州共和国考察怎么样了？}
 {395}{}{我会考虑一下的。我能问你点问题吗？}
 {396}{}{不，那不是我该干的工作。再见。}
 #{397}{}{Excellent. Let me show you the exact location of the village [Stark marks the village on your PipBoy map]. There's a $750 pay. Return when it's done. One more thing - if you don't deal with it in a month, I will send a squad there to eliminate the monsters and any other threat.}
