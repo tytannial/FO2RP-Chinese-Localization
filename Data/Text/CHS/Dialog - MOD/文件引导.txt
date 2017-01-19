@@ -9,11 +9,42 @@
 	ACJORDaN.MSG	#乔登-长矛战士 传授长矛功夫
 丹恩城
 	dcMom.msg	#妈妈桑
-新里诺
+新里诺(非常重的台湾腔翻译)
 	ncRenesc.msg	#洛尼司可
 	nhMyron.msg	#麦朗
 地下掩体市
-	vclynett.msg #琳娜特
+	vclynett.msg #琳娜特(原版翻译质量比较高)
+Abbey(BN13的暂译名：阿比。修道院形成的小镇，拥有大量战前物品甚至科技)
+	abbey.msg	#发现
+	abbill.msg	#老商人比尔
+	abbook.msg	#书架
+	abchild.msg	#孩童
+	abdeathc.msg	#濒死的死爪
+	abdoor.MSG	#各种各样的门
+	abelaine.msg
+	abgrave1.msg
+	abgrave2.msg
+	abgrave3.msg
+	abguard.msg
+	abhank.msg
+	abhealer.msg
+	abjason.msg
+	abjohn.msg
+	abjunk.msg
+	abmatt.msg
+	abmax.msg
+	abmerch1.msg
+	abmerch2.msg
+	abmergrd.msg
+	abmsptsn.msg
+	abpeople.msg
+	abpetson.msg
+	abpump.msg
+	absamuel.msg
+	abstand.msg
+	abthomas.msg
+	abtom.msg
+	abundgr.msg
 EPA(暂译：环境保护机构，在新维加斯：旧世蓝调中提及) 
 *由于RP更新后文本变动非常大，需要重新翻译和校对
 	EPA1.msg
