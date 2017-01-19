@@ -1,45 +1,44 @@
-#You see a stout nun.
 {100}{}{你看见了个矮胖的修女。}
-#You see Elaine.
 {101}{}{你看见了伊莱恩。}
-#You still see her.
 {102}{}{你仍旧看见她。}
 
-#Greetings!
 {200}{}{祝福你!}
-#Hi, what is your name?
 {201}{}{你好，你叫什么名字？}
-#What can you tell me about Abbey?
 {202}{}{关于这你能告诉我些什么？}
-#Bye.
 {203}{}{再见。}
 
-#If you want to know more about our order, talk to our leader. He is on the third floor.
 {300}{}{如果你想知道更多关于我们的工作，和我们的领导者谈谈吧。他在三楼。}
-#I see. A few more questions...
 {301}{}{明白了。再问几个问题...}
 
-#Such as?
 {400}{}{例如？}
-#What is your name?
 {401}{}{你叫什么名字？}
-#Nothing really, bye.
 {402}{}{不要在意，回见。}
-#What can you tell me about Abbey?
 {403}{}{关于这你能告诉我些什么？}
 
-#Call me Elaine.
 {500}{}{叫我伊莱恩。}
-#I see. A few more questions...
 {501}{}{明白了。再问几个问题...}
 
-#Hey! Before you go, could you give this machine part to Max in the copying room?
-{600}{}{嗨！在你走之前能帮忙把这个机器零件拿给在复印室的麦克斯吗？}
-#Sure.
-{601}{}{当然。}
-#Sorry, I don?t have time for this. Bye.
-{602}{}{报歉，我没时间做这个。再见。}
-#Thanks! Here?s the part.
-{603}{}{谢谢！这是零件。}
-#Got it. I'll give it to Max right away.
-{604}{}{拿来吧。我马上就拿去给麦克斯。}
+{600}{}{Hey! Before you go, perhaps you could do me a favor. I'm supposed to bring this machine part to Max in the basement copy room. But you see, my left knee has been acting up lately, and it's a real pain for me to go up and down all those stairs. Would it trouble you too much to bring him this part for me?}
+{601}{}{Sure.}
+{602}{}{Sorry, I don't have time for this. Bye.}
+{603}{}{Do I look like your personal delivery service? Do it yourself, you fat lazy bitch. Bye.}  #new in RP 1.3
+
+{604}{}{Thanks! Here's the part. The copying room is in the basement. Just use the stairs directly behind Brother Matthew in the chapel area.}
+{605}{}{Not a problem. [You take the part.] I'll bring it down to Max right away.}
+
+#dumb dialgoue
+{700}{}{Me }
+{701}{}{. Who you?}
+
+{710}{}{Hehe. That pretty name.}
+{711}{}{Bye!}
+
+{720}{}{You're a special little guy aren't you? Could you do me a BIG favor and be my special helper today?}
+{721}{}{You're a special little gal aren't you? Could you do me a BIG favor and be my special helper today?}
+{722}{}{Me special. Me help.}
+{723}{}{Me no wanna help.}
+
+{730}{}{Really? Great! Please give this machine part to Max in the copying room. He can be found in the BASEMENT. Okay?}
+{731}{}{I no let you down!}
+
+{740}{}{You keep on truckin' now.}

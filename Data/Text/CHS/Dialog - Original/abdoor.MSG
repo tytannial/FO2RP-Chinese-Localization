@@ -30,49 +30,24 @@
 #############################################################
 
 # look_at_proc
-#You see a wooden door.
 {100}{}{你看见了一道木门。}
-#You see a metal door.
 {101}{}{你看见了一道铁门。}
 
 # description_proc
 
 # Perception Check Critical Success
-#You see a sturdy door with a lock (which can be picked with
- lockpicks) and a highly explosive trap in the doorframe, which
- you may be able to pry open.
 {102}{}{你看了一道锁的很牢固的门 (可以用撬锁工具撬开) 而且门框里有高爆陷阱,也许你能撬开。}
-#You see a sturdy door with a lock on it and a highly
- explosive trap in the doorframe, which you may be able to
- pry open.
 {103}{}{你看了一道锁的很牢固的门,也许你能撬开。}
-#{104}{}{You see a sturdy door with no apparent locking device and
- a highly explosive trap in the doorframe, which you may be able
- to pry open.}
 {104}{}{你看见一道隐藏着高爆陷阱锁着的门，也许你能撬开。}
-#{105}{}{You see a sturdy door with an old, rusty lock and a highly
- explosive trap in the doorframe, which you may be able to pry
- open.}
 {105}{}{你看见一道破旧的门，生锈的锁还藏着一个高爆陷阱，也许你能撬开。}
 
-#{106}{}{You see a sturdy door with a lock (which can be picked with
- lockpicks) and a trap in the doorframe, which you may be able to
- pry open.}
 {106}{}{你看见一道锁住的门（可以用撬锁工具撬开）门框里还有高爆陷阱，也许你能撬开。}
-#{107}{}{You see a sturdy door with a lock on it and a trap in
- the doorframe, which you may be able to pry open.}
 {107}{}{你看见一道门框里有高爆陷阱且锁住的门，也许你能撬开。}
-#{108}{}{You see a sturdy door with no apparent locking device and
- a trap in the doorframe, which you may be able to pry open.}
 {108}{}{你看见一道锁着的门，门框里隐约有高爆陷阱，也许你能撬开。}
-#You see a sturdy door with an old, rusty lock and a cut wire in the doorframe, which you may be able to pry open.
 {109}{}{你看见一道锁着又破又旧的锁的门，门框里隐约有高爆陷阱，也许你能撬开。}
 
 {110}{}{你看见一道锁住的门（可以用撬锁工具撬开）门框里隐隐约约有金属丝，也许你能撬开。}
-#{111}{}{You see a sturdy door with a lock on it and a severed wire
- in the doorframe, which you may be able to pry open.}
 {111}{}{你看见一道锁住的门，门框里还有几根金属丝，也许你能撬开。}
-#{112}{}{You see a sturdy door with no apparent locking device and a severed wire in the doorframe, which you may be able to pryopen.}
 {112}{}{你看见一道锁住的门，门框里隐隐约约有金属丝，也许你能撬开。}
 {113}{}{你看见一道锁着又破又旧的锁的门，门框里隐约有几根金属丝，也许你能撬开。}
 
@@ -105,70 +80,44 @@
 
 # Perception Check Critical Failure
 
-{134}{}{You see a damaged door with a lock (which can be picked with
- lockpicks) and a highly explosive trap in the doorframe.}
-{135}{}{You see a damaged door with a lock on it and a highly
- explosive trap in the doorframe.}
-{136}{}{You see a damaged door with no apparent locking device and
- a highly explosive trap in the doorframe.}
-{137}{}{You see a damaged door with an old, rusty lock and a highly
- explosive trap in the doorframe.}
+{134}{}{You see a damaged door with a lock (which can be picked with lockpicks) and a highly explosive trap in the doorframe.}
+{135}{}{You see a damaged door with a lock on it and a highly explosive trap in the doorframe.}
+{136}{}{You see a damaged door with no apparent locking device and a highly explosive trap in the doorframe.}
+{137}{}{You see a damaged door with an old, rusty lock and a highly explosive trap in the doorframe.}
 
-{138}{}{You see a damaged door with a lock (which can be picked with
- lockpicks) and a trap in the doorframe.}
-{139}{}{You see a damaged door with a lock on it and a trap in
- the doorframe.}
-{140}{}{You see a damaged door with no apparent locking device and
- a trap in the doorframe.}
-{141}{}{You see a damaged door with an old, rusty lock and a trap
- in the doorframe.}
+{138}{}{You see a damaged door with a lock (which can be picked with lockpicks) and a trap in the doorframe.}
+{139}{}{You see a damaged door with a lock on it and a trap in the doorframe.}
+{140}{}{You see a damaged door with no apparent locking device and a trap in the doorframe.}
+{141}{}{You see a damaged door with an old, rusty lock and a trap in the doorframe.}
 
-{142}{}{You see a damaged door with a lock (which can be picked with
- lockpicks) and a cut wire in the doorframe.}
-{143}{}{You see a damaged door with a lock on it and a severed wire
- in the doorframe.}
-{144}{}{You see a damaged door with no apparent locking device and
- a severed wire in the doorframe.}
-{145}{}{You see a damaged door with an old, rusty lock and a cut
- wire in the doorframe.}
+{142}{}{You see a damaged door with a lock (which can be picked with lockpicks) and a cut wire in the doorframe.}
+{143}{}{You see a damaged door with a lock on it and a severed wire in the doorframe.}
+{144}{}{You see a damaged door with no apparent locking device and a severed wire in the doorframe.}
+{145}{}{You see a damaged door with an old, rusty lock and a cut wire in the doorframe.}
 
-{146}{}{You see a damaged door with a lock (which can be picked with
- lockpicks).}
+{146}{}{You see a damaged door with a lock (which can be picked with lockpicks).}
 {147}{}{You see a damaged door with a lock on it.}
 {148}{}{You see a damaged door with no apparent locking device.}
 {149}{}{You see a damaged door with an old, rusty lock.}
 
 # Perception Check Failure
 
-{150}{}{You see an old door with a lock (which can be picked with
- lockpicks) and a highly explosive trap in the doorframe.}
-{151}{}{You see an old door with a lock on it and a highly
- explosive trap in the doorframe.}
-{152}{}{You see an old door with no apparent locking device and
- a highly explosive trap in the doorframe.}
-{153}{}{You see an old door with an old, rusty lock and a highly
- explosive trap in the doorframe.}
+{150}{}{You see an old door with a lock (which can be picked with lockpicks) and a highly explosive trap in the doorframe.}
+{151}{}{You see an old door with a lock on it and a highly explosive trap in the doorframe.}
+{152}{}{You see an old door with no apparent locking device and a highly explosive trap in the doorframe.}
+{153}{}{You see an old door with an old, rusty lock and a highly explosive trap in the doorframe.}
 
-{154}{}{You see an old door with a lock (which can be picked with
- lockpicks) and a trap in the doorframe.}
-{155}{}{You see an old door with a lock on it and a trap in
- the doorframe.}
-{156}{}{You see an old door with no apparent locking device and
- a trap in the doorframe.}
-{157}{}{You see an old door with an old, rusty lock and a trap
- in the doorframe.}
+{154}{}{You see an old door with a lock (which can be picked with lockpicks) and a trap in the doorframe.}
+{155}{}{You see an old door with a lock on it and a trap in the doorframe.}
+{156}{}{You see an old door with no apparent locking device and a trap in the doorframe.}
+{157}{}{You see an old door with an old, rusty lock and a trap in the doorframe.}
 
-{158}{}{You see an old door with a lock (which can be picked with
- lockpicks) and a cut wire in the doorframe.}
-{159}{}{You see an old door with a lock on it and a severed wire
- in the doorframe.}
-{160}{}{You see an old door with no apparent locking device and
- a severed wire in the doorframe.}
-{161}{}{You see an old door with an old, rusty lock and a cut
- wire in the doorframe.}
+{158}{}{You see an old door with a lock (which can be picked with lockpicks) and a cut wire in the doorframe.}
+{159}{}{You see an old door with a lock on it and a severed wire in the doorframe.}
+{160}{}{You see an old door with no apparent locking device and a severed wire in the doorframe.}
+{161}{}{You see an old door with an old, rusty lock and a cut wire in the doorframe.}
 
-{162}{}{You see an old door with a lock (which can be picked with
- lockpicks).}
+{162}{}{You see an old door with a lock (which can be picked with lockpicks).}
 {163}{}{You see an old door with a lock on it.}
 {164}{}{You see an old door with no apparent locking device.}
 {165}{}{You see an old door with an old, rusty lock.}
@@ -241,23 +190,20 @@
 
 # Player uses an item on the door
 {176}{}{You bust the lock off the door.}
-{177}{}{You strain your back while trying to bust the lock and
- take a point of damage.}
+{177}{}{You strain your back while trying to bust the lock and take a point of damage.}
 
 # The following set of lines is to be translated as:
 # You strain your back while trying to bust the lock and
 # take [x] points of damage.
 
-{178}{}{You strain your back while trying to bust the lock and
- take }
+{178}{}{You strain your back while trying to bust the lock and take }
 {179}{}{ points of damage.}
 {180}{}{You are too weak to bust the lock.}
 
 # NPC uses an item on the door
 # The following lines are prepended by the NPC's name
 {181}{}{ busts the lock off the door.}
-{182}{}{ strains his back while trying to bust the lock and takes
- a point of damage.}
+{182}{}{ strains his back while trying to bust the lock and takes a point of damage.}
 
 # The following line set of lines is to be translated as:
 # NPC strains his back while trying to bust the lock and
@@ -267,8 +213,7 @@
 {184}{}{ points of damage.}
 
 {185}{}{ is too weak to bust the lock.}
-{186}{}{ strains her back while trying to bust the lock and takes
- a point of damage.}
+{186}{}{ strains her back while trying to bust the lock and takes a point of damage.}
 
 # The following line set of lines is to be translated as:
 # NPC strains her back while trying to bust the lock and
@@ -302,12 +247,10 @@
 #############################################################
 
 # Player tries to set a trap on an open door
-{206}{}{You are unable to place a trap on this door, because
- the door is open.}
+{206}{}{You are unable to place a trap on this door, because the door is open.}
 
 # NPC tries to set a trap on an open door
-{207}{}{ is unable to place a trap on this door, because the
- door is open.}
+{207}{}{ is unable to place a trap on this door, because the door is open.}
 
 # Player tries to set a trap on a closed door
 {208}{}{You skillfully set a trap in the door frame.}
@@ -330,12 +273,9 @@
 # IT MOST LIKELY IS BEING USED BY A DOOR SCRIPT SOMEWHERE)
 {400}{}{You unlock the door.}
 
-{414}{}{You see a sturdy door with a lock (which can be picked with
- lockpicks), which you may be able to pry open.}
-{415}{}{You see a sturdy door with a lock on it, which you may be
- able to pry open.}
-{416}{}{You see a sturdy door with no apparent locking device,
- which you may be able to pry open.}
+{414}{}{You see a sturdy door with a lock (which can be picked with lockpicks), which you may be able to pry open.}
+{415}{}{You see a sturdy door with a lock on it, which you may be able to pry open.}
+{416}{}{You see a sturdy door with no apparent locking device, which you may be able to pry open.}
 {417}{}{You see a sturdy door which you may be able to pry open.}
 
 {500}{}{This door is too heavy to pry open.}
