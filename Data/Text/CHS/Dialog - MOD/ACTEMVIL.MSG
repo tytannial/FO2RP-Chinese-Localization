@@ -88,14 +88,14 @@
 {312}{}{谢谢，卡麦隆。我会记得的。}
 
 #added by killap - expansion
-{400}{}{Do you ever think about stepping down from your position as the Temple's final trial? I mean, it can be pretty risky.}
-{401}{}{Life is a constant series of risks, Chosen One. With each new dawn, every one of us takes a risk simply by stepping from our homes to greet the unknown day. Why do you ask?}
-{402}{}{No reason. I'll talk with you later, Cameron.}
-{403}{}{Well, I was just thinking about what happened to your predecessor, you know, during his battle with... uh, "He-Who-Must-Not-Be-Named".}
+{400}{}{你有没有想过辞去寺庙最后试炼的职位？我的意思是，它可以是相当危险的。}
+{401}{}{人生是一系列持续不断的风险。每次新的一天到来，从我们走出家门迎接位置的一天起，我们就要承担风险。你为什么问这个？}
+{402}{}{没什么特别的理由。下次再聊吧，卡麦隆。}
+{403}{}{嗯，我只是在想你的前任发生了什么，你应该知道，在他的战斗……嗯，“He-Who-Must-Not-Be-Named”}
 
-{410}{}{Ah, that was a dark day, indeed, for our tribe lost two good men: one in body, the other in spirit. But the foul deed of that day is no concern of mine. My time will come when the Gods deem it so.}
-{411}{}{And may that day be a long time coming. Good day, Cameron.}
-{412}{}{Are they even going to have other people attempt the Temple? Hasn't it already been determined that I'm the Chosen One?}
+{410}{}{啊，那真是一个黑暗的日子，因为我们的部落失去了两个好人：一个在肉体，另一个在精神上。但那一天的犯规与我无关。我的报应迟早会到来，若诸神认为是这样。}
+{411}{}{愿那一天永远不要到来。日安，卡梅伦。}
+{412}{}{难道他们甚至也将有其他人送入神庙考验过？是否已经确定我是被选中的人？}
 
-{420}{}{There will always be a need to test the might of our people. And I take great honor in doing my part.}
-{421}{}{Alright, I'll see you later, Cameron.}
+{420}{}{总是会有需要考验我们人民的必要。我非常荣幸地尽我的职责。}
+{421}{}{好吧，下次见，卡梅伦。}
