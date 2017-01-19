@@ -104,3 +104,8 @@
 {1109}{}{那是一种可以帮你疗伤的药，但却会让你想睡觉。}
 {1110}{}{在南方，离开本村的通道。}
 {1111}{}{他守着离开本村的大桥。}
+
+#added by killap - expansion
+{400}{}{Is there anything you could tell me about Kaga?}
+{401}{}{[The villager stares at you, wide-eyed, then slowly steps away from you while glancing around nervously.]}
+{402}{}{Alright, I guess not.}

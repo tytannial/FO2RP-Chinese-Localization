@@ -26,8 +26,8 @@
 #  The following lines are for describing the NPC when	    #
 #  glanced and and examined.		                    #
 #############################################################
-{100}{}{你看到一个男性土人。}
-{101}{}{你看到一个女性土人。}
+{100}{}{你看到一个部族男性。}
+{101}{}{你看到一个部族女性。}
 
 #############################################################
 #  The following lines are for the dialog which the NPC     #
