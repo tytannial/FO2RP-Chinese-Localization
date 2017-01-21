@@ -84,6 +84,7 @@
 {342}{}{博士的化学品。}
 
 {343}{}{我的朋友心脏有问题。你能帮帮他吗？}
+{344}{}{Environmental Rejection Syndrome Inhibitors.}
 
 # Node  15  [Node016]
 {350}{}{我正好有足够的化学材料可以制这种药。你需要制一些吗？}
