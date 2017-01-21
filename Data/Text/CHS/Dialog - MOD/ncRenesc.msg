@@ -483,9 +483,7 @@
 {5257}{}{很大。我走了。}
 {5259}{}{不要叫你要什么一直叫不要叫}
 {6259}{}{杀你。}
-{5260}{}{他们会找人来扁你的喔！到时候就吃冰淇淋跟蛋糕来庆祝——}
- 
- 
+{5260}{}{他们会找人来扁你的喔！到时候就吃冰淇淋跟蛋糕来庆祝——}  
 # Heart pills quest - RP
 {6000}{}{I was looking for some pointers on heart health. Think you could fill me in on a thing or two?}
 

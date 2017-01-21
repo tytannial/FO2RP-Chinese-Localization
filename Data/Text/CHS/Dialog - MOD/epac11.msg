@@ -1,15 +1,11 @@
 {100}{}{You see Sergeant Cat Jules.}
-{101}{}{You see a good-looking black man with rather pronounced canines. He moves with a constant swagger and has a smug
- expression on his face.}
+{101}{}{You see a good-looking black man with rather pronounced canines. He moves with a constant swagger and has a smug expression on his face.}
 
-{200}{}{[As you approach the cryogenic chamber, you see a slender, naked black man sprawled on the floor.
- His muscular body is still shaking from the icy, cold water. He looks up at you as you approach.]}
+{200}{}{[As you approach the cryogenic chamber, you see a slender, naked black man sprawled on the floor. His muscular body is still shaking from the icy, cold water. He looks up at you as you approach.]}
 {201}{}{Who are you?}
 
-{210}{}{[Standing up and shaking himself dry like a wet animal, the man looks at you and smirks, revealing some oddly sharp front teeth.]
- Who am *I*? Who are *you*? You look like a heavily armed hobo!}
-{211}{}{[Standing up and shaking himself dry like a wet animal, the man looks at you grinning widely, revealing some oddly sharp front teeth.]
- Who am *I*. Why, I'm only Sgt. Jules, the best-looking soldier on this base, gorgeous!}
+{210}{}{[Standing up and shaking himself dry like a wet animal, the man looks at you and smirks, revealing some oddly sharp front teeth.] Who am *I*? Who are *you*? You look like a heavily armed hobo!}
+{211}{}{[Standing up and shaking himself dry like a wet animal, the man looks at you grinning widely, revealing some oddly sharp front teeth.] Who am *I*. Why, I'm only Sgt. Jules, the best-looking soldier on this base, gorgeous!}
 {212}{}{I'm }
 {213}{}{. But, what's your name?}
 {214}{}{Don't you get cocky with me. What's with this place anyway?}
@@ -23,18 +19,12 @@
 {231}{}{Right, whatever you say. So, what's with this place?}
 {232}{}{I think we are talking about two different people...So, what's going on around here anyway?}
 
-{240}{}{This is some government facility as far as I know. They do all kinds of top secret research. But...[He looks around
- the room.] it's awfully quiet. Where is everybody?}
-{241}{}{Well, this is probably going to come as a shock to you, but you've been frozen for over a century. The world's
- not the same anymore. They dropped the bombs and the Earth went silent. Society is still trying to rebuild itself from
- the ashes.}
- 
-{250}{}{[Sgt. Jules looks at you with a raised eyebrow.] You ain't kidding, are you? Well, they actually followed through
- with it then. Damn. Guess I'm lucky to have been pulled from the military and brought here.}
+{240}{}{This is some government facility as far as I know. They do all kinds of top secret research. But...[He looks around the room.] it's awfully quiet. Where is everybody?}
+{241}{}{Well, this is probably going to come as a shock to you, but you've been frozen for over a century. The world's not the same anymore. They dropped the bombs and the Earth went silent. Society is still trying to rebuild itself from the ashes.} 
+{250}{}{[Sgt. Jules looks at you with a raised eyebrow.] You ain't kidding, are you? Well, they actually followed through with it then. Damn. Guess I'm lucky to have been pulled from the military and brought here.}
 {251}{}{You were in the army?}
 
-{260}{}{Yep. I was the energy weapons expert. Pretty nimble on my feet too. I was only in the army for about a year
- before I was reassigned here. It's a shame I'll never see any of my friends again. I would have liked to have exchanged some goodbyes.}
+{260}{}{Yep. I was the energy weapons expert. Pretty nimble on my feet too. I was only in the army for about a year before I was reassigned here. It's a shame I'll never see any of my friends again. I would have liked to have exchanged some goodbyes.}
 {261}{}{I'm sorry.}
 {262}{}{I'm sorry for your losses, but you have to move on. Wallowing in your own misery won't get you anywhere.}
 
@@ -47,8 +37,7 @@
 {281}{}{Sounds good. Let's go.}
 {282}{}{Whatever you say.}
 
-{2900}{}{I need to put on some clothing first. [Looking around, Cat spots a locker, opens it and looks inside.]
- These really aren't my style, but I guess they'll do. [He quickly puts the clothing on.] Alright, I'm good to go.}
+{2900}{}{I need to put on some clothing first. [Looking around, Cat spots a locker, opens it and looks inside.] These really aren't my style, but I guess they'll do. [He quickly puts the clothing on.] Alright, I'm good to go.}
 {2901}{}{[END]}
 
 {290}{}{Don't you worry about this ol' cat. I'll find my place in this world. Now step aside and let the Cat do his thing.}
@@ -56,15 +45,9 @@
 
 #past
 {300}{}{So, how did you end up in that cryo chamber? And what happened to your teeth?}
-{301}{}{I used to be the guard for one of the genetics labs. They were messing with human and feline DNA.
- Trying to make something with the best of both worlds, I suppose. And that's where yours truly comes in.
- [Cat flashes you his toothy grin.] They wanted a volunteer for one of their projects. It was for scouts and the like, supposed to
- make you more agile and flexible. I liked the sound of that *leers*. Anyway, they gave me this shot, put me under, and
- the next thing I knew, I had these teeth, and I felt.... sharper? Kind of predatory.}
+{301}{}{I used to be the guard for one of the genetics labs. They were messing with human and feline DNA. Trying to make something with the best of both worlds, I suppose. And that's where yours truly comes in. [Cat flashes you his toothy grin.] They wanted a volunteer for one of their projects. It was for scouts and the like, supposed to make you more agile and flexible. I liked the sound of that *leers*. Anyway, they gave me this shot, put me under, and the next thing I knew, I had these teeth, and I felt.... sharper? Kind of predatory.}
 {302}{}{Go on.}
-{303}{}{Well, apparently the experiment wasn't going as planned and whatever they put inside me wasn't sitting
- well with my system. I don't know what they meant by that, since I felt better than ever. They decided to throw me in
- the cryo freezer until they figured out what to do with me.}
+{303}{}{Well, apparently the experiment wasn't going as planned and whatever they put inside me wasn't sitting well with my system. I don't know what they meant by that, since I felt better than ever. They decided to throw me in the cryo freezer until they figured out what to do with me.}
 {304}{}{And then I thawed you out. Seems like you owe me one.}
 {305}{}{Yeah, you saved me. In return, maybe I can save your sense of style, monkey.}
 {306}{}{Monkey? Must be the cat DNA talking. That's all I need to know for now.}
@@ -88,9 +71,7 @@
 
 #skills
 {410}{}{What do you need to know?}
-{411}{}{Well, I was trained to use the usual military stuff. Rifles, pistols, SMGs and the like. I prefer laser
- weapons and the like better though. Those have style! But if you give me some brass knuckles or one of those power fists,
- I'll pounce on any flat-footed goons before they know what hit them!}
+{411}{}{Well, I was trained to use the usual military stuff. Rifles, pistols, SMGs and the like. I prefer laser weapons and the like better though. Those have style! But if you give me some brass knuckles or one of those power fists, I'll pounce on any flat-footed goons before they know what hit them!}
 
 #distance
 {421}{}{What's wrong with it?}
@@ -128,12 +109,8 @@
 {491}{}{Baby, you got real ugly. I'm outta here.}
 
 #party full
-{500}{}{Don't get me wrong, it is good to stick together, but you are taking this a little too far. Come back when you
- got less people.}
-{501}{}{Don't get me wrong, it is good to stick together, but you are taking this a little too far. Come back when you
- got less people. Now while you are making room, I'm going to find some clothing to wear. [Looking around, Cat Jules spots
- a locker, opens it and looks inside.] These really are not my style, but I guess they will do. [He quickly puts the clothing on.]
- Alright, let me know when you are ready.}
+{500}{}{Don't get me wrong, it is good to stick together, but you are taking this a little too far. Come back when you got less people.}
+{501}{}{Don't get me wrong, it is good to stick together, but you are taking this a little too far. Come back when you got less people. Now while you are making room, I'm going to find some clothing to wear. [Looking around, Cat Jules spots a locker, opens it and looks inside.] These really are not my style, but I guess they will do. [He quickly puts the clothing on.] Alright, let me know when you are ready.}
 
 #poisoned
 {510}{}{Did I eat bad fish or something? I feel poisoned.}

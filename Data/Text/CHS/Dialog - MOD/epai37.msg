@@ -1,8 +1,7 @@
 {100}{}{You see a modified Auto-Doc.}
 {101}{}{This Auto-Doc appears to have been modified to perform experimental appearance modifications.}
 
-{200}{}{[The machine addresses you as you approach.] Welcome, Test Subject. Thank you for volunteering your flesh for
- science. Please, step inside me and we can begin.}
+{200}{}{[The machine addresses you as you approach.] Welcome, Test Subject. Thank you for volunteering your flesh for science. Please, step inside me and we can begin.}
 {201}{}{Whoa, I never said I was volunteering anything. Now before I step anywhere, why don't you tell me exactly what you do?}
 {202}{}{[Shrug.] Alright. [Step into the device.]}
 {203}{}{You've got me confused with someone else. Bye.}
@@ -12,9 +11,7 @@
 {302}{}{Alright. [Step into the device.]}
 {303}{}{I don't think so. Bye.}
 
-{400}{}{I'm the newest prototype of Auto-Doc technology, developed by Dr. Wood. I specialize in extreme body
- modification--the ultimate makeover. There's no need to be nervous, as my patient death rate is significantly lower
- than the previous prototype. Don't be shy, step inside me and we can begin.}
+{400}{}{I'm the newest prototype of Auto-Doc technology, developed by Dr. Wood. I specialize in extreme body modification--the ultimate makeover. There's no need to be nervous, as my patient death rate is significantly lower than the previous prototype. Don't be shy, step inside me and we can begin.}
 {401}{}{You're not touching me. Bye.}
 {402}{}{I'd love to, but I really need to get going. Sorry.}
 {403}{}{Alright. [Step into the device.]}
@@ -57,6 +54,5 @@
 
 {650}{}{I'm sorry, this particular procedure is not currently available for females.}
 
-{700}{}{I'm sorry, but something went terribly wrong with the procedure. We apologize for this inconvenience, but thank
- you for volunteering for the sake of science.}
+{700}{}{I'm sorry, but something went terribly wrong with the procedure. We apologize for this inconvenience, but thank you for volunteering for the sake of science.}
 {701}{}{Oh, shit...}

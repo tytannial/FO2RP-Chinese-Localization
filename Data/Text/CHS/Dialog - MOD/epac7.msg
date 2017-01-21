@@ -59,9 +59,7 @@
 {303}{}{我做了什么？}
 
 #added in RP 1.3
-{310}{}{Do you think you could fix the lighting? It's improper for me to conduct tours through such a dimly lit complex.
- If you could brighten this place up for me, I'll give you the password. Please, remember to wash your hands thoroughly
- after visiting our petting zoo.}
+{310}{}{Do you think you could fix the lighting? It's improper for me to conduct tours through such a dimly lit complex. If you could brighten this place up for me, I'll give you the password. Please, remember to wash your hands thoroughly after visiting our petting zoo.}
 {311}{}{Alright. I'll see what I can do.}
 {312}{}{Nevermind. I'm not interested.}
 

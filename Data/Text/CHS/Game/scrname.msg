@@ -1375,7 +1375,7 @@
 {1457}{}{Tribe map 2 - spacial 2}       # tribesp2.int    ; cavein spacial
 {1458}{}{Gecko}                         # tribec10.int    ; Gecko in Tribe Cave
 {1459}{}{Cave Guard}                    # tribec11.int    ; Tribal guarding entrance to cave
-{1460}{}{dead body}     {尸体}     # tribec5a.int    ; Karla's dead body
+{1460}{}{尸体}                              # tribec5a.int    ; Karla's dead body
 {1461}{}{woods spacial}                 # tribesp3.int    ; spacial to trigger seeing the ghost
 {1462}{}{Don}                           # slvcc1.int      ; Head of Slaver Camp
 {1463}{}{奴隶商人}                        # slvcc2.int      ; Guards at Slaver Camp

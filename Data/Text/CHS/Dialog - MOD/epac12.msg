@@ -6,14 +6,11 @@
 
 {150}{}{It's not nice to stare.}
 
-{200}{}{Before you lies an open tank with icy cold water slowly being drained through a long, serpentine pipe. Inside, a
- woman, naked from head to toe, lies gasping and shivering. Looking around quickly, you snatch a bundle of loose clothing
- from a nearby locker and drape them over her for warmth.}
+{200}{}{Before you lies an open tank with icy cold water slowly being drained through a long, serpentine pipe. Inside, a woman, naked from head to toe, lies gasping and shivering. Looking around quickly, you snatch a bundle of loose clothing from a nearby locker and drape them over her for warmth.}
 {201}{}{Whoa. That had to be some trip. Are you alright?}
 {202}{}{Y-yes, the p-p-preservator r-restored my b-body t-t-temperature.}
 {203}{}{Not all of it, it looks like. }
-{204}{}{[You give it some time for her teeth to stop chattering. She recovers much quicker than you expect her to
- and looks up at you with sudden gravity.] Is... it over?}
+{204}{}{[You give it some time for her teeth to stop chattering. She recovers much quicker than you expect her to and looks up at you with sudden gravity.] Is... it over?}
 {205}{}{Is what over? }
 {206}{}{You mean the War?}
 {207}{}{The War. All those nukes.}
@@ -22,15 +19,13 @@
 {210}{}{[She brushes wet strands of hair from her eyes. You notice one eye is brown while the other is emerald green.] Who won?}
 {211}{}{No one.}
 {212}{}{[She looks at you blankly. She's very easy on the eyes, especially for someone who was just thawed out of a block of ice.]}
-{213}{}{When 90% of the world is scorched to a crispy brown, I'd say it's hard to declare a clear winner.
- I mean, there wasn't much left worth winning.}
+{213}{}{When 90% of the world is scorched to a crispy brown, I'd say it's hard to declare a clear winner. I mean, there wasn't much left worth winning.}
 {214}{}{What... what date is it? What year? Is it still 2077?}
 {215}{}{Hell, no. [You show her the date on your Pip Boy's calendar.]}
 {216}{}{[She stares at the flickering screen, frozen in time like she never left the tank.]}
 {217}{}{Are you alright?}
 {218}{}{My God. I don't believe it. I was in that thing for over a century?!}
-{219}{}{Seems like it. Hey, listen, don't look at me like that. I had nothing to do with putting you in there. Hell,
- my grandpa wasn't even alive back then. I just stumbled upon the location of this place and decided to check it out.}
+{219}{}{Seems like it. Hey, listen, don't look at me like that. I had nothing to do with putting you in there. Hell, my grandpa wasn't even alive back then. I just stumbled upon the location of this place and decided to check it out.}
 {220}{}{Well, will you help me up, or would like it better if I continued sitting naked at your feet?}
 {221}{}{I was just about to. [You help her to her feet.]}
 {222}{}{Why did you wake me?}
@@ -38,11 +33,8 @@
 {224}{}{I have this terrible habit of touching everything I encounter. One thing led to another.}
 {225}{}{You say you don't even work in this place?}
 {226}{}{That's what I said.}
-{227}{}{Then if you hadn't come along, I would've been stuck in that thing even longer. Maybe forever.
- (She pulls one of the shirts you wrapped her in over her head.) What's it like now, the world out there?
- You said 90% of it was destroyed?}
-{228}{}{My world is a wasteland where every day is a struggle for survival. Most people have taken shelter in the ruined remains of the old ones.
- Others, like my tribe, attempt to forge a simple existence in the harsh wilderness. Truth told, it could be centuries before it even comes close to recovering.}
+{227}{}{Then if you hadn't come along, I would've been stuck in that thing even longer. Maybe forever. (She pulls one of the shirts you wrapped her in over her head.) What's it like now, the world out there? You said 90% of it was destroyed?}
+{228}{}{My world is a wasteland where every day is a struggle for survival. Most people have taken shelter in the ruined remains of the old ones. Others, like my tribe, attempt to forge a simple existence in the harsh wilderness. Truth told, it could be centuries before it even comes close to recovering.}
 {229}{}{It can't possibly be as bad as it sounds. [She doesn't sound like she's convinced of one word she just said.]}
 {230}{}{It's nothing like America in 2077, that's for sure.}
 {231}{}{[She pulls a pair of pants on.] So, what now?}
@@ -53,8 +45,7 @@
 {235}{}{Kitsune, what were you doing cryoed away in that tank?}
 {236}{}{I don't know for sure. They knew the War was about to happen, so they put me in a preservator like the others.}
 {237}{}{Do you have any clue what this place is?}
-{238}{}{From what I know, it's a branch of the United States Environmental Protection Agency. I was in Arizona when the
- War happened. I was taken here immediately.}
+{238}{}{From what I know, it's a branch of the United States Environmental Protection Agency. I was in Arizona when the War happened. I was taken here immediately.}
 {239}{}{You must have been pretty important for them to want to preserve you. Were you a Chosen One, like me?}
 {240}{}{Uh, not exactly. I was a homemaker, married to a councilman. Before that I wrote for several different news publications. It wasn't what you'd call a terribly exciting life.}
 {241}{}{What happened to him, your husband?}
@@ -68,16 +59,13 @@
 
 #join me
 {250}{}{What are you going to do now?}
-{251}{}{I don't know. What do you do when you've been hibernating for over a century? Even bears don't sleep that long.
- The world out there isn't the world I knew. I don't know if I could stand to see what it's turned into.}
-{252}{}{I know it's a wasteland out there, but you've still got a whole life to live. You're wasting it down here.
- Come with me and maybe we can make something of it.}
+{251}{}{I don't know. What do you do when you've been hibernating for over a century? Even bears don't sleep that long. The world out there isn't the world I knew. I don't know if I could stand to see what it's turned into.}
+{252}{}{I know it's a wasteland out there, but you've still got a whole life to live. You're wasting it down here. Come with me and maybe we can make something of it.}
 {253}{}{It doesn't look like you've got much of a choice. You can either sit down here and rot, or you could come with me. It's up to you.}
 
 
 #join success
-{260}{}{You know, you're right. I could go back to being frozen and sleep it off for another hundred years, but that
- would be the cheap way out. I need to see for myself what the world's become, and play a part in putting it back together.}
+{260}{}{You know, you're right. I could go back to being frozen and sleep it off for another hundred years, but that would be the cheap way out. I need to see for myself what the world's become, and play a part in putting it back together.}
 {261}{}{Come on then. Let's go grab a brahmin steak first thing.}
 {262}{}{Don't make me regret this.}
 
@@ -87,13 +75,9 @@
 {272}{}{Maybe. But don't count on that happening. I should just go back to sleep for another century or so.}
 
 #2nd chance at join failure
-{280}{}{What if these machines stopped functioning though? You'd be dead and you'd never know
- whether the world that blew itself up ever put itself back together.}
+{280}{}{What if these machines stopped functioning though? You'd be dead and you'd never know whether the world that blew itself up ever put itself back together.}
 {281}{}{Then I'll watch what happens to it from wherever I am.}
-{282}{}{How do you know for sure you're gonna be taken someplace special after you sleep the big sleep? I come from a
- tribe that believes in the afterlife and prophecies, but from a pragmatic standpoint we're all just a bunch of organic
- machines that think and talk and feel because of flesh and chemical components. What if there's nothing after you die -- we
- shut down like computers -- and this is all you've got?}
+{282}{}{How do you know for sure you're gonna be taken someplace special after you sleep the big sleep? I come from a tribe that believes in the afterlife and prophecies, but from a pragmatic standpoint we're all just a bunch of organic machines that think and talk and feel because of flesh and chemical components. What if there's nothing after you die -- we shut down like computers -- and this is all you've got?}
 {283}{}{I'd rather take my chances in cryogenic suspension than wander that wasteland.}
 {284}{}{Oh yeah? You don't seem all that sure anymore.}
 {285}{}{[Kitsune ponders your words for a good long while. Finally, she lines her eyes with yours.] I can't pretend you don't have a point. Maybe... maybe I will take my chances with you.}
@@ -112,8 +96,7 @@
 {305}{}{Is there anything you need from me?}
 
 #past
-{310}{}{Kitsune, I'm pretty sure you wouldn't have been frozen in a cryo tank for no good reason.
- I'm interested in knowing what it was exactly you did before you were put on ice.}
+{310}{}{Kitsune, I'm pretty sure you wouldn't have been frozen in a cryo tank for no good reason. I'm interested in knowing what it was exactly you did before you were put on ice.}
 {311}{}{Why do you care? It's in the past.}
 {312}{}{We're on the road together. I want to know more about you.}
 {313}{}{[Sighs.] Well, I suppose there's no need for secrecy anymore. It's just hard to break a life-long habit. You see, I was pretty much born a spy.}
@@ -127,8 +110,7 @@
 {320}{}{Actually, it didn't turn out so bad. You see, she thought along the same lines as my father, and within a couple of months, they were married.}
 {321}{}{Some guys have all the luck, huh?}
 {3210}{}{Alright, now that I know your dad's life story, would you mind getting to the part about you?}
-{322}{}{They had me a year later. I was raised in China under the facade of a patriot. In school I'd write about how China was strongest when unified, and how we had to continue to strive toward social equality. 
- When I was older I wrote for nationalist newspapers and participated in debates supporting the ruling party.}
+{322}{}{They had me a year later. I was raised in China under the facade of a patriot. In school I'd write about how China was strongest when unified, and how we had to continue to strive toward social equality.  When I was older I wrote for nationalist newspapers and participated in debates supporting the ruling party.}
 {323}{}{Wow, most of that went way over my head. But if I understand correctly, you're saying you and your parents deceived the Chinese into thinking you were loyal.}
 {324}{}{Your parents took great pains to make sure your family's true loyalties stayed secret.}
 {325}{}{All warfare is based on deception. My parents loved their country. They just hated the people who ran it and thought it would be better off as a democracy. The way they saw it, they weren't betraying China - they were working against a government they didn't believe was good for it.}
@@ -161,20 +143,16 @@
 #you didn't cause the war
 {350}{}{I know what you must be thinking, but you can't blame yourself for something like that.}
 {351}{}{It's always easier not to accept responsibility.}
-{352}{}{You couldn't have known. Besides, there were other conflicts between the "powers". They would've blown each other
- up sooner or later. It was only a matter of time.}
+{352}{}{You couldn't have known. Besides, there were other conflicts between the "powers". They would've blown each other up sooner or later. It was only a matter of time.}
 {353}{}{Humans are the worst things.}
 {354}{}{I don't consider myself that bad.}
-{355}{}{Nature's been trying to wipe us out for millennia. All these new diseases, natural disasters. We were some kind
- of evolutionary mistake. Maybe we came about too early or weren't suppose to come about at all. We've done more damage
- to this planet than any thing living or dead.}
+{355}{}{Nature's been trying to wipe us out for millennia. All these new diseases, natural disasters. We were some kind of evolutionary mistake. Maybe we came about too early or weren't suppose to come about at all. We've done more damage to this planet than any thing living or dead.}
 {356}{}{But we can atone for it. That's the special thing about us.}
 {357}{}{You've got an awfully nice way of putting it. Thanks for hearing me out. I almost feel like I can move on.}
 
 #teach me something
 {360}{}{Say, since you were a spy, I'm sure you're pretty skilled at stealth and all that. Anything you can teach me?}
-{361}{}{Yes, I've had a quite a bit of practice with sneaking, lockpicking, and stealing. Here, let me show you a few things
- they don't teach you in the books.}
+{361}{}{Yes, I've had a quite a bit of practice with sneaking, lockpicking, and stealing. Here, let me show you a few things they don't teach you in the books.}
 {362}{}{You've got it now. Remember, practice makes perfect.}
 {363}{}{Hey, thanks. I think it's about time we headed out.}
 
@@ -183,11 +161,9 @@
 {371}{}{What about them?}
 {372}{}{They're different colors.}
 {373}{}{What's the term for it... heterochromia? Is that what you have?}
-{374}{}{Mine isn't a natural condition. The one on the left didn't belong to me. I lost the old one in an accident.
- And I've never learned to appreciate that until now.}
+{374}{}{Mine isn't a natural condition. The one on the left didn't belong to me. I lost the old one in an accident. And I've never learned to appreciate that until now.}
 {375}{}{What do you mean?}
-{376}{}{Ever since the transplant I always felt like I was seeing the past in one eye and the present in the other.
- More so than ever now. And that helps me carry on.}
+{376}{}{Ever since the transplant I always felt like I was seeing the past in one eye and the present in the other. More so than ever now. And that helps me carry on.}
 {377}{}{We all have our ways of coping.}
 
 #skills

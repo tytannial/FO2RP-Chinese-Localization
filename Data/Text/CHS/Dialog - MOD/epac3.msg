@@ -68,5 +68,4 @@
 {401}{}{你修烤面包机失败了。}
 {402}{}{你已经修好了烤面包机。}
 {403}{}{ successfully repairs the toaster.}
-{404}{}{ fails to repair the toaster.}
- 
+{404}{}{ fails to repair the toaster.} 

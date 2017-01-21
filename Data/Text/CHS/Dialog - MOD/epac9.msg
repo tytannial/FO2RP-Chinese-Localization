@@ -51,7 +51,6 @@
 {263}{}{退出}
 
 # Node  7  [Node008]
-#{270}{}{To make a Doctor's bag you require: One Rucksack, one Stimpack, one Medical Kit, one Hypodermic Needle and one Poison Antidote.}
 {270}{}{制医疗包需要：1帆布包，1医疗针，1医疗箱，1针管，1解毒剂。}
 {272}{}{制一个医疗包。}
 
