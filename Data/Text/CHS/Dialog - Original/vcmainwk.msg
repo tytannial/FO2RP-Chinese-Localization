@@ -259,6 +259,3 @@
 {358}{}{}
 {359}{}{嘿，我有你需要的工具。}
 {360}{}{看上去你没有什么我可以用的。我大部分都是制造手枪，长枪，那一类的东西。}
-
-#{370}{}{Hey! Glad you made it back. Last I heard, you were traveling down south, flying helicopters and blowing up oil derricks.}
-{370}{}{嗨！很高兴你做到了。最近我听说你去南方旅行了，架使直升机到钻台还把它炸了。}

@@ -18,8 +18,8 @@
 {142}{}{啊，你肯定是忘记了。}
 {143}{}{这只是我香水的味道，你喜欢吗？}
 {144}{}{我杀了你的手下，在他身上拿到的。}
-# {145}{}{I got it from a village near Vault City. The people there said your followers left these with them.}
 {145}{}{我在地下掩体市附近的一个村庄得到了它。那里的居民说，是你的追随者给他们的。}
+
 {150}{}{你准备好成为我们的一员吗？}
 {151}{}{我生下来就准备好了。在那里可以加入？}
 {152}{}{你是说准备好要成为一只巨鼠吗？}
@@ -36,19 +36,12 @@
 {180}{}{我不管你从哪弄来的。我只想要知道你是不是真心的想要加入我们？}
 {181}{}{加入你们？什么意思？}
 {182}{}{加入你们，我宁可打扫你的笼子，也不要加入你们。}
-# {183}{}{This depends upon whether you will help me with an important matter.}
 {183}{}{这取决于您是否帮我搞定一件重要事情。}
-# {184}{}{What do you want?}
 {184}{}{你想要什么？}
-# {185}{}{I want your molerats to stop attacking Vault City's patrols.}
 {185}{}{我想要你的地鼠们停止攻击地下掩体市的巡逻队。}
-# {186}{}{Very well. I shall comply, but only if you do something for me first.}
 {186}{}{非常好。我将遵守，但是首先你必须为我做某件事。}
-# {187}{}{You want me to do something for you? Like what?}
 {187}{}{你想要我为你做某件事？是什么？}
-# {188}{}{Well, but, we had a contract - I repair the reactor, and you withdraw the creatures.}
 {188}{}{好吧，但是，我们有了一份约定－ 我修理反应炉，而你撤回你的地鼠生物。}
-# {189}{}{Well, you know, it would be quite good if the reactor were optimized.}
 {189}{}{好吧，你知道，如果反应炉被最佳化，它将会有更加完美的输出效率。}
 
 {190}{}{嗯，我统治世界的计划里包括要研究把我手下的僵尸变回人，以此奖励他们的忠心。}
@@ -190,8 +183,8 @@
 {608}{}{你说有关反应炉的什么？}
 {609}{}{给谁？}
 {610}{}{那我走了。再见。}
-# {611}{}{You need to get that Hydroelectric Magnetosphere Regulator installed before the plant is operational again.}
 {611}{}{你必须在核电厂的运作前找到这液压电磁力场稳定器并安装好它。}
+
 {620}{}{我被称呼为大脑，因为我很聪明。所有在蜥蜴城发生的事我都很清楚。}
 {621}{}{但是你只不过是一只大老鼠而已。}
 {622}{}{你刚刚提到什么有关加入你们的事？}
@@ -223,64 +216,31 @@
 {670}{}{反应炉，始终是反应炉（叹气）。等你有进展之后再回来吧。}
 {671}{}{等一下再回来吧，我正在和一些高智慧的东西沟通。}
 
-# {672}{}{Look, if you won't do as I ask you, the people in the Village will suffer.}  #(Listen, if you won't do what I request / I asked you for, It's the people who will suffer / will be hurt/harmed.)
-{672}{}{我请求你想想，如果你不去做，全村的人都将会受害。}
+{672}{}{Look, if you don't call off the attacks, the people in the village could end up enslaved by Vault City.}
+
 {700}{}{我没什么跟你好说的了。}
 
 
-# {701}{}{Here's the deal: Either you do what you are told or I blow this damn reactor to bits!}
-# {702}{}{All right, All right... Just don't touch the reactor. Consider it done.}
-# {703}{}{Now that we are in agreement what were you saying about the optimization?}
-# {704}{}{It's settled then. Goodbye.}
-# {705}{}{You came to an agreement about the monsters with The Brain.}
-# {706}{}{OK, but could you fulfill a request I have first?}
-# {707}{}{I'm not fully confident in you. You have to optimize the reactor first, and then I will help you. }
-# {708}{}{Alright, what has to be done?}
-# {709}{}{Listen here, you radioactive rat, you are starting to piss me off. You said your relative had kicked the bucket, well, I want you to know - it was me, who finished him off. Now it's your turn.}
-# {710}{}{Listen here, you radioactive rat, you are starting to piss me off. It's time to stop the madness.}
-# {711}{}{I must think this over.}
-# {712}{}{Oh, that's how it is. For some reason, I thought you were doing it for Vault City. I will fulfill your request.}
-# {713}{}{It seems to me, that because you have fixed the reactor, you deserve my help. What is it that you want?}
-# {714}{}{Thank you! What were you saying about the optimization?}
-# {715}{}{Thank you! Bye.}
-
-{701}{}{这就是处理办法：要不是你就按你说方式去做，不然就是我来把这个该死的反应器炸个粉碎！}
-{702}{}{好的，好的。就是不要碰触到反应炉。没问题的。}
-{703}{}{既然现在我们在约定协议中你能说说关于最佳化的事嘛？}
-{704}{}{确定它完成。再见。}
-{705}{}{你和这个叫大脑的怪物达成了协议。}
-{706}{}{好，但首先你可以实现我的一个请求吗？}
-{707}{}{我对您不是充分地有信心。首先你必须将反应炉最佳化，然后我再会帮助你。}
-{708}{}{好吧，该做些什么？}
-{709}{}{给我听着，您这只放射线老鼠，您开始让我觉得烦透了。你说你亲戚已经翘辫子了，很好，我想要你知道：结束它小命的人是我。 现在轮到你了。。}
-{710}{}{给我听着，您这只放射线老鼠，您开始让我觉得烦透了。让时间停止在疯狂的时刻吧。}
-{711}{}{我必须仔细考虑这个问题。}
-{712}{}{哦，是那样啊。由于种种原因，我将认为你是为了地下掩体市在做这件事。我将履行您的请求。}
-{713}{}{在我看来，那是因为你修好了反应炉，你值得我帮助你。说吧有什么是你想要的？}
-{714}{}{谢谢你！关于你说的最佳化事什么？}
-{715}{}{谢谢你！再见。}
-
+{701}{}{Alright you ugly son-of-a-bitch, now I've got a new deal for you: Either you call off your rodents, or I swear to you I'll blow the damn reactor!}
+{702}{}{All right, all right... Consider it done. Just, don't touch the reactor. (mumbles) Damn psychotic humans...}
+{703}{}{Now that we're in agreement, what were you saying about the optimization?}
+{704}{}{It's settled then. Goodbye.}
+{705}{}{You came to an agreement about the molerats with The Brain.}
+{706}{}{Vault City's patrols keep getting attacked by molerats. I assume you're behind this?}
+{707}{}{You ask for my assistance, yet you leave a task half-finished. (to himself) Typical human. (to you) Optimize the reactor, then, and only then, shall I assist you.}
+{708}{}{That depends. What is it?}
+{709}{}{Listen here, you radioactive rat. You're really starting to piss me off. You said your "kin" had kicked the bucket... Well, I want you to know -- it was me, who finished him off. And now I think I'll finish the job of rendering your kind extinct.}
+{710}{}{Listen here, you radioactive rat. You're really starting to piss me off. I think it's time I put a stop to this madness.}
+{711}{}{I need to think this over.}
+{712}{}{Most interesting... and here I thought you were concerned for the well-being of Vault City. Anyway, the safety of that village is integral to my plan. Therefore, I shall grant your request, human.}
+{713}{}{It seems to me, that because you have fixed and optimized the reactor, you deserve my help. What is it that you want?}
+{714}{}{Thank you! What were you saying about the optimization?}
+{715}{}{Thank you! Bye.}
 #was 701,702,703 - killap
-# {716}{}{It appears that Gordon has already given you this Economic Data Disk that I speak of. Take it to Vault City immediately.}
-# {717}{}{I'm on it.}
-# {718}{}{Umm...yeah, maybe later.}
+{716}{}{It appears that Gordon has already given you this Economic Data Disk that I speak of. Take it to Vault City immediately.}
+{717}{}{I'm on it.}
+{718}{}{Umm...yeah, maybe later.}
 
-# {800}{}{OK, so what are you proposing?}
-# {810}{}{I crawled outside. As I began to heal, I noticed that I had changed. I tried to communicate with people, but they all just tried to kill me. Humans are just too violent to survive under their own leadership -- but that's another story...}
-# {820}{}{Uh...do I have something to do?}
-# {830}{}{How do I install it in the reactor?}
-# {840}{}{How do I repair the reactor?}
-# {850}{}{A pity that you think that way. Zomak! Kill this fool for me.}
-# {860}{}{Consider it done. Now leave.}
-
-{716}{}{看起来格登已经给了您我所讲话的经济资料磁碟。立刻带它到地下掩体市。}
-{717}{}{我马上去。}
-{718}{}{呀！稍后就去。}
-
-{800}{}{好，为此您要提出什么？}
-{810}{}{我爬了出去。当我的身体复元时，我可以感觉到我的身体正在产生变化。我试着想要和人类交谈，但是他们却只想要把我杀了。人类实在是太残酷了．．不过，那些都是题外话。}
-{820}{}{恩...我需要做的哪些事？}
-{830}{}{我该怎么在反应炉上安装它？}
-{840}{}{我该怎么修理反应炉？}
-{850}{}{一个你认为遗憾的方法。祖可！替我杀了这一个蠢蛋。}
-{860}{}{没问题。滚吧。}
+{719}{}{You *must* get a Hydroelectric Magnetosphere Regulator from Vault City in order to repair the Gecko reactor. If you don't, then Vault City will no doubt attack Gecko. If you help me, I will fulfill your request. So... will you join us?}
+{720}{}{Very well, I shall help you.}
+{721}{}{No, screw you rat brain! I've had enough of this. Time to die!}

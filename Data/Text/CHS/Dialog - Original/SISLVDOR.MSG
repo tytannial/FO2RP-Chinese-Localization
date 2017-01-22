@@ -1,32 +1,30 @@
 #############################################################
-#  Message File: Door.msg				    #
-#							    #
+#  Message File: Door.msg                                   #
+#                                                           #
 #  Note: Characters within curly braces (like line 100)     #
-#	 will be read in as a message string. Caution	    #
-#	 should be used when making comments. All comments  #
-#	 should be prepended with a pound symbol for	    #
-#	 visual ease. This does not comment out the line    #
-#	 though.					    #
-#							    #
-#  Purpose: This message file contains the information	    #
-#	    concerning doors in a locked state, trapped     #
-#	    state, locked and trapped state.		    #
-#							    #
+#        will be read in as a message string. Caution       #
+#        should be used when making comments. All comments  #
+#        should be prepended with a pound symbol for        #
+#        visual ease. This does not comment out the line    #
+#        though.                                            #
+#                                                           #
+#  Purpose: This message file contains the information      #
+#           concerning doors in a locked state, trapped     #
+#           state, locked and trapped state.                #
+#                                                           #
 #  Log: Please note any changes that have been made to this #
-#	file and comment which lines have changed.	    #
-#	April 19,1998 nbk: added message line to be used    #
-#			   for doors opened with keys.	    #
-#							    #
-#  Created: September 26, 1997				    #
-#							    #
-#  Updated:						    #
+#       file and comment which lines have changed.          #
+#                                                           #
+#  Created: September 26, 1997                              #
+#                                                           #
+#  Updated:                                                 #
 #############################################################
 
 #############################################################
 #  The following lines are for description of the door. The #
 #  first lines, line 100-1, are for the look_at_proc. The   #
 #  remainder until the next block are for description_proc  #
-#  based one skill and perception success.		    #
+#  based one skill and perception success.                  #
 #############################################################
 
 # look_at_proc
@@ -45,8 +43,6 @@
 {107}{}{你看到了一扇上面带锁的门，在上面并且装有陷阱，它可以被拆除掉。}
 {108}{}{你看到了一扇上面没有任何锁的门，但上面装有陷阱，它可以被拆除掉。}
 {109}{}{你看到了一扇上面带有生绣的锁的一道门，在上面并且装有陷阱，它可以被拆除掉。}
-
-# Fixed so far
 
 {110}{}{你看见了一扇坚固的门，上面有一个锁（可以被撬开），门匡上并且有一条被切断的电线，你也许能够将它撬开。}
 {111}{}{你看见了一扇坚固的门，上面有一个锁，门匡上并且有一条被切断的电线，你也许能够将它撬开。}
@@ -185,9 +181,6 @@
 {201}{}{巧妙的拆除了陷阱。}
 {202}{}{拆除陷阱失败了。}
 
-# Using a key on the door.
-{400}{}{你将容器上的锁打开了。}
-
 #############################################################
 #  The following lines are for when the player tries to     #
 #  use items on the door which are not lockpicks.	    #
@@ -264,5 +257,7 @@
 # NPC tries to set a trap on a closed door
 {210}{}{巧妙的在门上设了个陷阱。}
 {211}{}{在门上设陷阱的计划失败了。}
+
+# This is used specificly for this door
 {212}{}{这扇门不能够从这边打开。}
 {213}{}{这扇门动都不动。}
