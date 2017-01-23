@@ -26,3 +26,5 @@
 {129}{}{[你执行了离港程式，油轮马上离开了码头。]}
 {130}{}{完成}
 {131}{}{导航电脑上线。}
+
+{200}{}{WARNING: Submarine still active. Proceeding would result in the ship's destruction.}

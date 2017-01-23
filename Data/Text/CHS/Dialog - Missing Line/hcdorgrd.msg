@@ -52,3 +52,14 @@
 {300}{}{你好，又见面了。}
 {301}{}{我希望一切都正常。}
 
+#dumb dialogue added in RP 2.x
+{400}{}{Me want in.}
+{410}{}{[He looks at you oddly.] Well, you'll need a password then.}
+{411}{}{Me pass gas, not word.}
+{412}{}{Me want in!}
+{420}{}{Listen, I don't have time for this. You clearly shouldn't be here, so beat it or you'll be sorry.}
+{421}{}{Buh bye!}
+{422}{}{Me want goodies inside. U die now.}
+
+{430}{}{Last chance. Leave now or die.}
+{431}{}{I warned you!}

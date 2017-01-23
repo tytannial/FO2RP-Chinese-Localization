@@ -90,6 +90,10 @@
 {194}{}{好吧！你要什么？}
 
 {198}{}{镇里发生的事？有一些到处散播偏激言论的疯子被关了起来、矿坑的空气清净机坏了、到处都是商队、都是些正常的事。}
+{1981}{}{A couple of loons've been locked up for spreading hate propaganda.}
+{1982}{}{Mine's purifiers are down.}
+{1983}{}{Caravans all over the place. That's about normal.}
+{1984}{}{Go on.}
 {199}{}{谢谢，我还有更多的问题。}
 {200}{}{谢谢。再见。}
 

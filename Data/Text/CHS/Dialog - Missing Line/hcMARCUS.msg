@@ -431,7 +431,7 @@
 {10006}{}{我们分开些。}
 {10100}{}{我们走吧，马可世。}
 {10007}{}{我们走吧。}
-
+{10008}{}{Can you put your armor on?}
 
 # New Marcus dialog for new party structure, waiting for Vocs, from Phrases 81 and 79
 {20000}{mcs81b}{对。}

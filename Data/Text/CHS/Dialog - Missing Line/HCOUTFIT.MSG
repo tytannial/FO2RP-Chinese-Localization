@@ -149,3 +149,4 @@
 
 {212}{}{我很抱歉，但是没有查德的帮忙，我不能够给任何人工作。我会想念那个家伙的。}
 {213}{}{抱歉。再见。}
+{214}{}{I'm sorry, but without Chad around to help manage personnel, I can't be givin' out work the way I used to.}

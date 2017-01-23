@@ -25,6 +25,7 @@
 {203}{}{你是谁？}
 {204}{}{不，谢谢。}
 {205}{}{那你得和比尔谈谈。他就在后在的屋子里。}
+{2050}{}{In that case, you wanna talk to Bill, the Outfitter of Broken Hills. He's the one wearing a hat, right over there.}
 {206}{}{我还有一些问题。}
 {207}{}{谢谢，再见。}
 #About Chad...

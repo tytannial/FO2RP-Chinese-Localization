@@ -99,6 +99,13 @@
 {284}{}{对我没有影响。}
 
 {290}{}{让我看看，各种事都有发生。有分尸双头牛的虫人，大老鼠，走路的灵魂，还有失踪的猎人。}
+{2900}{}{Things are pretty quiet around here now, actually.}
+{2901}{}{brahmin-mutilating bugmen}
+{2902}{}{rodents of unusual size}
+{2903}{}{a walking spirit}
+{2904}{}{a missing trapper}
+{2905}{}{. Klamath's become a real hot spot lately.}
+
 {291}{}{告诉我有关分尸双头牛的虫人的事。}
 {292}{}{告诉我大老鼠的事。}
 {293}{}{告诉我走路的灵魂的事。}

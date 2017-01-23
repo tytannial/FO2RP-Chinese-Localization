@@ -222,3 +222,12 @@
 {1010}{}{实际上，目前的情况一些金钱补偿会比较好。}
 {1011}{}{什么？好吧，当然。你帮了我们，所以我们还是得感谢你。拿去这有$150。}
 {1012}{}{谢谢，一会见。}
+
+#dumb dialogue - added by killap --RP
+{2000}{}{Smilie?}
+{2001}{}{Huh?}
+{2002}{}{Ummm}
+{2003}{}{I help.}
+{2004}{}{Me no like story. BYE!}
+{2005}{}{Oh, thank you. Let me mark on your map where he talked about looking. I sure hope you can find him. He isn't much, but I still love him and I miss him more than I thought I could. Please find him for me. You sure you can handle this...mentally?}
+{2006}{}{Me strong. Me believe in me self.}

@@ -120,3 +120,9 @@
 {910}{}{我好久没有看到伊克了。我也不知道他到那里去了。你可以到澡堂去找珍妮。她跟伊克相当的熟．．懂吗？}
 {911}{}{让我问你一些其它的事。}
 {912}{}{艾尔多，那就是所有我想知道的了。}
+
+#added by killap
+{920}{}{Hello again, friend. Do you have another $20 to spare to make our friendship even better?}
+{921}{}{Moar? Ook.}
+{922}{}{Me no share. Byee.}
+

@@ -58,3 +58,8 @@
 
 {144}{}{你不应该在这边逗留的，离开吧。}
 {145}{}{如果被我知道那些囚犯逃到那边去了，我一定不会放过他们！}
+
+#added by killap - RP
+{150}{}{But… but… all right. They're out. You're accountable. I just hope you're right. Here is the...Hey, where'd my key go!? Shit, Marcus is gonna have my head if I lost that thing. Sorry, I gotta go.}
+{151}{}{All right.}
+{152}{}{I actually took that key from you. What are going to do about it?}

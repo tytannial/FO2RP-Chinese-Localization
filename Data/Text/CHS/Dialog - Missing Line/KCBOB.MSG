@@ -79,6 +79,13 @@
 {283}{}{不，谢了。}
 
 {290}{}{最近发生了许多事。双头牛被杀害，会走路的灵魂、巨大的老鼠、还有失踪的人。还有人说这些都与丹恩城的人有关。}
+{2900}{}{Things have slowed down recently. Nothing really to tell ya.}
+{2901}{}{brahmin mutilators}
+{2902}{}{walking spirits}
+{2903}{}{gigantical rats}
+{2904}{}{missing people}
+{2905}{}{. Some even say the Den's involved.}
+
 {291}{}{告诉我有关双头牛被杀害的事。}
 {292}{}{告诉我有关会走路的灵魂的事。}
 {293}{}{巨大的老鼠？我得要听听这一件有趣的事。}
