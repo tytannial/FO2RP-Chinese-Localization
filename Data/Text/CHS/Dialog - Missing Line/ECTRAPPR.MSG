@@ -40,3 +40,7 @@
 {136}{}{好，你赢了。}
 {137}{}{算你好运，我要走了。}
 {138}{}{我想我听到妈妈桑在叫我了。}
+
+{140}{}{Looks like I don't have any regular gecko pelts, but I do have }
+{141}{}{Looks like I don't have any golden gecko pelts, but I do have }
+{142}{}{Sorry, looks like I'm all out of stock.}

@@ -36,6 +36,10 @@
 {239}{}{我能不能问你另一个问题？}
 {240}{}{我改变主意了。再见。}
 
+{241}{}{Dex}
+{242}{}{Cat Jules}
+{243}{}{Kitsune}
+
 # 4. Before PC responses (From ?Everywhere?)
 {245}{}{去吧。}
 {246}{}{是吗？}
@@ -57,7 +61,7 @@
 {264}{}{不。}
 
 #killap - expansion (Actually part of Node007)
-{265}{}{那么，你抓了这么多奴隶在这, 这是你唯一监禁他们的地方？}
+{265}{}{I was looking over the slaves you got back there, but you see, I have very, uh...*selective* tastes, and none of them are quite what I'm looking for. Are these all the slaves you have to offer?}
 
 # 6. Want to join slaver's guild? (From 5, 7, 8)
 {270}{}{你以为你行吗？我不是任何人都接受的．．他妈的，反正如果你搅砸了，我就会把你给卖掉！首先，你得要在额头上刺上奴隶贩子的刺青。那是永远都无法磨灭的，所以这是无法后悔的。}
@@ -75,6 +79,7 @@
 {287}{}{我想加入。}
 {288}{}{在让我问一个问题，谢谢。}
 {289}{}{噢，好吧。再见。}
+
 
 # 8. Slaves from? (From 7)
 {300}{}{噢，每一个地方都有啊！我们主要都是抓一些原始人和土人。}
@@ -332,23 +337,16 @@
 
 {800}{}{你杀死了奴隶工会的首领。}
 
-#killap - expansion　ipisgfx译
-#What the fuck kind of question is that?! You're startin' to piss me off. Unless you got something important to say, beat it.  
-{900}{}{他妈的这是什么问题？你最好从我身边滚开。如果你说不出什么重要的事。你就死定了。}
-#Uh, sorry. Let me ask you something else then.
-{901}{}{噢，对不起。让我问你点别的吧。}
-#Right. I think I'll go then.
-{902}{}{对，我想我就要走了。}
-#Nah, I think I beat the information out of you instead.
-{903}{}{不，我想我会打到你把消息告诉我的。}
+#killap - expansion
+{900}{}{What you see is what you get. If you don't like my merchandise, then get the fuck out of my face and stop wasting my time.}
+{901}{}{Uh, sorry. Let me ask you something else then.}
+{902}{}{Right. I think I'll go then.}
+{903}{}{Actually, I think I'm going to waste *you* and your whole sick fucking operation.}
 
-#What the fuck is it to you?
-{910}{}{你他妈想干嘛？}
-
-{911}{}{因为这是奴隶工会，我觉得工会领地应该更大，最少在奴隶卖之前有地方可以监禁。}
-{912}{}{噢，只是好奇。}
-#Well, take your nosey questions someplace else then.
-{913}{}{很好，带着你的问题去别处吧。}
-{914}{}{我们当然还有其他的领地！ (麦塔则继续做自己的事，完全忽视你的存在) 就在这的西南，大约二天时间路程，那有我们的一个多功能的奴隶贩营地，有守卫，有工人等。任何战利品都要先送去那然后送去其他地区。(他回头看你) 你他妈的问这个干嘛？}
-{915}{}{这的西边，哦没什么(你将其记入了哔哔小子里) 只是想确定工会和你说的一样有实力。让我问你些别的吧。}
-{916}{}{这的西边，哦没什么 (你将其记入了哔哔小子里) 只是想确定工会和你说的一样有实力。现在我必需要走了。}
+{910}{}{This is all I've got in stock here, you picky fuck, but I've always got new merchandise coming in from my other slave camp. Maybe if you check back later, I'll have something that tickles your fancy -- but they're mostly ignorant tribals that all look the fucking same, so if that's not your thing, you might be shit outta luck.}
+{911}{}{Look, this might be an unusual request, but I'd really like to get first dibs on any new merchandise you got. Is there some way I could go check out the stock at your other camp? Of course, I'd be willing to pay a premium price.}
+{912}{}{Alright, I'll keep checking back then.}
+{913}{}{Good, but next time do me a favor and don't waste my time unless you've got actual business to discuss.}
+{914}{}{Premium price, huh? Now you're talking my kinda language. We usually handle sales here, but I suppose an exception could be made, as long as you're serious. I'll tell you how to get there, but you better keep it to your fucking self. I swear, if you turn out to be a spy for them fucking Rangers, I'll hunt you down and skin you alive. [You listen to his directions, and note the Slaver Camp's location in your Pipboy.]}
+{915}{}{Got it. Let me ask you something else.}
+{916}{}{Thanks. I'll be on my way now. Bye.}

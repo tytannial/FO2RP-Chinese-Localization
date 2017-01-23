@@ -42,6 +42,7 @@
 {141}{}{去死吧。}
 {142}{}{是的。}
 {143}{}{皇帝是不会随便见人的。而我，就是皇帝的双眼，我不会告诉你他在那里的。}
+{1430}{}{The Emperor remains hidden from prying eyes. It is my job to act as the Emperor's screen. However, you have proven yourself to be a friend to the Shi. I believe I can trust you with our secrets. In the back room, you will find the forcefield to the large computer has been turned off. Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer. I hope this will prove useful to you.}
 {144}{}{好吧。我还有更多的问题。}
 {145}{}{好，再见。}
 {146}{}{我们进行的是会改变世界的研究。能够真正回答你问题的是王宜慈博士。}
@@ -131,3 +132,5 @@
 {500}{}{马上离开，不然我就叫卫兵了。}
 {501}{}{离开，这是我第二次警告。}
 {502}{}{这是我最后一次警告。}
+{503}{}{Guards!}
+

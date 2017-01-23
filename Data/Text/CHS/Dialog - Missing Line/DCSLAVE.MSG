@@ -122,6 +122,10 @@
 {473}{}{谢谢，赶快离开吧。}
 {474}{}{谢谢，保重。}
 
+#dumb dialgoue added by killap
+{475}{}{Wait. I look for someone. Where more slaves?}
+{476}{}{Thankee. Go now!}
+
 # 10. Metzger Dead, Next Times (From Where to go)
 {480}{}{你要什么？}
 {481}{}{你要干什么？}

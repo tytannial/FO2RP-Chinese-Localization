@@ -35,3 +35,7 @@
 {134}{}{反正我也不喜欢耕田。}
 {135}{}{我会回来的。}
 {136}{}{请把我的老婆也带走，求求你．．}
+
+#added by killap
+{200}{}{Thanks fer your help.}
+{201}{}{Bout time some order was brought to these here lands.}

@@ -234,14 +234,15 @@
 # 39. Running to Fight
 {650}{}{好吧！上！大家跟着我！}
 
+
 {700}{}{好的。我们留下几个基本人员在教堂，现在泰勒和他的亲信都在住宅区。他们正喝的高兴呢，此时我们比较容易搞定他们。你一起来吗？}
-#Let me heal first. I'll tell you when I am ready.
 {701}{}{给我一些时间准备一下，准备好我会告诉你的。}
 {702}{}{我们走。}
 
-#You ready to take Tyler and his crew out?
 {710}{}{你准备好把泰勒和他的帮派踢出这了吗？}
-#Hey, don't stray too far. We need to finish this tonight.
-{720}{}{嗨, 不要跑太远。我们今晚要搞定这事。}
+
+{720}{}{Well, don't stray too far. We need to finish this tonight or we'll do it without you.}
+{721}{}{I'll be back shortly.}
+{722}{}{Let's go.}
 
 {730}{}{我们做到了。我真不敢相信！我的取得了教堂的使用权。一会去那找我们拿你的报酬。}

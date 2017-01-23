@@ -401,3 +401,8 @@
 {4708}{}{不错。}
 
 {5000}{}{我现在感到有一点饿。我们到妈妈桑那再谈吧。}
+
+#added by killap - NPC info
+{5500}{}{I feel like I broke a limb, Boss. You better have a look.}
+{5501}{}{I feel like I am burning up, Boss. You better have a look.}
+{5502}{}{I feel like I have been poisoned, Boss. You better have a look.}

@@ -16,30 +16,39 @@
 {114}{}{那听起来不错！我会告诉我的朋友这事的。你可以相信我们。不用担心，我们会保证这些孩子安全的。}
 {115}{}{别介意。}
 
-{120}{}{这是个好主意。我们去做下准备。}
+#new for RP 1.3
+{116}{}{She's not going to pay you. But I'm here to offer you a new deal: You and your friends walk away from here now, and you get to keep your lives.}
+{117}{}{Alright, well, I gave it a shot. Bye.}
 
-{200}{}{哈?}
-{201}{}{这是我们的地盘。}
-{202}{}{你也想住这？}
-{203}{}{弄点东西吃？}
 
-{300}{}{你看见一个穿着工作服的男人。}
-{301}{}{你看见一个穿着工作服的女人。}
+{120}{}{This is a great idea. We'll get things ready.}
 
-{310}{}{嗨，谢谢让我们留下。我们会努力工作的。}
-{311}{}{你最好不要让孩子们有什么麻烦。}
-{312}{}{我们会尽力的。}
-{313}{}{再见。}
+{200}{}{Huh?}
+{201}{}{This is our turf.}
+{202}{}{You squatting here too?}
+{203}{}{Got anything to eat?}
+
+{300}{}{You see a man in work clothes.}
+{301}{}{You see a woman in work clothes.}
+
+{310}{}{Hey, thanks for helping to set this up for us. We'll work hard.}
+{311}{}{You better. Make sure the children stay out of trouble too.}
+{312}{}{We'll do our best.}
+{313}{}{Bye.}
 
 #third way to finish quest -added after initial creation, but before official release
-{350}{}{孤儿们需要一个地方住，周围没有足够大的房子。我也知道你们找不到其他地方住了。但是，你们真想让孩子们住在大街上？}
-{351}{}{不，你是对的，这里的房顶还有漏洞。好吧，我们收拾东西后就走。我们去找别处，任何地方对我们来说都行。}
-{352}{}{谢谢，这对他们来说有很大意义。保重。}
-{353}{}{不伙计，那不是我们的问题。我们一生大部时间都露宿街头。再说，我们先到这的，我们谈的够多了，是时候踢你出去了。}
+{350}{}{Anywhere but here. The Den's a big place, I'm sure you can find somewhere else to crash. Come on, do you really want the children to live on the streets?}
+{351}{}{Nah, you're right, that ain't cool for the children. Alright, we'll pack our things and move out. This place had a leaky roof anyway.}
+{352}{}{Thanks. This will mean a lot to them. Take care.}
+{353}{}{Nah, that ain't our problem. If Mom thinks it's that important to get those kids off the streets, then she should stop being stingy with her cash and share the wealth. Yeah, I've changed my mind, we're staying until she pays up. Now this conversation's over, so you better leave if you know what's good for you.}
 
-{400}{}{再次感谢！}
-{401}{}{我们会努力工作的。}
-{402}{}{谢谢让我人留下。}
-{403}{}{我们不会让你失望的。}
+{360}{}{Alright. No need for this to get out of control. I'll leave you alone.}
+{361}{}{Time to clean this place up then. (Attack)}
 
-{500}{}{我们收拾好东西马上就走。}
+{400}{}{Thanks again!}
+{401}{}{We'll work hard.}
+{402}{}{Thanks for being so cool about things.}
+{403}{}{We won't let you down.}
+
+{500}{}{We'll collect our things and be out of here soon.}
+{600}{}{You've cleared out all the squatters.}

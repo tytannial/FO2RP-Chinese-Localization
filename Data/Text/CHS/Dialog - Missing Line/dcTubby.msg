@@ -56,3 +56,6 @@
 {510}{}{拿去吧。}
 {511}{}{嗯。}
 {512}{}{拿着然后赶快走。}
+
+#added by killap
+{520}{}{Pleasure doing business.}

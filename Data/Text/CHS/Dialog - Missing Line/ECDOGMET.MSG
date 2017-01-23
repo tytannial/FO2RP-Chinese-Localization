@@ -9,6 +9,7 @@
 {108}{}{不用担心。当我能够让更多人加入时，我会回来找你的。}
 {109}{}{抱歉，狗肉。现在不行。}
 {110}{}{那条狗狼吞虎咽的把那棒棒蜥蜴给吃下去了，然后再看着你，想要跟你要更多。}
+{1110}{}{The dog greedily swallows the contents of the can of dog food, then looks at you expectantly.}
 {111}{}{吹口哨}
 {112}{}{当我有更多空间时，也许你可以加入我们。}
 {113}{}{不，狗狗，你待在这里。}
@@ -39,5 +40,10 @@
 {138}{}{吼．．．．}
 {139}{}{(不知道我是不是可以让狗肉用不同的方式跟着我？)}
 #added by killap - expansion
-{150}{}{汪！汪！}
-{200}{}{嗨，看看我带什么来了。小子！看看现在还有谁敢惹你！(你把K9装甲套到了狗肉身上。)}
+{150}{}{Woof! Woof!}
+{200}{}{Here boy, I got something for you! Let's see somebody mess with you now! (You place the K-9 Kevlar on Dogmeat.)}
+{201}{}{Is the armor weighting you down, boy? Here, let's take that thing off. (You remove the K-9 Kevlar from Dogmeat.) }
+
+#added by killap - NPC info
+{300}{}{*Wimper*}
+{301}{}{Awooooooooooo! *wimper*}
