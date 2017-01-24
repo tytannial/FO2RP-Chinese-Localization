@@ -217,6 +217,7 @@
 {555}{}{好！这名字真是真是让人“性致勃勃”，有冲劲，有爆发力！选的不错，朋友，选的不错。我们开始吧，灯光！镜头！开拍！}
 {556}{}{好！这名字据说在战前可是有来头的···潮吹技法知道么？选的不错，朋友，选的不错。我们开始吧，灯光！镜头！开拍！}
 {557}{}{好！这名字据说在战前可是有来头的···潮吹技法知道么？选的不错，甜妞，选的不错。我们开始吧，灯光！镜头！开拍！}
+{558}{}{Now, THAT'S a name so bright and so sharp, that it'll just EXPLODE because it's just so powerful! Good choice, honey-tits, good choice. Now, let's FILM! Lights! Camera! Action!}
 
 # 33."FILMING" FADE. (30, 31, 32)
 {565}{}{好，好！让我们开始吧，来吧！快点！准备好了吗？}
@@ -428,6 +429,7 @@
 # Display Messages
 # stupid dude
 {1000}{}{我觉得肚子有点恶心。}
+{1001}{}{You have a foul, unhealthy taste in your mouth, and you feel sick to your stomach. But hey, 3 chips is 3 chips!}
 # regular dude
 {1100}{}{这太恶心了。}
 {1101}{}{你的嘴巴有种怪味道，你的胃不舒服，但是能赚$5就赚$5。}

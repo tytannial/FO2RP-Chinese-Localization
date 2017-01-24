@@ -161,3 +161,8 @@
 {262}{}{发现非法的输入程序。无法继续．．已经要求维修人员前来修复。}
 {263}{}{操，那并不是我要的啊。}
 {264}{}{经过了10分钟疯狂的操作，最终你侵入了主通路文件。几分钟后你找到了你想去的地方。}
+{265}{}{(What else can I do?)}
+#added by killap
+{266}{}{Presidential Security Passkey recognized. Good day, Mr. President.... Emergency Counter Insurgency Protocol initiated...**Error** Target not found. Please ensure that the sensors are working correctly. If not, please submit form FG-I-106-32-0635 to authorize repair services. Thanks for using another fine Vault-Tec product. Good day.}
+{267}{}{(Hmm...Maybe it'll work once there's someone actually there. I'll have to give it a try later.) Return to User ID.}
+{268}{}{(I wonder what else I can try?) Back.}

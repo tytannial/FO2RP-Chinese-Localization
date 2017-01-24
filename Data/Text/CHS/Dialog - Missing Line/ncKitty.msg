@@ -126,6 +126,11 @@
 {405}{}{麦丽雅，想试试野外做爱。}
 {406}{}{没人，谢谢。}
 
+#added by killap - expansion
+{407}{}{Dex here. Better keep an eye on him though, he can get a little out of control.}
+{408}{}{Cat Jules here. Watch out though, he might bite the girls.}
+{409}{}{Kitsune here. Hopefully you can satisfy her Asian needs, if you know what I mean.}
+
 # 15. FRIEND LAID 2 (4, 12, 14)
 {420}{}{你的朋友都在这里？（来回看了看，点点头）好。}
 {421}{}{（来回看了看，点点头）好。}
@@ -251,6 +256,12 @@
 # marcus
 {705}{}{我希望没叫她怀孕。}
 
+#added by killap - Dex
+{706}{}{It just isn't the same when their blood's still warm, ya know?}
+{707}{}{I hope you took notes.}
+{708}{}{Girls have gotten pretty freaky since the end of the world... I dig that.}
+{709}{}{...and thats why the babes used to call me "Dex, the Duke of Sex".}
+
 {710}{}{你说了很久的话。这个姑娘在人性上有惊人的洞察力。}
 {711}{}{莫丁诺的人带你到一个叫“马厩”的地方。}
 
@@ -273,3 +284,6 @@
 {770}{}{太好了，好久都没干了。}
 
 {800}{}{你将猫爪杂志拿给了凯蒂了。}
+
+#added by killap - RP 2.1
+{900}{}{You feel more coordinated and in tune with your body now.}

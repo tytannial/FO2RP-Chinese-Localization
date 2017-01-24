@@ -1,1 +1,2 @@
 {100}{}{你找到了一个老旧的加油站。}
+{101}{}{You find yourself inside an active military base.}

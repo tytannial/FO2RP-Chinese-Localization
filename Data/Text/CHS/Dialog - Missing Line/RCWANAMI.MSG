@@ -1,2 +1,4 @@
 {100}{}{你看到了瓦那明球。}
 {101}{}{那瓦那明球看到你这个不速之客好像不太开心。}
+{102}{}{You see the queen wanamingo.}
+{103}{}{The queen really does not look too happy at having unexpected guests.}

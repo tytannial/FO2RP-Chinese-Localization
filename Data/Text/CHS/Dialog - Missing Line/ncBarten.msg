@@ -47,3 +47,5 @@
 
 # 7.  WHAT'S WITH LIL' JESUS? (5)
 {260}{}{那是莫丁诺的小男孩，小莫丁诺。他最好的朋友就是他那把刀子了，我曾看过他用那把刀子做一些很奇怪的事．．无论如何，你要点什么东西吗？}
+# added by killap - RP
+{270}{}{Pleasure doin' business with ya.}

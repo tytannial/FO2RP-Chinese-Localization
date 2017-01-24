@@ -2,10 +2,15 @@
 {101}{}{你看到卢，马拉木提酒吧的老板。}
 {102}{}{你看到一个脸上涂了很多胭脂的老妇人。}
 {103}{}{我只想要你知道我很感激你所做的。我可以帮你什么吗？}
+{1103}{}{Hello there. I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran. I just want you to know that I'm thankful for what you did. How can I help you?}
 {104}{}{那混蛋所做的恶行，坐牢还太便宜他了咧。}
+{1104}{}{I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran. Jail's too good for what that bastard done.}
 {105}{}{我不敢相信你居然把那割伤了我姑娘的王八放走了。你好大的胆子回到这边来。你要干嘛？}
+{1105}{}{I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran. I cain't rightly believe that you let the bastard that cut my gal go free. You've got some nerve coming back in here. What the hell do you want?}
 {106}{}{你这白痴，你要干嘛？}
+{1106}{}{You're still a damn idiot. But life goes on, for the rest of us. I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran. Now just what the hell do you want?}
 {107}{}{记得我所说的。太多钱对那女的是有害的，你要什么？}
+{1107}{}{I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran. Just remember, too much money ain't good for that gal. Now whattya need?}
 {108}{}{你好，我是卢。马拉木提酒吧的老板，三番市以北最好的。}
 {109}{}{现在怎样？}
 {110}{}{喔？}
@@ -136,3 +141,4 @@
 
 {300}{}{你帮菲妮美戒除了毒瘾。}
 {301}{}{再见。}
+{310}{}{I may have something that can help Fannie. [Give Lou the jet antidote]}

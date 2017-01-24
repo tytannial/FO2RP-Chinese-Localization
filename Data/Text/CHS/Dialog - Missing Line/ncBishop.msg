@@ -347,6 +347,7 @@
 
 # 61. IF PLAYER WIPED OUT RAIDERS, THREAT 1 (60)
 {805}{}{是的，有人说一个跟你长得差不过的人杀了那些地下掩体市南方的歹徒。}
+{1805}{}{Yeah...rumor in the wastes is somebody that matches your description helped put a stop to the raiders south of Vault City. }
 {806}{}{还有个变种人。}
 {807}{}{还有个土人。}
 {808}{}{还个机器人。}
@@ -361,6 +362,7 @@
 # 62. THAT'S ME/RAIDER THREAT 2 (61)
 {820}{}{你真有种，杀了那么多歹徒。}
 {821}{}{你真有种，杀了那么多歹徒。}
+{1820}{}{Well, you must be one sly motherfucker to convince their guide to stop leading them through the mountains. And it could be I don't LIKE what you did down there.}
 {822}{}{我可能不喜欢你那样做，我可能会有一些好的手下在那里呢。}
 {823}{}{喔．．}
 {824}{}{你应该更好好的训练他们的，他们一点抵抗的能力都没有。}
@@ -369,9 +371,11 @@
 # 63. RAIDER THREAT 3. . . (61, 62)
 {835}{}{我觉得是你干的．．}
 {836}{}{我的看法是你欠我很多。你要为我做二十个人的工作才可以。}
+{1836}{}{Way I see it, you OWE me big, tribal. I don't like people messing with affairs that aren't theirs. }
 {837}{}{如果你帮我做这个工作，我们就扯平。}
 {838}{}{我认为可以一枪杀死你也是解决这个问题的好方法。}
 {840}{}{他们先动手的。因此，我不欠你什么。懂吗？}
+{1840}{}{I don't owe you anything, and I'm not going to do your dirty work. Understand?}
 
 {900}{}{你送到了摩尔的箱子了。}
 {925}{}{你杀死了卫斯丁。}

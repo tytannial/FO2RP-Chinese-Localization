@@ -5,6 +5,7 @@
 # 0. LOOK (MALE) (WTG)
 {150}{}{你看见一个穿着紧身皮衣的漂亮妞。}
 {151}{}{你看见安琪拉．彼希。当她看到你时，她慢慢的舔着她的嘴唇。}
+{152}{}{You see Angela Bishop. She scowls at you with disgust.}
 
 # 1. LOOK (FEMALE) (WTG)
 {175}{}{你看见个穿着紧身皮衣的漂亮妞。她看上去并不像个妓女。}

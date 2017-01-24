@@ -9,3 +9,4 @@
 {130}{}{你将装置打开，但是流出来的酒喝起来是坏的。}
 {140}{}{里面没有空间装木头了。}
 {150}{}{不用在具续操作。不需要任何的木材。}
+{160}{}{You better not. It's best not to do something before being told to do so, right?}

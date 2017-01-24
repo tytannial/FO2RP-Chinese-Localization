@@ -171,3 +171,8 @@
 {1163}{}{你自己去吧。}
 {1164}{}{我们杀。}
 {1165}{}{你自己去。}
+
+#added by killap - NPC info
+{2000}{}{I think I broke a limb. Medical assistance is required.}
+{2001}{}{I believe I am suffering from radiation poisoning. Do you have anything to aid me?}
+{2002}{}{I believe I have been poisoned. Do you have anything to aid me?}

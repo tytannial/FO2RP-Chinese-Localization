@@ -43,3 +43,6 @@
 {140}{}{我有从地下掩体市来的东西要给卫斯丁先生。}
 {141}{}{好吧，进来吧。不要惹什么麻烦喔，我会看着你的。}
 {142}{}{如果你没事的话，我们是不会让你进牧场的。}
+
+# added by killap - RP
+{150}{}{I'm sorry, there's been an incident and no one is allowed on the property. Move along.}

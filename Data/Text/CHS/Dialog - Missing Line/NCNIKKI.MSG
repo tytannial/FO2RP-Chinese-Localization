@@ -268,6 +268,7 @@
 {480}{}{洛依德有我的那一份钱，但是我不知道他会不会给我。因此，我可能为了500个筹码而告诉你他在哪里呢？}
 {481}{}{好。500拿去。告诉我。}
 {482}{}{太贵了。我自己会去找到他的。}
+{483}{}{I don't have enough chips, but I'll be back. You better still be here when I return.}
 
 # 34. NIKKI SETS PLAYER UP (33)
 {490}{}{(拿了钱。)你到凶徒赌场地下室的热水房里看看，那就是他的藏身之处。}

@@ -29,3 +29,5 @@
 {128}{}{让我请你喝一杯吧！我好久以前就想要请你了！}
 {129}{}{我有一些问题。}
 {130}{}{很好！再见。}
+
+{131}{}{Boy, you sure whooped Hoss's ass good! What can I get you?}

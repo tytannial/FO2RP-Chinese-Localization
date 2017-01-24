@@ -76,40 +76,60 @@
 {175}{}{什么？卫兵！我们有入侵者！}
 {176}{}{你敢进去，我就把你的头打烂，懂吗？}
 
-{177}{}{太晚了，我们关门了。明天赶早吧！}
+#added by killap
+{177}{}{It's late and we're closed. Come back in the morning.}
 
-#added by killap - expansion　ipisgfx译
-{200}{}{干的好，还有一件事。你是一个奴隶贩，对吧？能不能借你的手帮我把游侠骑兵的安全屋给灭了。我会付你工钱的，$1000怎么样？}
-{201}{}{干的好，还有一件事。你看上去很“乐意肋人”。不如顺手帮我把游侠骑兵的安全屋给灭了。我会付你工钱的，$1000怎么样？}
-{202}{}{没问题。}
-{203}{}{不感兴趣。}
-{204}{}{好极了。来，我帮你在地图上标记上他们的地点。搞定了回来向我报告。}
-{205}{}{你失败了。现在你最好避避风头，万一那些游侠骑兵知道就不好了。}
-{206}{}{好吧，再见。}
-{207}{}{实际上，要是有些人能和我一起去那就更好了。那能保证我成功完成任务。}
+#added by killap - expansion
+{200}{}{Good work. One more thing though. You're a slaver, right? How 'bout you lend a hand and wipe out those safe houses for me. I could pay you for the job - say $1000.}
+{201}{}{Good work. One more thing though. You look like a mean sonuvabith. How 'bout you wipe out those safe houses for me. There's a reward for it - say $1000.}
+{202}{}{Sure.}
+{203}{}{Not interested.}
+{204}{}{Excellent. Here, let me mark these coordinates on your map thingy. Report back when you're done.}
+{205}{}{Your loss. Now you best make yourself scarce, in case those Rangers ever wise up.}
+{206}{}{Alright. Bye.}
+{207}{}{Actually, do you think you could send some of your men along with me? It'd make things go a hell of a lot faster, and further guarantee success.}
 
-{210}{}{你回来了。你摧毁了游侠骑兵安全屋了吗？}
-{211}{}{是的，已经没有游侠骑兵安全屋了。}
-{212}{}{还没呢。我正在努力。}
+{210}{}{You're back. Did you wipe out the Rangers' safe houses?}
+{211}{}{Hell yeah I did. Piece of cake.}
+{212}{}{Not yet. I'm still working on it.}
 
-{215}{}{真的？真他妈是个好消息。游侠骑兵一定深受打击。做的好。这是你的报酬。你自己小心了，游侠骑兵一定会注意你的。}
-{216}{}{那我可不怕。谢谢你的钱。}
-{217}{}{我最好离开这个镇几天。回见。}
-{218}{}{这种小事不会让我吓的尿裤子的。我成年了。回见。}
+{215}{}{Really? Hot damn. This is the best news I've heard yet. This will be quite a blow to the Rangers. Good work. Here's your pay. Now you best make yourself scarce, the Rangers in town are sure to be looking for you.}
+{216}{}{Let em look -- I'm not afraid. Thanks for the money.}
+{217}{}{I better get out of town then. See you later.}
+{218}{}{It seems everything I do manages to piss someone off. I'm used to it now. Bye.}
 
-{220}{}{该死的，没了。我现在没办法找更多人手。如果你觉得做不了，那就走吧。}
-{221}{}{不，开个玩笑而已。我能搞定。放心吧，完事后我会回来报告的。}
-{222}{}{好吧，我不想干了。}
-{223}{}{你说我胆小？没人能说我这个。死吧，混蛋！}
+{220}{}{Hell no. I'm not rounding up any guys for this. If you feel you can't handle it, then leave.}
+{221}{}{I never said I couldn't handle it. I just thought your men would like to join in on the fun. But whatever, I'll handle it on my own, no problem. I'll report back when I'm done.}
+{222}{}{Fine, you can count me out, asshole. I'm not gonna be your dog. Bye.}
+{223}{}{You calling me chicken? No one calls me that and lives!}
 
-{225}{}{那么，好吧。我会找些人和你一起的。你准备好出发了吗？}
-{226}{}{给我一点时间，准备好我就回来。}
-{227}{}{我早就准备好了。走吧。}
-{228}{}{我准备好了。出发吧。}
-{229}{}{我想我还是不做了。我对这没什么兴趣。再见。}
+{225}{}{Well, alright. I think I can round up some boys to aid you in this. They'll meet you on the way. You ready to start now?}
+{226}{}{Give me some time. I'll be back when I am ready.}
+{227}{}{I was born ready. Let's rumble.}
+{228}{}{I'm ready. Let's go.}
+{229}{}{I think I'll pass on all this. I've lost interest. Bye.}
 
-{230}{}{你准备好了吗，还是要继续浪费我的时间？}
-{231}{}{我还要一点时间。}
-{232}{}{我准备好了。出发吧。}
+{230}{}{You ready for the raid, or are you here to waste more of my time?}
+{231}{}{I need more time.}
+{232}{}{I'm ready. Let's go.}
 
-{240}{}{你把游侠骑兵安全室全摧毁了。这将给反抗奴隶制的那些游侠骑兵一个至命的打击。}
+{240}{}{You wipe out the Rangers' safe houses. This deals quite a blow to the Rangers in their fight against slavery.}
+
+{241}{}{I'm looking to buy some slaves.}
+
+{250}{}{Well that's fuckin nice. We don't sell here. Metzger up north in the Den can help you with that.}
+{251}{}{I've been there and his stock wasn't up to my standards.}
+{252}{}{Seeing how I killed Metzger, I don't know how that's going to be useful to me. I think I'll kill you instead.}
+
+{260}{}{Well aren't you a picky fuck. You do realize that his stock isn't limited to just the Den, right? He's got his own holding pen where slaves are dropped off.}
+{261}{}{Interesting. How would I get to this other location?}
+
+{270}{}{What, do you think you can get whatever the fuck you want for free? $1000. Take it or leave it.}
+{271}{}{What, do you think you can get whatever the fuck you want for free? Plus, you ooze virtuousness. I don't like that. $2000. Take it or leave it.}
+{272}{}{Alright, here.}
+{273}{}{Nevermind.}
+{274}{}{I'll do whatever I want. And I think I'll kill you now.}
+{275}{}{I'll come back when I have more money.}
+
+{280}{}{[He points on your map the location of the slaver camp.] It's around there. Now what else are you going to waste my time with?}
+{281}{}{I've got what I need. Bye.}

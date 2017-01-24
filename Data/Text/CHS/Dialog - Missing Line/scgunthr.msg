@@ -85,3 +85,6 @@
 {501}{}{我得要请你离开。}
 {502}{}{这是你最后一次警告，在我把你轰出去之前，请你自己离开。}
 {503}{}{安全－请把这混蛋弄走！}
+
+# Added by killap
+{510}{}{Well, wait a minute. I have more to discuss with your boss about Vault 15.}

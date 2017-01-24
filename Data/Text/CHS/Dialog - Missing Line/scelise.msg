@@ -133,3 +133,26 @@
 {250}{}{实际上，还有一件事。你看上去是一个值得信赖的人，而且看上去你也不喜欢奴隶制。}
 {251}{}{好吧，我正好已经把他们全部的营地都灭了。你还有什么焦虑吗？}
 {252}{}{我想如今我已经为人类做的够多了。再见。}
+
+#added in RP 1.3
+{260}{}{What are you doing here? This is a private -- Hey, wait a minute, I think I've heard of you. Aren't you the one that took out one of Metzger's slave camps?}
+{261}{}{Yep. That was me.}
+{262}{}{I sure as hell did. You got a problem with that? }
+{263}{}{Maybe...why?}
+{264}{}{I have no idea what you're talking about. Now if you'll excuse me, I'll be on my way.}
+
+{270}{}{That was a fine thing you did and I just want to shake your hand.}
+{271}{}{Not at all. In fact, I'd like to shake your hand.}
+{272}{}{Because that was a fine thing you did and I just want to shake your hand.}
+{273}{}{If you're so pleased with my handiwork, how 'bout a little cash reward?}
+{274}{}{You're welcome. Now why don't you tell me who you are?}
+
+{280}{}{We don't have a lot of funds to spare, but you *did* do us a great service so I suppose we could part with some. Here's $1000.}
+{281}{}{Thanks. Bye.}
+{282}{}{Thanks. Now why don't you tell me who you are?}
+
+{290}{}{I'm Elsie. That's Gond. We're members of an anti-slavery group called the New California Rangers. We could use someone like you. If you're interested in joining us, I've got a task for you.}
+{291}{}{Let's hear it.}
+{292}{}{Not interested. Bye.}
+
+{300}{}{Help you with something, Ranger?}

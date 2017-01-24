@@ -32,6 +32,8 @@
 # from the vermin hunter seed
 {500}{}{看来我把他们都杀死了。}
 {501}{}{所有的反对者都得死。}
+{502}{}{You cleared out Farrel's garden.}
+
 # Coin Bag Descriptions
 {600}{}{你看到一个钱袋。}
 {601}{}{你看到一个钱袋，大概是有人许愿将它丢到水池里面的吧。}
