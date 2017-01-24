@@ -1,50 +1,58 @@
-{100}{}{你看见一个年青的女人。}
-{101}{}{你看见安。康尔的妻子。}
-{102}{}{她正在忙着做饭呢。}
+{100}{}{You see a young woman.}
+{101}{}{You see Ann, Connar's wife.}
+{102}{}{She appears to be busily cooking.}
 
-{200}{}{你好！我叫安。我是康尔的妻子。那么，你是帮肋我们那个人吗，对吗？我们很感激你所做的一切。现在我们能生活的很安宁而不像原来那样担惊受怕了。}
-{201}{}{很乐意帮助你们。你看上去很忙。需要帮忙吗？}
-{202}{}{没什么。再见。}
+{200}{}{Why hello there, I'm Connar's wife, Ann. You must be the one who helped us out. I can't tell you how much we appreciate all you've done. It's hard to believe that we can finally live in peace without fear of Vault City's goons coming to take us from our homes.}
+{201}{}{Glad to be of assistance. You seem to be quite busy here. Need some help with anything?}
+{202}{}{No problem. See you around.}
 
-{300}{}{实际上，我需要一点帮助。现在我们的组织更大了，人口也会继续增长，我们需要更多额外的食物补给。比如6个苹果和12块干肉。}
-{301}{}{我会帮你收集的。好了我会回来的。}
-{302}{}{这不是我该干的事。再见。}
-{303}{}{噢，你愿意？你真是个好心人。收集好了告诉我。}
-{304}{}{我会的。再见。}
+{300}{}{Actually, I *could* use some help. Now that we're becoming more organized, we're starting to see our numbers grow. The problem is, I'm not sure we'll have enough food to go around. My husband has attempted to get the caravans to stop here, but they don't' think we're worth their time. I don't suppose you could get them to reconsider?}
+{301}{}{Sorry lady, but I think I've done enough here. I need to move on now. Bye.}
+{302}{}{Can't you people ever deal with your own fucking problems? Bye.}
+{303}{}{Sure. I'll see what I can do. Who do I talk to about this?}
 
-{310}{}{我请你帮的事现在有什么进展吗？}
-{311}{}{仍在找。再见。}
-{312}{}{是的，都找到了。}
+{310}{}{One of the caravan masters, Mr. Baron, will be passing by here shortly. The caravan trail isn't far from this village. If you could go out there and meet with him, we'd all appreciate it greatly.}
+{311}{}{Alright, I'll give it a shot. Show me where he is.}
+{312}{}{Alright, but I'm not ready yet. I'll let you know when I am.}
+{313}{}{On second thought, you're going to have to handle this on your own. Sorry.}
 
-{320}{}{太好了，这，把它们放着。}
-{321}{}{拿去。}
-{322}{}{慢着，这些东西是要钱的。}
+{320}{}{Are you ready to go meet the caravan master yet?}
+{321}{}{Not yet. Bye.}
+{322}{}{Alright. I'm ready.}
 
-{330}{}{[安查看着你给她的东西] 所有东西看起来都不错。谢谢。}
-{331}{}{没什么。再见。}
+{330}{}{Oh, it's you! Thank you for speaking with Mr. Baron. He had just come by to make trade arrangements with my husband. You've done so much to help us, we're forever in your debt!}
+{331}{}{It's the least I could do. Take care.}
+{332}{}{You think I do all this for free? Let's talk money.}
 
-{340}{}{[安感到很惊讶] 什么？但是，我们是一个穷困的村庄。我们没有东西可以给你的。}
-{341}{}{你一定会有一点钱的。}
-{342}{}{看来我得拿回这些东西了。}
-{343}{}{[安看上去很激动] 好吧，好吧。这有一些钱。我还以为你是个好人呢。}
-{344}{}{人不可貌相。女士。祝你好运。}
-{345}{}{报歉，钱能让世界运转。再见。}
+{340}{}{[Ann looks a bit flustered.] Well, yes...alright fine. I had a little something stored away for an emergency, but I suppose you can have it. And to think I saw you as a good person.}
+{341}{}{Looks are in the eyes of the beholder, lady. Good day.}
+{342}{}{Sorry, money makes the world go round. Bye.}
 
-{350}{}{噢，又见了。我料想你会有兴趣帮我们收集食物的，是吧？}
-{351}{}{当然，为什么不呢。你们现在需要什么？}
-{352}{}{不，仍然不感兴趣。}
-{353}{}{噢，你愿意？太好了！我们需要6个苹果和12块干肉。}
-{354}{}{行，我找到后会回来的。再见。}
+{350}{}{Oh, it's you! I heard what you did to Mr. Baron. I never did care for him, but you didn't have to kill him. We'll stifle as a community without proper trade.}
+{351}{}{Sorry, mistakes happen. Bye.}
+{352}{}{Not my problem. Bye.}
+{353}{}{You don't need to worry about any damn merchants. Because I plan on killing the whole lot of you.}
 
-{400}{}{地下遗体城派你来的？}
-{401}{}{我们有权生活在这，知道吗！}
-{402}{}{我没有什么和你说的。}
-{403}{}{谢谢你做的一切！}
-{404}{}{非常感谢！}
-{405}{}{终于我们安全了。}
-#Be sure to stop by again once we expand the place. I'll finally have a working kitchen to cook in.
-{406}{}{非常感谢！有时间一定要回来看看。到时我会有一个像样的厨房来做饭的。}
+{400}{}{Did Vault City send you?}
+{401}{}{We have the right to live here, you know.}
+{402}{}{I have nothing more to say to you.}
+{403}{}{Thanks again for everything!}
+{404}{}{Thanks so much!}
+{405}{}{Finally we are safe.}
+{406}{}{Thanks for everything! Be sure to stop by again once we expand the place. I'll finally have a working kitchen to cook in.}
 
-{410}{}{嗨，又见面了。}
-{411}{}{你看上去很忙。需要帮忙吗？}
-{412}{}{别介意。再见。}
+{410}{}{Hello again.}
+{411}{}{You seem to be quite busy here. Need some help with anything?}
+{412}{}{Nevermind. Bye.}
+
+{420}{}{How did it go?}
+{421}{}{How did what go? Oh, the merchant. Actually, I lost interest with him and wandered off.}
+
+{430}{}{What!? You realize this was our last chance to make arragements with him. We look like fools now standing him up. You've doomed us.}
+{431}{}{Sorry, mistakes happen. Bye.}
+{432}{}{Not my problem. Bye.}
+{433}{}{You don't need to worry about any damn merchants. Because I plan on killing the whole lot of you.}
+
+{500}{}{You convinced the merchant to add the village to his trade route.}
+{510}{}{You killed the merchant, thus ensuring that the village won't be able to trade.}
+{511}{}{You fail to convince the merchant to add the village to his trade route.}

@@ -154,6 +154,7 @@
 {253}{}{我找到了瑞丁城的慢运货的原因。}
 {254}{}{我找到了强盗的窝。}
 {255}{}{我找到了强盗的窝而且把他们杀光了。}
+{1255}{}{I found the raiders' camp and convinced their guide to not help them. They won't be able to find their way without him.}
 {256}{}{你可以跟我说些你们的监督者的事吗？}
 {257}{}{今天没什么了，谢谢。}
 {258}{}{今天没什么了，谢谢。}
@@ -213,6 +214,7 @@
 {312}{}{那是我不太要听到的。再见。}
 {313}{}{最近我们遇到了很多抢劫。我们原来也有，但是没有像现在。我怕这些歹徒会打破我们的最后防线。}
 {314}{}{你不需要在担心那些歹徒。我已经杀光了他们。}
+{1314}{}{You won't have to worry about those raiders anymore. I convinced their guide to leave and without his help, they will never find their way through the mountains.}
 {315}{}{你能不能告诉我一些歹徒的事情？}
 {316}{}{啊，真可惜。你刚才说新加州共和国的什么？}
 {317}{}{地下掩体市和蜥蜴城有什么麻烦？}

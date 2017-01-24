@@ -81,7 +81,6 @@
 {171}{}{我了解了。但我还有很多问题想要请教。}
 
 {172}{tand10}{我试过了。我派了许多人到该处，但是有数个人去了后就再也没回来过了。我无法证明是那群流浪汉所作的。我的下属抓住了流浪汉的一员，不过他什么都不肯说。现在他正被我们关在市中心。}
-
 {173}{}{必需知道更多。}
 {174}{}{我可以再多问一些问题吗？}
 
@@ -266,3 +265,9 @@
 
 # Float
 {316}{}{你得与我的助手甘德谈。}
+
+# Added by killap
+{400}{}{Squatters want deal. You teach, you help, they give you vault.}
+{401}{}{The squatters want a deal. You help them become self sufficient and they'll give you access to the vault.}
+{410}{}{As me said. Lowlifes there but me kick ass. Bye-bye.}
+{411}{}{As I mentioned before, there were some lowlifes there but I kicked their ass. See you around.}

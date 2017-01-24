@@ -1,22 +1,34 @@
-{100}{}{你想要什么？}
-{101}{}{你是谁为什么守在这？}
-{102}{}{没什么，对不起打扰你了。}
+{100}{}{You be needin' something?}
+{101}{}{Yeah, I was wondering who you're guarding.}
+{102}{}{Me? Oh no, I don't need anything. Bye.}
 
-{110}{}{我在守护神圣部落酋长。他既英明又知识渊博。没有他的允许你别打扰我。现在走开吧。}
-{111}{}{[完成]}
+{103}{}{Who you guard?}
+{104}{}{Bye!}
 
-{120}{}{我已经叫你走开了，但是你还坚持来试探我的耐性。滚开。}
-{121}{}{[完成]}
+{110}{}{I be guarding tribe's holy leader. He who walks with spirits. Much honor guarding him. Keep out unwanted, like you. Now leave.}
+{111}{}{[DONE]}
 
-{130}{}{我听说你帮我们的部落一些忙。我对以前的粗鲁感到十分报歉，但是我们还是得对外界提高警戒。你现在可以见见我们酋长了。进去吧。他在等你。}
-{131}{}{谢谢。}
+{120}{}{I say to leave, but you don't listen. I unleash spirits of fury when people don't listen. Suggest you get the feet movin'. Now.}
+{121}{}{[DONE]}
 
-{140}{}{祝福你。}
-{141}{}{什么事，战士？}
-{142}{}{进来吧。}
-{143}{}{幸会，战士。}
-{144}{}{很高兴再次见到你。}
+{130}{}{Heard about the good deeds you been doing. See I was wrong about you. Forgive me for being a rude man, fren. Go on in and peep the big man. He be waiting for you.}
+{131}{}{Heard about the good deeds you been doing, fren. Go on in and peep the big man. He be waiting for you.}
+{132}{}{Thank you.}
+{133}{}{Thankee.}
 
-{300}{}{你看见一个强壮土著。}
-{301}{}{你看见部落酋长的护卫。}
-{302}{}{这个人用犀利的眼神看着你。显然，他在守护什么重要的人。}
+
+{140}{}{Greetings, fren.}
+{141}{}{How goes things, warrior?}
+{142}{}{Go on in.}
+{143}{}{Well met, warrior.}
+{144}{}{Good to peep you again, fren.}
+
+{260}{}{Me kill slaver!}
+
+{300}{}{You see a strong looking tribal}
+{301}{}{You see the guardian of the tribe leader.}
+{302}{}{This man is watching you with a piercing gaze. Clearly, he is guarding someone important.}
+
+# PC has beaten the Enclave
+{500}{}{You always be welcome here, hero.}
+

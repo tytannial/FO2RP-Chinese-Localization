@@ -19,33 +19,39 @@
 {121}{}{没问题。我这就送去。}
 {122}{}{竟敢偷东西。浑蛋小偷！警卫！警卫！}
 
-#ipisgfx?
-{123}{}{戴夫叫我来的。我和他一起工作，我们现在需要为一个抽水泵找个新的发动机。}
-{124}{}{和戴夫一起工作？对，我认识这家伙。我想我应该有一个。让我看看。[哈利进到后面的屋子，你能听见东西翻动的声音。几分钟后他出来了。] 耶，找到了。给$500你拿走它。}
-{125}{}{好的，钱在这。}
-{126}{}{$500？老天，我希望有人报销这笔钱。拿去。}
-{127}{}{谢谢，保重。}
-{128}{}{再见。}
-{1288}{}{看上去我好像没这么多钱...再见。}
+{123}{}{Dave sent me. We're trying to fix a broken water pump, and he said you'd have a replacement motor.}
+{124}{}{Working with Dave, eh? Yeah, I know the fella. I see he's still got a knack for getting others to do his leg work--lazy bastard. [He chuckles.] Anyway, I think I got what you're lookin for, but lemme just go back an' check. [Harry goes into his back room where you hear boxes being shuffled and moved around. He returns a minute later.] Yep, got it right here. $500 and she's all yours.}
+{125}{}{Sure. Here's the money.}
+{126}{}{500? Damn. I hope I get reimbursed for this. Fine, here is the money.}
+{127}{}{Thanks for the business. Take care.}
+{128}{}{Bye.}
+{1288}{}{Looks like I don't have enough money. Bye.}
 
-{129}{}{康尔叫我来拿点东西。}
-{130}{}{[哈利快速地看了看四周，他看上去很紧张] 是，当然。稍等一会...}
-{131}{}{[哈利来复枪给你] 拿去。全部$12000。}
-{132}{}{当然，这是钱。}
-{133}{}{但是康尔只给我了$10000。}
-{134}{}{但是康尔只给我了$8000。}
-{135}{}{报歉，现在情况不一样了。如果某人知道我卖武器给康尔，那事情会变的很糟。我已经给他折扣了。}
-{136}{}{你确定吗？... 好吧，拿去。[他把钱放进口袋里] 不过记住。你没有在这买过这些武器。明白吗？}
-{137}{}{好极了！不过记住。你没有在这买过这些武器。明白吗？}
-{138}{}{一言为定。再见。}
-{139}{}{[更多]}
-{140}{}{嗯，等我先凑够钱。}
-{141}{}{嗯，你带钱了吗？}
-{142}{}{如果我只给你$10000呢？}
-{143}{}{$8000怎么样？}
-{144}{}{噢~~~$12000？我没这么多钱，等我先凑够钱再回来。}
-{145}{}{妈的！谁他妈的把我给卖了！？}
-{146}{}{嗨！为什么要监禁我？}
-{147}{}{好吧，至少吃的还不错。}
-{148}{}{看什么看！}
-{149}{}{我的店现在怎么样了？}
+{129}{}{Connar sent me for the goods.}
+{130}{}{[Harry's eyes dart around quickly, he seems a bit nervous] Yes, sure. Just a moment...}
+{131}{}{[Harry brings you the rifles.] Here, take em. That'll be ten thousand, and let's make this snappy.}
+{132}{}{Of course, here's the money.}
+{133}{}{But Connar only gave me five grand.}
+{134}{}{But Connar only gave me two grand.}
+{135}{}{Not my problem. Look, my business struggles enough as it is. If anyone finds out I'm providing Connar with weapons, then things will turn real ugly, real fast. Besides, I'm giving him a discount already.}
+{136}{}{Look, I'm putting my neck on the line . . . Oh, to hell with it, I don't have time to argue. Just take em. [He quickly pockets your money.] Now get outta here. And remember, you didn't buy those from me.}
+{137}{}{Excellent. But remember, you didn't buy these weapons here.}
+{138}{}{It's a deal. Bye.}
+{139}{}{[MORE]}
+{140}{}{Well then, wait a bit until I get the money.}
+{141}{}{Well, have you brought the money?}
+{142}{}{What if I just give you five grand?}
+{143}{}{What about two grand?}
+{144}{}{Ehmmm... ten grand?! I don't have that much money; wait a bit until I get it.}
+{145}{}{Damn! Who could possibly have turned me in?!}
+{146}{}{Hey! What was I imprisoned for?}
+{147}{}{Well, at least the food's not bad.}
+{148}{}{What are you staring at?}
+{149}{}{What will happen to my shop now?}
+
+#added in RP 1.3
+{200}{}{$500? Hey, maybe you could give me some kind of discount, I mean, you and Dave are friends, right?}
+{201}{}{To tell you the truth, I never really cared for the fella. $500 for the motor. Take it or leave it.}
+{202}{}{Fine. Here's the money.}
+{203}{}{Forget it, I'm outta here.}
+{204}{}{$500!? Forget this, I'm outta here.}

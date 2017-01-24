@@ -1,29 +1,53 @@
-{100}{}{你看见一个年老的土著。}
-{101}{}{你看见这个部落的酋长。}
+{100}{}{You see an ancient looking tribal.}
+{101}{}{You see the elderly chief of the tribe.}
 
-{102}{}{谢谢你把克莉苏带回来。你需要点什么吗？}
-{103}{}{你好旅行者。我听说你为我们部落做了很多事。我们十分感激。什么使你来到我们的村子？}
-{104}{}{嗨又见了。你还有什么需要吗？}
-{105}{}{我能为你做什么？}
-{106}{}{我正在执行一个神圣的任务是关于伊甸园创造器的。你听说过这个东西吗？}
-{107}{}{我正在找一个失踪的女孩。她是我朋友史力克的妹妹。}
-{108}{}{有什么需要帮忙的吗？}
-{109}{}{别介意。再见。}
+{102}{}{[The old man smokes his pipe and watches you with dull gray eyes that seem to bore into your soul. He motions for you to sit across from him in the smoke-filled tent.] Thank you for bringing Kurisu back to our village. [He takes a long hit off his pipe.] The spirits... they have much to say about you. Much indeed. Tell me, is there something you need?}
+{103}{}{[The old man smokes his pipe and watches you with dull gray eyes that seem to bore into your soul. He motions for you to sit across from him in the smoke-filled tent.] We are most grateful for your services, Wanderer. [He takes a long hit off his pipe.] The spirits... they have much to say about you. Much indeed. Tell me, what brings you to our village?}
+{104}{}{Welcome back, child. Was there something else you needed?}
+{105}{}{What can this old man do for you?}
+{106}{}{I am on a quest for the Holy GECK. Do you know anything about this?}
+{107}{}{I am looking for a missing woman. She's the sister of my friend, Sulik.}
+{108}{}{Is there anything else that needs to be done around here?}
+{109}{}{Nevermind. Bye.}
 
-{110}{}{我听说一种动物叫这个名字，也许就是你找的东西。如果不是，对不起，我们是一个原始的部落和外界联系不多。}
-{111}{}{让我问你的别的吧。}
-{112}{}{那就是我想知道的了。再见。}
+{110}{}{The Holy GECK... [He takes a long hit off his pipe.] There is a creature that we sometimes hunt -- sometimes, it hunts us. A gecko. No, I sense that's not what you seek. I'm afraid your Holy GECK is beyond my ken.}
+{111}{}{Let me ask you something else.}
+{112}{}{That's all I need to know. Bye.}
 
-{120}{}{史力克？他是我们部落的成员。从他妹妹去附近的部落一直没回来他就出去找她了。史力克现在在哪？}
-{121}{}{噢，他在这呢。嗨，史力克。进来吧。}
-{122}{}{噢，他很好。我叫他等在别处有些事要办。}
-{123}{}{对不起，他死了。}
-{124}{}{[史力克和部落酋长相互打招呼]真高兴再见到史力克。我们还担心他有什么麻烦呢。那么，他妹妹仍没找到？她是我们重要一员。}
-{125}{}{很高兴听到史力克很好。我们还担心他有什么麻烦呢。那么，他妹妹仍没找到？她是我们重要一员。}
-{126}{}{那真是个可怕的消息。史力克是个好人。那么，他妹妹仍没找到？她是我们重要一员。}
-{127}{}{是的，奴隶贩抓住了她。我提义史力克来这看看。你有什么可以帮助我们查找的确信息吗？}
-{128}{}{好的，奴隶贩的头叫麦塔则，他在丹恩城。也许是他干的或者他知道她关在哪。}
-{129}{}{谢谢。让我问点别的。}
+{120}{}{Sulik? [He nods.] One of our best men. Equally skilled at the art of the hunt, and the art of communing with bonespirits. He left us to find his sister, Kurisu, who never returned from a nearby tribe. Tell me, child, where is Sulik now?}
+{121}{}{Oh, he's right here. Hey, Sulik, come on in here...}
+{122}{}{Oh, he's alright. I told him to wait while I get some things done.}
+{123}{}{I am sorry, but he is dead.}
+{124}{}{[Sulik and the tribe's chief exchange greetings.] It brings me great pleasure to see Sulik again. The bonespirits told me he had fallen into trouble. But what of his sister, Kurisu?}
+{125}{}{It is good to hear that Sulik is well. We were worried he got into trouble. So, his sister is still missing? She too is a member of our tribe.}
+{126}{}{[He frowns and smokes his pipe in silence for a long time. Just when you consider leaving. He finally speaks.] The spirits were strong with Sulik. I always thought, he might one day take my place. Now, I see the spirits had other plans for Sulik. But what of his sister, Kurisu?}
+{127}{}{She was captured by slavers. I've offered Sulik assistance in locating her. Do you know anything that might help in the search?}
+{128}{}{[He closes his eyes for a long time. Just as you think he might have fallen asleep, he begins speaking.] The slavers are led by a man with a dark soul. Metzger. He dwells in one of the ruined husks of the Old One's cities. They call it the Den. [He opens his eyes.] Perhaps, he is holding her there. The bonespirits say no more.}
+{129}{}{Thanks. Let me ask you something else.}
 
-{130}{}{我个人不需要什么不过我相信有些人会需要。村子里问问吧。}
+{130}{}{Thank you, child, but I am content. Perhaps others are not so. Ask around the village.}
 
+#dumb dialgoue
+{140}{}{I look for GECK.}
+{141}{}{I looking for missing woman. She sister of friend Sulik.}
+{142}{}{Bye.}
+
+{150}{}{I ask more.}
+
+{160}{}{Oh, he right here. Sulik, chief man want talk.}
+{161}{}{Oh, he good. He wait for me.}
+{162}{}{I sorry. He dead.}
+
+{170}{}{Yes, bad men got her. I help Sulik. You know where she is?}
+
+{200}{}{Your evil ends here, slaver!}
+
+# PC has beaten the Enclave
+{300}{}{[The old man smokes his pipe and watches you with dull grey eyes that seem to bore into your soul. He motions for you to sit across from him in the smoke-filled tent.] You have done a great deed, child. I hear the cries of many wicked bonespirits lost out in the Great Salt Water. Now that you have proven yourself, I can share with you the final great secret.}
+{301}{}{Alright, finally! Let's hear it.}
+{302}{}{Not interested, old man. Bye.}
+{310}{}{[He takes a big hit off his pipe, then closes his eyes. After a moment, he nods.] Yes. I see the Great Bear spirit has guided your quest, breathing new life into old bones. Others as well. Perhaps they've come to you in a vision. Come from far, far away... where mutants are not allowed.}
+{311}{}{What the hell are you talking about?}
+{312}{}{Yeah yeah, I got the Star Wars special encounter. Don't tell me that's the final great secret.}
+{320}{}{The final secret... the greatest secret in the entire game... is, [As he does a dramatic pause, he takes another hit off his pipe. Suddenly, the pipe slips from his hands and falls into his robes, instantly igniting him in flames.]}
+{321}{}{Fuck!}

@@ -1,14 +1,19 @@
-{100}{}{你看见一个土著。}
-{101}{}{你看见一个部落成员。}
-{102}{}{只有少部分人在这个部落。}
+{100}{}{You see a tribal.}
+{101}{}{You see a member of the tribe.}
+{102}{}{One of the few remaining people in the tribe.}
 
-{200}{}{你在这不受欢迎。}
-{201}{}{我们不喜欢你这类人。}
-{202}{}{走开，外人！}
-{203}{}{为什么你们要折磨我们吗？}
-{204}{}{欢迎你战士。}
-{205}{}{我们将永远欢迎你！}
-{206}{}{你现在是我们的一员了。}
-{207}{}{谢谢你帮助我们。}
-{208}{}{我以为外面的人都是邪恶的。看来不是全部...}
-{209}{}{不要那样。}
+{200}{}{You're not welcome here.}
+{201}{}{The spirits do not like you.}
+{202}{}{Go away, outworlder.}
+{203}{}{Why do you plague us?}
+{204}{}{Welcome, warrior.}
+{205}{}{You will always be welcome here.}
+{206}{}{The spirits accept you as one of us.}
+{207}{}{Thank you for helping us.}
+{208}{}{I thought all outworlders were evil. It is not so...}
+{209}{}{Don't do that.}
+{210}{}{Slavers aren't welcome here!}
+
+# PC has defeated the Enclave
+{300}{}{We're honored to have you here, hero.}
+{301}{}{Your defeat of the Enclave shall be recorded in legends. Your ancestors are proud.}

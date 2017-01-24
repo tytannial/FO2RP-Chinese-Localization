@@ -1,41 +1,55 @@
-{100}{}{你看见一个渔夫。}
-{101}{}{你看见一个渔夫。}
+{100}{}{You see a fisherman.}
+{101}{}{You see a fisherwoman.}
 
-{102}{}{他带着一根钓鱼用的细长的竹竿。}
-{103}{}{他正忙着做饭呢。}
-{104}{}{祝福你。}
+{102}{}{He is carrying a sharpened pole used for fishing.}
+{103}{}{She appears to be busily cooking.}
+{104}{}{Greetings.}
 
 
-{200}{}{你在这不受欢迎。}
-{201}{}{我们不喜欢你这类人。}
-{202}{}{走开，外地人。}
-{203}{}{你们为什么要折磨我们？}
-{204}{}{欢迎你战士。}
-{205}{}{我们永远欢迎你。}
-{206}{}{你现在是我们的一员了。}
-{207}{}{谢谢你帮忙我们。}
-{208}{}{我以为外地人都很坏，看来不全是...}
-{209}{}{别那样做！}
+{200}{}{You're not welcome here.}
+{201}{}{The spirits do not like you.}
+{202}{}{Go away, outworlder.}
+{203}{}{Why do you plague us?}
+{204}{}{Welcome, friend.}
+{205}{}{You will always be welcome here.}
+{206}{}{The spirits accept you as one of us.}
+{207}{}{Thank you for helping us.}
+{208}{}{I thought all outworlders were evil. It is not so...}
+{209}{}{Don't do that.}
 
-{300}{}{打扰一下，能帮个忙吗？我现在很忙我不能扔下手上的事离开。}
-{301}{}{当然，你需要什么？}
-{302}{}{我也很忙。也许稍后会有时间。}
-{303}{}{嗨，生活充满问题但是我不是为解决问题而来这的。再见。}
-{304}{}{好的，我现在缺少木材生火。如果你帮我找一些我人很感激的。我本来也可以自己去找不过现在我分不开身。村庄附近的林地里可以找到木材，我想大约3捆就够了。}
-{305}{}{我很乐意帮忙。}
-{306}{}{实际上，我现在就有3捆木材。拿去吧。}
-{307}{}{你会帮我？太好了！收集够了就告诉我。}
-{308}{}{哈，太好了。谢谢你花费时间帮我。我没有什么实际的东西可以报答你。}
-{309}{}{有你的感激之情就够了。保重。}
-{310}{}{你要知道我的服务可不是免费的。}
-{311}{}{好的，拿去，拿着这些钱。这对我没什么用。再次感谢。}
-{312}{}{那还差不多。再见。}
-{313}{}{[完成]}
-{314}{}{嗯，去烦别人。}
-{315}{}{你找到柴火了？}
-{316}{}{是的，拿去。}
-{317}{}{还没呢。找到我会回来的。}
-{318}{}{你准备帮我了？}
-{319}{}{是的，你需要什么？}
-{320}{}{不，再等些时候吧。再见。}
-{321}{}{不且以后也不会。那是你自己的问题。再见。}
+{300}{}{Excuse me, but could you do me a small favor? I'm a little busy here and I don't know if I can leave this pot unattended.}
+{301}{}{Sure. What do you need?}
+{302}{}{I'm busy too. Perhaps a little later.}
+{303}{}{Hey, life is full of problems and I'm not here to solve them all. Bye.}
+{304}{}{I'm running low on wood for this fire. If you could collect some more for me, I'd really appreciate it. I'd do it myself, but I am afraid this pot will boil over if I leave it unattended. I'm sure some logs can be found in the nearby forest. Three bundles would be perfect.}
+{305}{}{It would be my pleasure.}
+{306}{}{Actually, for some crazy reason, I happen to have three bundles of logs on me right now. Here you go.}
+{307}{}{You'll help me? Great! Let me know when you've collected them.}
+{308}{}{Ah, excellent. This will help keep this fire going. Thank you for taking the time to help me. I don't really have anything to repay with though.}
+{309}{}{Your gratitude is enough. Take care.}
+{310}{}{Nothing to repay me? Look lady, I could have died in those woods. It's filled with all kinds of deadly creatures. I risked my neck for this fucking wood. Not to mention I think one of the logs gave me a splinter. I *hate* splinters.}
+{311}{}{Well, here, take this money. I have no real use for it here. Thank you again.}
+{312}{}{That's better. Bye.}
+{313}{}{[DONE]}
+{314}{}{Hmmf. Go bother someone else.}
+{315}{}{Did you bring the firewood?}
+{316}{}{Yeah, I got it right here.}
+{317}{}{No, not yet. I'll be back when I get the three bundles.}
+{318}{}{Are you ready to help me?}
+{319}{}{Sure. What do you need?}
+{320}{}{No, I still need more time. Bye.}
+{321}{}{No, and I won't be. Deal with your own problems. Bye.}
+
+#added in RP 1.3 - Node004
+{330}{}{No real use for it? Then why didn't you give it to me in the first place? (mumble) Stupid bitch.}
+
+#dumb dialogue
+{400}{}{Whut you need?}
+{401}{}{Ooo! Make me favorite food!}
+
+{410}{}{I look.}
+{411}{}{I have wood. Heh-heh... wood.}
+
+{420}{}{That ok. Bye!}
+
+{500}{}{Vile slaver!}

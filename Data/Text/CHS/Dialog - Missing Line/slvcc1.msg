@@ -24,6 +24,7 @@
 {308}{}{[他直冒冷汗] 没有没有，哪敢。这是室子的钥匙，室子就在围栏那边。你想带多少就带多少。}
 {309}{}{谢了。回去我会帮你说点好话的。再见。}
 {310}{}{真是麦塔则叫你来的？他上周才进的货。你他妈的以为我是白痴吗？[他使了个眼色] 让我们和这小子好好的玩玩，我的枪都要生锈了。}
+{311}{}{Yeah right. You're full of shit and you're wasting my time. For that, you die. [Signals to his men.] Let's waste this loser.}
 
 {311}{}{好了，你已经是奴隶贩了。去丹恩城和麦塔则报到。好吧，我很忙的，该干嘛干嘛去吧。}
 
@@ -37,3 +38,7 @@
 {601}{}{死吧游侠废物！}
 
 {800}{}{嗯...帮我向麦塔则问好。}
+
+#RP 1.3
+{900}{}{No, actually, he sent me to have a look at your stock. You see, I have very particular tastes, but I'm willing to pay a premium price.}
+{901}{}{Bullshit. Metzger's never sent a customer out here before. I don't know what you're trying to pull, but you've got three seconds to get the fuck outta my face before I have my boys pump you full of lead.}

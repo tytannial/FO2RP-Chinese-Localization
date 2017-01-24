@@ -114,6 +114,7 @@
 {213}{}{好，他们又怎么了？}
 {214}{}{我找到他们的基地。}
 {215}{}{我消灭了他们。}
+{1215}{}{I convinced their guide to no longer lead them through the mountains. They will never find their way without him.}
 {216}{}{知道歹徒可能是从哪来的吗？}
 {217}{}{算了。我有其它问题。}
 {218}{}{算了。我们改天再谈。}
@@ -123,6 +124,7 @@
 {222}{}{我有些问题。}
 {223}{}{好，我去告诉她。}
 {224}{}{你消灭了他们？}
+{1224}{}{You did? So, they will no longer be a threat to us?}
 {225}{}{是的，你之前就说过了。你应该去跟第一公民说才对。}
 {226}{}{是啊，地下掩体市不用再担心他们了。}
 {227}{}{我有些问题。}
@@ -150,6 +152,7 @@
 {249}{}{在这时候，我不想拒绝帮忙。你去找到他们的基地，或是消灭他们更好。再向第一公民报告。}
 {250}{}{事实上，我已经找到了他们基地了。}
 {251}{}{事实上，我已经消灭他们了。}
+{1251}{}{Actually, I already put a stop to them. I convinced their guide to no longer lead them through the mountains. They will never find their way without him.}
 {252}{}{你觉得他们这些歹徒应该是从哪哩来的？}
 {253}{}{好吧，我还有其它问题。}
 {254}{}{我会做的。}
@@ -290,43 +293,43 @@
 {389}{}{你为地下掩体市侦察新加州共和国了。}
 {390}{}{像什么．．女士？}
 
-{391}{}{对，是有点事情...我看过你的侦察报告了，我发现附近有一个小村庄，那到处是...嗯...地鼠，好像外面的人是这么叫它们的，对吗？我想让你去那清除所有的怪物。}
-{392}{}{只是枪毙几只地鼠？好的，我接了。}
-{393}{}{为何？}
-{394}{}{新加州共和国考察怎么样了？}
-{395}{}{我会考虑一下的。我能问你点问题吗？}
-{396}{}{不，那不是我该干的工作。再见。}
-{397}{}{太好了。让我告诉你这个村庄精确的位置。[史塔克把村庄位置输入了你的哔哔小子里]我会支付你$750的报酬的。还有一件事－如果你一个月内没搞定，我会派一班人去那消灭所有地鼠和任何的其他威胁。}
-{398}{}{再见。}
-{399}{}{好吧...你知道的...再我看来那些怪物可能威胁到我们的巡逻队...嗯...和村民自己的安全。就是这样。}
-{400}{}{了解，我接受这个工作。}
-{401}{}{搞定了，那接下来村子怎么办？}
-{402}{}{关于那个村庄...}
-{403}{}{你杀了所有地鼠？真的吗？}
-{404}{}{你想去把村民抓来当仆人，但地鼠妨碍了你的计划，因些你叫我去清除它们，对吧？}
-{405}{}{是。}
-{406}{}{还没有。}
-{407}{}{好吧...实际上, 是的...但那是出于对他们好。我们能让他们吃饱且能保护好他们。毕竟没什么比生活在我们的城市更好的事了。 }
-{408}{}{他们不想这样。}
-{409}{}{这无关紧要。你会完成你的任务还是不？}
-{410}{}{好的，我会完成的。}
-{411}{}{不，我不认为是这样。 }
-{412}{}{好极了。完成后再回来。}
-{413}{}{无所谓，他们仍然会变成仆人。我马上会派一个战斗小队去那。村庄将空无一人。}
-{414}{}{[完成]}
-{415}{}{所有事完成后再回来。}
-{416}{}{好极了！拿去这是$750。现在我能派一小队人把所有村民带到这来了。}
-{417}{}{等等！你说杀了所有怪物是为村民好！}
-{418}{}{我不做这生意。再见。}
-{419}{}{当然是啊。当他们变成仆人之后，他们将无需为生存而斗争。他们可以吃饱而有人保护他们的安全。作为回报，他们将为慷慨的掩体市而工作。}
-{420}{}{这是奴役！}
-{421}{}{这不是奴役，这是互利互惠的，事实上是一种合作关系。}
-{422}{}{真恶心！再见！}
-{1422}{}{好吧，我同意。再见。}
-{423}{}{这些未开化的人完全发疯了。他们不知从哪弄到了武器，一见我们就打。所以我有另一个想法。送他们下地狱。毕竟他们不是我们最后的奴隶...我的意思是仆人。}
-{424}{}{什么村庄？噢，我们得到新仆人的那个...怎么了？}
-{425}{}{你说什么？你把他们都奴役了？}
-{426}{}{我知道谁有武器。就是广场区的商人，哈利。}
-{427}{}{哈利，你确定？好的我会处理他的。至于你，作为奖赏你可以在他商店拿任何东西。}
-{428}{}{虽然我不知道为什么，不过议会议员麦卡路叫我把这村子的事放一放。真是的！}
-{429}{}{...好吧。}
+{391}{}{Yeah, there is something... I have been looking through your reconnaissance report and I found a small village nearby swarming with uhh..."mole rats", that's what the outsiders call them, right? I want you to go there and exterminate all those beasts.}
+{392}{}{Just gun down a few rats? Ok, I'm on it.}
+{393}{}{What for?}
+{394}{}{What about the NCR expedition?}
+{395}{}{I'll think about it. Can I ask you a few questions?}
+{396}{}{No, not my kind of job. Goodbye.}
+{397}{}{Excellent. Here, let me show you the exact location of the village. [Stark marks the village on your Pip-Boy map.] Pay's $750, just come back and collect once you finish the task. One more thing -- if you don't deal with it in a month, I'll send a squad there to eliminate the monsters...and any other threat.}
+{398}{}{Bye.}
+{399}{}{What for? [He hesitates for a moment, then frowns.] I don't need to explain my motives to you. I give orders, and you take them -- That's how it is. If you don't want the job, I'll send a squad to do it instead...but things sometimes get a little "messy" when I set my boys loose.}
+{400}{}{Got it. I'll take the job.}
+{401}{}{It's clear. What's with that village, anyway?}
+{402}{}{About that village...}
+{403}{}{You killed all those big ugly rats? Really?}
+{404}{}{I was told you plan on turning the people of that village into servants, and that the mole rats were preventing you from doing it -- that's the real reason you wanted them exterminated.}
+{405}{}{Yes.}
+{406}{}{Not yet.}
+{407}{}{Oh, you heard that, did you? Well, you heard right -- it's for their own good. Here, they'd be well fed and taken care of. I'm sure they'd come to realize how much better it is to serve in the great Vault City than dwell in their little village with rat shit up to their knees.}
+{408}{}{They're happy right where they are.}
+{409}{}{Doesn't matter. Will you complete your task or not?}
+{410}{}{Ok. I'll finish it.}
+{411}{}{No, I don't think so. }
+{412}{}{Great, return when you are done.}
+{413}{}{Doesn't matter, they'll all become servants just the same. I'm sending a battle squad there immediately. Soon, there'll be nothing left of their little village.}
+{414}{}{[DONE]}
+{415}{}{Return when all is done.}
+{416}{}{Great work, soldier. Here's your $750 -- a small price to pay for a village full of new servants. You've done Vault City a great service.}
+{417}{}{Wait -- You never said anything about making the villagers your servants.}
+{418}{}{Whatever. Goodbye.}
+{419}{}{It's for their own good. Once they're servants of Vault City, there'll be no need for them to strife for survival. They'll be fed and taken care of. In return, they'll work for the good of the City. Everyone wins.}
+{420}{}{But it's slavery!}
+{421}{}{It's not slavery, but a mutually beneficial co-existence, a symbiosis so to speak.}
+{422}{}{Disgusting! Goodbye.}
+{1422}{}{Well, I agree. They're better off this way. Goodbye.}
+{423}{}{Those primitives must have lost their minds completely. They obtained weapons from somewhere, and started shooting us on sight! So I gave it another thought. Hell with them. After all, it's not like we're short on slaves... I mean servants.}
+{424}{}{What village? Oh, the one we got our new servants from... what about it?}
+{425}{}{You say what!? You enslaved them all?}
+{426}{}{I know who provided them with weapons. It was that trader in the courtyard, Harry. }
+{427}{}{Happy Harry, you say? ... figures it'd be one of them scumbags in the courtyard. Ok I'll deal with him. We'll see how "Happy" he is when I'm through. As for you, you can take whatever you find in his store as a reward for selling him out.}
+{428}{}{I don't know why, but proconsul McClure has ordered me to wait with the village a little. It's applying to you as well. }
+{429}{}{Hmm... Ok.}

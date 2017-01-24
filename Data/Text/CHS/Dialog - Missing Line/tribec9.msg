@@ -1,43 +1,48 @@
-{100}{}{你看见一个战士。}
-{101}{}{你看见肖恩。}
-{102}{}{他上去伤的很重，一只腿也断了。}
-{103}{}{你看见肖恩。他上去伤的很重，一只腿也断了。}
-{104}{}{你看见肖恩。他的腿绑着绷带，他正蹒跚而行。}
-{105}{}{你看见肖恩。他看去好多了，他睡的很沉。}
-{106}{}{你看见肖恩。他看起来已经恢复了。}
+{100}{}{You see a warrior.}
+{101}{}{You see Serin.}
+{102}{}{He looks badly injured and has a broken leg.}
+{103}{}{You see Serin. He looks badly injured and has a broken leg.}
+{104}{}{You see Serin. His leg is bandaged and he is hobbling.}
+{105}{}{You see Serin. He looks better and he is in a deep sleep.}
+{106}{}{You see Serin. He looks like he has recovered nicely.}
 
-{200}{}{*啊* 死神！你不会带-}
-{201}{}{镇静，你现在安全了。那只蜥蜴死了。}
+{200}{}{*ugh* Die fiend!! You won't be ta-}
+{201}{}{Calm down. You're safe now. The gecko is dead.}
 
-{202}{}{什么！？喔，谢天谢地。我还以为我死定了。}
-{203}{}{这出了什么事？}
-{204}{}{这是样的，杰里和我去执行我们部落的一周一次的打猎活动。穿过这个洞穴后有一小片原野没想到有几只蜥蜴在这。遗憾的是，打猎没有想计划那样我们必需赶快离开。几只蜥蜴紧紧跟着我们而我们逃跑到这个通道时大声呼救。[疼痛使他停住他揉了揉受伤的腿]}
-{205}{}{请继续说。}
-{206}{}{我们都知道这个通道不是一通到底的，所以我们必需很快找到洞口守卫的方向这是我们离开这最快的方法。这时墙上出现了裂缝，不一会洞顶落下一些石块泥土，总知，我们的叫声让事情变得更糟，岩石落的到处都是。}
+{202}{}{What!? Oh, praise the spirits, fren. I feared I be done for.}
+{203}{}{What happened here?}
+{204}{}{Jerem and I be going out for weekly hunt. Took cave passage to field where many geckos roam. Hunt went bad. Had to run. Too many geckos with spirits of fury. We entered cave. Started yelling for help. [He pauses for a moment and winces in pain as he tries to rub his leg.]}
+{205}{}{Please go on.}
+{206}{}{Passage was already on brink of doom. Water seeping in from stream overhead. A deadly pass, but it be a great shortcut to fields. Not no more. See, we be yelling like fools and the ceiling come crashing down on us.}
 
-{207}{}{[然后呢]}
-{208}{}{杰里很不幸一块大石压在了他的腰上。我只是被一些小石头砸到我正想离开时一只蜥蜴从后面咬住了我的右腿。我差点绊倒在地，赶紧用矛支撑。就在我以为全完了的时候，谢天谢地一块大石头砸在了那只蜥蜴的头上。唉，我的脚也没那么幸运。同样被落下的岩石压住了。}
-{209}{}{[继续]}
-{210}{}{突然，我听到咆哮声传来。我看见前面有一只大蜥蜴。刚才的冲击使它有一点眩晕不过它看上去很愤怒。当它刚要攻击我的头时你来了。我真是欠你个人情。}
+{207}{}{[Continue]}
+{208}{}{Poor Jerem. I saw big rock crush him like bug. The big rocks missed me, but the Gecko's bite didn't. Just when I thinking I be safe, a gecko come from nowhere and take big bite outta leg. Took me right to the ground. Had no spear, thought the Gecko be dining on me for sure. But the spirits had other plans. Brought a final big 'o rock down on the geckos head. Crushed it flat. But crushed my leg, too.}
+{209}{}{[Continue]}
+{210}{}{So I be stuck on ground, without spear. Suddenly, I be hearing something come at me from the dark. It got closer, and I saw it be one big angry gecko. The falling rocks only be making it more pissed. That's when you came in, fren. Truly, I be in your debt.} 
+{211}{}{Wow, that's quite the story. It seems you're very lucky to be alive. How's your leg?}
+{212}{}{Not good, fren. It seems rock be stronger than my leg bone. I doubt I be getting up and walking out soon.}
+{213}{}{Don't worry, I'm a skilled doctor. Let me have a look at your leg and I'll see what I can do.}
+{214}{}{Don't worry, I shouldn't have a problem carrying you out of here. Then we can have the shaman take a look at your leg.}
+{215}{}{We should probably get a professional to come here and look at it. I'll quickly go try to find some help. The cave seems to be empty now, so you should be safe here until I return.}
+{216}{}{Hmm... I don't think I'm quite strong enough carry you out of here, but I bet Sulik could do it. [to Sulik] Let's carry this guy out of here.}
+{217}{}{Hmm... I don't think I'm quite strong enough carry you out of here, but I bet Marcus could do it. [to Marcus] Let's carry this guy out of here.}
+{218}{}{[You examine the warrior's leg. It's badly ripped up and the bone is showing in some parts. You skillfully snap the bone back in place, stop the bleeding, splint the leg, and set to work on healing it.]}
+{219}{}{[After about 15 minutes of agonizing work, the leg is in much better shape. It looks as if this man will be able to walk again.]}
+{220}{}{Alright, that should about do it. You'll need a couple days of rest for it to fully heal. Don't put too much pressure on it during this time and you should be fine.}
+{221}{}{Holy spirits posses you, fren! I thank you. Now I be hobbling my way to the shaman. Get some good herb to ease the pain. Be seeing you back at the village, fren.}
+{222}{}{[Done]}
 
-{211}{}{真是惊险的故事。感谢上帝你活着。你的腿怎么样了？}
-{212}{}{噢，看起来不太好。落石确实很多。我不知道我要怎么走出这里，而且我都不知自己能不能站起来。}
-{213}{}{我是一个医生。让我看看你的腿。}
-{214}{}{我很强壮。我会把你带到巫师那去的，他会治好你的腿的。}
-{215}{}{也许你应该让专业人事看看。我去找点人把你弄出去。}
-{216}{}{嗯... 我把你带出去有点困难。不过史力克就没问题。 [叫史力克] 让我们把这家伙带出去吧。}
-{217}{}{嗯... 我把你带出去有点困难。不过马可世就没问题。[叫马可世] 让我们把这家伙带出去吧。}
-{218}{}{[你检查了这个战士的腿。伤的很重有些骨头都露出来了。你止住了流血且治好了他的腿]}
-{219}{}{[15分钟后坚苦的工作他的腿比原来好多了。看上去他又能走了。]}
-{220}{}{好吧，那就是我能做的。我需要休养几天好好恢复。这段时间要好好休息之后你就会好的。}
-{221}{}{真的？噢，谢谢你。我会慢慢走出这去找巫师的。一会营地见。}
-{222}{}{[完成]}
+{300}{}{I thank you, fren. Be seeing you back at the village.}
 
-{300}{}{谢谢你的帮助。你会在营地见到我的。}
-
-{400}{}{谢谢你救我了。你真是个好人！}
+{400}{}{Thanks much, fren. Truly, you are blessed by the spirits.}
 
 {500}{}{zzzZZzzz...}
 {501}{}{...zzZZZZzz...zzz...}
 
-{600}{}{你治好了肖恩的腿。}
+{600}{}{You heal Serin's leg.}
+
+# PC has beaten the Enclave
+{1000}{}{Good to be peeping you, hero.}
+{1001}{}{I never forget what you done for me, hero.}
+
+{700}{}{He needs more help than I can offer. I better get going.}

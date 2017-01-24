@@ -102,6 +102,7 @@
 
 {300}{}{有什么进展吗？}
 {301}{}{还没有呢。有新消息我会回来的。}
+{302}{}{Good news: I've convinced the Vault City council not to touch your village.}
 
 {310}{}{你乐意分一些武器给我们吗？我们很乐意用$10000买下他们的。}
 {311}{}{好吧，拿去。}
@@ -119,9 +120,24 @@
 {604}{}{嗯，我也不太认识他，他真是很老了。他神经有些问题。他总是在说在他年青的时候做了某些伟大的任务。尽管如此，他很可靠且他时常留意着掩体市的情况。}
 {605}{}{很有趣，我马上就去。}
 {606}{}{伟大的任务？}
-{607}{}{对，一些拯救世界的任务，好像他是跟随某人四处游荡协助那人做这个任务。我没太注意他说这些乱七八糟的东西。}
-{608}{}{很有趣，谢谢你的信息。}
-{609}{}{我正在做一个任务，拯救我的部落的任务。有点像拯救世界，至少是我的世界。}
 {610}{}{喔，祝你好运。保持下去。只是别忘了帮我们的事。}
 {611}{}{我不会忘的。回见。}
 {612}{}{我也许会的。实际上我有太多任务，如果没有手边这个哔哔小子，谁知道会怎么样。好吧，再见了。}
+
+#RP 1.3
+{700}{}{Oh, right. Here you go. [Hand him $5,000.]}
+{701}{}{Sorry, I had to spend it as part of the deal.}
+{702}{}{Shit, I don't have enough to pay you back. I must've spent some without thinking about it. I'll get I get it back to you as soon as I can.}
+
+{710}{}{Thanks. Here. [He hands you back $2,500.] Keep it. It's the least we could do to repay you.}
+
+{720}{}{Oh, I see. Well, if it bought us our freedom, then it was worth every coin. Thanks again for all you've done for us.}
+
+{730}{}{Tell you what--how 'bout you just pay us back half? Do you have $2,500?}
+{731}{}{Sure, here. [You give him $2,500.]}
+{732}{}{Sorry, I don't even have that much.}
+
+{740}{}{Thank you, }
+{741}{}{. We won't forget what you've done for us.}
+
+{750}{}{I see . . . well, don't worry about it. The money isn't as important as our freedom. Thank you.}
