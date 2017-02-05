@@ -65,27 +65,27 @@
 {146}{}{Boneyard}			      // LAGUNRUN.MAP
 {147}{}{Cathedral}			      // CHILDEAD.MAP
 {148}{}{Military}			      // MBDEAD.MAP
-{149}{}{Mountains}			      // MOUNTN1.MAP
-{150}{}{Mountains}			      // MOUNTN2.MAP
-{151}{}{Desert} 			      // FOOT.MAP
-{152}{}{Desert} 			      // TARDIS.MAP
-{153}{}{Desert} 			      // TALKCOW.MAP
-{154}{}{Desert} 			      // USEDCAR.MAP
+{149}{}{山脉}			      // MOUNTN1.MAP
+{150}{}{山脉}			      // MOUNTN2.MAP
+{151}{}{沙漠} 			      // FOOT.MAP
+{152}{}{沙漠} 			      // TARDIS.MAP
+{153}{}{沙漠} 			      // TALKCOW.MAP
+{154}{}{沙漠} 			      // USEDCAR.MAP
 {155}{}{Brotherhood}			      // BRODEAD.MAP
-{156}{}{Desert} 			      // DESCRVN1.MAP
-{157}{}{Desert} 			      // DESCRVN2.MAP
-{158}{}{Mountains}			      // MNTCRVN1.MAP
-{159}{}{Mountains}			      // MNTCRVN2.MAP
+{156}{}{沙漠} 			      // DESCRVN1.MAP
+{157}{}{沙漠} 			      // DESCRVN2.MAP
+{158}{}{山脉}			      // MNTCRVN1.MAP
+{159}{}{山脉}			      // MNTCRVN2.MAP
 {160}{}{Viper Camp}
-{161}{}{Desert}
-{162}{}{Mountains}
-{163}{}{Desert}
-{164}{}{Mountains}
+{161}{}{沙漠}
+{162}{}{山脉}
+{163}{}{沙漠}
+{164}{}{山脉}
 {165}{}{EPA}                                 // epax.MAP
 {166}{}{EPA}                                 // EPAMAIN.MAP
-{167}{}{EPA Warehouse}                       // epawrhse.MAP
-{168}{}{Merchant}                            // vilmerch.map
-{169}{}{Shi Submarine}                       // sfsub.map
+{167}{}{EPA仓库}                       // epawrhse.MAP
+{168}{}{商人}                            // vilmerch.map
+{169}{}{始族潜艇}                       // sfsub.map
 
 
 #
@@ -595,8 +595,8 @@
 {574}{}{山区}
 # 125. City Encounter
 {575}{}{遗弃的城市}
-{576}{}{城市荒野}
-{577}{}{城市荒野}
+{576}{}{城市废墟}
+{577}{}{城市废墟}
 # 126. Arroyo Temple
 {578}{}{神殿入口}
 {579}{}{神殿入口}
@@ -611,24 +611,24 @@
 {586}{}{牢房}
 # [Map 129] lookup_name=Enclave Dock
 {587}{}{码头}
-{588}{}{码头}
+{588}{}{飞鸟卸货平台}
 {589}{}{码头}
 # [Map 130] lookup_name=Enclave End Fight
-{590}{}{英克雷}
-{591}{}{英克雷}
-{592}{}{英克雷}
+{590}{}{入口大厅}
+{591}{}{入口大厅}
+{592}{}{入口大厅}
 # [Map 131] lookup_name=Enclave Guard Barracks
 {593}{}{军营}
 {594}{}{军营}
 {595}{}{军营}
 # [Map 132] lookup_name=Enclave Presidential
-{596}{}{监督者}
-{597}{}{监督者}
-{598}{}{监督者}
+{596}{}{总统区}
+{597}{}{总统区}
+{598}{}{总统区}
 # [Map 133] lookup_name=Enclave Reactor
-{599}{}{反应炉}
-{600}{}{反应炉}
-{601}{}{反应炉}
+{599}{}{反应堆}
+{600}{}{反应堆}
+{601}{}{反应堆}
 # [Map 134] lookup_name=Enclave Trap Room
 {602}{}{通道}
 {603}{}{通道}
@@ -688,7 +688,7 @@
 # 148. Shi Temple
 {644}{}{始族神庙}
 {645}{}{始族神庙}
-{646}{}{始族神庙}
+{646}{}{钢铁兄弟会基地}
 # 149. In Game Movie
 {647}{}{沙漠}
 {648}{}{沙漠}
@@ -698,92 +698,92 @@
 {651}{}{沙漠}
 {652}{}{沙漠}
 # 151. Abbey Entrance
-{653}{}{Entrance}
-{654}{}{Second Floor}
-{655}{}{Third Floor}
+{653}{}{入口}
+{654}{}{二楼}
+{655}{}{三楼}
 # 152. Abbey Basement
-{656}{}{Basement}
+{656}{}{地下室}
 {657}{}{enter name}
 {658}{}{enter name}
 # 153. Abbey Cave
-{659}{}{Cave}
+{659}{}{洞穴}
 {660}{}{enter name}
 {661}{}{enter name}
 # 154. Village
-{662}{}{Village}
-{663}{}{Village}
-{664}{}{Village}
+{662}{}{村庄}
+{663}{}{村庄}
+{664}{}{村庄}
 # 155. Village
-{665}{}{Woodland}
-{666}{}{Tribe}
-{667}{}{Tribe}
+{665}{}{林地}
+{666}{}{部落}
+{667}{}{部落}
 # 156. Village Waterside
-{668}{}{Fishing Area}
-{669}{}{Small Cave}
+{668}{}{钓鱼区}
+{669}{}{小型洞穴}
 {670}{}{enter name}
 # 157. EPA, epax.map
-{671}{}{Entrance}
-{672}{}{Air, Water, and Power Facility Level}
-{673}{}{Robot Maintenance}
+{671}{}{入口}
+{672}{}{空气、水和电力设施层}
+{673}{}{机器人维修区}
 # 158. EPA Sub-levels, EPAMAIN.map
-{674}{}{Level One}
-{675}{}{Level Two}
-{676}{}{Level Three}
+{674}{}{第一层}
+{675}{}{第二层}
+{676}{}{第三层}
 # 159. Warehouse, epawrhse.map
-{677}{}{Secret Level}
+{677}{}{机密层}
 {678}{}{enter name}
 {679}{}{enter name}
 # 160. Slaver Camp
-{680}{}{Main Camp}
+{680}{}{主营地}
 {681}{}{enter name}
 {682}{}{enter name}
 # 161. Gecko Enclave Patrol
-{683}{}{Desert}
-{684}{}{Desert}
-{685}{}{Desert}
+{683}{}{沙漠}
+{684}{}{沙漠}
+{685}{}{沙漠}
 # 162. Hubologist Stash
-{686}{}{Entrance}
-{687}{}{Level One}
-{688}{}{Level Two}
+{686}{}{入口}
+{687}{}{第一层}
+{688}{}{第二层}
 # 163. Ranger Safe House 1
-{689}{}{Ranger Safe House}
-{690}{}{Ranger Safe House}
-{691}{}{Ranger Safe House}
+{689}{}{游骑兵安全屋}
+{690}{}{游骑兵安全屋}
+{691}{}{游骑兵安全屋}
 # 164. Ranger Safe House 1
-{692}{}{Ranger Safe House}
-{693}{}{Ranger Safe House}
-{694}{}{Ranger Safe House}
+{692}{}{游骑兵安全屋}
+{693}{}{游骑兵安全屋}
+{694}{}{游骑兵安全屋}
 # 165. Ranger Safe House 1
-{695}{}{Ranger Safe House}
-{696}{}{Ranger Safe House}
-{697}{}{Ranger Safe House}
+{695}{}{游骑兵安全屋}
+{696}{}{游骑兵安全屋}
+{697}{}{游骑兵安全屋}
 # 166. Easter Egg Encounter
-{698}{}{Desert}
-{699}{}{Desert}
-{700}{}{Desert}
+{698}{}{沙漠}
+{699}{}{沙漠}
+{700}{}{沙漠}
 # 167. Merchant
-{701}{}{Desert}
-{702}{}{Desert}
-{703}{}{Desert}
+{701}{}{沙漠}
+{702}{}{沙漠}
+{703}{}{沙漠}
 # 168. Vault Village Merchant
-{704}{}{Desert}
-{705}{}{Desert}
-{706}{}{Desert}
+{704}{}{沙漠}
+{705}{}{沙漠}
+{706}{}{沙漠}
 # 169. Shi Submarine
-{707}{}{Sub Surface}
-{708}{}{Sub Interior Level 1}
+{707}{}{潜艇表面}
+{708}{}{潜艇内部第一层}
 {709}{}{}
 # 170. EPA Sub-levels, EPAMAIN1.map
-{710}{}{Level One}
-{711}{}{Level Two}
-{712}{}{Level Three}
+{710}{}{第一层}
+{711}{}{第二层}
+{712}{}{第三层}
 # 171. EPA Sub-levels, EPAMAIN2.map
-{713}{}{Level One}
-{714}{}{Level Two}
-{715}{}{Level Three}
+{713}{}{第一层}
+{714}{}{第二层}
+{715}{}{第三层}
 # 172. Dr. Sheng Hideout sfsheng
-{716}{}{Abandoned House}
-{717}{}{Cavern}
+{716}{}{废弃小屋}
+{717}{}{洞穴}
 {718}{}{}
 
 
@@ -808,7 +808,7 @@
 {1515}{}{那瓦罗}
 {1516}{}{英克雷}
 {1517}{}{修道院}           # Abbey
-{1518}{}{Umbra Tribe}   # Primitive Tribe
+{1518}{}{暗影部落}   # Primitive Tribe
 {1519}{}{EPA}           # EPA
 {1520}{}{鬼农场}
 {1521}{}{没能源的车}
@@ -839,15 +839,15 @@
 {1546}{}{假的第１３号避难所}
 {1547}{}{奇特遭遇}
 {1548}{}{马厩}
-{1549}{}{Village}
-{1550}{}{Slaver Camp}
-{1551}{}{Hubologist Stash}
-{1552}{}{Safe House}
-{1553}{}{Safe House}
-{1554}{}{Safe House}
-{1555}{}{RP Easter Egg Encounter}
-{1556}{}{Merchant}
-{1557}{}{Merchant}
-{1558}{}{Shi Submarine}
-{1559}{}{Abandoned House}
-{1560}{}{Gecko Enclave Patrol}
+{1549}{}{村落}
+{1550}{}{奴隶营地}
+{1551}{}{哈勃教藏匿点}
+{1552}{}{安全屋}
+{1553}{}{安全屋}
+{1554}{}{安全屋}
+{1555}{}{RP彩蛋遭遇}
+{1556}{}{商人}
+{1557}{}{商人}
+{1558}{}{始族潜艇}
+{1559}{}{废弃小屋}
+{1560}{}{蜥蜴城英克雷巡逻队}
