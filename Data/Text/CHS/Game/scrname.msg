@@ -473,7 +473,7 @@
 {555}{}{牢门}                      # SIKdoor.int     ; NCR Cell door
 {556}{}{大莫丁诺}              # ncBigJes.int    ; New Reno Big Jesus Mordino
 {557}{}{荷斯}                           # SCHoss.int      ; Hoss, bully NCR 1 map
-{558}{}{变型糖浆}                # SIMserum.int    ; Mutagenic Serum
+{558}{}{变种血清}                # SIMserum.int    ; Mutagenic Serum
 {559}{}{箱子}                            # niSalBox.int    ; New Reno Salvatore Bartender Shop Inventory
 {560}{}{箱子}                            # niMorBox.int    ; New Reno Mordino Bartender Shop Inventory
 {561}{}{箱子}                            # niBisBox.int    ; New Reno Bishop Bartender Shop Inventory
