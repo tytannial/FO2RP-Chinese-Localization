@@ -678,7 +678,7 @@
 {760}{}{山洞2乱数地图}    # cave02.int      ; Cave 2 Random Encounter Map
 {761}{}{山洞3乱数地图}    # cave03.int      ; Cave 3 Random Encounter Map
 {762}{}{山洞4乱数地图}    # cave04.int      ; Cave 4 Random Encounter Map
-{763}{}{山洞２乱数地图}    # cave02.int      ; Cave 2 Random Encounter Map
+{763}{}{山洞2乱数地图}    # cave02.int      ; Cave 2 Random Encounter Map
 {764}{}{门}                           # VIEntDor.int    ; Vault City Entrance Door
 {765}{}{地图}                     # VCtyDwtn.int    ; Vault City Downtown Map script
 {766}{}{陷阱门}                      # miTrpDor.int    ; Modoc Ghost Farm Trap Door
