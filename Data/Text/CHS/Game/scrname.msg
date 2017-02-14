@@ -21,8 +21,8 @@
 {103}{}{测试 1}                  # Test1.int       ; Used to Test Scripts
 {104}{}{测试 2}                  # Test2.int       ; Used to Test Scripts
 {105}{}{测试 3}                  # Test3.int       ; Used to Test Scripts
-{106}{}{测试4}                  # Test4.int       ; Used to Test Scripts
-{107}{}{测试5}                  # Test5.int       ; Used to Test Scripts
+{106}{}{测试 4}                  # Test4.int       ; Used to Test Scripts
+{107}{}{测试 5}                  # Test5.int       ; Used to Test Scripts
 {108}{}{阿罗由战士}                 # ACWarior.int    ; Generic Warrior in Arroyo
 {109}{}{阿罗由村民}                # ACVillgr.int    ; Generic Villager of Arroyo
 {110}{}{曼那克}                          # ACMynoc.int     ; Mynoc, Bridge Guard of Arroyo
@@ -207,11 +207,11 @@
 {289}{}{鬼山洞一}                 # GstCav1.int     ; Modoc Ghost Cave 1
 {290}{}{鬼山洞二}                 # GstCav2.int     ; Modoc Ghost Cave 2
 {291}{}{鬼农场}                     # GstFarm.int     ; Modoc Ghost Farm
-{292}{}{摩多克城牧场}            # ModBrah.int     ; Modoc Brahmin Field
-{293}{}{摩多克城花园}                   # ModGard.int     ; Modoc Garden
-{294}{}{摩多克城旅店}                      # ModInn.int      ; Modoc Inn
-{295}{}{摩多克城总干线}                     # ModMain.int     ; Modoc Main
-{296}{}{摩多克城!#&^}                     # ModShit.int     ; Modoc under the shitter
+{292}{}{摩多克牧场}            # ModBrah.int     ; Modoc Brahmin Field
+{293}{}{摩多克花园}                   # ModGard.int     ; Modoc Garden
+{294}{}{摩多克旅店}                      # ModInn.int      ; Modoc Inn
+{295}{}{摩多克总干线}                     # ModMain.int     ; Modoc Main
+{296}{}{摩多克屎}                     # ModShit.int     ; Modoc under the shitter
 {297}{}{摩多克水井}                       # ModWell.int     ; Modoc Well
 {298}{}{新加州共和国第二区}                     # ncr2.int        ; NCR area 2
 {299}{}{阿罗由花园}                 # ArGarden.int    ; Arroyo Gardens map script
@@ -1553,7 +1553,7 @@
 {1635}{}{spatial}                       # httunnel.int    ; spatial script for Broken Hills tunnels
 {1636}{}{Dock Worker}                   # fcdkwrk2.int    ; Named Shi Dock Worker (gives info about sub)
 {1637}{}{map script}                    # sfsub.int       ; Shi Sub Map
-{1638}{}{Door}                          # fssubdr.int     ; Shi Sub Rusted Door
+{1638}{}{门}                          # fssubdr.int     ; Shi Sub Rusted Door
 {1639}{}{spatial}                       # fssubint.int    ; Shi Sub Interior Greeting Spatial
 {1640}{}{power console}                 # fcsubpwr.int    ; Shi Sub Power Console
 {1641}{}{torpedo console}               # fcsubtco.int    ; Shi Sub Torpedo Console
@@ -1568,9 +1568,9 @@
 {1650}{}{Dr. Sheng}                     # fcdrshng.int    ; Dr. Sheng
 {1651}{}{Plant Creature}                # fcplntmn.int    ; Dr. Sheng's Plant Creature
 {1652}{}{Dr. Sheng's hideout}           # sfsheng.int     ; Dr. Sheng's hideout
-{1653}{}{Door}                          # fcshngdr.int    ; Door to Dr. Sheng's laboratory
-{1654}{}{Door}                          # fcshngd2.int    ; Door to Dr. Sheng's experiments
+{1653}{}{门}                          # fcshngdr.int    ; Door to Dr. Sheng's laboratory
+{1654}{}{门}                          # fcshngd2.int    ; Door to Dr. Sheng's experiments
 {1655}{}{spatial}                       # tribesp4.int    ; Spatial script upon entering the main area of Umbra Tribe
 {1656}{}{Repair Robot}                  # wcrpbot2.int    ; Sierra Base, Repair Robot (generic), level 4
 {1657}{}{Security Robot}                # wcscbot2.int    ; Sierra Base, Security Robot (generic), level 4
-{1658}{}{Door}                          # wibaydr2.int    ; Sierra Base Repair Bay Door (level 4)
+{1658}{}{门}                          # wibaydr2.int    ; Sierra Base Repair Bay Door (level 4)
