@@ -1,77 +1,76 @@
 {100}{}{}
-{101}{}{You see a member of the tribe.}
-{102}{}{You see Marli.}
-{103}{}{You see a warrior with a scowl on his face.}
+{101}{}{你看见一个部落成员。}
+{102}{}{你看见Marli。}
+{103}{}{你看见一个眉头紧锁的战士。}
 
-{110}{}{Be gone. I'm seeking council with the spirits and they don't like you, outworlder. If you must speak to me, do it another time.}
-{111}{}{No need to be so rude. Bye.}
+{110}{}{滚吧。我正在与灵魂们交谈，他们说不喜欢你，外来者。如果你想要跟我说话，下次吧。}
+{111}{}{用不着这么粗鲁吧，再见。}
 
-{112}{}{Hmph. I didn't ask for your help, outworlder. I could have taken care of the well myself.}
-{113}{}{Right. No thanks required.}
-{114}{}{Whatever. Way to be ungrateful.}
+{112}{}{哼，我不需要你的帮助外来者。我可以照顾好我自己。}
+{113}{}{是的，不想要帮助就算了。}
+{114}{}{好吧，不领情就算了。}
 
-{120}{}{What do you want?}
-{121}{}{I see you're having some trouble with that well. What's wrong, exactly?}
+{120}{}{你想干什么？}
+{121}{}{我看你那口井有点问题。到底怎么了？}
 
-{130}{}{What's wrong? I dropped the rope, that's what's wrong. [He shifts uncomfortably.] I was fastening a new rope to the well and then I looked up and saw this fine young maiden stretching in the sunlight. Spirits of lust distracted me and the rope slipped from my hands and... What's it to you anyway, outworlder? Unless you got a new rope for me, you be wasting my time.}
-{131}{}{I don't have a rope on me, but I'll see if I can come up with one. I'll get back to you.}
-{132}{}{As a matter of fact, I do. I'll see if I can fix that well for you.}
-{133}{}{Nope, I'm afraid you're just going to have to admit to the others what happened. Try to keep your spirits of lust under control next time. Bye.}
+{130}{}{什么问题？我把绳子掉进去了，那就是问题。[他变得很难受]我正在给井绑绳子，之后我抬头在阳光下看见了一个漂亮的少女。欲望的灵魂使得我分心了，绳子就才能我手中……你干嘛问我这问题，外来者？除非你能帮我弄来新绳子，不然就是浪费时间。}
+{131}{}{我没带绳子，但我会看看能不能帮你弄一根。我会回来的。}
+{132}{}{正好，我这有绳子。我试试能不能帮你修好。}
+{133}{}{不行，我恐怕你应该去向别人承认发生了什么。下次，想办法控制好你的欲望之魂吧。再见。}
 
-{140}{}{So is the well fixed yet, or what?}
-{141}{}{No, not yet I'm afraid.}
-{142}{}{Does it look fixed to you? You're standing right next to the fucking thing. Jerk.}
+{140}{}{那么，你修好井了么？}
+{141}{}{没，我恐怕还没修好。}
+{142}{}{你难道不会动么？你就站在那鬼东西的旁边。混蛋。}
 
-{150}{}{So, have you fixed up the well yet?}
-{151}{}{Sure, I got the rope in place now. See?}
+{150}{}{那么，你修好井了么？}
+{151}{}{当然，我把绳子拴上了。看见了么？}
 
-{160}{}{[He glances at the well, then snickers.] What good is a rope if you don't have a bucket attached? Or do you outworlders drink by licking water off a wet rope? [He shakes his head and mutters something under his breath.] Just attach the bucket, and I'll see that you be gettin' a reward.}
-{161}{}{Right.}
-{162}{}{How 'bout *you* reattach the bucket, and I'll see if I can restrain myself from beating your ass.}
+{160}{}{[他瞥了下井，笑了下]光有条绳子，没桶有什么用。或者你们外来者都是用舔湿绳子喝水的？[他摇摇头，低声嘟囔着什么。]把桶绑上去，我会看看给你什么奖励。}
+{161}{}{好的。}
+{162}{}{*你*自己绑上桶如何，我会考虑克制自己不去打烂你的屁股。}
 
-{170}{}{Did you attach the bucket?}
-{171}{}{No, not yet.}
-{172}{}{Does it *look* like I attached the bucket?}
+{170}{}{你绑上桶了么？}
+{171}{}{没，并没有。}
+{172}{}{这是*看*上去像绑上了么？}
 
-{180}{}{So the well is fixed, yes? With the bucket attached and everything?}
-{181}{}{Yes, it's all done.}
+{180}{}{这井修好了，是么？包括桶和其他东西？}
+{181}{}{是的，全部搞定。}
 {182}{}{...}
 
-{190}{}{[The corner of his mouth twitches up into a hint of a smile.] Ah, I suppose you outworlders aren't all bad, after all. Here, take this money. The spirits tell me you be needing this more than I.}
-{191}{}{Thanks.}
+{190}{}{[他嘴角上翘笑了]哈，我想你们这些外来者毕竟不全是坏人。这，拿上这些钱。灵魂们告诉我，你比我更需要这个。}
+{191}{}{谢谢。}
 
-{200}{}{May your ancestors guide you well.}
-{201}{}{Thanks for your help.}
-{202}{}{Nice to be seeing you again.}
+{200}{}{愿你的祖先指引你。}
+{201}{}{歇息你的帮助。}
+{202}{}{很高兴再次见到你。}
 
-{210}{}{You won't take us alive, slaver!}
+{210}{}{你不别想活捉我们，奴隶贩子！}
 
 
-{1000}{}{You fix the Tribe's well.}
+{1000}{}{你修好了部落的水井。}
 
 #added in RP 1.3
-{300}{}{All right, calm your spirits of anger. I'll do it myself. [He mumbles.] Crazy outworlder...}
-{301}{}{[DONE]}
+{300}{}{还好吧平息你愤怒的灵魂。我会亲自做到的。[他胡言乱语]疯狂的外来者……}
+{301}{}{[完成]}
 
-{310}{}{[He narrows his eyes at you, then glances at the well.] No.}
+{310}{}{[他眯着眼睛看了你，之后瞟了一眼水井]不。}
 {311}{}{Then no, I guess I didn't attach it yet.}
 
-{320}{}{Hey, did you hear me? I asked if the well be fixed yet.}
-{321}{}{... [You sigh, then point at the well.]}
+{320}{}{嘿，你听见了吗？我问井是不是修好了。}
+{321}{}{……[你叹息，然后指着水井]}
 
-{330}{}{[He turns and looks at the well, then turns back to you.] Yeah, looks right an' proper now. Why not just say so? Here, take this money. The spirits tell me you be needing this more than I.}
-{331}{}{... [You take the money and walk away.]}
+{330}{}{[他转过身看了下井，之后转向你]啊，看上去修好了。你为什么不这样说呢？这，拿上这些钱。灵魂们告诉我，你比我更需要这个。}
+{331}{}{……[你拿着钱走开了]}
 
 # PC has beaten the Enclave
-{2000}{}{Sorry if I was a jerk to you, hero.}
-{2001}{}{Sorry, I lost your sub-machine gun. That gecko be a fierce one.}
+{2000}{}{抱歉，我对你来说是不是个混蛋，英雄。}
+{2001}{}{抱歉，我弄丢了你的SMG。那只蜥蜴太凶猛了。}
 
-{400}{}{[As you're about to walk away, Marli looks at you closely and his eyes light up.] Ah! I see you have sub-machine gun. [He gazes longingly at the weapon.] We had one once, but Sulik always be hogging it. Got lost in a battle. Such a pity. My magic would be fearsome strong if I had a soul-taker such as that.}
-{401}{}{If you want this one, you can have it. I'm sure I'll find another. [Hand Marli the SMG.]}
-{402}{}{Just take it. I don't even want it after the eye raping you're giving it. [Hand Marli the SMG.]}
-{403}{}{Yeah, I bet. Anyway, me and my soul-taker are going elsewhere now.}
-{404}{}{You keep your magic to yourself, pal. Bye.}
+{400}{}{[当你要离开的时候，Marli仔细看了下你，他的眼睛亮了起来。]哈！我看见你有一把SMG。[他渴望的盯着那武器]我们以前也有一把，但史力克永远的霸占了它。再一次战斗中丢了。真是可惜。我的魔法将会是如此的强大，如果我有一把像那样的夺魂者。}
+{401}{}{你想要这个就那去吧，我还能再弄一把。 [交出SMG给Marli]}
+{402}{}{赶紧拿走吧。我才不想被你眼睛强奸后的这东西。[交出SMG给Marli]}
+{403}{}{好吧，我敢打赌。至少我跟我的夺魂者要去别的地方了。}
+{404}{}{你自己去玩你那魔法吧，兄弟。再见。}
 
-{410}{}{[He grins like a maniac as he looks over the weapon.] Oh, you be a good friend to Marli, outworlder. Here, was saving this sweet bubble-water, but I think you should be having it. [He hands you a Nuka-Cola.] Now I be off to spit fiery death at some geckos. [He runs off to the hunting grounds.]}
-{411}{}{My magic be fearsome now!}
-
+{410}{}{[他看着那武器，笑得像个疯子]哦，你是Marli的好朋友，外来者。这，一瓶甜甜泡泡水，我认这是你应得的。[他递给你一瓶核子可乐]现在我应该朝蜥蜴发射死亡烈焰了。[他跑向了狩猎场]}
+{411}{}{我现在已经法力无边了！}

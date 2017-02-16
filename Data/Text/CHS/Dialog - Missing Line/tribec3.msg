@@ -1,19 +1,19 @@
-{100}{}{You see a tribal.}
-{101}{}{You see a member of the tribe.}
-{102}{}{One of the few remaining people in the tribe.}
+{100}{}{你看见一个土人。}
+{101}{}{你看见一个部落成员。}
+{102}{}{部落中仅存的少数几个人中的一个。}
 
-{200}{}{You're not welcome here.}
-{201}{}{The spirits do not like you.}
-{202}{}{Go away, outworlder.}
-{203}{}{Why do you plague us?}
-{204}{}{Welcome, warrior.}
-{205}{}{You will always be welcome here.}
-{206}{}{The spirits accept you as one of us.}
-{207}{}{Thank you for helping us.}
-{208}{}{I thought all outworlders were evil. It is not so...}
-{209}{}{Don't do that.}
-{210}{}{Slavers aren't welcome here!}
+{200}{}{欢迎你来到这里。}
+{201}{}{灵魂们不喜欢你。}
+{202}{}{走吧外来者。}
+{203}{}{为什么你要这么我们？}
+{204}{}{欢迎，勇士。}
+{205}{}{这里永远欢迎你。}
+{206}{}{灵魂们接受你成为我们的一员。}
+{207}{}{谢谢你帮助了我们。}
+{208}{}{我一直认为所有外来者都是邪恶的。事实并不是……}
+{209}{}{别那么做。}
+{210}{}{这里不欢迎奴隶贩子！}
 
 # PC has defeated the Enclave
-{300}{}{We're honored to have you here, hero.}
-{301}{}{Your defeat of the Enclave shall be recorded in legends. Your ancestors are proud.}
+{300}{}{我们为你感到骄傲。}
+{301}{}{你打败了英克雷将成为传说。你的先祖为你骄傲。}

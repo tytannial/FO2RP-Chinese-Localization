@@ -1,272 +1,272 @@
-{100}{}{You see a warrior.}
-{101}{}{You see Krom, the Head Warrior of the tribe.}
-{102}{}{You see a giant, heavily muscled warrior. His bronze skin carries the scars of countless battles.}
+{100}{}{你看见一位战士。}
+{101}{}{你看见Krom，部落中的头领战士。}
+{102}{}{你看见一位高大，肌肉发达的战士。他的古铜色的皮肤上战痕累累。}
 
-{200}{}{[This sun bronzed giant looks as if his corded muscles were carved out of granite. Beneath a mane of black hair, his smoldering blue eyes pierce into you.] I'm Krom, the head warrior of this tribe. Who are you, and what brings you here?}
-{201}{}{[This sun bronzed giant looks as if his corded muscles were carved out of granite. Beneath a mane of black hair, his smoldering blue eyes roam unabashedly over your body.] I'm Krom, the head warrior of this tribe. By the Gods, girl, your beauty could drive a man mad.}
+{200}{}{[他有着被太阳晒成古铜色的高大身躯，肌肉线条分明，就像是用花岗岩雕刻出来的。他黑发下湛蓝眼睛发出的目光，像是刺透了你。]我是Krom部落中的头领战士。你是谁，你来这里做什么？}
+{201}{}{[他有着被太阳晒成古铜色的高大身躯，肌肉线条分明，就像是用花岗岩雕刻出来的。他黑发下湛蓝眼睛，毫不遮掩的打量着你的身体。]我叫Krom部落中的头领战士。神啊，姑娘，你的美真让人按耐不住。}
 
-{202}{}{I'm }
-{203}{}{, and I'm on a holy quest to save my village, Arroyo, from certain destruction.}
-{204}{}{I'm }
-{205}{}{, and I've been on a holy quest to save my village, Arroyo, from certain destruction. I found what I needed though.}
-{206}{}{I'm a simple wanderer -- nothing more. I'll be moving on now.}
+{202}{}{我是}
+{203}{}{，我背负着从毁灭中解救我的村庄阿由罗的神圣使命。}
+{204}{}{我是}
+{205}{}{，我背负着从毁灭中解救我的村庄阿由罗的神圣使命。尽管我已经做到了。}
+{206}{}{我仅仅是个流浪者，仅此而已。我马上就离开。}
 
 #female, CH >= 7
-{207}{}{[Smile.] Thank you, Krom.}
-{208}{}{Thanks, but how 'bout you keep your eyes focused up here. Alright, big guy?}
-{209}{}{Spare me the compliments, alright, creep? I have no intention of sleeping with you. Hell, I don't even want to talk with you. Bye.} 
-{210}{}{Arroyo, yes, one of the northern tribes. But what of this "certain destruction" you speak of? Your village is well fortified by a large canyon, is it not? Surely, you can defend against enemy tribes or raiders.}
-{211}{}{It's not an outside force that threatens us. My tribe is dying from within. We've suffered a terrible drought and it seems my village is doomed to wither and die unless I can find the holy GECK in time.}
-{212}{}{It's not an outside force that threatens us. My tribe is dying from within. We've suffered a terrible drought and it seems my village is doomed to wither and die unless we make use of the GECK I have found.}
+{207}{}{[微笑]谢谢你Krom。}
+{208}{}{谢谢你，但把你的注意力放在这里可以么，大家伙？}
+{209}{}{卑鄙小人，想拍马屁是么？我才没想跟你上床。见鬼去吧，我不想跟你说话。再见。} 
+{210}{}{阿罗由，是的，一个北边的部落。但你说的“注定的毁灭”是什么意思？你的村落不是有一条峡谷作为防线，不是么？你们应该能够抵御外来部族和掠夺者们。}
+{211}{}{并不是外来势力对我们的威胁，而是源于我们村落内部。我们遭受了严重的干旱，村落注定要枯萎和灭亡，除非我能及时找到GECK。}
+{212}{}{并不是外来势力对我们的威胁，而是源于我们村落内部。我们遭受了严重的干旱，村落注定要枯萎和灭亡，除非我们能够善加利用我找回的GECK。}
 
-{220}{}{Ah, a Garden of Eden Creation Kit, I've read of them in the old texts. [He smiles grimly.] It's unfortunate that your tribe has fallen on hard times, but it's foolish to place all your hope on finding some "magical artifact" from before the Great Silence. Are you sure your tribe didn't send you on a fool's errand simply to be rid of you?}
-{221}{}{Ah, a Garden of Eden Creation Kit, I've read of them in the old texts. [He smiles grimly.] It's unfortunate that your tribe has fallen on hard times, but it's foolish to place all your hope on finding some "magical artifact" from before the Great Silence. How can you be so sure the device you found will save your people?}
-{222}{}{Of course not. I successfully conquered the Temple of Trials and earned the highly respected title of the Chosen One. That's why I've been given this quest -- because I've proved myself to be the most qualified. Now, what have you read of the GECK?}
-{223}{}{Are you trying to insult me? I'll have you know I'm the Chosen One. Apologize, or I'll put you in your place.}
-{224}{}{I don't know for certain, but I've risked too much to stop now. I will do whatever it takes to save my tribe no matter how insane and dangerous it might sound.}
+{220}{}{哈，伊甸园创造工具，我在老旧的教科书中见过。[他冷笑着]真是不幸，你的村落深陷困境，还愚蠢在你身上孤注一掷，让你寻找那些巨大寂静之前的“魔法神器”。你能确定你的村落派你做这蠢事不是为了摆脱你？}
+{221}{}{哈，伊甸园创造工具，我在老旧的教科书中见过。[他冷笑着]真是不幸，你的村落深陷困境，还愚蠢在你身上孤注一掷，让你寻找那些巨大寂静之前的“魔法神器”。你怎么能确定你找到的这玩意能救你的族人？}
+{222}{}{当然。我成功地征服了神殿试炼，成为了受人尊敬的获选者。那就是为什么我被授予这项使命，因为我已经证明了自己是最合适的人。现在你能告诉我你对GECK知道些什么？}
+{223}{}{你这是在嘲笑我？我会让你知道我是获选者。道歉或是让我教怎么道歉。}
+{224}{}{我没有确切答案，但我经历了多次冒险，现在怎么能停下脚步。我会尽我所能去拯救我的部落，不管它听起来多么疯狂和危险。}
 
-{230}{}{[He dismissively shrugs his mighty shoulders.] Just another of the Old One's lazy scientific baubles, meant to replace the tried and true method of Man toiling against the unforgiving Earth -- forging his own existence though sweat and blood. But if you truly believe such a device is your only hope, then I suggest you seek out the Old One's underground Vaults. I've traveled far and wide, but I've never found one myself. But then, I wasn't exactly looking.}
-{231}{}{My village Elder is certain that finding the GECK is the best chance we've got. That's what I've been tasked with, so that's what I intend to do. Anyway, thanks for the tip.}
-{232}{}{Look for a Vault, you say? Wow, that's *great* advice, if only I had known that before. Thanks a lot for the tip, big guy.}
+{230}{}{[他轻蔑的耸了耸强壮的肩膀]不过就是先人的无聊科学玩意，用来取代人们的努力和真理来对抗无情的大地方法——锤炼自己的汗水和血肉。但是如果你真的相信这样的装置是你的唯一希望，那么我建议你去寻找先人的地下避难所。我曾在远方旅行过，但我从未亲自找到过，之后也没见过。}
+{231}{}{我村落的长老确信找到GECK是最大的可能。那是我的使命，所以我应当做到。总之，谢谢你的提示。}
+{232}{}{你是说寻找一座避难所？哇，那建议太棒了，我要是早点知道就好了。谢谢你的提醒，大家伙。}
 
-{240}{}{[He laughs heartily, then, with a speed that seems impossible for a man of his impressive bulk, he brings his spear up and takes combat stance.] Chosen One, eh? If a fool like you is the best your tribe has to offer, then their doom seems inevitable. Now, either take up your weapon so I can split your skull, or be gone from my sight.}
-{241}{}{[He laughs heartily, then gives your rear a playful slap with a hand that feels capable of crushing boulders.] You've got a fire in you, girl. I like that. Perhaps we could put that fire to good use while you're here. What do you say?}
-{242}{}{Alright, fine, I'm going.}
-{243}{}{No one threatens me, asshole!}
+{240}{}{[他大笑，之后迅雷不及掩耳拿起长矛，摆出战斗架势]获选者，嗯？如果你这样的蠢货是你村庄派来的，看样子你们的村落的毁灭是不可避免了。现在，要么拿起你的武器，让我劈开的你的颅骨，要么从我眼前消失。}
+{241}{}{[他大笑，之后戏谑的用他那似乎能粉碎巨石的手拍了拍的屁股]姑娘，你有心中有股火在，我挺喜欢。也许我们能好好利用下那火，你说呢？}
+{242}{}{好吧，我走。}
+{243}{}{没有人敢威胁我，混蛋！}
 #PC is female and CH >= 7
-{244}{}{To hell with you. I'm leaving. Bye.}
-{245}{}{No one touches me, asshole! [Attack.]}
-{246}{}{If you keep your hands to yourself, then I just *might* consider helping.}
-{247}{}{That all depends. [Smile seductively.] What have you got in mind, big guy? [Wink.]}
+{244}{}{见鬼去吧你。我的走了，再见。}
+{245}{}{没人敢碰我，混蛋！[攻击]}
+{246}{}{如果你能管好你的手，*或许*我会考虑下。}
+{247}{}{一切取决于。[诱惑的微笑]你想做什么，大家伙？[眨眼]}
 
-{250}{}{I'm well versed in the art of sarcasm. Go take your smart tongue elsewhere before I rip it from your mouth.}
-{251}{}{Alright, fine, I'm going.}
-{252}{}{No one threatens me, asshole!}
+{250}{}{我很懂得讽刺的艺术。去别的地方使用你那伶俐的舌头，不然我就把它从你嘴里剜出来。}
+{251}{}{好，好，我马上走。}
+{252}{}{没有人敢威胁我，混蛋！}
 
-{260}{}{You're a stubborn one. By the Gods, I think I could get to like you. [He grins and slaps you on the back with a hand that seems capable of crushing boulders.] While you're here, perhaps you could assist us with a thing or two. What do you say?}
-{261}{}{You're a stubborn one. By the Gods, I think I could get to like you, girl. [He grins and slaps you on the rear with a hand that seems capable of crushing boulders.] While you're here, perhaps you could assist us with a thing or two. What do you say?}
-{262}{}{Sure, I suppose I could help out a bit before I go. What would you like me to do?}
-{263}{}{Sorry, but I just don't have the time. In fact, I should really be moving along now. Bye.}
+{260}{}{你真是个固执的人。诸神在上，我想我对你有些好感。[他微笑着用他那似乎能粉碎巨石的手拍了拍你的后背]你在这里，也许能够帮我们做几件事情，你愿意么？}
+{261}{}{你真是个固执的人。诸神在上，我想我对你有些好感，姑娘。[他微笑着用他那似乎能粉碎巨石的手拍了拍你的后背]你在这里，也许能够帮我们做几件事情，你愿意么？}
+{262}{}{当然，我想我走之前可以帮点忙。你想让我做些什么？}
+{263}{}{抱歉，我确实没有时间。事实上，我现在应该继续赶路了，再见。}
 #PC is female and CH >= 7
-{264}{}{Sure, I suppose I could help out a bit before I go. What would you like me to do?}
-{265}{}{If you keep your hands to yourself, then I just *might* consider helping.}
-{266}{}{Sorry, but I just don't have the time. In fact, I should really be moving along now. Bye.}
-{267}{}{No one touches me, asshole! [Attack.]}
-{268}{}{That all depends. [Smile seductively.] What have you got in mind, big guy? [Wink.]}
+{264}{}{当然，我想我走之前可以帮点忙。你想让我做些什么？}
+{265}{}{如果你能管好你的手，*或许*我会考虑下。}
+{266}{}{抱歉，我确实没有时间。事实上，我现在应该继续赶路了，再见。}
+{267}{}{没人敢碰我，混蛋！[攻击]}
+{268}{}{一切取决于。[诱惑的微笑]你想做什么，大家伙？[眨眼]}
 
 # PC is female with Charisma of 7 or higher
 # line 200
-{270}{}{[He grins wolfishly. Despite his scarred and rough appearance, he possesses a rugged handsomeness.] Tell me, girl, what's your name, and what brings you to our village?}
-{280}{}{[Gladly. [He looks into your eyes and grins wolfishly. Despite his scarred and rough appearance, he possesses a rugged handsomeness.] Tell me, girl, what's your name, and what brings you to our village?}
+{270}{}{[他贪婪的咧嘴一笑。尽管他战痕累累、皮肤粗糙，但长得粗犷英俊。]告诉我，姑娘，你叫什么名字，为什么来到我们的村子？}
+{280}{}{[高兴][他贪婪的咧嘴一笑。尽管他战痕累累、皮肤粗糙，但长得粗犷英俊。]告诉我，姑娘，你叫什么名字，为什么来到我们的村子？}
 
 # Response to "What have you got in mind, big guy?" and "Yeah, big guy. I need something, alright." (seen further down)
-{290}{}{[Krom gives a wolfish grin, then takes you into his mighty arms.]}
-{291}{}{[Get to it.]}
-{292}{}{Whoa! Let me go, you got the wrong idea!}
+{290}{}{[Krom做出猥琐的笑容，之后把你抱入他强壮的手臂间]}
+{291}{}{[干]}
+{292}{}{停！放开我，你误会了！}
 
 # Krom's response to: "Whoa! Let me go, you got the wrong idea!"
-{300}{}{To hell with you, temptress! Go bring your teasing elsewhere. I have no time to waste on you.}
-{301}{}{Yeah, well fuck you too. Bye.}
-{302}{}{Whatever. Bye.}
+{300}{}{去你的，贱货！滚去别处卖骚，我没时间陪你玩。}
+{301}{}{好，去你的，再见。}
+{302}{}{好吧，再见。}
 
 # Get to it.
-{310}{}{[Several hours pass by in a haze of sweaty, brutal passion. Finally, you lay on the floor of Krom's hut, exhausted. Krom lies at your side, his eyes devouring the contours of your body.] By the Gods, girl, you're incredible!}
-{311}{}{Thanks. You're not so bad yourself.}
-{312}{}{Of course I am. After all, I'm the Chosen One.}
+{310}{}{[大汗淋漓和野蛮的激情中几小时过去了。最终你躺在Krom帐篷的地板上筋疲力尽。Krom躺在你身边，他意犹未尽的盯着你身体的轮廓]诸神在上，姑娘，你真不可思议！}
+{311}{}{谢谢，你干的不错}
+{312}{}{当然，毕竟，我可是获选者。}
 
 # PC initiates dialog with Krom after having slept with him, but before getting the quest to find the weapons.
-{320}{}{[Krom gives you a strange grin.] The God's know you've done wonders for me, girl, but perhaps you'd be interested in assisting the rest of the tribe?}
-{321}{}{Sure, I suppose I could help out a bit. What would you like me to do?}
-{322}{}{I wish I could help, but I should really be going now. Sorry.}
-{323}{}{You want me to fuck the rest of the tribe? What kind of a girl do you think I am?}
+{320}{}{[Krom露出奇怪的微笑。]神知道你跟我做了不可思议的事情，姑娘，或许你也有兴趣帮助其他部落里的人？}
+{321}{}{当然，我想我可以帮点忙。你想让我做些什么？}
+{322}{}{我希望能够帮忙，但我真的需要走了，抱歉。}
+{323}{}{你想让我“干”完剩下的部落成员？你认为我是怎样的女孩？}
 
 # Krom's response to "You want me to fuck the rest of the tribe?"
-{330}{}{[Krom bursts into hearty laughter.] Gods no, girl! Though that might do wonders for my warrior's morale, I'd hate to share honey as sweet as you. No, I have a far more mundane task for you, if you're willing.}
-{331}{}{That depends. What would you need me to do?}
+{330}{}{[Krom笑得喘不过气]天哪，不是的姑娘！尽管那将对我战士的士气产生奇效，但我讨厌分享你这样的甜心。不，我只是有个很普通的任务给你，不知道你是否愿意接受。}
+{331}{}{那要看，你需要我做什么？}
 
 #trader meeting quest
-{340}{}{[He looks you over, seeming to consider something for a moment.] I'm to meet with one of them damned civilized trader's soon -- a pudgy one-eyed dog of a man, who I trust about as much as a starving radscorpion. He's not wronged us yet, but I've got a feeling about our next meeting.}
-{341}{}{Why's that?}
-{342}{}{I don't see how I fit into this. What's your point?}
+{340}{}{[他看了你一眼，似乎想了一会儿。]我很快要去见一个来自该死的文明世界的商人，一个我认为像是饥饿辐射蝎的矮子独眼龙。他还没有对我们做过错事，但我有预感下次会有不对劲。}
+{341}{}{为什么呢？}
+{342}{}{我不知道我该怎么做。你有什么想法？}
 
-{350}{}{When last we spoke, he boasted he'd be bringing me something truly miraculous, and that I'd be wise to haul all the golden gecko hides I could carry to the meet. I don't know what his miracle item is, but it's likely some civilized trinket that he'll hope I'll be ignorant of enough to pay far more than it's worth. That's why I'd like you to make the trade.}
-{351}{}{Why me?}
-{352}{}{Sorry, but I think I'll pass. Bye.}
+{350}{}{在我们最后一次对话，他吹嘘说他将会给我带来些真正的奇迹，值得我带上所有能带上的金蜥蜴皮跟他碰面。我不知道他那神奇物品是什么，但应该是件文明玩意，他希望我会无知的付出远远超过它的价值。这就是为什么我想让你来做这笔交易。}
+{351}{}{为什么是我？}
+{352}{}{抱歉，也许我回去吧。再见。}
 
-{360}{}{Because you're my kin -- a fellow tribal, as they call us -- yet I can tell you've had recent experience with the civilized world. If he tries to pull something, you'd be more likely to spot it than me. Besides, I've got a good feeling about you, and I've learned to trust my instincts.}
-{361}{}{Because you're my kin -- a fellow tribal, as they call us -- yet I can tell you've had recent experience with the civilized world. If he tries to pull something, you'd be more likely to spot it than me. Besides, I've got a good feeling about you girl, and I've learned to trust my instincts.}
-{362}{}{Alright. Let's do this.}
-{363}{}{Alright, but give me a moment to get ready.}
-{364}{}{If I help you, what's in it for me?}
+{360}{}{因为你是我的同类——一个土人，就像他们称呼我们的——但我想告诉你，你有近期接触过文明世界的经历。如果他有所隐瞒，你会被我更容发现。另外，我对你有好感，我相信我的直觉。}
+{361}{}{因为你是我的同类——一个土人，就像他们称呼我们的——但我想告诉你，你有近期接触过文明世界的经历。如果他有所隐瞒，姑娘，你会被我更容发现。另外，我对你有好感，我相信我的直觉。}
+{362}{}{好，让我们出发吧。}
+{363}{}{好的，但我需要一点时间准备。}
+{364}{}{如果我帮你，对我有什么好处？}
 
-{370}{}{[He chuckles.] I offer the hospitality of our tribe and the opportunity to impress me. I promise no more than that.}
-{371}{}{Alright. Let's do this.}
-{372}{}{Alright, but give me a moment to get ready.}
-{373}{}{Not interested. Bye.}
+{370}{}{[他微笑]部落的盛情款待和一个给我的深刻印象，我能提供的仅此而已。}
+{371}{}{好，让我们出发吧。}
+{372}{}{好的，但我需要一点时间准备。}
+{373}{}{没兴趣，再见。}
 
 #give me a moment
-{375}{}{Are you ready to go?}
-{376}{}{Not yet.}
-{377}{}{Alright. Let's do this.}
+{375}{}{你准备好出发了么？}
+{376}{}{还没有。}
+{377}{}{好，让我们出发吧。}
 
 #float at trader meeting
-{380}{}{It's up to you to decide.}
+{380}{}{由你来决定。}
 
 # PC agrees to purchasing the goods
-{390}{}{[Krom examines one of the tribe's newly acquired stimpaks.] These should prove to be quite useful. [He brings the stimpak to his nose, sniffs, and frowns. He squirts a little of the crimson fluid onto his hand and tentatively tastes it.] Curse the gods! They're filled with brahmin blood! That one-eyed bastard fucked us over. Right now he's probably having a good laugh at us as he revels in his new golden pelts.}
-{391}{}{Sorry about that. I had no idea they were fake.}
-{392}{}{Oh well. Live and learn.}
+{390}{}{[Krom检查了其中一只部落新得到的治疗针]这些应该相当有用。[他拿起治疗针在鼻子前闻了闻，皱了眉头。他喷了一点红色的液体在手掌上，尝试着舔了一下]天！这里面装的是双头牛血！那独眼混蛋戏弄了我们。他现在一定得意洋洋的拿着得到的金蜥蜴皮嘲笑我们。}
+{391}{}{很抱歉。我不知道那些是假的。}
+{392}{}{好吧。吃一堑长一智。}
 
-{400}{}{If I ever see that cheating dog again, I'll take great pleasure in cleaving his ugly skull. Now, if you'll excuse me, I've got some vials of brahmin blood to dispose of. Perhaps the shaman would have some use for it.}
+{400}{}{如果再让我看见那个骗子，我很乐意劈开他的脑袋。Now, if you'll excuse me, I've got some vials of brahmin blood to dispose of. Perhaps the shaman would have some use for it.}
 
 # PC kills trader, not knowing about the fake goods
-{410}{}{I didn't care for the ugly bastard, but by the gods, I didn't plan on butchering him. Sure, now his goods are free for the taking, but if word gets out that he came to trade with us and never returned, we'll be blacklisted among the traders.}
-{411}{}{I didn't care for the ugly bastard, but by the gods girl, I didn't plan on butchering him. Sure, now his goods are free for the taking, but if word gets out that he came to trade with us and never returned, we'll be blacklisted among the traders.}
-{412}{}{Sorry, I guess I got carried away.}
-{413}{}{He was civilized scum and deserved death.}
-{414}{}{Oops.}
+{410}{}{我并不在意那些丑陋的混蛋，但是诸神在上，我不并不想要屠杀他们。当然，现在他们的东西可以随意的被拿走，但如果他们跟我们交易一去不复返的事情传出去，我们将被所有商人列在黑名单里。}
+{411}{}{我并不在意那些丑陋的混蛋，但是诸神在上，姑娘，我不并不想要屠杀他们。当然，现在他们的东西可以随意的被拿走，但如果他们跟我们交易一去不复返的事情传出去，我们将被所有商人列在黑名单里。}
+{412}{}{抱歉，我想我得意忘形了。}
+{413}{}{他是文明中的败类，死有余辜。}
+{414}{}{抱歉。}
 
-{420}{}{I see now that it was a mistake to task you with this. I'll be keeping a close eye on you during your time at our village. Now come, let us take care of this mess and be on our way.}
+{420}{}{我现在知道，这事情交给你来做是个错误。我会密切的监视你在村中的活动。现在过来，让我们立即开始处理这一团糟。}
 
 # PC kills trader, knowing about the fake goods
-{430}{}{The lying bastard got what he deserved. Let his fate be a lesson to any trader who thinks they can cheat our valuables from us. You did well in spotting his deceit. I see I made a wise choice in trusting you. You're welcome to stay among us, and treat our tribe as your own. However, I may call on your aid again in the future. Now come, let us leave these corpses to rot in the sun.}
-{431}{}{The lying bastard got what he deserved. Let his fate be a lesson to any trader who thinks they can trick our valuables from us. You did well in spotting his deceit. Beautiful, perceptive, and deadly -- by Gods, girl, you've got it all. You're welcome to stay among us, and treat our tribe as your own. However, I may call on your aid again in the future. Now come, let us leave these corpses to rot in the sun.}
+{430}{}{这些说谎的混蛋就该如此。让他们的遭遇成为一个教训，警示那些想要在我们这耍小聪明骗钱的商人。你成功的识破了他的诡计，我就知道我可以相信你。我们欢迎你跟我们在一起，别把自己当外人，但我以后可能还会需要你帮忙。现在，走吧，让这人暴尸荒野。}
+{431}{}{这些说谎的混蛋就该如此。让他们的遭遇成为一个教训，警示那些想要在我们这耍小聪明骗钱的商人。你成功的识破了他的诡计。美丽、敏锐和致命——就像神一样，姑娘你都做到了。我们欢迎你跟我们在一起，别把自己当外人，但我以后可能还会需要你帮忙。现在，走吧，让这人暴尸荒野。}
 
 # PC does not purchase goods, not knowing they are fake
-{440}{}{I don't blame you for not making the trade. I had a bad feeling about the deal as well. I admit those stimpaks would have proven useful, but we've been getting by without them, and we'll continue to do so. Now, you're welcome to stay among us, and treat our tribe as your own. However, I may call on your aid again in the future. Thanks for your help.}
-{441}{}{I don't blame you for not making the trade. I had bad feeling about the deal as well. I admit those stimpaks would have proven useful, but we've been getting by without them, and we'll continue to do so. You're welcome to stay among us girl, and treat our tribe as your own. However, I may call on your aid again in the future. Thanks for your help.}
-{442}{}{No problem.}
-{443}{}{My pleasure.}
-{444}{}{Whatever. Bye.}
+{440}{}{我不怪你没有做成这笔交易，对这笔交易我也有不好的感觉。我承认那些治疗针会非常有用，但我们以前也从来没有用过，生活也能照常进行。我们欢迎你跟我们在一起，别把自己当外人，但我以后可能还会需要你帮忙。感谢你的帮助。}
+{441}{}{我不怪你没有做成这笔交易，对这笔交易我也有不好的感觉。我承认那些治疗针会非常有用，但我们以前也从来没有用过，生活也能照常进行。我们欢迎姑娘你跟我们在一起，别把自己当外人，但我以后可能还会需要你帮忙。感谢你的帮助。}
+{442}{}{没问题。}
+{443}{}{乐意之极。}
+{444}{}{就这样吧，再见。}
 
 # PC does not purchase goods, knowing they are fake
-{450}{}{If I ever see that cheating dog again, I'll take great pleasure in cleaving his ugly skull. However, you did well in spotting his deceit. I see I made a wise choice in trusting you. You're welcome to stay among us, and treat our tribe as your own. However, I may call on your aid again in the future. Thanks for your help.}
-{451}{}{If I ever see that cheating dog again, I'll take great pleasure in cleaving his ugly skull. However, you did well in spotting his deceit. I see I made a wise choice in trusting you, girl. You're welcome to stay among us, and treat our tribe as your own. However, I may call on your aid again in the future. Thanks for your help.}
-{452}{}{No problem.}
-{453}{}{My pleasure.}
+{450}{}{如果再让我看见那个骗子，我很乐意劈开他的脑袋。你成功的识破了他的诡计，我就知道我可以相信你。我们欢迎你跟我们在一起，别把自己当外人，但我以后可能还会需要你帮忙。感谢你的帮助。}
+{451}{}{如果再让我看见那个骗子，我很乐意劈开他的脑袋。你成功的识破了他的诡计，我就知道我可以相信你，姑娘。我们欢迎你跟我们在一起，别把自己当外人，但我以后可能还会需要你帮忙。感谢你的帮助。}
+{452}{}{没问题。}
+{453}{}{乐意之极。}
 {454}{}{Whatever. Bye.}
 
 # PC initiates dialog with Krom after already helping.
-{460}{}{[The giant warrior nods a greeting as you approach.] Welcome back, friend. Do you need something?}
-{461}{}{[The giant warrior grins as he watches you approach.] By the God's, I nearly forgot how gorgeous you are. Do you need something, girl?}
-{462}{}{I was wondering if I could ask you a couple questions.}
-{463}{}{No, sorry, I thought this was a different tent. I'll be going now.}
-{464}{}{[[Smile seductively] Yeah, big guy. I need something, alright. [Wink.]}
+{460}{}{[当你走近时，高大战士向你点头致意。]欢迎回来，朋友。你需要什么吗？}
+{461}{}{[当你走近时，高大战士向你咧嘴一笑。]诸神在上，我无法忘记你有多美。姑娘，你需要什么？}
+{462}{}{我想知道，我能否问你几个问题。}
+{463}{}{不，抱歉，我想这不是同一个帐篷。我现在要走了。}
+{464}{}{[诱惑的微笑]是的，大家伙。我想要，可以么？[眨眼]}
 
 # Ask a couple questions
-{470}{}{Of course.}
-{471}{}{You look like you've been through a lot. I was wondering what your story is.}
-{472}{}{What could you tell me about this village?}
-{473}{}{Is there anything going on here I could help you with?}
-{474}{}{Huh, that's strange. It seems I forgot what I wanted to ask you. I'll come back if I remember. Bye.}
+{470}{}{当然。}
+{471}{}{你看起来好像经历了很多事情。我想知道你有什么经历。}
+{472}{}{关于这个村落你能告诉我些什么？}
+{473}{}{有什么事我可以帮你吗？}
+{474}{}{嗯，那真奇怪。我好像忘了我想问什么了。我想起来会回来的。再见。}
 
 # Response to PC asking about Krom's story.
-{480}{}{[He chuckles.] Yes, I suppose I've been through a lot. I come from a tribe far to the north. When I was fifteen, we were attacked by savages. I awoke that day as a boy, but by the time the sun set on that grim scene, I had slayed my way to manhood. Every man, woman, and child was dead, except for me. Ah, but what's life without battle and strife? It either breaks a man, or it forges him into steel. I wear my scars with pride.}
-{481}{}{So what'd you do then?}
-{482}{}{Alright, I think I've heard enough. Let me ask you something else.}
+{480}{}{[他微笑]是的，我想我经历过很多事情。我来自北方一个遥远的部落。当我15岁的时，我们被拾荒者攻击。那天我醒来的时候还是个男孩，但看见日落时那恐怖的场景，我明白只能杀出一条成年之路。除了我，男女老少都死了。哈，但没有纷争的生活究竟如何？战争可以毁掉一个人，也能将他铸造成钢。疤痕见证了我的荣耀。}
+{481}{}{那你之后做了什么？}
+{482}{}{好吧，我想我听够了。让我问你点别的事。}
 
 # Krom's story, continued
-{490}{}{I piled the bodies and watched them burn into the night. Then gathered what I could and went wandering. Spent time with various tribes; fought many battles. Spent a little time amongst the "civilized" men, but I tired of them quickly. Too many honorless dogs hiding behind their guns. I'd rather enjoy a good battle of flesh and steel. I'm not a complicated man. Give me battles and feasts, wine and women. What else matters in this grim world?}
-{491}{}{So how'd you end up here?}
+{490}{}{我堆起尸体，看着它们烧到了深夜。然后带上了我所有有用的东西，开始流浪。接触了很多部落；参与不少战斗。也和“文明”人打过点交道，但很快就厌倦了。太多毫无荣誉感的杂种躲在他们的枪后面。我想要享受一场血肉之战。我是一个单纯的人。我就想要战斗和美食、酒和美女。在这残酷的世界里还有别的什么值得追求？}
+{491}{}{那么，为什么你最后到了这里。}
 
-{500}{}{I came here a couple years ago. This tribe took me in and treated me well. They offered to make me their head warrior, which I obviously accepted. I've enjoyed it here, next to the Great Salt Water. But I feel the wanderlust growing within me. Someday soon, I believe I'll move on and see what the Gods have in store for me next.}
-{501}{}{Thanks for the story. Could I ask you something else?}
-{502}{}{Thanks for the story. Bye.}
+{500}{}{我来这里已经有些年头了。这个部落接受了我，待我很好。他们让我当了头领战士，我也欣然接受。我很享受这里靠近大盐水。但我呆久了总感觉想出去旅行。不就得将来，我相信我将要踏上旅途，看看神接下来为我准备了什么。}
+{501}{}{谢谢你的故事。我可以问你点别的事吗？}
+{502}{}{谢谢你的故事。再见。}
 
 # PC asks Krom about the village.
-{510}{}{Let's see... Most members of this village actually hail from three smaller tribes that decided to unite many years ago in order to keep from dying off. It creates an interesting mix of customs and dialects. More importantly, it creates a good mix of women. Beyond that, there's not much to say. It's a simple village where we struggle to forge a simple existence.}
-{511}{}{Alright, thanks. Could I ask you something else?}
-{512}{}{Alright, thanks. Bye.}
+{510}{}{让我想想……这个村子的大多数人，实际上是由三个小部落的人在很多年前合并组成的，目的是为了避免消亡。由此产生习俗和语言的有趣混合。更重要的是，形成了协调的男女比例。除此之外没什么好说的了。就是一个简单的村子，我们为了生存而挣扎的地方。}
+{511}{}{好的，谢谢。我可以问你点别的事吗？}
+{512}{}{好的，谢谢。再见。}
 
 # PC asks Krom if there's anything that needs doing
-{520}{}{Actually, Marli looks like he's having some trouble with the well. If you feel like helping, maybe you could go see what his problem is.}
-{521}{}{Alright, thanks. Bye.}
-{522}{}{Alright, maybe I'll do that. But first, could I ask you something else?}
+{520}{}{事实上，Marli的水井像是出问题了。如果你想帮忙的话，可以去问问他到底出了什么问题。}
+{521}{}{好的，谢谢。再见。}
+{522}{}{好吧，也许我会去做的。但这之前，我可以问你点别的事吗？}
 
 # PC talks to Krom after the hunters go missing and after gathering the weapons.
-{530}{}{Good to see you, friend. If you've got a moment, I could use your assistance again.}
-{531}{}{Good to see you again, girl. If you've got a moment, I could use your assistance.}
-{532}{}{Sure. What do you need?}
-{533}{}{Sorry, I'm busy now. Perhaps later.}
+{530}{}{很高兴见到你，朋友。有时间的话，能再帮个忙么}
+{531}{}{很高兴见到你，姑娘。有时间的话，能帮个忙么。}
+{532}{}{当然。你需要什么？}
+{533}{}{抱歉，我现在很忙。下次吧。}
 
-{540}{}{Two of our hunters, Serin and Jerem, have not yet returned from the hunting ground and some people are starting to worry. They're two of our best warriors, and I'd hate to think something has happened to them. I'd go search for them myself, but if the villagers saw me take such a personal interest in the matter, I fear they'd assume the worst. I'd rather not get people riled up until I know what's going on. So, will you seek them out for me?}
-{541}{}{Alright, but where should I look?}
-{542}{}{Sorry, but I don't have time to look for them. Besides, I'm sure they'll turn up soon. Bye.}
-{543}{}{I'm not here to babysit your warriors. Bye.}
+{540}{}{两位猎手，Serin和Jerem还没有从狩猎场回来，一些人开始担心了。他们是我们最好的战士，我真不希望他们出事。我想要亲自去寻找他们，但又怕村民发现我在这事上有很大的个人兴趣，然后说三到四。我不想惹怒村民们，除非我知道发生了什么事情。那么你愿意帮我寻找他们么。}
+{541}{}{好吧，但我该去哪里找呢？}
+{542}{}{抱歉，我没有时间去寻找他们。也许，他们很快就会回来。再见。}
+{543}{}{我不是你的临时工战士。再见。}
 
-{550}{}{Check the hunting grounds, to the north. The quickest way to get there is through the cave to the west, next to the Great Salt Water. Normally, I wouldn't advise taking that route, since it's in danger of collapsing, but it's important that you make haste. Just tread carefully through the cave, and you should be fine.}
-{551}{}{Alright, I'll hurry and try to find them.}
-{552}{}{Wait, you want me to pass through a cave that's about to collapse? Hmm... Shit, I just remembered! I have to go save my tribe! Sorry, gotta run.}
+{550}{}{向北去狩猎场看看吧，最快的路就是穿过西边靠近大盐水的洞穴。由于洞穴处于崩塌的危险中，通常我不建议走那捷径，但事关重大，你必须要快。穿过洞穴时小心点，不会有问题的。}
+{551}{}{好，我立即尝试去寻找他们。}
+{552}{}{等等，你想让我进入一个即将塌陷的洞穴？呃……操，我想起来了！我必须要去拯救我的部落！抱歉，我得赶紧出发了。}
 
-{560}{}{Do you bring news of the lost hunters?}
-{561}{}{Not yet. I'll keep looking.}
-{562}{}{Yeah, I found them in the cave. They're both dead.}
+{560}{}{你带来失踪猎人的消息了吗？}
+{561}{}{还没有。我会继续寻找的。}
+{562}{}{是的，我在山洞里找到了他们。他们都死了。}
 
-{570}{}{[Krom nods, his face grim.] How?}
-{571}{}{There was a cave-in. One had been crushed by the falling rocks; the other was pinned down by the rubble, then eaten alive by a gecko. It was pretty brutal.}
+{570}{}{[Krom点头，脸色铁青。]发生什么事了？}
+{571}{}{那有一个山洞。一人被落下的岩石砸死；另一人被蜥蜴吞掉。那场面真是残忍。}
 
-{580}{}{Killed by a damn cave-in. Curse the Gods! I hate to lose good men in such a way. They should have died on the field of battle, like the true warriors they were. [He shakes his head.] Their loss is a great blow to this tribe. Anyway, thank you for looking. Your services are no longer needed.}
-{581}{}{Sure, anytime. Bye.}
-{582}{}{I'm sure they were great men. Bye.}
+{580}{}{实在这破山洞里？真是见鬼！我真不希望有人死于这种方式。他们以战士的样子，战死沙场。[他摇了摇头]失去他们是部落的巨大损失。总之，感谢你的调查。没其他事需要你帮助了。}
+{581}{}{那好，有需要就说吧。再见。}
+{582}{}{我坚信他们是伟大的人。再见。}
 
 # PC rescues Serin.
-{590}{}{Thank you for locating the hunters. The loss of Jerem is great, as he was a skilled warrior. He should have died on the field of battle, not by some damn cave-in. Anyway, Serin should recover fully, thanks to you, friend. You will always be welcome here.}
-{591}{}{Thank you for locating the hunters. The loss of Jerem is great, as he was a skilled warrior. He should have died in the field of battle, not by some damn cave-in. Anyway, Serin should recover fully, thanks to you, girl. You will always be welcome here.}
-{592}{}{Thanks. Take care, Krom.}
+{590}{}{谢谢你找到猎人们。失去Jerem是个巨大的损失，他是一位经验丰富的战士。他应该实在战场上，而不是这个破洞穴里。总之，Serin应该能完全康复，谢谢你朋友。这里永远欢迎你。}
+{591}{}{谢谢你找到猎人们。失去Jerem是个巨大的损失，他是一位经验丰富的战士。他应该实在战场上，而不是这个破洞穴里。总之，Serin应该能完全康复，谢谢你姑娘。这里永远欢迎你。}
+{592}{}{谢谢你。保重Krom。}
 
 # PC is dumb
 # Response to Krom's initial dialog
-{800}{}{Me tribe, Arroyo, need help. I help. I special chosen helper.}
-{801}{}{[Krom chuckles.] Yeah, you certainly are special. [He smiles and ruffles your hair with a hand that seems capable of crushing boulders.] You like helping, huh? How would you like to be our tribe's special helper?}
-{802}{}{I help! Wut you need?}
-{803}{}{Nu-uh. I help Arroyo. No time help others. Biiee!}
+{800}{}{我部落，阿罗由，需要帮助。我帮助。我是获选的小帮手。}
+{801}{}{[Krom微笑]是的，你真特别。[他笑着用那似乎能粉碎巨石的手摸了摸你的头发。]你想要帮忙嗯？你想不想成为我们部落的小帮手呢？}
+{802}{}{我帮助！你需要什么？}
+{803}{}{不哦，我帮助阿罗由。没时间帮助别人。拜！}
 
-{810}{}{We need pointy weapons. [He points at his spear.] Five spears, like this. [He holds up his fingers.] *Five*. Also, we need *ten*, that's twice as many, knifes. [He pulls out a knife and shows it to you.] Like this, okay? Five spears, doesn't matter how sharp they are. And ten normal knifes. Got it?}
-{811}{}{Otay. I go find pointy things.}
-{812}{}{I have many pointy things. I no need them all.}
+{810}{}{我们需要尖尖的武器。[他指了指长矛]像这样的五把长矛。[他竖起五根手指] *五*。还有，我们需要*十*把匕首，相当于长矛的两倍。[他掏出匕首展示给你]像是这个，懂了么？五把长矛，不管是否打磨过。十把普通匕首。明白了吗？}
+{811}{}{喔。我去找尖尖的东西。}
+{812}{}{我有许多尖尖的东西。我用不着它们。}
 
 # Dumb PC talks to Krom after denying quest.
-{820}{}{Did you change your mind? Want to be our tribe's special helper?}
-{821}{}{I special. I be big helper for tribe.}
+{820}{}{你改变主意了吗？想成为我们部落的小帮手吗？}
+{821}{}{我同意，希望帮助部落。}
 
 # Dumb PC talks to KROM after taking quest.
-{830}{}{You find all the pointy things I asked for?}
-{831}{}{I found.}
-{832}{}{I still look.}
+{830}{}{你找齐了我想要的尖尖的东西了么？}
+{831}{}{我找齐了。}
+{832}{}{我还在找。}
 
 # Dumb PC gives Krom the "pointy things"
-{840}{}{[Krom quickly scrutinizes the weapons, then grins and pats you on the back.] You did a good job. Thank you. Now run along and stay out of trouble.}
-{841}{}{Bye!}
+{840}{}{[Krom快速检查了下武器，然后笑着拍了拍你的背]你做的很好，谢谢你。走吧，别惹麻烦。}
+{841}{}{再见！}
 
 # Dumb PC talks to Krom after already completing the quest.
-{850}{}{[Krom ruffles your hair.] There's my special helper. You run along now and stay out of trouble.}
-{851}{}{Bye!}
+{850}{}{[Krom摸了摸你的头发。]这不是我的小帮手么？走吧，别惹麻烦。}
+{851}{}{再见！}
 
 # PC has pissed off Krom
-{860}{}{Come to press your luck, have you?}
-{861}{}{No, I've come to kick your ass.}
-{862}{}{No, I just wanted to apologize for offending you.}
-{863}{}{No, I was just leaving.}
+{860}{}{来碰碰你的运气，是吗？}
+{861}{}{不，我是来踢爆你菊花的。}
+{862}{}{不，我只是因冒犯你想向你道歉。}
+{863}{}{不，我只想离开。}
 
-{870}{}{Ah, it seems I'm in a forgiving mood today, friend. Now what can I do for you?}
-{871}{}{I don't like being toyed with girl, but by the gods, how could I stay mad at a goddess like you? Now, what can I do for you?}
-{872}{}{Nevermind. Bye.}
+{870}{}{哈，我感觉今天心情很好，朋友。需要我帮忙吗？}
+{871}{}{我不想成为女孩的玩具，但诸神在上，我怎么才能“干”你这样的女神？好吧，我能为你做点什么？}
+{872}{}{没什么。再见。}
 
 # PC has defeated the Enclave
-{1000}{}{[The giant warrior nods respectfully to you.] Well, if it isn't the great hero of the wastes. That was a pretty impressive feat, sending them Enclave dogs to hell like that. In fact, hearing tales of your exploits has inspired me to head back out into the wastes myself.}
-{1001}{}{Where will you go?}
-{1002}{}{You're just going to leave? But you're the tribe's head warrior.}
-{1003}{}{Alright. Good luck on your journey, Krom.}
+{1000}{}{[大块头战士向你点头致敬]喔，这不是废土最伟大的英雄么。将那群英克雷狗送进地狱，那真是个壮举。事实上，自从听到了你的传奇故事，我也想重回废土冒险。}
+{1001}{}{之后你将去哪里呢？}
+{1002}{}{你就这样走了么？但你是部落的头领战士啊。}
+{1003}{}{那好吧，祝你旅途平安Krom。}
 
-{1010}{}{[He shrugs his broad shoulders.] East seems as good a direction as any other. Yeah, I think I'll head east and see what awaits me.}
-{1020}{}{They'll just have some other warrior fill the position. Hell, head warriors generally don't live much longer than a couple years anyway, so I'd say I've earned my retirement.}
+{1010}{}{[他耸了耸宽大的肩膀]向东边旅行似乎是个不错的选择。是的，我想我应该朝东旅行，看看有什么值得探索。}
+{1020}{}{总会有别的战士接替这个位置。说的不好听，头领战士比起一般人活的时间短很多，我该退休了。}
 
-{2000}{}{You restock the Tribe with more weapons.}
+{2000}{}{你使得部落库存里有了更多武器。}
 
-{2500}{}{You fall victim to Roy's deception.}
-{2501}{}{You needlessly kill the merchant.}
-{2502}{}{You expose Roy's deception, and ensure that he'll never trade again.}
-{2503}{}{You decline to trade with Roy.}
-{2504}{}{You expose Roy's deception.}
+{2500}{}{你成为Roy的骗局受害者。}
+{2501}{}{你没必要杀掉商人。}
+{2502}{}{你揭穿了Roy的骗局，并使他永远不会再做生意。}
+{2503}{}{你拒绝了和Roy的交易。}
+{2504}{}{你揭穿了Roy的骗局。}
 
-{3000}{}{Begone vile slaver!}
+{3000}{}{滚开！下贱的奴隶贩！}

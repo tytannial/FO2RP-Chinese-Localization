@@ -1,7 +1,7 @@
-{100}{}{You see a small, young man dressed in rags.}
-{101}{}{You see the village shaman.}
-{102}{}{This young man is staring off into the distance. He has a haunted look on his face.}
-{103}{}{The shaman appears to be much more at ease.}
+{100}{}{你看见一个穿着破烂衣服的年轻人。}
+{101}{}{你看见村里的萨满。}
+{102}{}{这个年轻人凝视着远方，神情惊恐不定。}
+{103}{}{萨满似乎放心多了。}
 
 {200}{}{[He appears deep in thought. Upon noticing you, he does a startled jump, then quickly regains his composure.] Uh, yes, outworlder? If you come seeking spiritual guidance, I'm afraid I'm not up to it at the moment. Perhaps... perhaps some other time.}
 {201}{}{Huh?! Oh, it's you again. You shouldn't sneak up on people like that. Look, I've got a lot on my mind at the moment. Perhaps I could help you some other time.}
@@ -93,9 +93,9 @@
 {640}{}{Lets see here... Oh, excellent. These will work well. Here, take some healing powder for your time.}
 {641}{}{Thank you. Bye.}
 
-{1000}{}{You relieve the Tribe's Shaman of his troubles.}
-{2000}{}{You deliver the herbs to the Shaman.}
+{1000}{}{你解决了部落中萨满的麻烦。}
+{2000}{}{你向萨满交出了草药。}
 
 # PC has beaten the Enclave
-{3000}{}{I knew you were a great hero all along... The spirits told me so.}
-{3001}{}{I'm glad my healing powders protected you from the Enclave.}
+{3000}{}{我知道你会是个伟大的英雄……灵魂告诉我如此。}
+{3001}{}{我很骄傲我的治疗粉能够保护你，对付英克雷。}
