@@ -1,11 +1,10 @@
-{100}{}{Well, at least it has a working rope now.}
-{101}{}{That should just about do it.}
-{102}{}{This well is missing its rope and bucket.}
-{103}{}{The well is already fixed. Remember?}
-{104}{}{It has rope, but it's missing its bucket.}
+{100}{}{嗯，至少现在有一根能用的绳索。}
+{101}{}{那应该会管用的。}
+{102}{}{这口井缺了绳子和水桶。}
+{103}{}{这口井已经修好了，你想起了么？}
+{104}{}{它有绳子，但缺少了桶。}
 
-{200}{}{You see a well.}
-{201}{}{It's just a well.}
-{202}{}{Upon closer inspection you see that the well is not working. Perhaps you can fix it.}
-{203}{}{The well is working fine again.}
-
+{200}{}{你看见一口井。}
+{201}{}{就是一口井。}
+{202}{}{仔细检查后，你会发现井没法用了。也许你可以修复它。}
+{203}{}{井又跟以前一样正常工作了。}
