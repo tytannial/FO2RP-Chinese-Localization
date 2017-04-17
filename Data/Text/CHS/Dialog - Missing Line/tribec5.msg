@@ -1,28 +1,28 @@
-{100}{}{You see a lost spirit.}
-{101}{}{You see Nessa, the lost spirit.}
-{102}{}{You see the spirit of a pretty young girl, illuminated by the cold glow of the moon.}
-{103}{}{I'm betrayed. Betrayed and alone.}
-{104}{}{How could he do this to me?}
-{105}{}{The blood... So much blood...}
+{100}{}{你见到了一个迷失的灵魂。}
+{101}{}{你看见Nessa，那个迷失的灵魂.}
+{102}{}{你看见了一个漂亮姑娘的灵魂，寒冷的月光凝望着她。}
+{103}{}{我被出卖了。背叛与孤独。}
+{104}{}{他怎么可以这样对我？}
+{105}{}{血……如此多的血……}
 
-{110}{}{He said that he loved me. That we could start over together. How could he do this?}
-{111}{}{Who did this to you? Can you hear me?}
+{110}{}{他说他爱我。我们本可以开始崭新的生活。他怎么能这样做？}
+{111}{}{谁对你这样做的？你能听见我说话么？}
 
-{120}{}{It's all a lie. He doesn't love me at all. Oh, he's got a knife! It hurts! The look in his eyes, so cold, so...}
-{121}{}{If you can hear me, tell me who's hurting you. Who did this?}
-{122}{}{That's it--that's enough for me. I'm outta here.}
+{120}{}{这一切都是谎言。他根本就不爱我。啊，他拿起了刀！那真疼！他眼神是那么的冷酷，那么的……}
+{121}{}{如果你能听到我说的，告诉我谁在伤害你。这是谁做的？}
+{122}{}{那对我——真是够了。我要离开这里。}
 
-{130}{}{He's walking away now. He's leaving me here to die alone. How could this happen?}
-{131}{}{Please, just give me a name. Give me something more to work with.}
+{130}{}{他就这么准备离开了，留下我孤独的死去。事情怎么会变成这样？}
+{131}{}{求你了，告诉我他的名字。给我些有用信息。}
 
-{140}{}{It wasn't supposed to be like this. You said you wanted to start a family with me. Oh, it's so cold... I think I'm dying... No! This isn't real! You would never do this to me, Thorg! I love you! Nessa will always love you...}
-{141}{}{Thank you, Nessa. That's all I needed to hear.}
+{140}{}{事情怎么会是这样。你说你想和我一起组建一个家庭。啊，那真冷……不！这不是真的！你绝对不会对我做这样的事情的Thorg！我爱你！Nessa将永远爱你……}
+{141}{}{谢谢你，Nessa。这就是我想要知道的。}
 
-{150}{}{It's so lonely in the dark... So very lonely.}
-{151}{}{[Done]}
+{150}{}{黑暗中如此孤独……如此孤独。}
+{151}{}{[完成]}
 
-{160}{}{The blood, it never stops flowing... why won't this pain end?}
-{161}{}{Don't worry, Nessa, I'm going to help you find peace soon.}
+{160}{}{血流不止……痛苦为何无法结束？}
+{161}{}{别担心，Nessa，我将会很快让你回归平静。}
 
 #dumb dialogue
 {300}{}{Uh... You talkin' to me, glow-lady?}

@@ -30,5 +30,5 @@
 {302}{}{This man is watching you with a piercing gaze. Clearly, he is guarding someone important.}
 
 # PC has beaten the Enclave
-{500}{}{You always be welcome here, hero.}
+{500}{}{随时欢迎你来到这里，英雄。}
 
