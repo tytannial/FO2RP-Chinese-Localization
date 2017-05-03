@@ -188,38 +188,38 @@
 {608}{}{你是不是被成为获选者的荣誉冲昏了头脑，以至于你忘记了... [曼那克迅速瞟了一眼周围，在确定没人听到之后,倾过身子低声耳语。] ... Kaga?}
 {609}{}{哦对，那家伙。我不会走上和他同样的道路的。谢谢你}
 {610}{}{哦，我就知道你说的是他。但是，嗯，为什么不再继续说说他的事迹呢。我真的挺喜欢那个故事。}
-{611}{}{[曼那克低声嘀咕了些什么，摇了摇头，然后开始讲起了故事。] 你应该知道，他曾经是我们部落最伟大的战士。他领导了多次走向外部世界的探险，就是在那，堕落开始毒害他的心灵。}
-{612}{}{He became infatuated with the ways of the Outsiders, where power could bring anyone great respect and luxury. He began to view himself as superior to his fellow tribesmen who were content to live a more simple life.}
-{613}{}{What a jerk.}
-{614}{}{Go on.}
-{615}{}{When our tribe fell into these hard times, he deemed himself our people's savior and entered the Temple of Trials to prove himself to be the Chosen One.}
-{616}{}{Go on.}
-{617}{}{Nevermind, I don't want to hear this story anymore. Bye.}
-{618}{}{He made his way through the Temple, quickly reaching the final test: a hand-to-hand battle with a fellow warrior.}
-{619}{}{Go on.}
-{620}{}{Wait, he blew up that door and everything? Do we have it rebuilt every time someone goes through the temple? Speaking of that, who built the temple in the first place?}
-{621}{}{I don't have time to answer all your silly questions. Do you want me to finish the tale, or not?}
-{622}{}{Sorry. Please continue.}
-{623}{}{Actually, I think I'm ready to go. See you around.}
-{624}{}{During the final trial, He-Who-Must-Not-Be-Named unsheathed a hidden blade and used it to kill his opponent. When the Elder confronted him about his dishonorable use of a hidden weapon, he argued that it was not cheating, but rather proved him to be a cunning warrior.}
-{625}{}{The Elder did not agree. He-Who-Must-Not-Be-Named was forcibly exiled from our tribe and his name was never to be spoken amongst us again. As he was cast away into the wastes, he swore an oath of vengeance. Vengeance against our tribe, and especially against you.}
-{626}{}{Me? What'd I do?}
-{627}{}{Thanks for the story, but I'd best be on my way now.}
-{628}{}{You are the Chosen One, a title he feels is rightfully his. His pride will not allow you to live.}
-{629}{}{I'm not going to worry about it. He's probably dead out in the wastes by now, anyway.}
-{630}{}{I'll be on my guard. Hopefully he's dead out in the wastes by now.}
-{631}{}{Listen, and understand. He-Who-Must-Not-Be-Named is out there. He can't be bargained with. He can't be reasoned with. He won't feel pity, or remorse, or fear. And he absolutely will not stop, ever, until you are dead.}
-{632}{}{You know, I think you might be overdoing it with the melodrama, just a tad. Anyway, thanks for the advice. I'll see you around, Mynoc.}
-{633}{}{I'll keep that in mind. Take care, Mynoc.}
+{611}{}{[曼那克轻声嘀咕了些什么，摇了摇头，然后开始讲起了故事。] 你应该知道，他曾经是我们部落最伟大的战士。他领导了多次走向外部世界的探险，就是在那，堕落开始毒害他的心灵。}
+{612}{}{他迷恋上了外面那些人的行为方式，那里力量能够带给任何人无比的尊重以及奢华的生活。部落伙伴们满足于更简单的人生，于是他把自己视作更加高贵的人。}
+{613}{}{真是个混蛋。}
+{614}{}{继续。}
+{615}{}{当我们的村子陷入困境时期，他相信自己是人们的救世主并且走进了神殿，想证明自己就是获选者}
+{616}{}{继续。}
+{617}{}{别在意，我不行继续听这个故事了。再见。}
+{618}{}{他通过了神殿，很快就到达了最终测试：和村中战士的徒手搏斗。}
+{619}{}{继续。}
+{620}{}{等等，他把那个门还有其他的什么玩意儿都炸了？难道说我们在每次有人通过神殿后都会找人重建一次吗？快讲讲，那最开始是谁建造了神殿？}
+{621}{}{我没有时间回答你这些愚蠢的问题。你到底想不想让我讲完这个故事了？}
+{622}{}{哦抱歉，请继续。}
+{623}{}{事实上，我觉得我已经准备好触发了。回见。}
+{624}{}{在最后的试炼之中,那个不能说出名字的人抽出了一把隐藏的匕首并用它杀死了自己的对手。当长老斥责他那使用隐藏武器的无耻行径时，他争辩说那并不是作弊，反而证明了他是个狡黠的战士。}
+{625}{}{长老并不认同他所说的。不能说出名字的人被强制从我们部落流放了，我们再也不允许说出他的名字。当他被遗弃到废土之时，他发誓要复仇。向我们的部落复仇，特别是要向你复仇。}
+{626}{}{我？我该怎么做？}
+{627}{}{谢谢你的故事，但是我现在最好上路了。}
+{628}{}{你是获选者，一个他认为属于他的头衔。他的骄傲将不会允许你活着。}
+{629}{}{我不会担心这个的。不管如何，他现在可能已经死在废土上了。}
+{630}{}{我会小心的。希望他现在已经死在废土上了。}
+{631}{}{听着，记住我说的话。不能说出名字的人就在外面。他不会和你讨价还价，他不会和你讲道理，他不会感到同情或是自责或是恐惧。在你死之前他绝不会停下。}
+{632}{}{你知道吗，我觉得你可能反应过度了，我是说，有一点儿。不管如何，谢谢你的建议。再见, 曼那克。}
+{633}{}{我会记住的。保重，曼那克。}
 
-{640}{}{Could you tell me anything about this Kaga guy?}
-{641}{}{[His eyes go wide and he looks around nervously as if expecting to suddenly be struck by lightning.] Have you lost your senses out in the wastes?! You should know better than to speak the name of the outcast! He is to be referred to only as He-Who-Must-Not-Be-Named. Our village suffers enough without inviting the wrath of the Gods upon us. [He raises his eyes nervously to the sky.]}
-{642}{}{Sorry about that, Mynoc. But would you mind telling me what Ka... I mean, "He-Who's" deal is again? I really love that story.}
-{643}{}{You know, I'd forgotten how stupidly superstitious you people could be. I'll see you around.}
+{640}{}{你能告诉我一些关于Kaga这家伙的事情吗？}
+{641}{}{[他睁大了眼睛紧张地看向周围，像是会突然被闪电劈中一样。] 你在废土上逛傻了吗？！你知道你不该说出这个流放者的名字！他只能被称为不能说出名字的人。我们的村子已经承受了足够多的苦难了，否则众神也会降下愤怒。 [他紧张地望向天空.]}
+{642}{}{我对此感到抱歉，曼那克。但是你能跟我再说一遍那个Ka... 我是说"那个谁"的事迹吗？我真的很喜欢那个故事。}
+{643}{}{你知道吗，我居然忘记了你们这些人能够愚蠢到迷信这些东西。再见。}
 
-{650}{}{I've faced him before, so I'm sure I can handle him if our paths cross again.}
-{651}{}{Actually, he's already dead. I left his corpse out there to rot in the wastes.}
-{660}{}{[Mynoc nods grimly.] He may have strayed from the path, but he was once a great and respected warrior. I hope his troubled soul has found peace in the next world.}
+{650}{}{我曾经面对过他，所以如果我们的道路再次相交，我肯定我能搞定。}
+{651}{}{事实上他已经死了。我把他的尸体留在了废土上，任其腐烂。}
+{660}{}{[曼那克严肃地点了点头。] 也许他迷失了自己的道路，但是他也曾经是个伟大且值尊重的战士。希望他那饱受折磨的灵魂能在另一个世界获得安息。}
 
-{661}{}{Indeed. I'll see you around, Mynoc.}
-{662}{}{Whatever. He seemed like an asshole to me. I'll see you around, Mynoc.}
+{661}{}{一定会的。再见,曼那克。}
+{662}{}{反正我觉得他就是个傻逼。回见，曼那克。}
