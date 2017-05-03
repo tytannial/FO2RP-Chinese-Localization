@@ -25,10 +25,10 @@
 {161}{}{别担心，Nessa，我将会很快让你回归平静。}
 
 #dumb dialogue
-{300}{}{Uh... You talkin' to me, glow-lady?}
+{300}{}{呃... 你在和我说话吗，夜光女士？}
 
-{310}{}{Where dah knife man at? I don' see no knife man. Wat you talkin' 'bout? Why yu glow like dat enywey? Yu dicted to gamma gulp?}
+{310}{}{拿刀的人在哪呢？我没看到什么拿着刀的人啊。你到底在说啥啊？而且为什么你会那样发光？你是喝伽玛射线啤酒上瘾了吗？}
 
-{320}{}{Lissen glow-lady, der is NO KNIFE MAN! He not walk no-place cuz ders no one but yu 'n me!}
+{320}{}{听着, 这里没有什么拿刀的人！他哪里也去不了因为这里除了你和我谁也没有！ }
 
-{330}{}{I tink yu pretty, glow-lady, but yu too crazy to be gud fit fer me. Sumtime yu not even makin no sense! Yu need help, but I dun' no how tuh give. So, uh... I go now, kay? Bu-bye!}
+{330}{}{我觉得你长得不错夜光妞儿，但是你实在是疯疯癫癫的，我们合不来。有时你说的话完全没意义！你需要帮助，可我实在搞不懂该怎么帮你。所以，呃... 我现在要走了，好吗？拜拜！}
