@@ -80,47 +80,47 @@
 
 # Perception Check Critical Failure
 
-{134}{}{You see a damaged door with a lock (which can be picked with lockpicks) and a highly explosive trap in the doorframe.}
-{135}{}{You see a damaged door with a lock on it and a highly explosive trap in the doorframe.}
-{136}{}{You see a damaged door with no apparent locking device and a highly explosive trap in the doorframe.}
-{137}{}{You see a damaged door with an old, rusty lock and a highly explosive trap in the doorframe.}
+{134}{}{你看到一道损坏的门，上面有把锁（可以用撬锁工具撬开），门框里有高爆陷阱。}
+{135}{}{你看见一道损坏的门上面有把锁，门框里有高爆陷阱。}
+{136}{}{你看见一道损坏的门，没有明显的锁具，门框里有高爆陷阱。}
+{137}{}{你看见一道损坏的门，上面有把老旧的锈锁，门框里有高爆陷阱。}
 
-{138}{}{You see a damaged door with a lock (which can be picked with lockpicks) and a trap in the doorframe.}
-{139}{}{You see a damaged door with a lock on it and a trap in the doorframe.}
-{140}{}{You see a damaged door with no apparent locking device and a trap in the doorframe.}
-{141}{}{You see a damaged door with an old, rusty lock and a trap in the doorframe.}
+{138}{}{你看见一道损坏的门上面有把锁（可以用撬锁工具撬开），门框里有高爆陷阱。}
+{139}{}{你看见一道损坏的门，上面有把锁，门框里有高爆陷阱。}
+{140}{}{你看见一道损坏的门，没有明显的锁具，门框里有高爆陷阱。}
+{141}{}{你看见一道损坏的门，上面有把老旧的锈锁，门框里有高爆陷阱。}
 
-{142}{}{You see a damaged door with a lock (which can be picked with lockpicks) and a cut wire in the doorframe.}
-{143}{}{You see a damaged door with a lock on it and a severed wire in the doorframe.}
-{144}{}{You see a damaged door with no apparent locking device and a severed wire in the doorframe.}
-{145}{}{You see a damaged door with an old, rusty lock and a cut wire in the doorframe.}
+{142}{}{你看见一道损坏的门上面有把锁（可以用撬锁工具撬开），门框里有有根切断的金属线。}
+{143}{}{你看见一道损坏的门，上面有把锁，门框里有有根断掉的金属线。}
+{144}{}{你看见一道损坏的门，没有明显的锁具，门框里有有根断掉的金属线。}
+{145}{}{你看见一道损坏的门，上面有把老旧的锈锁，门框里有有根切断的金属线。}
 
-{146}{}{You see a damaged door with a lock (which can be picked with lockpicks).}
-{147}{}{You see a damaged door with a lock on it.}
-{148}{}{You see a damaged door with no apparent locking device.}
-{149}{}{You see a damaged door with an old, rusty lock.}
+{146}{}{你看见一道损坏的门上面有把锁（可以用撬锁工具撬开）.}
+{147}{}{你看见一道损坏的门，上面有把锁.}
+{148}{}{你看见一道损坏的门，没有明显的锁具.}
+{149}{}{你看见一道损坏的门，上面有把老旧的锈锁.}
 
 # Perception Check Failure
 
-{150}{}{You see an old door with a lock (which can be picked with lockpicks) and a highly explosive trap in the doorframe.}
-{151}{}{You see an old door with a lock on it and a highly explosive trap in the doorframe.}
-{152}{}{You see an old door with no apparent locking device and a highly explosive trap in the doorframe.}
-{153}{}{You see an old door with an old, rusty lock and a highly explosive trap in the doorframe.}
+{150}{}{你看见一道老旧的门上面有把锁（可以用撬锁工具撬开），门框里有高爆陷阱。}
+{151}{}{你看见一道老旧的门上面有把锁，门框里有高爆陷阱。}
+{152}{}{你看见一道老旧的门，没有明显的锁具，门框里有高爆陷阱。}
+{153}{}{你看见一道老旧的门，上面有把老旧的锈锁，门框里有高爆陷阱。}
 
-{154}{}{You see an old door with a lock (which can be picked with lockpicks) and a trap in the doorframe.}
-{155}{}{You see an old door with a lock on it and a trap in the doorframe.}
-{156}{}{You see an old door with no apparent locking device and a trap in the doorframe.}
-{157}{}{You see an old door with an old, rusty lock and a trap in the doorframe.}
+{154}{}{你看见一道老旧的门上面有把锁（可以用撬锁工具撬开），门框里有高爆陷阱。}
+{155}{}{你看见一道老旧的门，上面有把锁，门框里有高爆陷阱。}
+{156}{}{你看见一道老旧的门，没有明显的锁具，门框里有高爆陷阱。}
+{157}{}{你看见一道老旧的门，上面有把老旧的锈锁，门框里有高爆陷阱。}
 
-{158}{}{You see an old door with a lock (which can be picked with lockpicks) and a cut wire in the doorframe.}
-{159}{}{You see an old door with a lock on it and a severed wire in the doorframe.}
-{160}{}{You see an old door with no apparent locking device and a severed wire in the doorframe.}
-{161}{}{You see an old door with an old, rusty lock and a cut wire in the doorframe.}
+{158}{}{你看见一道老旧的门上面有把锁（可以用撬锁工具撬开），门框里有有根切断的金属线。}
+{159}{}{你看见一道老旧的门，上面有把锁，门框里有有根断掉的金属线。}
+{160}{}{你看见一道老旧的门，没有明显的锁具，门框里有有根断掉的金属线。}
+{161}{}{你看见一道老旧的门，上面有把老旧的锈锁，门框里有有根切断的金属线。}
 
-{162}{}{You see an old door with a lock (which can be picked with lockpicks).}
-{163}{}{You see an old door with a lock on it.}
-{164}{}{You see an old door with no apparent locking device.}
-{165}{}{You see an old door with an old, rusty lock.}
+{162}{}{你看见一道老旧的门上面有把锁（可以用撬锁工具撬开）.}
+{163}{}{你看见一道老旧的门，上面有把锁.}
+{164}{}{你看见一道老旧的门，没有明显的锁具.}
+{165}{}{你看见一道老旧的门，上面有把老旧的锈锁.}
 
 #############################################################
 #  The following lines are for damage done to the player or #
@@ -189,57 +189,57 @@
 #############################################################
 
 # Player uses an item on the door
-{176}{}{You bust the lock off the door.}
-{177}{}{You strain your back while trying to bust the lock and take a point of damage.}
+{176}{}{你用蛮力拆锁。}
+{177}{}{你用蛮力拆锁时拉伤了背部并受到一点伤害。}
 
 # The following set of lines is to be translated as:
-# You strain your back while trying to bust the lock and
-# take [x] points of damage.
+# you strain your back while trying to bust the lock and
+# take [x] 点伤害。
 
-{178}{}{You strain your back while trying to bust the lock and take }
-{179}{}{ points of damage.}
-{180}{}{You are too weak to bust the lock.}
+{178}{}{你用蛮力拆锁时拉伤了背部并受到 }
+{179}{}{ 点伤害。}
+{180}{}{你力气太小了搞不定这个锁。}
 
 # NPC uses an item on the door
 # The following lines are prepended by the NPC's name
-{181}{}{ busts the lock off the door.}
-{182}{}{ strains his back while trying to bust the lock and takes a point of damage.}
+{181}{}{ 用蛮力拆锁。}
+{182}{}{ 拉伤了背部并受到一点伤害}
 
 # The following line set of lines is to be translated as:
 # NPC strains his back while trying to bust the lock and
 # takes [x] points of damage
 
-{183}{}{ strains his back while trying to bust the lock and takes }
-{184}{}{ points of damage.}
+{183}{}{ 在拆锁时拉伤了背部并受到 }
+{184}{}{ 点伤害。}
 
-{185}{}{ is too weak to bust the lock.}
-{186}{}{ strains her back while trying to bust the lock and takes a point of damage.}
+{185}{}{ 力气太小了搞不定这个锁。}
+{186}{}{ 拉伤了她的背部并受到一点伤害。}
 
 # The following line set of lines is to be translated as:
 # NPC strains her back while trying to bust the lock and
 # takes [x] points of damage
 
-{187}{}{ strains her back while trying to bust the lock and takes }
-{188}{}{ points of damage.}
+{187}{}{ 拉伤了她的背部并受到 }
+{188}{}{ 点伤害。}
 
 #############################################################
 #  Damage done to the door due to explosives.               #
 #############################################################
 
-{193}{}{That doesn't even put a scratch on the door.}
+{193}{}{门上连一丝受损的痕迹都没留下。}
 
 #############################################################
 #  Reporting Door Status should it be used.                 #
 #############################################################
 
-{203}{}{The door appears to be locked.}
-{204}{}{You notice a trap in the door jam.}
+{203}{}{门看起来是锁着的。}
+{204}{}{你在门框里发现了一个陷阱。}
 
 # NPC finds trap
 # The following line is to be translated as:
 # NPC notices a trap in the door jam.
 
-{205}{}{ notices a trap in the door jam.}
+{205}{}{ 在门框里发现一个陷阱。}
 
 #############################################################
 #  Setting traps on a door and whether the door is open or  #
@@ -247,27 +247,27 @@
 #############################################################
 
 # Player tries to set a trap on an open door
-{206}{}{You are unable to place a trap on this door, because the door is open.}
+{206}{}{你没法在门上装陷阱，因为它是开着的。}
 
 # NPC tries to set a trap on an open door
-{207}{}{ is unable to place a trap on this door, because the door is open.}
+{207}{}{ 没法在门上装陷阱，因为它是开着的。}
 
 # Player tries to set a trap on a closed door
-{208}{}{You skillfully set a trap in the door frame.}
-{209}{}{You fail to properly set the trap in the door frame.}
+{208}{}{你巧妙地在门框里装上陷阱。}
+{209}{}{你没能成功在门框里装上陷阱。}
 
 # NPC tries to set a trap on a closed door
-{210}{}{ skillfully sets a trap in the door frame.}
-{211}{}{ fails to properly set the trap in the door frame.}
+{210}{}{ 巧妙地在门框里装上陷阱。}
+{211}{}{ 没能成功在门框里装上陷阱。}
 
-{300}{}{You unlock the door.}
-{301}{}{You lock the door.}
-{302}{}{You are unable to lock this door while it is open.}
-{303}{}{That key does not fit in this lock.}
+{300}{}{你打开了门锁。}
+{301}{}{你锁上了门。}
+{302}{}{你没办法锁上门，因为它是开着的。}
+{303}{}{这个钥匙和锁不配套。}
 
 # for broken doors
-{320}{}{There's no way to lock this door.}
-{330}{}{This door is jammed open.}
+{320}{}{这个门锁不上了。}
+{330}{}{这个门被什么卡住了关不上。}
 
 # Using a key on the door. (YES THIS IS A DUPLICATE BUT PLEASE DO NOT REMOVE..
 # IT MOST LIKELY IS BEING USED BY A DOOR SCRIPT SOMEWHERE)
