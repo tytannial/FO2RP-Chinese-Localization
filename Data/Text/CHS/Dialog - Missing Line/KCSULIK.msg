@@ -516,7 +516,7 @@
 {1023}{}{我们不和杀小孩人在一起。}
 {1025}{}{你一定会在克拉马斯作怪的。我们走了。}
 #killap -expansion
-{1026}{}{You be causing trouble in my home village. We're gone.}
+{1026}{}{你在我的家园里制造麻烦。我们走了。}
 
 {2300}{}{灵魂在操纵我们}
 {2301}{}{我们走了}
@@ -569,7 +569,7 @@
 {3039}{}{我们不懂。}
 {3040}{}{我们不知道。}
 
-{3050}{slk86}{在家好，可是看起来蛮小的。我们走错路了，与你这种朋友之相伴。}
+{3050}{slk86}{在家好，可是这地方有点小。我们很怀念远方的道路以及你这种朋友的陪伴。想要再次同行吗？。}
 {3051}{}{那好。}
 {3052}{}{对不起，现在不要。}
 
@@ -578,14 +578,14 @@
 
 {3055}{slk88}{那不好。你会比我更需要这个。}
 {3056}{}{你最好跟我来吧。我只是不想要你这么快离开家而已。}
-{3103}{}{You too, Sulik. Take care of yourself.}
+{3103}{}{你也是，史力克。保重。}
 
 {3057}{slk89}{又回家了；可惜妹不在我参加你们吧！}
 {3058}{}{好吧！}
 {3059}{}{不要，你自己去找。}
 
 {3060}{slk90}{可能吧。我们挂念你喔。灵魂伴随你。}
-{3061}{}{谢谢；再见。}
+{3061}{}{谢谢；再见。[史力克向你挥舞着他的装备。]}
 {3062}{}{呃～～～你跟我走吧！我也许可以帮你找到你的妹妹。}
 
 {3063}{slk91a}{你要我陪伴你吧！}
@@ -601,25 +601,25 @@
 {3080}{}{你不是我的朋友。骨头爷爷叫我不要跟你说话。}
 
 #added by killap
-{3081}{}{No, I think it is time we part our ways. Stay here with you sister, she needs you.}
-{3082}{}{It be good to be back home again.}
-{3083}{}{So many young maidens to tell our travels to - and so little time.}
-{3084}{}{We be needing to have a talk with the herb-superb. Let the world float by-and-by.}
+{3081}{}{不，我觉得是我们时候分开了。留着这照顾你的妹妹吧，他需要你。}
+{3082}{}{回家的感觉真好。}
+{3083}{}{要给这么多年轻的姑娘讲述我们的冒险旅途——然而时间太少了。}
+{3084}{}{我们需要和顶级草药交流一下。很快就能让这个世界飘起来。}
 
-{3086}{}{Take care fren.}
-{3087}{}{We and I wish you the best of luck.}
-{3088}{}{Thanks again for everything fren.}
+{3086}{}{保重，朋友。}
+{3087}{}{我们和我祝你好运。}
+{3088}{}{再次感谢你为我做的一切，朋友。}
 
-{3090}{}{This here be our village. We and I go speak with our friends.}
-{3091}{}{We and I go speak with our friends again before headin out.}
+{3090}{}{这里是我们的村庄。我们和我要去和我们的朋友们说话。}
+{3091}{}{我们和我在继续前进之前要和我们的朋友说几句话。}
 
-{3100}{}{[MORE]}
-{3101}{}{Where exactly is your tribe, Sulik?}
-{3102}{}{Thanks. Let me ask you something else.}
+{3100}{}{[更多]}
+{3101}{}{你村庄的准确位置在哪，史力克？}
+{3102}{}{谢谢。让我问些别的问题。}
 
-{3200}{}{Yes, I spoke with Mrs. Buckner regarding your debt. I just now need to make all the arrangements with Maida. I'll check with you again after I speak  with her.}
+{3200}{}{是的，我和巴克南太太谈过你的债务了。我们现在还需要做一些约定。和她谈完后我再来找你。}
 
 #added by killap - warns the player if something is wrong with the NPC
-{3500}{}{We and I think something be wrong with us. You better be having a look at this limb of ours.}
-{3501}{}{We and I think something be wrong with us. We be glowing like the sun.}
-{3502}{}{We and I think something be wrong with us. We be feeling poisoned.}
+{3500}{}{我们和我觉得我们不太舒服。你最好看看我们的四肢是否残疾了。}
+{3501}{}{我们和我觉得我们不太舒服。我们正在像太阳一样发光。}
+{3502}{}{我们和我觉得我们不太舒服。我们好像中毒了。}
