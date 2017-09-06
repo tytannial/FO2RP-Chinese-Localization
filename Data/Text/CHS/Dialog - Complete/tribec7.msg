@@ -1,6 +1,6 @@
 {100}{}{你看见一个部族女性。}
 {101}{}{你看见Kurisu，史力克的妹妹。}
-{102}{}{你看到一个年轻、丰满的女人，带着些耳环和纹身。}
+{102}{}{你看到一个年轻、丰满的女人，带着些耳环，纹着纹身。}
 
 {150}{}{[结束]}
 
@@ -8,43 +8,43 @@
 {201}{}{我？不，我是获选者。你一定是想这老骨头鼻子了吧。}
 {202}{}{[史力克冲到门口，紧握住他妹妹的手。你转头离开，为他们感人的重逢留出私处的空间。片刻之后，听到屋外折断树枝的声音，史力克立即松开她妹妹，抄起他的武器，瞥了一眼门外。外面除此之外没有别的声音。]}
 {203}{}{[更多]}
-{204}{}{[Sulik's sister turns to you.] Bonespirits say you be leading Sulik. Name's Kurisu, but now not the time for proper greetin'. Please, you needin' to get us out of cage and away from de wicked men ruled by spirits of lust. [She sneers and spits in the dirt.] Filthy dogs will not be laying hands on us again. [Upon hearing this, Sulik's eyes widen as his face contorts with rage. He reaches for his weapon.]}
-{205}{}{Hold on there, Sulik, we're outnumbered here. Let me see if I can lockpick this door and we can sneak our way out of here.}
-{206}{}{Hold on there, Sulik, we're outnumbered here. I got the key to this door. Let's keep it quiet and we'll sneak our way out of here.}
+{204}{}{[史力克的妹妹转向你。]骨头灵魂说你将会带来史力克。我名字叫Kurisu，但当前没时间正式问好了。求你一定要把我们弄出笼子，然后带我们远离这些被欲望之魂占据的恶人。[她冷笑并往地上唾弃。]那些下流的狗绝不会有机会再碰到我们。[听到这，史力克睁大了眼，愤怒扭曲了他的脸。他拿起了他的武器。]}
+{205}{}{等等，史力克，我们在这寡不敌众。让我试试看看能否撬开这把锁，之后我们可以悄悄地逃离这里。}
+{206}{}{等等，史力克，我们在这寡不敌众。我拿到了这扇门的钥匙。让我们保持安静，悄悄地逃离这里。}
 {207}{}{[你对史力克点头]那些混蛋会付出代价。弹药上膛吧，老伙计。}
 {208}{}{[几分钟过去了，你也最终听到门锁发出咔的一声。门被打开了。]}
 {209}{}{[向Kurisu]那好，靠近我，低着头。[向别的奴隶]保持安静向树林移动。}
 {210}{}{[几分钟过去了，你没能搞定门锁。]}
 {211}{}{一定还有别的方法打开这门。让我试试能否找到一把钥匙。呆在这，我会回来的。}
-{212}{}{好吧史力克，是时候兑现你的计划，干掉那群垃圾了。}
-{213}{}{[You put the key in the lock and unlock the gate, it screeches as it opens.]}
+{212}{}{好吧史力克，是时候实现你的计划，干掉那群垃圾了。}
+{213}{}{[你使用了钥匙咔的一声打开了门]}
 
 {214}{}{找到了么，朋友？求求你快点吧。}
 {215}{}{不还没有。我还在努力寻找。}
 {216}{}{我拿到钥匙了。是时候救你出来了。}
-{217}{}{Why there be so much commotion out there? Ah, I sense many have gone to join the spirits. Who be... Sulik? Do the spirits be teasing, or is that really you, brother?}
-{218}{}{Why there be so much commotion out there? Ah, I sense many have gone to join the spirits. And I sense you be the one sending em. What you be needin', Ghost-maker?}
+{217}{}{为什么外面有那么大的骚动？呃，我感觉到了很多人加入了灵魂们。谁干的……史力克？是灵魂在开玩笑，还是真是你，哥哥？}
+{218}{}{为什么外面有那么大的骚动？呃，我感觉到了很多人加入了灵魂们。我感觉到你就是那送他们的人。你有什么事么，鬼魂制造者？}
 {219}{}{我是来救你的。}
 
-{221}{}{Praise the spirits! Please, you needin' to get us out of cage. Away from this evil place.}
-{222}{}{Spirits praise you! Now I must go and return to my people. Long have I been missed. Please, stop by my village. It be near the Great Salt Water, a few days south west of here. Thank you, fren.}
-{223}{}{[Sulik rushes to the gate door and clasps the outstretched hands of his sister. You turn away to give some privacy to their emotional reunion. Moments later, his sister turns to you.] Bonespirits say you be leading Sulik. Name's Kurisu, but now not the time for proper greetin'. The Slavers, they be dead, yes?}
-{224}{}{Yes, the slavers are dead.}
-{225}{}{Praise the spirits! Please, unlock this door. We eager to go from this evil place.}
-{226}{}{Don't worry. I got a key.}
-{227}{}{Alright, let me try and lockpick this door.}
+{221}{}{赞美灵魂们！求你一定要把我们弄出笼子。逃离这邪恶的地方。}
+{222}{}{灵魂们赞美你！现在我必须离开，回到我族人那。我已经离开很久了。请一定要来我的村子。它就在大盐水附近，这里的西南边大概几天的路程。谢谢你，朋友。}
+{223}{}{[史力克冲到门口，紧握住他妹妹的手。你转头离开，为他们感人的重逢留出私处的空间。过了会，他妹妹转向了你。]骨头灵魂说你将会带来史力克。我名字叫Kurisu，但当前没时间正式问好了。那些奴隶贩，他们死了，是么？}
+{224}{}{是的，那些奴隶贩已经死了。}
+{225}{}{赞美灵魂们！请打开这扇门，我们渴望离开这个邪恶的地方。}
+{226}{}{不必担心，我有钥匙。}
+{227}{}{好的，让我试试撬开这扇门。}
 
 {400}{}{我们赶紧上路吧。}
 {401}{}{求你了，我想要回家。}
 
-{410}{}{[向Kurisu] Wait, I don't want to leave here until I free the slaves in the other holding pens. You wait here until I free everyone from this camp. [向别的奴隶]保持安静向树林移动。我会解决那些守卫的。}
+{410}{}{[向Kurisu]等下，我还想解救其他牢笼中的奴隶。你先等等吧，好让所有人都能离开这个营地。[向别的奴隶]保持安静向树林移动。我会解决那些守卫的。}
 
 {500}{}{如果你是来干我的，那你就别怪我打死你 —— 等等，你的头上并没有恶魔的标记。你是谁？}
 {501}{}{我是“获选者”，你是谁？}
 {502}{}{我的名字是 }
 {503}{}{。你的名字是？}
 
-{510}{}{我叫Kurisu。我来自西南边大盐水旁的部落。奴隶贩子抓住了我和其他人，但其他人被送往了别处。奴隶贩子们说不会对我怎样，却围着我让我满足他们邪恶的欲望。求你了，帮我们逃离这笼子，远离那些邪恶的人。}
+{510}{}{我叫Kurisu。我来自西南边大盐水旁的部落。奴隶贩子抓住了我和其他人，但他们被送往了别处。奴隶贩子们说不会对我怎样，却围着我让我满足他们邪恶的欲望。求你了，帮我们逃离这笼子，远离那些邪恶的人。}
 
 {511}{}{别担心，我这就就你出去。我拿到了钥匙和许可，带你离开这里。}
 {512}{}{那好，让我试试能不能撬开这扇门。}
@@ -57,21 +57,21 @@
 
 {600}{}{赞美灵魂，我们终于能回家了！真是太感谢你了，朋友。}
 {601}{}{不用客气。但你是怎么被抓住的？}
-{602}{}{Was trading in nearby village. Slavers came. Much bloodshed and chaos. Then, everything go dark. Awoke in packed cage reeking of shit. Soon moved to smaller cage, with ones they like to be keeping. Peeped many slaves come and go. Sad to see people be treated like cattle.}
+{602}{}{那是正在附近村庄里进行交易。奴隶贩来了。血腥和混乱后，周围变暗了。当我醒来时，被装在满是屎的笼子里。很快又被移动到一个小笼子和其他的奴隶被关在一起。偷偷看了下很多奴隶被带走和带来。看见人被当做牲畜一样的对待真是难过。}
 {603}{}{是啊，奴隶制真是个糟糕的东西。我很抱歉听到你遭受那样的事情，Kurisu。那么，你现在打算怎么做？}
-{604}{}{Slavers hurt me, but I far from broken. The spirits guided you to ensure my freedom. Clearly, the spirits be planning something big for me. Spirits got big plans for you, too. And brother Sulik. He will be much missed, but the spirits say his place is walking by-and-by with you. Hell, even Grampy Bone like you, so I know Sulik in good hands. You take care.}
+{604}{}{奴隶贩伤害了我，但是我还不会崩溃。灵魂们指引你来带给我自由。显然，灵魂们为我准备了一场大事，也为你准备了一件大事，当然也包括我的哥哥史力克。他会被我深深的思念，但灵魂说过他应该与你一同旅行。哎，甚至骨头爷爷也喜欢你，我就知道史力克将会成为你的好帮手。保重。}
 {605}{}{谢谢你，Kurisu，待会见。}
-{606}{}{Slavers hurt me, but I far from broken. The spirits guided you to ensure my freedom. Clearly, the spirits be planning something big for me. Soon, I think I be going to hunt down brother. Knowing Sulik, he prolly got in trouble, trying to come help me. Now, perhaps I be the one helping him.}
-{607}{}{Actually, I think I've seen your brother. Face full of tattoos and a big bone in the nose, right?}
-{608}{}{That be Sulik alright! And Grampy Bone, too! Please, could you go bring Sulik home? I be missing that man so much.}
+{606}{}{奴隶贩伤害了我，但是我还不会崩溃。灵魂们指引你来带给我自由。显然，灵魂们为我准备了一场大事。很快，我想我就能去找哥哥了。我很了解史力克，他也许在帮我的途中陷入了麻烦。现在，我猜我应该成为帮他的那个人了。}
+{607}{}{事实上，我认为我曾经见过你哥哥。脸上满是刺青，一根大骨头穿过鼻子，是么？}
+{608}{}{他就是史力克和骨头爷爷没错！求求你，能否带史力克回家？我很想念他。}
 {609}{}{没问题，我会带他来这里的。待会见，Kurisu。}
 {610}{}{我真做不到。你也知道，史力克死了。}
-{611}{}{Sulik... dead? Truly, this be a dark day. I know he be with Grampy now, but Sulik... he will be much missed. [She looks away as tears fill her eyes.] Please... I need being alone now. Thank you... for bringing me home.}
+{611}{}{史力克……死了？真的么，这真是个黑暗的日子。我知道他现在跟先祖在一起，但史力克……他会被深深的怀念的。[她头扭了过去，泪水充盈眼眶。]请……让我一个人待会儿吧。谢谢你……带我回家。}
 
 
 {650}{}{你好，朋友。还有你史力克！}
 {651}{}{[更多]}
-{652}{}{[Kurisu rushes to Sulik, who sweeps her up into an embrace. You turn away to give them some privacy during their emotional reunion. Several moments later, Kurisu turns to you with a grin as she wipes tears from her eyes.] Thank you, fren, for finding brother. Spirits got big plans for you and Sulik. He will be much missed, but the spirits say his place is walking by-and-by with you. Hell, even Grampy Bone like you, so I know Sulik in good hands. You take care.}
+{652}{}{[Kurisu冲向史力克，史力克保住了她。你转头离开，为他们感人的重逢留出私处的空间。过了一会儿，Kurisu转向你，她擦干泪的脸上露出微笑。]谢谢你找到了我的哥哥，朋友。 灵魂们有个有个伟大计划在你和史力克身上。他会被我深深的思念，但灵魂说过他应该与你一同旅行。哎，甚至骨头爷爷也喜欢你，我就知道史力克将会成为你的好帮手。保重。}
 {653}{}{你好朋友。你有找到我哥哥史力克？}
 {654}{}{没有，仍在寻找。当我找到他我会回来的。}
 
