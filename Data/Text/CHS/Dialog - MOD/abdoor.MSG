@@ -36,8 +36,8 @@
 # description_proc
 
 # Perception Check Critical Success
-{102}{}{你看了一道锁的很牢固的门 (可以用撬锁工具撬开) 而且门框里有高爆陷阱,也许你能撬开。}
-{103}{}{你看了一道锁的很牢固的门,也许你能撬开。}
+{102}{}{你看见一道锁的很牢固的门 (可以用撬锁工具撬开) 而且门框里有高爆陷阱,也许你能撬开。}
+{103}{}{你看见一道锁的很牢固的门,也许你能撬开。}
 {104}{}{你看见一道隐藏着高爆陷阱锁着的门，也许你能撬开。}
 {105}{}{你看见一道破旧的门，生锈的锁还藏着一个高爆陷阱，也许你能撬开。}
 
@@ -273,12 +273,20 @@
 # IT MOST LIKELY IS BEING USED BY A DOOR SCRIPT SOMEWHERE)
 {400}{}{You unlock the door.}
 
-{414}{}{You see a sturdy door with a lock (which can be picked with lockpicks), which you may be able to pry open.}
-{415}{}{You see a sturdy door with a lock on it, which you may be able to pry open.}
-{416}{}{You see a sturdy door with no apparent locking device, which you may be able to pry open.}
-{417}{}{You see a sturdy door which you may be able to pry open.}
+# {414}{}{You see a sturdy door with a lock (which can be picked with lockpicks), which you may be able to pry open.}
+{414}{}{你看见一道锁的很牢固的门 (可以使用撬锁工具) ，也许你能撬开。}
+# {415}{}{You see a sturdy door with a lock on it, which you may be able to pry open.}
+{415}{}{你看见一道锁的很牢固的门，也许你能撬开。}
+# {416}{}{You see a sturdy door with no apparent locking device, which you may be able to pry open.}
+{416}{}{你看见一道很牢固却没有锁的门，也许你能撬开。}
+# {417}{}{You see a sturdy door which you may be able to pry open.}
+{417}{}{你看见一道很牢固的门，也许你能撬开。}
 
-{500}{}{This door is too heavy to pry open.}
-{501}{}{Looks like you need to get the generator working first.}
-{502}{}{You see: Elevator door.}
-{503}{}{Looks like you need an electric device to open this lock.}
+# {500}{}{This door is too heavy to pry open.}
+{500}{}{这道门太沉，因此你无法撬开。}
+# {501}{}{Looks like you need to get the generator working first.}
+{501}{}{看起来你需要先启动发电机。}
+# {502}{}{You see: Elevator door.}
+{502}{}{你看到：电梯门}
+# {503}{}{Looks like you need an electric device to open this lock.}
+{503}{}{看起来你需要一个电子设备。}
