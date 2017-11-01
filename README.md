@@ -7,12 +7,6 @@
 
 希望有人能加入这个工程中，彻底的将辐射2简体中文化 填补这个该死的大坑
 
-##文件目录说明
-Dialog - Complete	已经完成  
-Dialog - MOD	新增的文本  
-Dialog - Normal	MOD对于原版无改动的文本  
-Dialog - Original	未整理的文本，部分文本还含有英文  
-
 ##当前进度
 - [ ] 游戏界面
 	- [x] 缺失文本补充
