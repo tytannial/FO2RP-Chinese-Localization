@@ -125,7 +125,7 @@
 {612}{}{我也许会的。实际上我有太多任务，如果没有手边这个哔哔小子，谁知道会怎么样。好吧，再见了。}
 
 #RP 1.3
-{700}{}{Oh, right. Here you go. [Hand him $5,000.]}
+{700}{}{哦，好的，拿去吧。 [递给他$5,000.]}
 {701}{}{Sorry, I had to spend it as part of the deal.}
 {702}{}{Shit, I don't have enough to pay you back. I must've spent some without thinking about it. I'll get I get it back to you as soon as I can.}
 
@@ -137,7 +137,7 @@
 {731}{}{Sure, here. [You give him $2,500.]}
 {732}{}{Sorry, I don't even have that much.}
 
-{740}{}{Thank you, }
-{741}{}{. We won't forget what you've done for us.}
+{740}{}{谢谢。 }
+{741}{}{我们不会忘记你为我们所做的一切。}
 
 {750}{}{I see . . . well, don't worry about it. The money isn't as important as our freedom. Thank you.}
