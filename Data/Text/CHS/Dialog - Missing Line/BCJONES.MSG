@@ -70,20 +70,20 @@
 {168}{}{他现在很神经质，一直认为坦蒂想抓他。他对复仇相当执着，他想要坦蒂的命。}
 
 #added by killap - RP Project 
-{200}{}{Darion已经死了。}
-{201}{}{Dar-e-on 死了。}
-{202}{}{真的吗？！哦，这是个美妙的消息。}
-{203}{}{你现在打算干什么？}
+{200}{}{Darion is dead.}
+{201}{}{Dar-e-on dead.}
+{202}{}{He is!? Oh, this is wonderful news.}
+{203}{}{What are you going to do now?}
 {204}{}{What yoo do?}
 {205}{}{Well, I see no reason to return to my old life. The town above us doesn't have any medical assistance, so I think I will go up and help them. Thank you again for freeing me.}
-{206}{}{当然，一会见。}
-{207}{}{再见！}
+{206}{}{Of course. See you later.}
+{207}{}{Bye!}
 
-{210}{}{我还需要打包几样东西，我会去外边和你碰头。}
+{210}{}{I still need to pack a few things. I'll see you on the outside.}
 
-{220}{}{嗨，我说，很高兴再见到你！每个人都很感激你所做的一切。能离开那里我也是非常高兴，替Darion卖命简直是噩梦。}
-{221}{}{很高兴能帮上忙。那么，告诉我更多关于你自己的事吧。}
-{222}{}{好的，回头见。}
+{220}{}{Hey there, good to see you again! Everyone here really appreciates what you have done. I personally am glad to be out of there. Working for Darion was a nightmare.}
+{221}{}{Glad I could help. So, tell me a little bit more about yourself.}
+{222}{}{Alright, see you around.}
 
 {230}{}{Well you see, I'm originally from the New California Republic, but I realized I had a gift for medical practices. So I trained as much as I could under the NCR medical staff, and once I had learned all I could, I decided to try and learn more by making my way to Vault City. I was lucky enough to meet Dr. Troy while he was tending an injured citizen outside the vault, and long story short, he agreed to finalize my training in Vault City. I had just finished my training and was heading out when Darion captured me.}
 {231}{}{That's terrible. Well, I hope everything works out for you now.}
@@ -91,5 +91,5 @@
 {240}{}{I hope so too. I think I can put my medical skills to good use here.}
 {241}{}{Bye.}
 
-{250}{}{再次感谢你做的一切。}
+{250}{}{Thanks again for everything.}
 {251}{}{It feels good to be helping civilized people again.}
