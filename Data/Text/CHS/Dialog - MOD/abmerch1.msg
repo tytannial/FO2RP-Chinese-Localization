@@ -24,15 +24,21 @@
 {310}{}{噢，对不起，再见。}
 {311}{}{我会知道我能做什么了。}
 
-#added in 1.3
-{312}{}{I thought I might be able to help, but if you want to be an asshole about it, then you're welcome to figure it out on your own.}
-{313}{}{I told the Abbot I'd be willing to help, but if you want to be an asshole about it, then you're welcome to figure it out on your own.}
+#added in 1.3 translate by Marv
+# {312}{}{I thought I might be able to help, but if you want to be an asshole about it, then you're welcome to figure it out on your own.}
+{312}{}{我可以帮忙，但你非要表现的这么混蛋的话，请吧，由你自己搞定。}
+# {313}{}{I told the Abbot I'd be willing to help, but if you want to be an asshole about it, then you're welcome to figure it out on your own.}
+{313}{}{我告诉过Abbot我很乐意帮忙，但你非要表现的这么混蛋的话，请吧，由你自己搞定。}
 
-{320}{}{[He squints at you for a moment, then slowly lets out his breath in a sigh.] Sorry friend, this thing's being a real bitch, and it's gotten me all worked up. I didn't mean to snap at ya. }
-{321}{}{Well, what seems to be the problem then?}
-{322}{}{Whatever, bye.}
+# {320}{}{[He squints at you for a moment, then slowly lets out his breath in a sigh.] Sorry friend, this thing's being a real bitch, and it's gotten me all worked up. I didn't mean to snap at ya. }
+{320}{}{[他斜着眼看了你一会，之后慢慢的叹了一口气] 抱歉，朋友。事情实在是让我焦头烂额，忙不过来。我不是有意冲你吼的。 }
+# {321}{}{Well, what seems to be the problem then?}
+{321}{}{好吧，哪里看起来出问题了？}
+# {322}{}{Whatever, bye.}
+{322}{}{随意吧，拜。}
 
-{330}{}{Come back and talk to me in the morning.}
+# {330}{}{Come back and talk to me in the morning.}
+{330}{}{早上再回来和我谈。}
 #end added
 
 {400}{}{噢，又是你，一切顺利吗？}
@@ -43,11 +49,15 @@
 {501}{}{我现在就去那，马上回来。}
 
 #added in 1.3
-{502}{}{Whoa, hold on a second. I was happy to help you figure out the problem, but who said I'm willing to trek across the wastes to go buy you an expensive motor? If you want my help, it's going to cost you.}
-{503}{}{How 'bout *you* tell Harry that when you go fetch it your damn self? I'm not your fucking errand boy. Bye.}
+# {502}{}{Whoa, hold on a second. I was happy to help you figure out the problem, but who said I'm willing to trek across the wastes to go buy you an expensive motor? If you want my help, it's going to cost you.}
+{502}{}{哇噢，等等。我很愿意帮你修理，但谁告诉你我愿意帮你穿过危险的废土去买一个发动机啦？如果需要我去，你得掏钱。}
+# {503}{}{How 'bout *you* tell Harry that when you go fetch it your damn self? I'm not your fucking errand boy. Bye.}
+{503}{}{*你*何不告诉Harry你他妈愿意自己去？我可不是给你他妈的跑腿的。拜。}
 
-{510}{}{Alright, I wouldn't expect someone to do work for free. The part will cost you bout 500 and I think 100 more for your trouble is reasonable. Here's 600.}
-{511}{}{That's better. I'll be back with the part.}
+# {510}{}{Alright, I wouldn't expect someone to do work for free. The part will cost you bout 500 and I think 100 more for your trouble is reasonable. Here's 600.}
+{510}{}{好吧，我从没期望谁会愿意免费跑一趟。零件500，跑腿费100。这是600。}
+# {511}{}{That's better. I'll be back with the part.}
+{511}{}{这还差不多。我会把零件拿回来的。}
 #end added
 
 {600}{}{一切顺利吗？这机器可不会自己修好。}
@@ -69,4 +79,5 @@
 {911}{}{修士长说你需要一些帮助。似乎出了什么问题？}
 {912}{}{别介意。再见。}
 #already looked at water pump
-{913}{}{I took a look at the water pump and it seems the motor is completely busted. The connections are shot, so we're going to have to get our hands on a new motor, as well as some wires to reconnect everything since the old wires are fried.}
+# {913}{}{I took a look at the water pump and it seems the motor is completely busted. The connections are shot, so we're going to have to get our hands on a new motor, as well as some wires to reconnect everything since the old wires are fried.}
+{913}{}{我仔细查看了水泵，发现发动机已经彻底爆裂。连接处也破旧不堪。我们只好想办法去搞一个新的发动机，还有一些电线，老线也被烧毁了。}
