@@ -1,6 +1,7 @@
 {100}{}{你看见翰克。}
 {101}{}{你看见一个肥胖的修道士。}
-{102}{}{He is messing with a still.}
+# {102}{}{He is messing with a still.}
+{102}{}{他正在瞎捣鼓蒸馏器。}
 
 {200}{}{嗨，哥们。你有打火机吗？}
 {201}{}{有。 [伸手帮他点火]}
@@ -21,7 +22,8 @@
 {216}{}{没问题，这是钱。}
 {217}{}{不，够了。也许下次吧。}
 {218}{}{(他收起钱。) 酒在这。}
-{219}{}{I'll come back when I have more money.}
+# {219}{}{I'll come back when I have more money.}
+{219}{}{我有更多钱的时候再回来。}
 
 {220}{}{你找到打火机了？}
 
@@ -51,10 +53,15 @@
 {702}{}{对不起，我是个收藏家，我会收藏所有找到的。再见。}
 
 #dumb dialgoue
-{800}{}{Li-ter? I have fire maker. It burn me many times. (You hold up a lighter.)}
+# {800}{}{Li-ter? I have fire maker. It burn me many times. (You hold up a lighter.)}
+{800}{}{火-机？我有火神。他烧我好多次了。（你举起一个打火机。）}
 
-{810}{}{Yeah, that's what I need. Will you give it to me?}
-{811}{}{Otay. I no likee it.}
-{812}{}{I no give you.}
+# {810}{}{Yeah, that's what I need. Will you give it to me?}
+{810}{}{对，就是我想要的。可以给我吗？}
+# {811}{}{Otay. I no likee it.}
+{811}{}{噢。喜欢，我不。}
+# {812}{}{I no give you.}
+{812}{}{给你，我不。}
 
-{820}{}{You no now burn self too. Bye!}
+# {820}{}{You no now burn self too. Bye!}
+{820}{}{烧自己，你不要。拜！}
