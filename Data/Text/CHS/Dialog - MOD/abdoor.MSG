@@ -271,7 +271,8 @@
 
 # Using a key on the door. (YES THIS IS A DUPLICATE BUT PLEASE DO NOT REMOVE..
 # IT MOST LIKELY IS BEING USED BY A DOOR SCRIPT SOMEWHERE)
-{400}{}{You unlock the door.}
+# {400}{}{You unlock the door.}
+{400}{}{你打开了这道门。}
 
 # {414}{}{You see a sturdy door with a lock (which can be picked with lockpicks), which you may be able to pry open.}
 {414}{}{你看见一道锁的很牢固的门 (可以使用撬锁工具) ，也许你能撬开。}
