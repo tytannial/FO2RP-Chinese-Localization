@@ -53,7 +53,7 @@
 # {602}{}{So why don't you go look?}
 {602}{}{你为什么不去？}
 # {603}{}{You're the tough guy around here, aren't you? Why don't you drag your ass down there?}
-{603}{}{你是个狠家伙，对不对？为什么不带着你的大屁股过去看看呢？}
+{603}{}{你是个狠家伙，对不对？为什么不撅了个腚过去看看呢？}
 
 # {610}{}{It's a bit embarrassing, but after spending so much time outdoors with the caravans, I get very nervous when I go underground. The walls just close in on me and I have trouble breathing... Maybe you can find out what happened to Brother Thomas?}
 {610}{}{说起来有些难堪，跟随商队走南闯北这么多年，我一进底下就会抑郁。感觉被关在墙里无法呼吸...也许你能查出托马斯发生了什么事？}

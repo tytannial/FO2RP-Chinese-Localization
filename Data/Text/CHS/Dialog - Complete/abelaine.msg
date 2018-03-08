@@ -18,9 +18,10 @@
 {500}{}{叫我伊莱恩。}
 {501}{}{明白了。再问几个问题...}
 
-# {600}{}{Hey! Before you go, perhaps you could do me a favor. I'm supposed to bring this machine part to Max in the basement copy room. But you see, my left knee has been acting up lately, and it's a real pain for me to go up and down all those stairs. Would it trouble you too much to bring him this part for me?}
-{600}{}{嗨！在你离开之前，是不是可以帮我个小忙。本来应该是我将这个机器零件交给地下影印室的麦克斯的。但你瞧，最近我的左膝不太听话，如果跑上跑下非疼死我不可。你是不是能帮我走一趟呢？}
-# {601}{}{Sure.}
+#{600}{}{Hey! Before you go, perhaps you could do me a favor. I'm supposed to bring this machine part to Max in the basement copy room. But you see, my left knee has been acting up lately, and it's a real pain for me to go up and down all those stairs. Would it trouble you too much to bring him this part for me?}
+{600}{}{嘿！在你走之前，也许你可以帮我个忙。我应该把这个机器部件给地下室的麦克斯。但你瞧，最近我的左膝不太听话，如果跑上跑下非疼死我不可。你能帮我这个忙吗？}
+
+#{601}{}{Sure.}
 {601}{}{当然。}
 # {602}{}{Sorry, I don't have time for this. Bye.}
 {602}{}{抱歉，我没有时间。拜}
@@ -58,4 +59,4 @@
 {731}{}{我，不让你失望。}
 
 # {740}{}{You keep on truckin' now.}
-{740}{}{你继续。}
+{740}{}{你继续忙忙吧。}

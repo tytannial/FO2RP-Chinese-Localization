@@ -193,7 +193,7 @@
 {177}{}{你用蛮力拆锁时拉伤了背部并受到一点伤害。}
 
 # The following set of lines is to be translated as:
-# you strain your back while trying to bust the lock and
+# You strain your back while trying to bust the lock and
 # take [x] 点伤害。
 
 {178}{}{你用蛮力拆锁时拉伤了背部并受到 }
