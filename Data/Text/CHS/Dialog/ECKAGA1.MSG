@@ -1,0 +1,35 @@
+{100}{}{你看见一个穿着很少衣服的人。}
+{101}{}{你看见卡贾。}
+{103}{}{他穿着裤子，看上去他是从一个部落来的。}
+{104}{}{我才应该是获选者！}
+{105}{}{阿罗由竟敢把我驱逐出部落。}
+{106}{}{我会向你复仇的！}
+{107}{}{卡贾会送你上西天。}
+{108}{}{我们还会见面的！}
+{109}{}{我从来没有被打败过！}
+{110}{}{我会尽全力的把你毁灭。}
+
+
+#added by RP 1.3
+#{150}{}{[A tall and powerfully built warrior stands before you, his eyes blaze with hatred as he looks you over.] So, they cast out Kaga, then deem YOU the Chosen One？ Ha！ You think being the grandchild of the Vault Dweller makes you special？！ You think you are better than I, Kaga the Great？！}
+{150}{}{[一个高大强壮的战士站在你面前，他看着你，眼中充满仇恨]所以，他们抛弃了卡贾，然后认定你是被选中的那个人？哈！你认为因为你是被被放逐者的后裔，就会让你与众不同吗？！你觉得你比我更厉害吗？}
+#{151}{}{Well, I AM the Chosen One, aren't I？}
+{151}{}{好吧，但我是被选中的那个，而你是什么？}
+#{152}{}{Hey now, hold on a second. I never said I was better than you.}
+{152}{}{嘿，等一下。我从没说过我比你强。}
+
+
+#{160}{}{That title will mean nothing when Kaga rips the head from your shoulders！}
+{160}{}{当卡贾把你的头从你的肩膀上扯下来的时候，这个头衔就毫无意义了！}
+#{161}{}{No words can save your hide. With your death, Kaga's honor shall be restored. Kaga will now take his vengeance！}
+{161}{}{随便你说什么，只要你死，卡贾的荣誉就会恢复。卡贾现在要复仇！}
+
+#dumb dialogue
+#{200}{}{Ooglie？}
+{200}{}{？}
+#{201}{}{What！？ They picked *you* to be the Chosen One？ Oh my, they've become desperate.}
+{201}{}{什么！ ？他们选*你*做获选者？天啊，他们已经绝望了。}
+#{202}{}{Me no likie. U lookie bad.}
+{202}{}{我不喜欢你。你看起来很坏。}
+#{203}{}{Kaga won't even bother speaking with you further. Prepare to die at the hands of Kaga！}
+{203}{}{卡贾甚至懒得跟你说话。准备受死！}

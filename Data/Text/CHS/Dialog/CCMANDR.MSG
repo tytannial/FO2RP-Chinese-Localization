@@ -1,0 +1,123 @@
+{100}{}{你看到一个穿着动力装甲的人。}
+{101}{}{你看到一个那瓦罗基地指挥官。}
+{102}{}{你看到一个人穿着设计奇怪的动力装甲。在装甲上有一个你没有看过的标志。}
+
+{103}{}{你们这些人是谁——警报！基地有侵入者！}
+{104}{}{我没有时间闲谈，你可以走了。}
+{105}{}{死吧。}
+{106}{}{好。}
+
+{107}{}{我告诉你我没有时间。除了我叫你之外，不要再进来我的办公室，出去！}
+{108}{}{不遵守上级的命令就是反叛。我没有时间跟你上军事法庭，所以我会用我自己的方法来处理。卫兵！将这白痴给杀了！}
+{109}{}{好。}
+{110}{}{去死！}
+
+{111}{}{Fob就在那里的锁柜中。在它安全的放好之后，叫负责的军官与我联络。你可以走了！}
+{112}{}{是，长官！}
+
+{113}{}{快一点，我没有很多时间。}
+{114}{}{是，长官！}
+
+{115}{}{离开我的锁柜，不然我就会好好的对付你的。}
+{116}{}{是，长官！}
+
+{117}{}{基地正在警戒中，我也不认识你。给我看你的证件，士兵。}
+{118}{}{证件？}
+{119}{}{被你发现了！}
+{120}{}{我没有带……}
+{121}{}{证件？在这里！}
+
+{122}{}{答错了，败类。你应该随时都要带着证件的。你应该知道的！}
+{123}{}{我操你妈。}
+
+{124}{}{离开我的锁柜，不然我就会好好的对付你的。}
+{125}{}{去死吧。}
+
+#added by killap - RP
+#{200}{}{Alright, let's get this over with--I don't like muties stinking up my office, and I got shit to do. Do you work
+ for the Salvatores? }
+{200}{}{好吧，让我们先搞清楚--我不喜欢一个变种人搞臭了我的办公室。你是沙尔瓦多家的人吗？ }
+
+
+#{201}{}{None of your business, asshole.}
+{201}{}{不关你的事，混蛋。}
+#{202}{}{I work for no one.}
+{202}{}{我为任何人工作。}
+#{203}{}{So what if I do?}
+{203}{}{如果我是呢？ }
+#{204}{}{Yeah, I work for the Salvatores.}
+{204}{}{是的，我是沙尔瓦多家的人。}
+{205}{}{Before I answer any questions, I've got a few of my own.}
+
+# None of your business, asshole
+#{210}{}{I don't have time for this bullshit. Guards! Kill this mutie!}
+{210}{}{警卫!干掉这个家伙！}
+
+#I work for no one
+#{220}{}{So you're saying you're nothing more than a stray wasteland rat that happened to wander into one of our vertibirds?}
+{220}{}{你的意思是说，你不过是象一只变种猪鼠一样，凑巧走进我们的飞鸟里面吗？ }
+#{221}{}{Uh, yeah, pretty much . . . except for that part about me being a rat.}
+{221}{}{嗯，是的，就是这个意思。..除了关于我是一只变种猪鼠那部分。 }
+#{222}{}{That's right.}
+{222}{}{是的}
+#{223}{}{No, I'm saying that this is all just a big misunderstanding. I don't know who you guys are, and I don't care.
+ So if you don't mind, I'll be moving along now.}
+{223}{}{不，我是说这只是一个大误会。我不想知道你们是谁。如果你不介意的话，我现在就要走了。}
+
+#{230}{}{Good, if you're acting alone, then I don't have to waste another second of my time with you. Guards! Kill this mutie!}
+{230}{}{好吧，如果上了飞鸟的只有你一个人，那我就不用再浪费我的时间了。警卫!杀死这个家伙！ }
+#{240}{}{You're not leaving here alive, mutant. I couldn't risk you blabbing the location of this base to all your
+ wasteland friends, now could I? Guards! Kill this mutie!}
+{240}{}{你不可能活着离开这里，杂种。你可能会泄露这个基地的位置，我不会冒这个险。警卫!杀死这个家伙！ }
+
+ 
+# So what if I do?/ Yeah, I work for the Salvatores.
+#{250}{}{Tell me what I want to know, and I'll make sure your death is quick and . . . relatively painless.
+ Did Salvatore put you up to this?}
+{250}{}{那告诉我是为什么，我会确保你的死得痛快一点。我想知道，沙尔瓦多让你做这件事是为什么？ }
+#{251}{}{Uhh . . . no? Wait, yeah. Maybe.}
+{251}{}{..没有？等待，是的。也许吧.}
+#{252}{}{Nope. Playing hide-and-seek in your flying machine was all my own idea. Genius, I know.}
+{252}{}{不.在你的飞鸟捉迷藏都是我自己的想法。}
+#{253}{}{Yeah, he thought he'd sweeten the trade by sending me along. What a deal, huh?}
+{253}{}{是的，他雇我护送这趟交易。}
+#{254}{}{Before I answer any questions, I've got a few of my own.}
+{254}{}{在我回答任何问题之前，我有一些自己的问题。 }
+#{260}{}{I don't have time for this bullshit. Guards! Kill this mutie!}
+{260}{}{我没时间去理这沱狗屎。警卫!干掉他！ }
+
+
+#{270}{}{That supposed to be funny, mutant? I think you'll be a lot funnier to me when you're a bleeding corpse. Guards!
+ Kill this mutie!}
+{270}{}{你认为这很有趣？故事时间到此结束，警卫!干掉他！ }
+#{280}{}{Oh, you do? [He chuckles.] Well hell, why not? You're dying anyway. What do you want to know, mutant?}
+{280}{}{哦，[他笑。]反正你就快死了。你想知道什么？变种人 }
+
+#{281}{}{Why do you keep calling me a mutant?}
+{281}{}{为什么你一直叫我变种人?}
+#{282}{}{Who the hell are you guys?}
+{282}{}{你们到底是谁？}
+#{283}{}{Where am I? }
+{283}{}{我在那里? }
+#{284}{}{How can I get some of that sweet armor?}
+{284}{}{你身上这套护甲很酷，我在那里能找到一套?}
+#{285}{}{I've heard enough.}
+{285}{}{我已经听够了。}
+
+#{290}{}{Because you ARE. Sure, you might look kinda human, but don't let that fool you. You're still a mutant. You and
+ everyone else on the mainland. All tainted. Next question?}
+{290}{}{因为你是。当然，你看起来有点象人，但你和大陆上的其他人一样。都受到了辐射的污染。下一个问题？ }
+#{300}{}{We're the Enclave--the last bastion of true humanity on this damn planet. We're the only ones still upholding
+ the honor of the ol' red, white, and blue. That's right, we're true patriots. We eat bald eagles and shit stars and
+ stripes. We're all that's left of the great United States of America. But we're enough. Oh, yeah, we're enough to set
+ things right. You can count on that, mutie. Next question?}
+{300}{}{我们的基地是——纯种人类在这个该死的星球上的最后一个堡垒。我们是真正的爱国者。我们崇敬白头鹰，我们仍然坚持着红色，白色和蓝色星条旗下的荣誉。尽管伟大的美利坚合众国已经不存在了。但我们仍然在做足够正确的事情。下一个问题？}
+#{310}{}{This here's Navarro, our secret mainland base. We're sitting right on the coast of California and the pacific
+ ocean. Next question?}
+{310}{}{这是纳瓦罗，我们秘密的大陆基地。我们坐在加利福尼亚和太平洋的海岸边。下一个问题？}
+#{320}{}{By prying it off my dead body. Good luck with that, mutie. Next question?}
+{320}{}{从我死掉的尸体上撬下来，下一个问题？ }
+
+#{330}{}{Good, 'cause I'm damn tired of wasting my breath on a mutant. In fact, this whole things a waste of my time,
+ because I don't give a flying fuck what you've got to say to me. Guards! Kill this mutie!}
+{330}{}{很好，因为我厌倦了在一个变种人身上浪费我的呼吸。事实上，这件事浪费了我的时间，我也不打算给你他妈的机会再对我说什么。警卫!干掉这个家伙！}

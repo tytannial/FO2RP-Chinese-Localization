@@ -1,0 +1,58 @@
+# Player uses a skill on the door
+# Unlock Door
+{170}{}{你随便的尝试着打开锁柜上的锁。}
+{171}{}{你三流的技术把那个锁给卡住了。}
+{172}{}{你开锁失败了。}
+
+# Unlock Door
+{173}{}{随便的尝试着打开锁柜上的锁。}
+{174}{}{三流的技术把那个锁给卡住了。}
+{175}{}{开锁失败了。}
+
+# Player uses an item on the door
+{176}{}{你把门上的锁给撞开了。}
+{177}{}{你尝试把所用蛮力打开，但是你伤到了你的背。你失去了一点生命。}
+
+# The following set of lines is to be translated as:
+# You strain your back while trying to bust the lock and
+# take [x] points of damage.
+
+{178}{}{你闪到了你的腰，遭到了}
+{179}{}{点伤害。}
+{180}{}{你力量不够，无法将锁打开。}
+
+# NPC uses an item on the door
+# The following lines are prepended by the NPC's name
+{181}{}{把所给撞开了。}
+{182}{}{尝试把所用蛮力打开，但是伤到了背。失去了一点生命。}
+
+# The following line set of lines is to be translated as:
+# NPC strains his back while trying to bust the lock and
+# takes [x] points of damage
+
+{183}{}{在撞锁的时候闪到了腰，受到了}
+{184}{}{点的生命值。}
+
+{185}{}{力量不够，无法把锁撞开。}
+{186}{}{尝试把所用蛮力打开，但是伤到了背。失去了一点生命。}
+
+# The following line set of lines is to be translated as:
+# NPC strains her back while trying to bust the lock and
+# takes [x] points of damage
+
+{187}{}{撞锁时闪到了腰，遭到了}
+{188}{}{点伤害。}
+
+# Lock Door
+{189}{}{你把锁锁上了。}
+{190}{}{你无法把锁锁上。}
+
+# Lock Door
+{191}{}{把锁锁上了。}
+{192}{}{无法把锁锁上。}
+
+{203}{}{锁柜看起来是锁上的。}
+
+{800}{}{你得到了ＦＯＢ。}
+{810}{}{你得到了设计图。}
+{820}{}{你得到了Ｋ－９的移动器。}
