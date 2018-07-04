@@ -55,7 +55,7 @@
 
 #dumb dialgoue
 # {800}{}{Li-ter? I have fire maker. It burn me many times. (You hold up a lighter.)}
-{800}{}{火-机？我有火神。他烧我好多次了。（你举起一个打火机。）}
+{800}{}{火-机？我有火神。他烧我好多次了。(你举起一个打火机。)}
 
 # {810}{}{Yeah, that's what I need. Will you give it to me?}
 {810}{}{对，就是我想要的。可以给我吗？}

@@ -24,38 +24,38 @@
 {142}{}{一种电脑网络？让我试试看我能不能够进入。}
 {143}{}{[离线]}
 
-{150}{}{ＡＳＤＦＦＡＳ？现在启动ＷＩＮ２１，请等一下。指令不可识别。开始清除硬碟。}
+{150}{}{ASDFFAS？现在启动WIN21，请等一下。指令不可识别。开始清除硬碟。}
 {151}{}{什么？}
-{152}{}{ＡＳＤＦＦＡＳ？}
+{152}{}{ASDFFAS？}
 
-{160}{}{反应炉维修机器人准备开始初始化工作．．功能密码？：}
+{160}{}{反应炉维修机器人准备开始初始化工作..功能密码？：}
 {161}{}{功能？}
 {162}{}{工作？}
-{163}{}{３５Ｃ７６８６３}
-{164}{}{Ａ１５４６７６１}
-{165}{}{５Ｂ５７６００５}
+{163}{}{35C76863}
+{164}{}{A1546761}
+{165}{}{5B576005}
 {166}{}{[离线]}
 
 {170}{}{第一功能密码接受。输入第二功能密码。}
 {171}{}{重新设定。}
 {172}{}{功能？}
 {173}{}{行动？}
-{174}{}{３５Ｃ７６８６３}
-{175}{}{Ａ１５４６７６１}
-{176}{}{５Ｂ５７６００５}
+{174}{}{35C76863}
+{175}{}{A1546761}
+{176}{}{5B576005}
 {177}{}{[离线]}
 
 {180}{}{第二功能密码接受。请输入第三功能密码。}
 {181}{}{重新设定。}
 {182}{}{功能？}
 {183}{}{行动？}
-{184}{}{３５Ｃ７６８６３}
-{185}{}{Ａ１５４６７６１}
-{186}{}{５Ｂ５７６００５}
+{184}{}{35C76863}
+{185}{}{A1546761}
+{186}{}{5B576005}
 {187}{}{[离线]}
 
-{190}{}{第三功能密码接受。反应炉和机器整修机器人开机中．．请输入工作程序？：}
-{191}{}{反应炉和机器整修机器人开机中．．请输入工作程序？：}
+{190}{}{第三功能密码接受。反应炉和机器整修机器人开机中..请输入工作程序？：}
+{191}{}{反应炉和机器整修机器人开机中..请输入工作程序？：}
 {192}{}{启动普通保养程序。}
 {193}{}{启动冷却器保养程序。}
 {194}{}{启动清洁程序。}
@@ -67,23 +67,23 @@
 {202}{}{回上一页。}
 {203}{}{[离线]}
 
-{210}{}{搜索中．．服务程序不在本机上面。}
+{210}{}{搜索中..服务程序不在本机上面。}
 {211}{}{回上一页。}
 {212}{}{下载。}
 {213}{}{[离线]}
 
-{220}{}{开始和波塞冬网络联接。请输入第一安全密码：７０Ｙ６４４，００８Ｚ２１，９Ｘ７２９９，Ａ４６１２３。}
-{221}{}{７０Ｙ６４４}
-{222}{}{００８Ｚ２１}
-{223}{}{９Ｘ７２９９}
-{224}{}{Ａ４６１２３。}
+{220}{}{开始和波塞冬网络联接。请输入第一安全密码：70Y644，008Z21，9X7299，A46123。}
+{221}{}{70Y644}
+{222}{}{008Z21}
+{223}{}{9X7299}
+{224}{}{A46123。}
 {225}{}{[离线]}
 
 {230}{}{冷却系统保养程序已启动。准备移动至主要冷媒保存室。}
 {231}{}{这还真是简单啊。}
 {232}{}{[离线]}
 
-{240}{}{修理工作开始，寻找中．．需要电磁控制器。准备开始移动至主要冷媒库。启动，主要冷媒正往主要冷媒库流动。请安装零件。}
+{240}{}{修理工作开始，寻找中..需要电磁控制器。准备开始移动至主要冷媒库。启动，主要冷媒正往主要冷媒库流动。请安装零件。}
 {241}{}{噢，我想他大概是讲这个吧。}
 {242}{}{我没有它需要的零件。}
 {243}{}{[离线]}
@@ -102,18 +102,18 @@
 {307}{}{那听起来很糟。}
 {308}{}{[离线]}
 
-{310}{}{请输入第二安全密码：７０Ｙ６４４，００８Ｚ２１，９Ｘ７２９９，Ａ４６１２３。}
-{311}{}{７０Ｙ６４４}
-{312}{}{００８Ｚ２１}
-{313}{}{９Ｘ７２９９}
-{314}{}{Ａ４６１２３}
+{310}{}{请输入第二安全密码：70Y644，008Z21，9X7299，A46123。}
+{311}{}{70Y644}
+{312}{}{008Z21}
+{313}{}{9X7299}
+{314}{}{A46123}
 {315}{}{[离线]}
 
-{320}{}{请输入第三安全密码：７０Ｙ６４４，００８Ｚ２１，９Ｘ７２９９，Ａ４６１２３。}
-{321}{}{７０Ｙ６４４}
-{322}{}{００８Ｚ２１}
-{323}{}{９Ｘ７２９９}
-{324}{}{Ａ４６１２３}
+{320}{}{请输入第三安全密码：70Y644，008Z21，9X7299，A46123。}
+{321}{}{70Y644}
+{322}{}{008Z21}
+{323}{}{9X7299}
+{324}{}{A46123}
 {325}{}{[离线]}
 
 {330}{}{安全密码正确。欢迎来到波塞冬网络：}
@@ -121,28 +121,28 @@
 {332}{}{显示其它终端机}
 {333}{}{[离线]}
 
-{340}{}{寻找中．．维修机器人程序不存在。}
+{340}{}{寻找中..维修机器人程序不存在。}
 {341}{}{嗯，看来它并不在这里。}
 {342}{}{终端机列表。}
 {343}{}{[离线]}
 
-{350}{}{寻找网络上的芳邻．．铁矿山－已离线．．科罗拉多军事基地－已离线．．卫星基地－已离线。寻找波塞冬网络．．－更多？－}
+{350}{}{寻找网络上的芳邻..铁矿山-已离线..科罗拉多军事基地-已离线..卫星基地-已离线。寻找波塞冬网络..-更多？-}
 {351}{}{下载维修机器人程序}
 {352}{}{[更多]}
 {353}{}{[离线]}
 
-{360}{}{开始波塞冬网络站台：原子能发电机＃５，那瓦罗收购站，英克雷军控制台，英克雷基地－研究控制．．无法进入。}
+{360}{}{开始波塞冬网络站台：原子能发电机#5，那瓦罗收购站，英克雷军控制台，英克雷基地-研究控制..无法进入。}
 {361}{}{有灯亮着，但是里面没有人。}
 {362}{}{所有的东西都关掉了，除了英克雷军之外，为什么呢？}
 {363}{}{几乎所有的东西不是关起来了就是无法进入。}
 
-{370}{}{连线中．．无法进入英克雷军网络。}
-{371}{}{连线中．．仍然无法进入英克雷军网络。}
-{372}{}{连线中．．一样的结果，仍然无法进入英克雷军网络。}
-{373}{}{连线中．．你很烦啊，仍然无法进入英克雷军网络。}
-{374}{}{连线中．．你没有其它的事好做吗？仍然无法进入英克雷军网络。}
+{370}{}{连线中..无法进入英克雷军网络。}
+{371}{}{连线中..仍然无法进入英克雷军网络。}
+{372}{}{连线中..一样的结果，仍然无法进入英克雷军网络。}
+{373}{}{连线中..你很烦啊，仍然无法进入英克雷军网络。}
+{374}{}{连线中..你没有其它的事好做吗？仍然无法进入英克雷军网络。}
 {375}{}{烦死了，如果你再试一次，我就给你颜色看看。}
-{376}{}{别说我没警告你。（有股电流从键盘流过你手上面。）}
+{376}{}{别说我没警告你。(有股电流从键盘流过你手上面。)}
 {377}{}{我再试一次吧？}
 {378}{}{真是的，不过，我应该要把反应炉和机器整修机器人给修好？}
 {379}{}{操，我的连线被切断了。}
@@ -151,7 +151,7 @@
 {381}{}{启动冷却系统保养。}
 {382}{}{[离线]}
 
-{390}{}{电磁控制器已接受．．要继续吗？}
+{390}{}{电磁控制器已接受..要继续吗？}
 {391}{}{是。}
 {392}{}{[离线]}
 
@@ -159,13 +159,13 @@
 {401}{}{那好吧，让我试试。}
 {402}{}{这真不好。我得要离线。}
 
-{410}{}{反应炉和机器整修机器人已启动。检查移动系统．．ＯＫ。检查内部调节．．ＯＫ。逻辑电路．．失败。}
+{410}{}{反应炉和机器整修机器人已启动。检查移动系统..OK。检查内部调节..OK。逻辑电路..失败。}
 {411}{}{逻辑线路失败。这是什么意思？}
 {412}{}{真是的，让我离开这里吧。}
 
 {420}{}{工作地点太远，不能识别地点。建议方法：将机器人移动至工作地点附近。}
 {421}{}{我如果不输入正确的工作程序，会怎样呢？}
-{422}{}{这电脑真可恨．．我要走了。}
+{422}{}{这电脑真可恨..我要走了。}
 
 {430}{}{如果电脑程序有问题，机组将会自动的回到储存槽。}
 {431}{}{那我知道了。不过，逻辑电路失败是什么意思。}
@@ -187,32 +187,32 @@
 {463}{}{[离线]}
 
 {470}{}{主要冷却闸门就在反应炉核心的东墙上。闸门是被一个大红轮盘所控制。}
-{471}{}{那应该不难找－只要那红漆不要掉了的话。}
+{471}{}{那应该不难找-只要那红漆不要掉了的话。}
 {472}{}{我想我应该开始了。}
 {473}{}{[离线]}
 
 {480}{}{手动控制反应炉和机器整修机器人的方法：移动需要输入命令：左，右，前，然后最后要按下执行命令。}
 {482}{}{显示以前命令。命令？：MoveVar1}
-{484}{}{５％热量。显示以前命令。命令？：MoveVar1, MoveVar2}
-{486}{}{１０％热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3}
-{488}{}{１５％热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4}
-{490}{}{２０％热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5}
-{492}{}{２５％热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6}
-{494}{}{３０％热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7}
-{496}{}{３５％热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8}
-{498}{}{４０％热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9}
-{500}{}{４５％热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10}
-{502}{}{５０％热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11}
-{504}{}{５５％热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12}
+{484}{}{5%热量。显示以前命令。命令？：MoveVar1, MoveVar2}
+{486}{}{10%热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3}
+{488}{}{15%热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4}
+{490}{}{20%热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5}
+{492}{}{25%热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6}
+{494}{}{30%热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7}
+{496}{}{35%热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8}
+{498}{}{40%热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9}
+{500}{}{45%热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10}
+{502}{}{50%热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11}
+{504}{}{55%热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12}
 
-{506}{}{６０％热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13}
-{508}{}{６５％热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14}
-{510}{}{７０％热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15}
-{512}{}{７５％热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16}
-{514}{}{８０％热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17}
-{516}{}{８５％热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18}
-{518}{}{９０％热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19}
-{520}{}{９５％热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19, MoveVar20}
+{506}{}{60%热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13}
+{508}{}{65%热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14}
+{510}{}{70%热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15}
+{512}{}{75%热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16}
+{514}{}{80%热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17}
+{516}{}{85%热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18}
+{518}{}{90%热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19}
+{520}{}{95%热量。显示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19, MoveVar20}
 {522}{}{转左}
 {524}{}{转右}
 {526}{}{走前}

@@ -135,7 +135,7 @@
 #{273}{}{Retrieve seeds.}
 
 {270}{}{储藏罐1显示有5包来自美国粮食增产项目的样本种子。种子大多是玉米和小麦的改良品种，可以有效免疫病虫害。}
-{271}{}{储藏罐2显示有2包来自中国农业科学院最新成果“BN13号”超级杂交水稻的基因改良版种子样本，特点是超高产，免疫各种病虫害，适应各种气候。哇塞．．．}
+{271}{}{储藏罐2显示有2包来自中国农业科学院最新成果“BN13号”超级杂交水稻的基因改良版种子样本，特点是超高产，免疫各种病虫害，适应各种气候。哇塞...}
 {273}{}{取出种子。}
 
 #{280}{}{Collecting seed samples...Successfully collected 5 packets of genetically modified corn seeds. Depositing packets to collection container...Success...

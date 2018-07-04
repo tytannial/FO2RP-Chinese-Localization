@@ -22,10 +22,10 @@
 {116}{}{英克雷军会统治世界的！}
 {117}{}{你会死的！}
 
-{200}{}{．．混帐．．}
-{201}{}{．．是啊，你们最好快逃．．}
-{202}{}{．．你这混蛋．．}
-{203}{}{．．是的！干！．．}
+{200}{}{..混帐..}
+{201}{}{..是啊，你们最好快逃..}
+{202}{}{..你这混蛋..}
+{203}{}{..是的！干！..}
 
 #ipisgfx译
 #{300}{}{Hold on there. What do you think you are doing with that aircraft? There are no scheduled flights for several days.}

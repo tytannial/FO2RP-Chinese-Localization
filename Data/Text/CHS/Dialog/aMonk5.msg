@@ -106,7 +106,7 @@
 {600}{}{abbot允许我访问这里的电脑。 }
 
 #{601}{}{Ah yes, I heard about what you did. Thanks for taking care of that situation. Here is the access key. [He hands you the key.] Enjoy!}
-{601}{}{是的，我已经听说你为我们所做的事情了。真是太感谢了。这里是通行键。（他把钥匙递给你）好好享受吧！}
+{601}{}{是的，我已经听说你为我们所做的事情了。真是太感谢了。这里是通行键。(他把钥匙递给你)好好享受吧！}
 
 #{602}{}{Thanks. See you around.}
 {602}{}{再见，回头见}
