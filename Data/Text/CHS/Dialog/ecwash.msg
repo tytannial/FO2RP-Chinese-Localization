@@ -106,10 +106,10 @@
 {442}{}{不要脸！}
 
 # 10 Killer Bee Personal Floats
-{445}{}{他要送你去哪哩。}
+{445}{}{他要送你去哪里。}
 
 # 11 Hatchetman Personal Floats
-{450}{}{枪！枪！在哪哩？}
+{450}{}{枪！枪！在哪里？}
 {451}{}{我疯了。}
 
 # 12 BlueCross Personal Floats - None
