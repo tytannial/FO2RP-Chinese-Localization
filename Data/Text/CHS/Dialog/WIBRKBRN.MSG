@@ -3,5 +3,5 @@
 {102}{}{你将脑部连接到了接收器上面的界面。}
 {103}{}{生体细胞液储存槽满了。}
 #added by killap
-{104}{}{Look's all set to be activated.}
+#{104}{}{Look's all set to be activated.}
 {104}{}{看来，一切都准备好了。}

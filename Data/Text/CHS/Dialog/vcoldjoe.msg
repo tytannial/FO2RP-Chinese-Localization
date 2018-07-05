@@ -178,5 +178,5 @@
 {208}{}{谢谢你的故事，乔，呃，伊恩。不过，我很好奇那些守卫着村子的地鼠。}
 
 
-{300}{}{Wait a minute! Are you the contact in Vault City that Connar was talking about?}
+#{300}{}{Wait a minute! Are you the contact in Vault City that Connar was talking about?}
 {300}{}{等等！你是康尔说的地下掩体市的联系人吗？}

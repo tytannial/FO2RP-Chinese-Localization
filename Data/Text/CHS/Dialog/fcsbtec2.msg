@@ -9,9 +9,6 @@
 #{150}{}{Uh, what are you doing, sneaking around like that?}
 #{151}{}{Are you some kind of spy?}
 
-{150}{}{Uh, what are you doing, sneaking around like that?}
-{151}{}{Are you some kind of spy?}
-
 {150}{}{你偷偷摸摸地想做什么？}
 {151}{}{你是间谍吗?}
 

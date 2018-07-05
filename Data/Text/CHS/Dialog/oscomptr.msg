@@ -101,7 +101,7 @@
 {250}{}{欢迎来到13号避难所，这是由你的承包商Vault-Tec的一系列公共防御工程中最新的一个。是至今为止最好的避难所，美国家庭的最终代名词。}
 #{251}{}{[更多]}
 {251}{}{[更多]}
-{252}{}{The Vault series of survival shelters are designed from the ground up to provide the best chance for a good life
+#{252}{}{The Vault series of survival shelters are designed from the ground up to provide the best chance for a good life
  following nuclear armageddon. It is the duty of every American citizen to learn and use the skills necessary for a comfortable Vault life. The best place to start is with a description of your new home.}
 {252}{}{避难所系列产品的是设计目的是在世界核末日后提供庇护，并在重返地面之前提供最好的生活。每个美国公民都有义务学习避难所生活所必需的技能，以便在最适合开始的地方重建你舒适的新家。}
 #{253}{}{[更多]}

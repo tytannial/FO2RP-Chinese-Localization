@@ -35,14 +35,14 @@
 
 
 
-{112}{}{There's gotta be something that can be done about this¡£ Can you think of any adults in this town that'd be willing to
+#{112}{}{There's gotta be something that can be done about this¡£ Can you think of any adults in this town that'd be willing to
  look after you -- or any of these homeless kids£¿}
-{113}{}{[Bobby shrugs¡£] Maybe Mom£¿ I don't mean *my* mom -- my mom's dead -- but there's a lady that people call Mom¡£ I dunno why¡£
+#{113}{}{[Bobby shrugs¡£] Maybe Mom£¿ I don't mean *my* mom -- my mom's dead -- but there's a lady that people call Mom¡£ I dunno why¡£
  Maybe 'cause she's really nice£¿ She's got a diner on the other side of town¡£ [He points to the Northeast¡£] My homeless friends go
  there and she sneaks them free food¡£ I wish Dad would take me there£¬ 'cause she knows how to make rat taste really yummy£¡}
-{114}{}{Hmm£¬ I *am* feeling a bit hungry¡£ Perhaps I'll go pay Mom a visit¡£ You take care of yourself£¬ Bobby¡£}
-{115}{}{You're such a little brat¡£ I better leave now before I kick the shit outta you¡£ Bye¡£}
-{116}{}{Guess what£¬ Bobby£¿ I spoke with Mom£¬ and she's going to be opening up a nice big new home where you and all your
+#{114}{}{Hmm£¬ I *am* feeling a bit hungry¡£ Perhaps I'll go pay Mom a visit¡£ You take care of yourself£¬ Bobby¡£}
+#{115}{}{You're such a little brat¡£ I better leave now before I kick the shit outta you¡£ Bye¡£}
+#{116}{}{Guess what£¬ Bobby£¿ I spoke with Mom£¬ and she's going to be opening up a nice big new home where you and all your
  homeless friends are welcome to go live together¡£ It's going to be in the big building that's right across the street from here¡£
  She said she'll have it all set up in a couple days¡£}
  
