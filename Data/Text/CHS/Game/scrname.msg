@@ -187,7 +187,7 @@
 {269}{}{电梯}                       # ZSElev02.int    ; Generic Elevator
 {270}{}{上锁的盒子}                        # DITubBox.int    ; Tubby's box of inventory
 {271}{}{上锁的盒子}                        # DIFlkBox.int    ; Flick's box of inventory
-{272}{}{Tandi}                          # SHTandi.int     ; Tandi the talking head in the NCR2 area
+{272}{}{坦蒂}                          # SHTandi.int     ; Tandi the talking head in the NCR2 area
 {273}{}{刺针陷阱}                     # ATSrTrp0.int    ; Arroyo Spear Trap for Caves (50)
 {274}{}{刺针陷阱}                     # ATSrTrp1.int    ; Arroyo Spear Trap for Caves (50)
 {275}{}{刺针陷阱}                     # ATSrTrp2.int    ; Arroyo Spear Trap for Caves (50)
@@ -429,7 +429,7 @@
 {511}{}{赌场侍女}                    # niDceGrl.int    ; New Reno Casino Girl with Dice Game
 {512}{}{魔幻的八号球}               # zi8Ball.int     ; EPA Magic 8 Ball
 {513}{}{双头牛}                        # ncAngBra.int    ; New Reno Angry Brahmin
-{514}{}{吃角子老虎}                   # niMcGSlt.int    ; New Reno McGee's Slot Machine
+{514}{}{吃角子老虎机}                   # niMcGSlt.int    ; New Reno McGee's Slot Machine
 {515}{}{老人麦可基}                  # ncMcGee.int     ; New Reno Old Man (Bobby) McGee
 {516}{}{三张牌定胜负}               # nc3Monte.int    ; New Reno Three Card Monte
 {517}{}{阿尔基南}                       # ncAlgern.int    ; New Reno Algernon
@@ -720,13 +720,13 @@
 {802}{}{约瑟}                         # ECJoshua.int    ; Joshua Robin's minstrel
 {803}{}{拉德}                         # miLadder.int    ; Modoc Shitter Ladder
 {804}{}{大头}                       # ecBHead.int     ; Big Head special encounter
-{805}{}{黑色英雄}                     # ecBlkHro.int    ; Black Hero model
-{806}{}{红色女英雄}                    # ecRedHro.int    ; Red Heroine model
+{805}{}{黑人英雄}                     # ecBlkHro.int    ; Black Hero model
+{806}{}{红发女英雄}                    # ecRedHro.int    ; Red Heroine model
 {807}{}{背景}                            # ecSet.int       ; Set in Cafe of Broken Dreams
 {808}{}{坦蒂}                          # ecTandi.int     ; Tandi in Cafe of " "
-{809}{}{白色英雄}                     # ecWhro1.int     ; White Hero Model 1 " " "
-{810}{}{白色英雄}                     # ecWhro2.int     ; White Hero Model 2 " " "
-{811}{}{白色女英雄}                  # ecWheon1.int    ; White Heroine Model 1
+{809}{}{白人英雄}                     # ecWhro1.int     ; White Hero Model 1 " " "
+{810}{}{白人英雄}                     # ecWhro2.int     ; White Hero Model 2 " " "
+{811}{}{白人女英雄}                  # ecWheon1.int    ; White Heroine Model 1
 {812}{}{箱子}                            # NiJulBox.int    ; New Reno Jules Shop Inventory Box
 {813}{}{箱子}                            # niEldBox.int    ; New Reno Eldridge Shop Box
 {814}{}{箱子}                            # niEldBx2.int    ; New Reno Eldridge Shop Box (For Made Men)
@@ -749,7 +749,7 @@
 {831}{}{地图}                     # RndBridg.int    ; Random Bridge encounter
 {832}{}{神秘的陌生人}            # ECMstStr.int    ; Mysterious Stranger
 {833}{}{疯牛}                    # ECgcwbmb.int    ; Generic Cow bomb
-{834}{}{日本憋三成员}                  # ECYakuza.int    ; Random Encounter Yakuza
+{834}{}{日本黑帮成员}                  # ECYakuza.int    ; Random Encounter Yakuza
 {835}{}{怀尔得}                         # ECWilder.int    ; Random Encounter Wilder
 {836}{}{狗}                            # ncWriDog.int    ; New Reno Wright Dog
 {837}{}{箱子}                            # niRamBox.int    ; New Reno Box to be delivered to Ramirez
@@ -821,7 +821,7 @@
 {903}{}{理察森总统}           # qhPrzRch.int    ; Enclave President Richardson talking head.
 {904}{}{豪卫慈}                       # WIHowitz.int    ; Howitzer in the Sierra Base
 {905}{}{门}                           # WIEntDor.int    ; Entrance to Sierra Base Door
-{906}{}{死亡爪幼虫}                 # OCBabDth.int    ; Baby Deathclaws in Vault 13
+{906}{}{死亡爪幼体}                 # OCBabDth.int    ; Baby Deathclaws in Vault 13
 {907}{}{危险 丹}                  # RCMcGrew.int    ; Dangerous Dan McGrew from redding
 {908}{}{强森}                    # RCDrJohn.int    ; Painless Doc Johnson (breaks Jet)
 {909}{}{马力安警长}                 # RCMarion.int    ; Sheriff Earl Marion
@@ -863,7 +863,7 @@
 {945}{}{通风口}              # VIShft2b.int    ; Vault City Ventilation Shaft 2B
 {946}{}{查理}                        # VCCharli.int    ; Vault City Puking Charlie
 {947}{}{冷却器控制界面}          # GSValve.int     ; Gecko Coolant Control Panel
-{948}{}{牛粪}                            # ziBraPoo.int    ; Generic BRAHMIN SHIT!!! YES YES YES
+{948}{}{双头牛粪}                            # ziBraPoo.int    ; Generic BRAHMIN SHIT!!! YES YES YES
 {949}{}{葛兰}                          # scWesGrd.int    ; Westin's Force Field Guard
 {950}{}{发射器}                        # SSEmiWes.int    ; Westin's Force Field Emitter
 {951}{}{发射器}                        # SSEmiWe1.int    ; Westin's force field on the other map.
@@ -1117,16 +1117,16 @@
 {1199}{}{警报器}                        # QIKlaxon.int    ; Klaxon Lights for Enclave when under alert
 {1200}{}{矿坑}                          # IIMine.int      ; Mines in Raiders Cave
 {1201}{}{洞穴}                           # IIPit.int       ; Pits in the Raiders Cave
-{1202}{}{油舰商人}               # FCTnkGmr.int    ; Tanker Gun Merchant San Fran
-{1203}{}{油舰酒保}              # FCTnkBar.int    ; Tanker Bar Tender
-{1204}{}{油舰商人}               # FCTnkMer.int    ; Tanker Merchant
+{1202}{}{油轮商人}               # FCTnkGmr.int    ; Tanker Gun Merchant San Fran
+{1203}{}{油轮酒保}              # FCTnkBar.int    ; Tanker Bar Tender
+{1204}{}{油轮商人}               # FCTnkMer.int    ; Tanker Merchant
 {1205}{}{}                              # FITGunTb.int    ; Tanker Gun Mer's table
 {1206}{}{}                              # FITMerTb.int    ; Tanker Merchant's Table
 {1207}{}{发射器}                       # FSPemtr1.int    ; Palace Emitter 1
 {1208}{}{发射器}                       # FSPemtr2.int    ; Palace Emitter 2
 {1209}{}{发射器}                       # FSPemtr3.int    ; Palace Emitter 3
 {1210}{}{发射器}                       # FSEmpEmt.int    ; Emporor Computer's Force Field
-{1211}{}{异尘余生2攻略本}            # niF2Hint.int    ; New Reno Fallout 2 Hintbook
+{1211}{}{辐射2攻略本}            # niF2Hint.int    ; New Reno Fallout 2 Hintbook
 {1212}{}{}                              # csTouch.int     ; Script to signal if dude touches container objects (in Navarro)
 {1213}{}{}                              # csArea.int      ; Script to signal if dude enters an area (in Navarro)
 {1214}{}{士兵}                         # RCAscGrd.int    ; Generic Guard for Ascorti's Bar
@@ -1209,7 +1209,7 @@
 {1291}{}{米奇}                         # hcMicky.int     ; Mickey the Dwarf - Broken Hills
 {1292}{}{炮台}                        # WCTurret.int    ; Turret for Sierra Depot
 {1293}{}{老僵尸}                     # hcOldGhl.int    ; Ghouls in Old-Folks Home - Broken Hills
-{1294}{}{追从者}                      # hcHench.int     ; Broken Hills Outfitter Henchmen
+{1294}{}{追随者}                      # hcHench.int     ; Broken Hills Outfitter Henchmen
 {1295}{}{艾尔摩}                          # hcElmo.int      ; Elmo - Broken Hills
 {1296}{}{厕所}                        # niToilet.int    ; Toilet - Contains Grenades - New Reno
 {1297}{}{十字架}                         # niCross.int     ; Cross - Golgotha - Buried Cash
@@ -1282,7 +1282,7 @@
 {1364}{}{伟大的安安妮斯}             # dcAnan.int      ; The Great Ananias, Mummy Master
 {1365}{}{地图}                    # RndUVilg.int    ; Unwashed Villager map
 {1366}{}{无知村民}             # ECWash.int      ; Unwashed Villagers... Ug You figure out where they go.
-{1367}{}{Spammer}                       # ECSpammr.int    ; Spammer in Unwashed Encounter
+{1367}{}{垃圾信息散布者}                       # ECSpammr.int    ; Spammer in Unwashed Encounter
 {1368}{}{Map}                           # eiSanMap.int    ; Military Base San Francisco Map
 {1369}{}{地图}                    # RndShutl.int    ; Random Shuttle Map
 {1370}{}{地图}                    # rndParih.int    ; Random Pariah Map Script
@@ -1345,39 +1345,39 @@
 {1427}{}{抽水机}                # abpump.int      ; Dave's Door
 {1428}{}{塞约尔}            # absamuel.int    ; Dave's Door
 {1429}{}{修道院市民}             # abstand.int     ; Dave's Door
-{1430}{}{托马斯}            # abthomas.int    ; Dave's Door
-{1431}{}{汤姆}                       # abtom.int       ; Dave's Door
-{1432}{}{Abbey computer}            # acompu.int      ; Dave's Door
-{1433}{}{Abbey Head Monk}           # ahmonk.int      ; Dave's Door
-{1434}{}{Abbey monk}                # amonk1.int      ; Dave's Door
-{1435}{}{Abbey monk}                # amonk2.int      ; Dave's Door
-{1436}{}{Abbey monk}                # amonk3.int      ; Dave's Door
-{1437}{}{Abbey monk}                # amonk4.int      ; Dave's Door
-{1438}{}{Brother Paul}              # amonk5.int      ; Dave's Door
-{1439}{}{Tribal}                    # atribal.int     ; Dave's Door
-{1440}{}{Brother Matthew}              # abmatt.int      ; Abbey Matthew
+{1430}{}{托马斯修士}            # abthomas.int    ; Dave's Door
+{1431}{}{汤姆修士}                       # abtom.int       ; Dave's Door
+{1432}{}{阿比修道院电脑}            # acompu.int      ; Dave's Door
+{1433}{}{阿比修道院首席修士}           # ahmonk.int      ; Dave's Door
+{1434}{}{阿比修道院修士}                  # amonk1.int      ; Dave's Door
+{1435}{}{阿比修道院修士}                  # amonk2.int      ; Dave's Door
+{1436}{}{阿比修道院修士}                  # amonk3.int      ; Dave's Door
+{1437}{}{阿比修道院修士}                  # amonk4.int      ; Dave's Door
+{1438}{}{保罗修士}              # amonk5.int      ; Dave's Door
+{1439}{}{部落人}                    # atribal.int     ; Dave's Door
+{1440}{}{马修修士}              # abmatt.int      ; Abbey Matthew
 {1441}{}{map}                           # vill.int      ; Vault Village map script
-{1442}{}{Mole Rat}                      # zclvillrat.int      ; Vault Village Monster
-{1443}{}{Ann}                           # vilann.int      ; Ann in Village
-{1444}{}{Head Warrior}                  # tribec1.int     ; script for head warrior
-{1445}{}{Marli}                         # tribec2.int     ; Script for Marli at well in tribe
-{1446}{}{Villagers}                     # tribec3.int     ; script for random people in tribe
-{1447}{}{Shaman}                        # tribec4.int     ; script for tribe shaman
-{1448}{}{Ghost}                         # tribec5.int     ; script for ghost in tribe
-{1449}{}{Tribal}                        # tribec6.int     ; man outside tent for sulik's sister.
-{1450}{}{Kurisu}                        # tribec7.int     ; sulik's sister script
+{1442}{}{鼹鼠}                      # zclvillrat.int      ; Vault Village Monster
+{1443}{}{安}                           # vilann.int      ; Ann in Village
+{1444}{}{首席战士}                  # tribec1.int     ; script for head warrior
+{1445}{}{马里}                         # tribec2.int     ; Script for Marli at well in tribe
+{1446}{}{村民}                     # tribec3.int     ; script for random people in tribe
+{1447}{}{萨满}                        # tribec4.int     ; script for tribe shaman
+{1448}{}{幽灵}                         # tribec5.int     ; script for ghost in tribe
+{1449}{}{部落人}                        # tribec6.int     ; man outside tent for sulik's sister.
+{1450}{}{克莉苏}                        # tribec7.int     ; sulik's sister script
 {1451}{}{水井}                          # tribei1.int     ; script for well in tribe
 {1452}{}{Tribe map}                     # tribem1.int     ; map script for tribe
-{1453}{}{Tribal}                        # tribec8.int     ; tribal fishermen/women
-{1454}{}{Serin}                         # tribec9.int     ; Missing Tribal (Serin)
+{1453}{}{部落人}                        # tribec8.int     ; tribal fishermen/women
+{1454}{}{瑟里}                         # tribec9.int     ; Missing Tribal (Serin)
 {1455}{}{Tribe map2}                    # tribem2.int     ; Primitive Tribe Map 2
 {1456}{}{Tribe map 2 - spacial 1}       # tribesp1.int    ; cave entrance spacial
 {1457}{}{Tribe map 2 - spacial 2}       # tribesp2.int    ; cavein spacial
-{1458}{}{Gecko}                         # tribec10.int    ; Gecko in Tribe Cave
-{1459}{}{Cave Guard}                    # tribec11.int    ; Tribal guarding entrance to cave
+{1458}{}{蜥蜴}                         # tribec10.int    ; Gecko in Tribe Cave
+{1459}{}{洞穴守卫}                    # tribec11.int    ; Tribal guarding entrance to cave
 {1460}{}{尸体}                              # tribec5a.int    ; Karla's dead body
 {1461}{}{woods spacial}                 # tribesp3.int    ; spacial to trigger seeing the ghost
-{1462}{}{Don}                           # slvcc1.int      ; Head of Slaver Camp
+{1462}{}{冬}                           # slvcc1.int      ; Head of Slaver Camp
 {1463}{}{奴隶商人}                        # slvcc2.int      ; Guards at Slaver Camp
 {1464}{}{地图}                    # slvcm1.int      ; Map Script to Slaver's Camp
 {1465}{}{狗}                           # slvcc3.int      ; guard dog on Slaver Map
@@ -1386,77 +1386,77 @@
 {1468}{}{slavepen door}                 # slvco1.int      ; script to locked slavepen door
 {1469}{}{Shelf}                         # hicdshlf.int    ; Chad's Shelf in BH map 2
 {1470}{}{门}                          # hichaddr.int    ; Door to Chad's house in BH 2
-{1471}{}{Little Johnny}                 # dcliljny.int    ; Abused boy in Den Residential
-{1472}{}{Little Johnny's Father}        # dcljfthr.int    ; Drunken Father of Johnny
+{1471}{}{小约翰}                 # dcliljny.int    ; Abused boy in Den Residential
+{1472}{}{小约翰的父亲}        # dcljfthr.int    ; Drunken Father of Johnny
 {1473}{}{流浪汉}                      # dcaddct2.int    ; Addicts who live in building which will become the orphanage
-{1474}{}{Drug Dealer}                   # dcdealer.int    ; Dealer/Body guard in Den Residential
-{1475}{}{Den Resident}                  # dcpeasnt.int    ; Citizen of Den Residential
+{1474}{}{毒贩}                   # dcdealer.int    ; Dealer/Body guard in Den Residential
+{1475}{}{丹恩居住区}                  # dcpeasnt.int    ; Citizen of Den Residential
 {1476}{}{孤儿}                        # dcorphn2.int    ; Orphan living at the Orphanage
 {1477}{}{平民}                       # dcpesnt2.int    ; Peasant 2 of Den Residential
 {1478}{}{地图}                    # gcenclen.int    ; Enclave Verti Encounter near Gecko
-{1479}{}{Enclave Guard}                 # gcenc.int       ; gecko enclave patrol guard
-{1480}{}{Enclave Guard}                 # gcenc2.int      ; gecko enclave patrol leader
+{1479}{}{英克雷警卫}                 # gcenc.int       ; gecko enclave patrol guard
+{1480}{}{英克雷警卫}                 # gcenc2.int      ; gecko enclave patrol leader
 {1481}{}{保险箱}                          # hisafe.int      ; safe at hubologist stash
 {1482}{}{士兵}                         # hcdorgrd.int    ; Door Guard at Hub Stash
 {1483}{}{哈伯教}                    # hcstldr.int     ; Leader at the Hub Stash
-{1484}{}{Hubologist Guard}              # hcguard.int     ; generic Hub stash guard
-{1485}{}{Hubologist Guard}              # hcguard2.int    ; generic Hub stash guard
-{1486}{}{Metal Door}                    # himndor.int     ; Main Door to Hubologist Stash
+{1484}{}{哈勃教警卫}                # hcguard.int     ; generic Hub stash guard
+{1485}{}{哈勃教警卫}                # hcguard2.int    ; generic Hub stash guard
+{1486}{}{金属门}                    # himndor.int     ; Main Door to Hubologist Stash
 {1487}{}{地图}                    # hubstash.int    ; Map script to Hubologist Stash
 {1488}{}{container script}              # hicontnr.int    ; script to containers in Hub Stash
 {1489}{}{双头牛}                       # kcdunbra.int    ; Dunton's brahmin in Klamath
 {1490}{}{门}                          # slvco2.int      ; door to slave holding (not the pen)
 {1491}{}{大门}                          # slvco3.int      ; script to gate of big slave pen at slavers camp
-{1492}{}{Tribal Chief}                  # tribec12.int    ; Chief to primitive tribe
-{1493}{}{Barking Man}                   # ncbrkmn.int     ; Barking man in New Reno
+{1492}{}{部落长老}                  # tribec12.int    ; Chief to primitive tribe
+{1493}{}{犬吠人}                   # ncbrkmn.int     ; Barking man in New Reno
 {1494}{}{epax map script}               # epa1.int        ; EPA Map Script (epax.map)
 {1495}{}{EPA MAIN}                      # epa2.int        ; SubLevels Map
 {1496}{}{EPA warehouse map}             # epa3.int        ; map for Doctor's warehouse
-{1497}{}{Mr. handy Robot}               # epac1.int       ; Script for depressed Mr Handy
-{1498}{}{Hologram 00000}                # epac2.int       ; Hologram 00000 script
-{1499}{}{The Brave Little Toaster}      # epac3.int       ; Talking Toaster
-{1500}{}{Hologram 10001}                # epac4.int       ; Script for Hologram 10001
-{1501}{}{Hologram 12001}                # epac5.int       ; Script Hologram 12001
-{1502}{}{Hologram 10031}                # epac6.int       ; Script for Hologram 10031
-{1503}{}{Hologram 40011}                # epac7.int       ; Script for Hologram 40011
-{1504}{}{EPA plant}                     # epac8.int       ; Script for EPA Plants
-{1505}{}{Mr. Chemmie!}                  # epac9.int       ; Script for crafting computer
-{1506}{}{Dex}                           # epac10.int      ; Script for Diplomatic/Evil player
-{1507}{}{Cat Jules}                     # epac11.int      ; Script for combat char from the vats
-{1508}{}{Kitsune}                       # epac12.int      ; Script for Stealth Character
+{1497}{}{帮手先生}               # epac1.int       ; Script for depressed Mr Handy
+{1498}{}{全息图像00000}                # epac2.int       ; Hologram 00000 script
+{1499}{}{"神勇"小面包机}      # epac3.int       ; Talking Toaster
+{1500}{}{全息图像10001}                # epac4.int       ; Script for Hologram 10001
+{1501}{}{全息图像12001}                # epac5.int       ; Script Hologram 12001
+{1502}{}{全息图像10031}                # epac6.int       ; Script for Hologram 10031
+{1503}{}{全息图像40011}                # epac7.int       ; Script for Hologram 40011
+{1504}{}{EPA植物}                     # epac8.int       ; Script for EPA Plants
+{1505}{}{"点石成金"先生!}                  # epac9.int       ; Script for crafting computer
+{1506}{}{德克斯}                           # epac10.int      ; Script for Diplomatic/Evil player
+{1507}{}{猫.朱利斯}                     # epac11.int      ; Script for combat char from the vats
+{1508}{}{灵狐}                       # epac12.int      ; Script for Stealth Character
 {1509}{}{战士}                       # epac13.int      ; Doctor's personal bodyguards
-{1510}{}{Bug Spray}                     # epac14.int      ; Script for bug spray
+{1510}{}{杀虫剂}                     # epac14.int      ; Script for bug spray
 {1511}{}{Doctor's Prisoner}             # epac15.int      ; Script for captured tribals
 {1512}{}{巨蚁}                     # epac16.int      ; Script for EPA ants
 {1513}{}{The Doctor}                    # epac17.int      ; Script for EPA Doctor
-{1514}{}{Fruit Fly}                     # epac18.int      ; Script for mutant fruit flies
+{1514}{}{果蝇}                     # epac18.int      ; Script for mutant fruit flies
 {1515}{}{Creature}                      # epac19.int      ; Script for doctors crestures
 {1516}{}{机器人}                         # epac20.int      ; Script for the moving robots
 {1517}{}{机器人}                         # epac21.int      ; robot script
-{1518}{}{EPA Leaflet}                   # epai1.int       ; A leaflet for the EPA
-{1519}{}{Voice Computer}                # epai2.int       ; Script for voice computer
-{1520}{}{Research Computer}             # epai3.int       ; Script for main research computer
-{1521}{}{Electric Chair Computer}       # epai4.int       ; Script for Electric Chair Computer
-{1522}{}{Electronic door}               # epai5.int       ; Script for Electronic doors
-{1523}{}{Hologram Generator}            # epai6.int       ; Script for Hologram Generator
+{1518}{}{EPA传单}                   # epai1.int       ; A leaflet for the EPA
+{1519}{}{声控终端}                # epai2.int       ; Script for voice computer
+{1520}{}{研究终端}             # epai3.int       ; Script for main research computer
+{1521}{}{电椅控制终端}       # epai4.int       ; Script for Electric Chair Computer
+{1522}{}{电子门}               # epai5.int       ; Script for Electronic doors
+{1523}{}{全息图像生成器}            # epai6.int       ; Script for Hologram Generator
 {1524}{}{安全门}                 # epai7.int       ; Script for Security doors
 {1525}{}{电梯门}                 # epai8.int       ; Script for Elevator doors
 {1526}{}{门}                          # epai9.int       ; Script for doors on ground level
 {1527}{}{Random Chemicals}              # epai10.int      ; Script for Random Chemicals
-{1528}{}{Fertile ground}                # epai11.int      ; script for ground in arroyo
-{1529}{}{Fertile ground}                # epai12.int      ; fertile ground 2 script
-{1530}{}{Hibernation Computer}          # epai13.int      ; Script for Hibernation Computer
-{1531}{}{Lighting Generator}            # epai14.int      ; Script for Lighting Generator
-{1532}{}{Forcefield}                    # epai15.int      ; Script for forcefield to release Holograms
-{1533}{}{Plant spray}                   # epai16.int      ; Script for Plant spray
-{1534}{}{Magnetic coil computer}        # epai17.int      ; Script for Magnetic coil computer
-{1535}{}{Forcefield}                    # epai18.int      ; Script for Forcedfield to warriors
-{1536}{}{Projection machine}            # epai19.int      ; Script for projection of Hologram00000
+{1528}{}{肥沃的土壤}                  # epai11.int      ; script for ground in arroyo
+{1529}{}{肥沃的土壤}                  # epai12.int      ; fertile ground 2 script
+{1530}{}{休眠控制计算机}          # epai13.int      ; Script for Hibernation Computer
+{1531}{}{照明发电机}            # epai14.int      ; Script for Lighting Generator
+{1532}{}{力场}                    # epai15.int      ; Script for forcefield to release Holograms
+{1533}{}{植物喷雾}                   # epai16.int      ; Script for Plant spray
+{1534}{}{大型计算机}        # epai17.int      ; Script for Magnetic coil computer
+{1535}{}{力场}                    # epai18.int      ; Script for Forcedfield to warriors
+{1536}{}{投影机}            # epai19.int      ; Script for projection of Hologram00000
 {1537}{}{门}                          # epai20.int      ; door to chemical level
 {1538}{}{电脑}                      # epai21.int      ; Location Finder
 {1539}{}{门}                          # epai22.int      ; Script for doors that look like elevators
 {1540}{}{电脑}                      # epai23.int      ; Script for computer controlling forcefields
-{1541}{}{Forcefield}                    # epai24.int      ; Script for forcefield for critters
+{1541}{}{力场}                    # epai24.int      ; Script for forcefield for critters
 {1542}{}{Dynamite}                      # epai25.int      ; Script for dynamite
 {1543}{}{Dynamite Trigger}              # epai26.int      ; Script for dynamite trigger
 {1544}{}{Stuff on Desk}                 # epai27.int      ; Script for finding paper
@@ -1469,33 +1469,33 @@
 {1551}{}{Spatial Script}                # epas6.int       ; Spatial script for message about magnetic field
 {1552}{}{Spatial Script}                # epas7.int       ; Spatial script on entry to the gas areas
 {1553}{}{Spatial Script}                # epas8.int       ; Spatial script for access to vents idea
-{1554}{}{Air Conditioning Vent}         # epai29.int      ; Vent to allow player to enter vent shafts of epa
-{1555}{}{Fan}                           # epai30.int      ; Left Fan Script
-{1556}{}{Fan}                           # epai31.int      ; Right Fan Script
+{1554}{}{空调管道}         # epai29.int      ; Vent to allow player to enter vent shafts of epa
+{1555}{}{风扇}                            # epai30.int      ; Left Fan Script
+{1556}{}{风扇}                            # epai31.int      ; Right Fan Script
 {1557}{}{spatial script}                # epas2a.int      ; Fumes near Mr. Chemmie (become harmless when fans fixed)
 {1558}{}{电脑控制台}             # epai32.int      ; EPA Biology Terminal
-{1559}{}{fertile ground}                # epai33.int      ; Ground where EPA seeds can be planted
+{1559}{}{肥沃的土壤}                  # epai33.int      ; Ground where EPA seeds can be planted
 {1560}{}{spatial}                       # epas9.int       ; Spatial script for sprouted seeds
-{1561}{}{A hologram}                    # epac22.int      ; Malfunctioning hologram
+{1561}{}{一个全息图象}                    # epac22.int      ; Malfunctioning hologram
 {1562}{}{spatial}                       # epas10.int      ; teleports dude_obj to maze
 {1563}{}{}                              # epac23.int      ; Monster in Doctor's maze
-{1564}{}{hologram computer}             # epai34.int      ; machine controlling hologram that gives static
+{1564}{}{全息影像控制终端}             # epai34.int      ; machine controlling hologram that gives static
 {1565}{}{小孩}                         # vilchild.int    ; Children at Vault Village
 {1566}{}{spatial}                       # vsraispt.int    ; spatial for catching the raiders in the act at VC
-{1567}{}{Vertibird}                     # civerti.int     ; Flyable Vertibird
+{1567}{}{飞鸟}                      # civerti.int     ; Flyable Vertibird
 {1568}{}{电脑}                      # cisactrl.int    ; Navarro Satellite control computer
 {1569}{}{spatial}                       # qsvertel.int    ; spatial for vertibird elevator at enclave
-{1570}{}{Mr. Handy}                     # qcwrkbot.int    ; Worker bot (enclave verti pad)
-{1571}{}{Nuke}                          # qinuke.int      ; Nuke at the Enclave
+{1570}{}{帮手先生}                     # qcwrkbot.int    ; Worker bot (enclave verti pad)
+{1571}{}{核弹}                          # qinuke.int      ; Nuke at the Enclave
 {1572}{}{水井}                          # viwell.int      ; VC Courtyard Well
 {1573}{}{水井}                          # giwell.int      ; Gecko Well
 {1574}{}{}                              # patchinf.int    ; Patch Information Script
-{1575}{}{NCR Ranger}                    # scrangr.int     ; Ranger at a safe house
+{1575}{}{NCR游骑兵}                    # scrangr.int     ; Ranger at a safe house
 {1576}{}{object name}                   # ncrngsh1.int    ; Maps script to Ranger Safe House 1
 {1577}{}{object name}                   # ncrngsh2.int    ; Maps script to Ranger Safe House 2
 {1578}{}{object name}                   # ncrngsh3.int    ; Maps script to Ranger Safe House 3
 {1579}{}{Map}                           # sirngmap.int    ; Ranger Safe House Map
-{1580}{}{NCR Ranger}                    # scatkrng.int    ; Ranger that aids you in attack on Slaver Camp
+{1580}{}{NCR游骑兵}                    # scatkrng.int    ; Ranger that aids you in attack on Slaver Camp
 {1581}{}{奴隶商人}                        # scatkslv.int    ; Slaver that aids you in attack on Ranger Safe Houses
 {1582}{}{}                              # ktcavn1.int     ; creates rubble when you destroy supports
 {1583}{}{}                              # ktcavn2.int     ; creates rubble when you destroy supports
@@ -1509,68 +1509,68 @@
 {1591}{}{暴徒}                          # dcg1grd2.int    ; Tyler's Friend (he's having the party)
 {1592}{}{trip wire}                     # witripwr.int    ; Trip Wire in SAD (level 2)
 {1593}{}{trip wire spatial}             # wstripwr.int    ; Spatial for Trip Wire in SAD (level 2)
-{1594}{}{Prostitute}                    # dcprosti.int    ; Prostitute at Tyler's Party (Den)
+{1594}{}{妓女}                  # dcprosti.int    ; Prostitute at Tyler's Party (Den)
 {1595}{}{黏液}                           # esgoo.int       ; Goo in EPA
 {1596}{}{Spatial}                       # wstrpwr2.int    ; Spatial that trips the wire in SAD
-{1597}{}{Hibernation Chamber spatial}   # eshib.int       ; Hibernation Chamber spatial
+{1597}{}{低温休眠舱}   # eshib.int       ; Hibernation Chamber spatial
 {1598}{}{}                              # nscody.int      ; Spatial script for Cody's death
-{1599}{}{Locker}                        # eplkr.int       ; Script controlling the lockers holding the NPC's belongings (EPA)
+{1599}{}{锁柜}                         # eplkr.int       ; Script controlling the lockers holding the NPC's belongings (EPA)
 {1600}{}{Map Script}                    # easter.int      ; RP Easter Egg Map Script
 {1601}{}{Modder}            		# eastereg.int    ; Script for all those who helped make the RP possible
-{1602}{}{Smoking}            		# zismoke.int     ; Script used by cigs/weed
+{1602}{}{抽烟}            		# zismoke.int     ; Script used by cigs/weed
 {1603}{}{Peeing}            		# peeing.int      ; Script for player peeing
 {1604}{}{Map Script}                    # abbasem.int     ; Abbey Basement
 {1605}{}{Map Script}                    # abundgr.int     ; Abbey Underground
-{1606}{}{Merchant}                      # tribemer.int    ; Roy the merchant
-{1607}{}{Merchant Guard}                # tribemg1.int    ; Warren - Roy's bodyguard
-{1608}{}{Merchant Guard}                # tribemg2.int     ; Second guard for Roy the Merchant
+{1606}{}{商人}                      # tribemer.int    ; Roy the merchant
+{1607}{}{商队保镖}                # tribemg1.int    ; Warren - Roy's bodyguard
+{1608}{}{商队保镖}                # tribemg2.int     ; Second guard for Roy the Merchant
 {1609}{}{Merchant Map}                  # merchant.int     ; Map Script to Primitive Tribe Merchant Encounter
-{1610}{}{computer}                      # epai35.int      ; EPA museum computer
-{1611}{}{computer}                      # epai36.int      ; EPA petting zoo computer
-{1612}{}{auto-doc}                      # epai37.int      ; EPA Character Modification Machine
-{1613}{}{Brother Jason}                 # abjason.int     ; Angry monk at Abbey
-{1614}{}{Todd}                          # viltodd.int     ; Little Todd - Vault Village
-{1615}{}{Robert Baron}                  # vibaron.int     ; Robert Baron - Vault Village caravan provider
-{1616}{}{Guard}                         # vimergrd.int    ; Merchant Guard - Robert Baron
-{1617}{}{Crate}                         # tribei2.int     ; Crate of Stimpacks (Primitive Tribe)
-{1618}{}{Ravenous Human}                # epac24.int      ; Ravenous Humans at EPA Green Level
+{1610}{}{计算机}                     # epai35.int      ; EPA museum computer
+{1611}{}{计算机}                     # epai36.int      ; EPA petting zoo computer
+{1612}{}{自动医生}                      # epai37.int      ; EPA Character Modification Machine
+{1613}{}{杰森修士}                 # abjason.int     ; Angry monk at Abbey
+{1614}{}{小托德}                          # viltodd.int     ; Little Todd - Vault Village
+{1615}{}{罗伯特.巴伦}                  # vibaron.int     ; Robert Baron - Vault Village caravan provider
+{1616}{}{警卫}                        # vimergrd.int    ; Merchant Guard - Robert Baron
+{1617}{}{箱子}                         # tribei2.int     ; Crate of Stimpacks (Primitive Tribe)
+{1618}{}{饥饿的人}                # epac24.int      ; Ravenous Humans at EPA Green Level
 {1619}{}{map}                           # vilmerch.int    ; Vault Village Merchant Map
-{1620}{}{force field panel}             # epai38.int      ; force field panel (EPA level 7)
-{1621}{}{Fan}                           # epai39.int      ; Fan to enter EPA base
-{1622}{}{Guard}                         # fcbtgrd.int     ; Shi Motor Boat Guard
-{1623}{}{Motor Boat}                    # sfmboat.int     ; Script to Motor Boat at Shi Docks
-{1624}{}{Guard}                         # fcbtech.int     ; Shi Sub Tech Guard
-{1625}{}{Junk}                          # abjunk.int      ; Abbey Junk Piles
-{1626}{}{stairs}                        # epai40.int      ; EPA Greenhouse stairs
-{1627}{}{elevator shaft}                # epai41.int      ; EPA broken elevator shaft entrance
+{1620}{}{力场控制面板}             # epai38.int      ; force field panel (EPA level 7)
+{1621}{}{风扇}                            # epai39.int      ; Fan to enter EPA base
+{1622}{}{守卫}                        # fcbtgrd.int     ; Shi Motor Boat Guard
+{1623}{}{摩托艇}                    # sfmboat.int     ; Script to Motor Boat at Shi Docks
+{1624}{}{守卫}                         # fcbtech.int     ; Shi Sub Tech Guard
+{1625}{}{垃圾}                          # abjunk.int      ; Abbey Junk Piles
+{1626}{}{楼梯}                        # epai40.int      ; EPA Greenhouse stairs
+{1627}{}{电梯}                # epai41.int      ; EPA broken elevator shaft entrance
 {1628}{}{spatial}                       # epas11.int      ; EPA elevator shaft entrance spatial
-{1629}{}{elevator shaft}                # epai42.int      ; EPA elevator shaft level 1
-{1630}{}{Locker}                        # epai43.int      ; EPA Locker with Solar Scorcher
-{1631}{}{Dock Guard}                    # fcdokgrd.int    ; Shit Guard at Motor Boat
-{1632}{}{Technician}                    # fcsbtec1.int    ; Sub Power Console Techie
-{1633}{}{Technician}                    # fcsbtec2.int    ; Sub Target Console Techie
-{1634}{}{Technician}                    # fcsbtec3.int    ; Sub Torpedo Console Techie
+{1629}{}{电梯}                # epai42.int      ; EPA elevator shaft level 1
+{1630}{}{锁柜}                         # epai43.int      ; EPA Locker with Solar Scorcher
+{1631}{}{码头守卫}                    # fcdokgrd.int    ; Shit Guard at Motor Boat
+{1632}{}{码头工人}                   # fcsbtec1.int    ; Sub Power Console Techie
+{1633}{}{码头工人}                   # fcsbtec2.int    ; Sub Target Console Techie
+{1634}{}{码头工人}                   # fcsbtec3.int    ; Sub Torpedo Console Techie
 {1635}{}{spatial}                       # httunnel.int    ; spatial script for Broken Hills tunnels
-{1636}{}{Dock Worker}                   # fcdkwrk2.int    ; Named Shi Dock Worker (gives info about sub)
+{1636}{}{码头工人}                   # fcdkwrk2.int    ; Named Shi Dock Worker (gives info about sub)
 {1637}{}{map script}                    # sfsub.int       ; Shi Sub Map
 {1638}{}{门}                          # fssubdr.int     ; Shi Sub Rusted Door
 {1639}{}{spatial}                       # fssubint.int    ; Shi Sub Interior Greeting Spatial
-{1640}{}{power console}                 # fcsubpwr.int    ; Shi Sub Power Console
-{1641}{}{torpedo console}               # fcsubtco.int    ; Shi Sub Torpedo Console
-{1642}{}{targeting console}             # fcsubtar.int    ; Shi Sub Targeting Console
-{1643}{}{torpedo bay}                   # fcsubtor.int    ; Shi Sub Torpedo Bay
-{1644}{}{sub hatch}                     # fcsubhat.int    ; Shi Sub Outer Hatch
-{1645}{}{Guard}                         # fcsubgrd.int    ; Shi Sub Guard
-{1646}{}{vertibird}                     # ncverti.int     ; Vertibird at Salvatore Secret Transaction
+{1640}{}{能源控制台}                 # fcsubpwr.int    ; Shi Sub Power Console
+{1641}{}{鱼雷控制台}               # fcsubtco.int    ; Shi Sub Torpedo Console
+{1642}{}{制导控制台}             # fcsubtar.int    ; Shi Sub Targeting Console
+{1643}{}{鱼雷舱}                   # fcsubtor.int    ; Shi Sub Torpedo Bay
+{1644}{}{潜艇舱口}                     # fcsubhat.int    ; Shi Sub Outer Hatch
+{1645}{}{守卫}                         # fcsubgrd.int    ; Shi Sub Guard
+{1646}{}{飞鸟}                     # ncverti.int     ; Vertibird at Salvatore Secret Transaction
 {1647}{}{spatial}                       # fssubsp.int     ; Shi Sub Interior Text Spatial
-{1648}{}{serum}                         # epai44.int      ; Agility +1 serum at the EPA
-{1649}{}{Old Caravan Guard}             # abguard.int     ; Retired Caravan Guard
-{1650}{}{Dr. Sheng}                     # fcdrshng.int    ; Dr. Sheng
-{1651}{}{Plant Creature}                # fcplntmn.int    ; Dr. Sheng's Plant Creature
-{1652}{}{Dr. Sheng's hideout}           # sfsheng.int     ; Dr. Sheng's hideout
+{1648}{}{猎豹血清}                         # epai44.int      ; Agility +1 serum at the EPA
+{1649}{}{老练的商队保镖}             # abguard.int     ; Retired Caravan Guard
+{1650}{}{申博士}                     # fcdrshng.int    ; Dr. Sheng
+{1651}{}{孢子生命体}                # fcplntmn.int    ; Dr. Sheng's Plant Creature
+{1652}{}{申博士的秘密基地}           # sfsheng.int     ; Dr. Sheng's hideout
 {1653}{}{门}                          # fcshngdr.int    ; Door to Dr. Sheng's laboratory
 {1654}{}{门}                          # fcshngd2.int    ; Door to Dr. Sheng's experiments
 {1655}{}{spatial}                       # tribesp4.int    ; Spatial script upon entering the main area of Umbra Tribe
-{1656}{}{Repair Robot}                  # wcrpbot2.int    ; Sierra Base, Repair Robot (generic), level 4
-{1657}{}{Security Robot}                # wcscbot2.int    ; Sierra Base, Security Robot (generic), level 4
+{1656}{}{修复机器人}                  # wcrpbot2.int    ; Sierra Base, Repair Robot (generic), level 4
+{1657}{}{安保机器人}                # wcscbot2.int    ; Sierra Base, Security Robot (generic), level 4
 {1658}{}{门}                          # wibaydr2.int    ; Sierra Base Repair Bay Door (level 4)

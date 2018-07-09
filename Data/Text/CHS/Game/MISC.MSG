@@ -134,8 +134,8 @@
 {9081}{}{知识就是上天的礼物。}
 {9082}{}{我觉得我学到了不少。}
 {9083}{}{我相信我比甘地都要聪明。}
-{9084}{}{我比常人都要强壮了。}
-{9085}{}{我比常人都要有力量了。}
+{9084}{}{我更强壮了。}
+{9085}{}{我更有力量了。}
 
 {9090}{}{我学到了一些新的东西！} # pMDavin_PID
 {9091}{}{我学到了一些新的东西！}
@@ -198,20 +198,40 @@
 {9250}{}{} # pMCarTrunk_PID
 
 
-{9260}{}{There's more than one way to skin a cat.} # pMKitsune_PID
-{9261}{}{The lower I fall, the higher I fly.}
-{9262}{}{Live. Learn. Evolve.}
-{9263}{}{I hear and I forget; I see and I remember; I do and I understand.}
-{9264}{}{I *am* the Nine.}
+#{9260}{}{There's more than one way to skin a cat.} # pMKitsune_PID
+#{9261}{}{The lower I fall, the higher I fly.}
+#{9262}{}{Live. Learn. Evolve.}
+#{9263}{}{I hear and I forget; I see and I remember; I do and I understand.}
+#{9264}{}{I *am* the Nine.}
 
-{9270}{}{You know, I think I'm starting to recover from that whole being frozen thing.} # pMDex_PID
-{9271}{}{Ahh... yes. I can feel the old magic coming back to me now.}
-{9272}{}{I don't want to blow your mind, but I just got even better.}
-{9273}{}{Head's up, I've just become perfect. Now lets find some whores so we can celebrate.}
-{9274}{}{It seems I've surpassed perfection. I suppose if anyone was capable of it, it was me.}
+{9260}{}{捕猎的方式可不止一种！} # pMKitsune_PID
+{9261}{}{跌得越狠，飞得越高}
+{9262}{}{生存，学习，进步。}
+{9263}{}{以无法为有法，以无限为有限。}
+{9264}{}{我现在感觉非常好！}
 
-{9280}{}{The Cat is back!} # pMCatJules_PID
-{9281}{}{Are my eyes playing tricks or does my ass look better than ever?}
-{9282}{}{My cat senses are tingling!}
-{9283}{}{If only I had some fish to go with this experience.}
-{9284}{}{This Cat is unstoppable!}
+
+#{9270}{}{You know, I think I'm starting to recover from that whole being frozen thing.} # pMDex_PID
+#{9271}{}{Ahh... yes. I can feel the old magic coming back to me now.}
+#{9272}{}{I don't want to blow your mind, but I just got even better.}
+#{9273}{}{Head's up, I've just become perfect. Now lets find some whores so we can celebrate.}
+#{9274}{}{It seems I've surpassed perfection. I suppose if anyone was capable of it, it was me.}
+
+{9270}{}{我感觉现在开始摆脱休眠带来的反应缓慢了。} # pMDex_PID
+{9271}{}{啊...这个感觉，那些古老的魔力又回到我身上了。}
+{9272}{}{我不想让你大吃一惊，但我想说，我现在更强了了。}
+{9273}{}{现在我更厉害了，我们去找一些妓女吧，这样就可以开庆祝派对了。}
+{9274}{}{如果世界上有一个人能称得上完美，那一定就是我。}
+
+
+#{9280}{}{The Cat is back!} # pMCatJules_PID
+#{9281}{}{Are my eyes playing tricks or does my ass look better than ever?}
+#{9282}{}{My cat senses are tingling!}
+#{9283}{}{If only I had some fish to go with this experience.}
+#{9284}{}{This Cat is unstoppable!}
+
+{9280}{}{猫回来了！} # pMCatJules_PID
+{9281}{}{是我的眼睛在玩戏法，还是我的身材更好了？}
+{9282}{}{猫现在挠人更痛了！}
+{9283}{}{如果现在有鱼能体验我更强力的爪子就好了。}
+{9284}{}{没有人可以阻止猫了！}
