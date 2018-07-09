@@ -1054,7 +1054,7 @@
 {1136}{}{士兵}                      # ncHSPow1.int    ; New Reno Helicopter Script Power Armor 1
 {1137}{}{士兵}                      # ncHSPow2.int    ; New Reno Helicopter Script Power Armor 2
 {1138}{}{箱子}                         # niHSCrat.int    ; New Reno Helicopter Script Crate
-{1139}{}{韩地先生}                     # ncHSHand.int    ; New Reno Helicopter Script Handy
+{1139}{}{巧手先生}                     # ncHSHand.int    ; New Reno Helicopter Script Handy
 {1140}{}{沙尔瓦多的卫兵}               # ncHSGSal.int    ; New Reno Helicopter Script Salvatore Guard
 {1141}{}{特别任务}                # ntHSGrd.int     ; New Reno Helicopter Script Guarding Spacial
 {1142}{}{门}                          # niEldDor.int    ; New Reno Elderidge Door
@@ -1412,7 +1412,7 @@
 {1494}{}{epax map script}               # epa1.int        ; EPA Map Script (epax.map)
 {1495}{}{EPA MAIN}                      # epa2.int        ; SubLevels Map
 {1496}{}{EPA warehouse map}             # epa3.int        ; map for Doctor's warehouse
-{1497}{}{帮手先生}               # epac1.int       ; Script for depressed Mr Handy
+{1497}{}{巧手先生机器人}               # epac1.int       ; Script for depressed Mr Handy
 {1498}{}{全息图像00000}                # epac2.int       ; Hologram 00000 script
 {1499}{}{"神勇"小面包机}      # epac3.int       ; Talking Toaster
 {1500}{}{全息图像10001}                # epac4.int       ; Script for Hologram 10001
@@ -1485,7 +1485,7 @@
 {1567}{}{飞鸟}                      # civerti.int     ; Flyable Vertibird
 {1568}{}{电脑}                      # cisactrl.int    ; Navarro Satellite control computer
 {1569}{}{spatial}                       # qsvertel.int    ; spatial for vertibird elevator at enclave
-{1570}{}{帮手先生}                     # qcwrkbot.int    ; Worker bot (enclave verti pad)
+{1570}{}{巧手先生}                     # qcwrkbot.int    ; Worker bot (enclave verti pad)
 {1571}{}{核弹}                          # qinuke.int      ; Nuke at the Enclave
 {1572}{}{水井}                          # viwell.int      ; VC Courtyard Well
 {1573}{}{水井}                          # giwell.int      ; Gecko Well
