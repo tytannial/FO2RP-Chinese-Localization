@@ -37,7 +37,7 @@
 
 #{300}{}{Greetings friend. I don't think I have seen you around here before. My name is Brother Matthew and I help spread
  the word about the importance of books and the knowledge contained within them.}
-#{300}{}{祝福你朋友，我想我以前没见过你吧。我叫马太修士，我向世界传播书本中知识的价值。}
+{300}{}{祝福你朋友，我想我以前没见过你吧。我叫马太修士，我向世界传播书本中知识的价值。}
 #{301}{}{It's good to meet you Matt. My name is }
 {301}{}{很高兴见到你马太。我的名字是}
 #{302}{}{ and I am on a quest for the holy GECK.}

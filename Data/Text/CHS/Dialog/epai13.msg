@@ -73,7 +73,7 @@
 {211}{}{日志文档 A。}
 {212}{}{日志文档 B。}
 {213}{}{日志文档 C。}
-#{214}{}{[返回]}
+{214}{}{[返回]}
 
 
 #{220}{}{Log Entry #87983: It's finally happened. They've launched their nukes at us and we've launched ours at them.
