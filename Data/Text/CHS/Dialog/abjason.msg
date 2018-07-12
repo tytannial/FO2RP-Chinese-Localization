@@ -117,8 +117,8 @@
 # {292}{}{I make no promises. Anything else?}
 {292}{}{我不能保证。还有什么事？}
 
-{300}{}{Just format it, then take off, cause they're not going to want you around here. Don't even bother to come tell me you did it, because I'll have to act just as pissed as everyone else or they'll suspect something's up. Thanks again for doing this. It's for their own good.}
-#{300}{}{你只要格式化数据库，然后离开就行了。他们不会想你留这里的。不需要回来告诉我你是怎么做到的，因为这样做别人也会怀疑我的。再次感谢你的帮忙。这件事是为了他们自己好。 }
+#{300}{}{Just format it, then take off, cause they're not going to want you around here. Don't even bother to come tell me you did it, because I'll have to act just as pissed as everyone else or they'll suspect something's up. Thanks again for doing this. It's for their own good.}
+{300}{}{你只要格式化数据库，然后离开就行了。他们不会想你留这里的。不需要回来告诉我你是怎么做到的，因为这样做别人也会怀疑我的。再次感谢你的帮忙。这件事是为了他们自己好。}
 #{301}{}{Whatever you say. Bye.}
 {301}{}{你说的没错。再见. }
 
