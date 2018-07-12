@@ -36,7 +36,7 @@
 {135}{}{你是什么等级？}
 {136}{}{喔，我以为你可以看到我的灵气。我很抱歉。}
 {137}{}{喔，我以为你可以看到我的灵气。我很抱歉。}
-{138}{}{}
+{138}{}{Well, last time I checked the character screen, I was at level }
 {139}{}{我是超卓的等级，当然了。}
 {140}{}{嗯..问人家是什么等级不是一件相当没有礼貌的事吗？}
 {141}{}{说实话！当我身边都是废物时，我不知道他们要我能够完成些什么！}
@@ -71,9 +71,9 @@
 {170}{}{我需要一些资料。有关第13号避难所，你知道些什么？}
 {171}{}{近来如何？}
 {172}{}{算了。}
-{173}{}{}
+{173}{}{That's impressive. Though I believe we are speaking about two different things, it still sounds like you deserve an experience bonus.}
 {174}{}{是！}
-{175}{}{}
+{175}{}{It's done. Just remember though, there's more to life than gaining enough experience points to reach the next level. There's a whole "real" world out there. Now that we have that out of the way, shall we try again?}
 
 
 {176}{}{超卓？}
@@ -118,6 +118,6 @@
 {215}{}{侵入者！给我滚！}
 
 {216}{}{你是第几等级的呢？}
-{217}{}{}
+{217}{}{. I'm sure if I keep wandering and killing random creatures I'll hit level 99 in no time.}
 {218}{}{你得到}
 {219}{}{的经验点数，因为你帮麦尔科解决了哈伯教徒。}
