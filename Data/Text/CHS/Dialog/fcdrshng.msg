@@ -1,8 +1,8 @@
 #{100}{}{You see a crazed-looking Shi scientist.}
 #{101}{}{You see Dr. Sheng.}
 
-{100}{}{你看到了申博士，和大部分游戏里的科学狂人一样，他秃头，穿着白色技术服}
-{101}{}{你看到了申博士，他眼睛闪着狂热的光芒}
+{100}{}{你看到了申博士，和大部分游戏里的科学狂人一样，他秃头，而且穿着白色技术服。}
+{101}{}{你看到了申博士，他眼睛闪着狂热的光芒。}
 
 
 #{200}{}{[You see a Shi scientist with a wispy beard and a crazed look in his eyes. His hair and clothes are disheveled and he appears to have not slept in days.] Ah！ Yes！ Yes, I was expecting you. They told me you were coming. [He looks you up and down.] Yes, you are perfect.}
@@ -21,12 +21,12 @@
 
 
 #{210}{}{Science！ What else？ I am Dr. Sheng and these creatures are my creations. Beautiful, are they not？}
-#{211}{}{Uh, yeah …… But, what are they？}
+#{211}{}{Uh, yeah ... But, what are they？}
 #{212}{}{Actually, I find them rather repulsive. Vomit inducing, really. And that smell, both sweet and fetid, like syrup made from corpse juice. What are these things？}
 
 {210}{}{当然是科学！除此之外还能有什么？我是申博士，这些生物是我的创造物，它们很美丽，不是吗？}
-{211}{}{呃……是的……但是，他们是什么？}
-{212}{}{实际上，我觉得它们相当令人厌恶，这些东西就象又甜又臭的呕吐物，或者是用死尸做成的糖浆人。这些是什么东西？ }
+{211}{}{呃...是的...但是，他们是什么？}
+{212}{}{实际上，我觉得它们相当令人厌恶，这些东西就像又甜又臭的呕吐物，或者是用死尸做成的糖浆人。这些是什么东西？ }
 
 
 
@@ -47,14 +47,14 @@
 
 {230}{}{他们是未来！我创造了一种有知觉的植物生命形态。我终于成功地用新鲜的人类尸体合成了我的新植物！正如你所看到的，我赋予了植物感觉、走动和发声能力，我还赋予了他们类人的外表，这将使他们更容易融入我们的文化。}
 {231}{}{那么，你在哪里得到这些"新鲜的尸体"？}
-{232}{}{融入我们的文化吗？祝你成功，食尸鬼和变种人和我们同源都很难做到这一点，而这些东西看起来比他们可怕多了。}
+{232}{}{融入我们的文化吗？祝你成功，僵尸、变种人和我们同源都很难做到这一点，而这些东西看起来比他们可怕多了。}
 {233}{}{老实说，我遇到过一棵孢子植物，它可以说话，而且不需要新鲜的人体就能做到。}
 {234}{}{这是如此的激动人心，作为一名科学专业的学生，我真想知道这是如何实现的。}
 
 #{240}{}{Perfect for the task at hand. You see, not all of my experimental creatures have been as successful as the specimens you see here. Most tend to end up being mindless, violent brutes. I keep these failures locked within a pen in my lab, but they recently got loose. I managed to get out and lock the door before any could escape into the wild, but now I am unable to return to my lab.}
 #{241}{}{So what do you want me to do about it？}
 
-{240}{}{很适合完成我手头的工作。你看，不是所有的实验生物都像你在这里看到的那样成功。相当一部分成为了没有头脑的、暴力的畜生。我把这些失败品锁在实验室的一个角落里，但最近他们把笼子挣坏了。我设法逃了出去，并在它在能逃到野外之前锁上了门，但代价是现在我不能回到我的实验室了。}
+{240}{}{很适合完成我手头的工作。你看，不是所有的实验生物都像你在这里看到的那样成功。相当一部分成为了没有头脑的、暴力的畜生。我把这些失败品锁在实验室的一个角落里，但最近他们把笼子挣坏了。我设法逃了出去，并在它们能逃到野外之前锁上了门，但代价是现在我不能回到我的实验室了。}
 {241}{}{那么你想让我做些什么呢？}
 
 
@@ -173,9 +173,9 @@
 {371}{}{这个植物样本有什么特别的？}
 {372}{}{又是种子？去你妈该死的种子和植物僵尸，我想我要帮世界一个忙，结束你这个病态的行为。}
 
-#{380}{}{The Shi have been attempting to create plant life that is resistant to radiation. I was the head of that project, but during my research I made a discovery that led me down a different path. I created a plant sentience serum, but after a few …… unfortunate incidences, the Shi wanted to shut the project down. So I left to continue my work unimpeded.}
+#{380}{}{The Shi have been attempting to create plant life that is resistant to radiation. I was the head of that project, but during my research I made a discovery that led me down a different path. I created a plant sentience serum, but after a few ... unfortunate incidences, the Shi wanted to shut the project down. So I left to continue my work unimpeded.}
 #{381}{}{Okay. So how does this plant sample figure into this？}
-#{382}{}{Go on……}
+#{382}{}{Go on...}
 
 {380}{}{始族一直试图创造可以抵抗辐射的植物，我是那个项目的负责人。但在我的研究过程中，我碰到了一个让我走上不同道路的发现，我创造了一种植物血清，它可以赋予植物知觉。但不久之后，始族强行中止了这个项目，所以我选择离开，继续我的工作。}
 {381}{}{那么这个植物样本是怎样的呢？}
@@ -263,7 +263,7 @@
 
 {450}{}{不可能的！一个孢子植物无论其智力如何，都不可能说话。你要么是在开玩笑，要么是毒吸多了。看你的样子我认为多半是后者，现在废话就此打住吧。我想知道你是否愿意帮助我。}
 {451}{}{是的，我想这听起来有点傻，但这是真的。你要我帮你做什么？}
-{452}{}{不要改变话题，我说的是真话！我发誓，他的名字是西摩，他可以说话。他想让我把他安置在一个更好的地方。我不是在瞎编，我也没有产生幻觉。}
+{452}{}{不要改变话题，我说的是实话！我发誓，他的名字是西摩，他可以说话。他想让我把他安置在一个更好的地方。我不是在瞎编，我也没有产生幻觉。}
 
 
 
@@ -279,7 +279,7 @@
 #{470}{}{[He grins, obviously eager to show off his genius.] I've always been fascinated by plants. They are so remarkably different from animals, and yet surprisingly similar. When you look at an animal, you know it can think, that it's aware of its surroundings, experiences pain and fear. That it has reason. Obviously the extent of this ability varies, but the point is that an animal possesses this.}
 #{471}{}{Go on.}
 
-{470}{}{[他呢嘴笑着，显然急于炫耀他的天才]我一直对植物着迷，它们与动物非常不同，但却惊人地相似。当你看一种动物，你很清楚地知道它能思考，动物可以感知到周围环境，会有痛苦和恐惧。每种动物在这方面的程度可能各不相同，但关键是动物拥有这些能力。}
+{470}{}{[他得意的笑着，显然急于炫耀他的天才]我一直对植物着迷，它们与动物非常不同，但却惊人地相似。当你看一种动物，你很清楚地知道它能思考，动物可以感知道周围环境，会有痛苦和恐惧。每种动物在这方面的程度可能各不相同，但关键是动物拥有这些能力。}
 {471}{}{[继续]}
 
 
@@ -290,7 +290,7 @@
 
 {480}{}{当你看着植物的时候，你是否也有这么想过？如果你踢一棵植物，它会反击吗？它对你的行为会有什么反应？和植物对话会影响它的生长吗？在大战争之前的一些科学家对这种理论进行了实验。一个被称为德国人的民族曾经做了实验，其结果让人相信植物是有情感的，而且可以通过谈话、注意和情感来促进其成长。}
 {481}{}{但是植物并没有动物那样的神经系统，没有这个系统，你所说的东西都不会存在的啊。}
-{482}{}{我认为所有形式的生命都可以用某种方式感知到外界。}
+{482}{}{我认为所有形式的生命都可以用某种方式感知道外界。}
 {483}{}{那些我遇到的孢子植物都会咬人，如果被打它们也会反击。所以，我会说我认为植物是有感知能力的。}
 
 
@@ -328,7 +328,7 @@
 #{530}{}{Very well, I cannot promise you will fully comprehend what I am about to say, but I will do my best to explain it to you. [With the zeal of a preacher raving about his god to a rapt listener, he spends two hours detailing the process of his experiments, obviously taking great pride in his accomplishments.]}
 #{531}{}{[MORE]}
 
-{530}{}{我不能保证你会完全理解我要说的话，但我会尽力向你解释。[申博士就象一位热心牧师一样，他花了两个小时向你详细描述他的研究，显然他为自己的成就感到非常自豪]}
+{530}{}{我不能保证你会完全理解我要说的话，但我会尽力向你解释。[申博士就像一位热心的牧师一样，他花了两个小时向你详细描述他的研究，显然他为自己的成就感到非常自豪]}
 {531}{}{[更多]}
 
 
@@ -426,19 +426,19 @@
 {621}{}{啊，我感觉好多了。}
 
 
-#{630}{}{It is a pity to lose those specimens, but a necessary evil to reclaim my laboratory. You have done well. Here is your monetary reward. [He hands you $1000.] The second half of your reward is information ？and a second task to go with it.}
+#{630}{}{It is a pity to lose those specimens, but a necessary evil to reclaim my laboratory. You have done well. Here is your monetary reward. [He hands you $1,000.] The second half of your reward is information ？and a second task to go with it.}
 #{631}{}{It is a pity to lose those specimens, but a necessary evil to reclaim my laboratory. You have done well. Your reward is information ？and a second task to go with it.}
 #{632}{}{Let's hear it.}
 #{633}{}{Forget it. Keep your information. I'm done working for you.}
 
-{630}{}{丢失了这些标本真是让人可惜，但收回我的实验室是一件很有必要的事。你做得很好。你奖励的前半部分是信息，后半部分是这个[他给你$1000]。}
+{630}{}{丢失了这些标本真是让人可惜，但收回我的实验室是一件很有必要的事。你做得很好。你奖励的前半部分是信息，后半部分是这个[他给你$1,000]。}
 {631}{}{丢失了这些标本真是让人可惜，但收回我的实验室是一件很有必要的事。你做得很好，还有第二项任务。}
 {632}{}{我在听。}
 {633}{}{就这样吧，我们到此为止。}
 
 
 #{640}{}{Exellent. And the Shi have the sample I gave you？}
-#{641}{}{Oh, uh …… No, actually. I forgot to give it to him first.}
+#{641}{}{Oh, uh ... No, actually. I forgot to give it to him first.}
 
 {640}{}{你把样品给始族了吗？}
 {641}{}{哦，还没有，实际上，这件事我忘记了。}
@@ -449,4 +449,4 @@
 {700}{}{你把申博士的实验室清理干净了。}
 {710}{}{你把植物的种子送到申博士那里了。}
 
-{800}{}{*gasp* Ahhh……}
+{800}{}{*gasp* Ahhh...}

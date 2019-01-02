@@ -2,7 +2,7 @@
 #{101}{}{You see a good-looking black man with rather pronounced canines. He moves with a constant swagger and has a smug expression on his face.}
 #Cat Jules
 
-{100}{}{你看见，朱利斯中士，也是一只猫。}
+{100}{}{你看见朱利斯中士，也是一只猫。}
 {101}{}{你看到一个看起来挺英俊的黑人，他的犬齿非常明显。}
 
 
@@ -20,11 +20,11 @@
 #{215}{}{I see. Well, Sgt. Jules, what's going on around here anyway?}
 #{216}{}{How come you're alive? The Doctor said he was the only survivor.}
 
-{210}{}{[他努力地站起来，湿辘辘的身体就象掉进水里的动物一样。突然，他对着你笑了，露出了一嘴锋利的牙齿]我是*谁*？为什么不让我先问问你谁呢？你看起来就象一个全副武装的垃圾佬！}
+{210}{}{[他努力地站起来，湿辘辘的身体就像掉进水里的动物一样。突然，他对着你笑了，露出了一嘴锋利的牙齿]我是*谁*？为什么不让我先问问你是谁呢？你看起来就像一个全副武装的垃圾佬！}
 {211}{}{[他站起来，湿辘辘的身体浑身发抖。突然，他对你笑了，露出了一嘴锋利的牙齿] 我是*谁？我是朱利斯中士，这个基地里最完美的士兵！}
 {212}{}{我是 }
 {213}{}{。 你的名字是？}
-{214}{}{注意一下你的态度，这地方是怎么回事？}
+{214}{}{注意一下你的态度，这个地方是怎么回事？}
 {215}{}{我明白了。朱利斯中士，这里到底是怎么回事？}
 {216}{}{你是怎么活下来的，医生说他是这里唯一的幸存者。}
 
@@ -33,28 +33,28 @@
 #{221}{}{Right, whatever you say. So, what's with this place?}
 
 {220}{}{我的名字朱利斯，军阶是中士，你也可以叫我做"猫"，我是这里最好的士兵，最强壮，最敏捷，最帅。}
-{221}{}{好吧，这地方是怎么回事？}
+{221}{}{好吧，这个地方是怎么回事？}
 
 
 
 #{230}{}{You mean Doctor C? Why would he forget about me? Hell, he helped shape this work of *ART* [He gestures at his body].}
 #{231}{}{Right, whatever you say. So, what's with this place?}
-#{232}{}{I think we are talking about two different people……So, what's going on around here anyway?}
+#{232}{}{I think we are talking about two different people...So, what's going on around here anyway?}
 
 {230}{}{你说C医生？为什么他没有提起我？他可是打造了这件艺术品的人[他指了指自己的身体]。}
-{231}{}{好吧，别在意刚刚的对话了，这地方是怎么回事？}
-{232}{}{我想我们谈论的是两个不同的人……那么，这里到底发生了什么？}
+{231}{}{好吧，别在意刚刚的对话了，这个地方是怎么回事？}
+{232}{}{我想我们谈论的是两个不同的人...那么，这里到底发生了什么？}
 
 
 
-#{240}{}{This is some government facility as far as I know. They do all kinds of top secret research. But……[He looks around the room.] it's awfully quiet. Where is everybody?}
+#{240}{}{This is some government facility as far as I know. They do all kinds of top secret research. But...[He looks around the room.] it's awfully quiet. Where is everybody?}
 #{241}{}{Well, this is probably going to come as a shock to you, but you've been frozen for over a century. The world's not the same anymore. They dropped the bombs and the Earth went silent. Society is still trying to rebuild itself from the ashes.} 
 #{250}{}{[Sgt. Jules looks at you with a raised eyebrow.] You ain't kidding, are you? Well, they actually followed through with it then. Damn. Guess I'm lucky to have been pulled from the military and brought here.}
 #{251}{}{You were in the army?}
 
 {240}{}{这是一个政府机构，在这里有着各种各样的绝密研究，我知道的就是这么多。[他停了一下，环视了一下房间]这里太安静了，这是怎么回事，人都到哪里去了？ }
 {241}{}{呃，我说的话可能会让你感到震惊。你已经被冻在这个冰箱里一个多世纪了，外面的世界已经和你认识的完全不一样了。天上下了炸弹雨，蘑菇云升起后之后地球就沉默了。现在这个时间，人们正从废墟里爬出来，努力地重建文明。} 
-{250}{}{[朱利斯睁大了眼睛看着你] 你不是在开玩笑吧？尽管我在过来之前就有听过两个国家对丢炸弹这件事，但这竟然真的发生了，该死的。我想我应该很庆幸被从军队里拖到这里来。}
+{250}{}{[朱利斯睁大了眼睛看着你] 你不是在开玩笑吧？尽管我在过来之前就有听说过两个国家对丢炸弹这件事，但这竟然真的发生了，该死的。我想我应该很庆幸被从军队里拖到这里来。}
 {251}{}{你在军队里？}
 
 
@@ -97,13 +97,13 @@
 #{291}{}{[END]}
 
 {290}{}{你不担心这只猫吗？算了，我会在这个世界上找到我的位置的。现在走开，让猫去做他的事。}
-{291}{}{[END]}
+{291}{}{[再见]}
 
 
 
 #past
 #{300}{}{So, how did you end up in that cryo chamber? And what happened to your teeth?}
-#{301}{}{I used to be the guard for one of the genetics labs. They were messing with human and feline DNA. Trying to make something with the best of both worlds, I suppose. And that's where yours truly comes in. [Cat flashes you his toothy grin.] They wanted a volunteer for one of their projects. It was for scouts and the like, supposed to make you more agile and flexible. I liked the sound of that *leers*. Anyway, they gave me this shot, put me under, and the next thing I knew, I had these teeth, and I felt……. sharper? Kind of predatory.}
+#{301}{}{I used to be the guard for one of the genetics labs. They were messing with human and feline DNA. Trying to make something with the best of both worlds, I suppose. And that's where yours truly comes in. [Cat flashes you his toothy grin.] They wanted a volunteer for one of their projects. It was for scouts and the like, supposed to make you more agile and flexible. I liked the sound of that *leers*. Anyway, they gave me this shot, put me under, and the next thing I knew, I had these teeth, and I felt... sharper? Kind of predatory.}
 #{302}{}{Go on.}
 #{303}{}{Well, apparently the experiment wasn't going as planned and whatever they put inside me wasn't sitting well with my system. I don't know what they meant by that, since I felt better than ever. They decided to throw me in the cryo freezer until they figured out what to do with me.}
 #{304}{}{And then I thawed you out. Seems like you owe me one.}
@@ -111,7 +111,7 @@
 #{306}{}{Monkey? Must be the cat DNA talking. That's all I need to know for now.}
 
 {300}{}{你为什么会在休眠仓里的？还有，你的牙齿是怎么回事？}
-{301}{}{我曾经是一个遗传学实验室的守卫，在那里科学家们尝试把人类和猫科动物的DNA混合。[他向你笑了笑]刚好他们想为实验室的项目找一个志愿者。然后就象你现在看到的这样了，他们曾经给我一张旧照片，上面是我原来的样子。但实际上，我更喜欢现在这个样子，[他上下碰撞他的尖牙齿，发出咯咯咯的声音]，这声音真是好极了。}
+{301}{}{我曾经是一个遗传学实验室的守卫，在那里科学家们尝试把人类和猫科动物的DNA混合。[他向你笑了笑]刚好他们想为实验室的项目找一个志愿者。然后就像你现在看到的这样了，他们曾经给我一张旧照片，上面是我原来的样子。但实际上，我更喜欢现在这个样子，[他上下碰撞他的尖牙齿，发出咯咯咯的声音]，这声音真是好极了。}
 {302}{}{[继续]}
 {303}{}{但很显然的是，这个实验没有得到科学家们预期中的结果，他们觉得这个结果出了偏差--尽管我觉得比以前好多了。然后他们决定把我扔进休眠仓，直到他们弄明白我发生了什么事。}
 {304}{}{然后就是我把你从冰箱里解冻了，你欠我一个人情。}
@@ -122,13 +122,13 @@
 
 #teach
 #{310}{}{Since you were in the army, you think you might be able to teach me anything?}
-#{311}{}{I might be able to teach you a thing or two about energy weapons and other big weapons. Now you have to remember……}
+#{311}{}{I might be able to teach you a thing or two about energy weapons and other big weapons. Now you have to remember...}
 #{312}{}{[Continue.]}
 #{313}{}{There you go. That should help you melt those mutants who get in your way.}
 #{314}{}{Thanks.}
 
 {310}{}{既然你曾经在军队里，你有什么能教我的吗？}
-{311}{}{我也许可以教你一些关于小型武器、大型武器，还有猫最喜欢的能源武器的事情。现在你必须记住……}
+{311}{}{我也许可以教你一些关于小型武器、大型武器，还有猫最喜欢的能源武器的事情。现在你必须记住...}
 {312}{}{[继续]}
 {313}{}{好了，这应该能帮到你融化那些挡在你前面的畸形怪物的。}
 {314}{}{谢谢。}
@@ -166,9 +166,9 @@
 #{424}{}{I work better solo anyway.}
 
 {421}{}{怎么了？}
-{422}{}{离我近点。}
-{423}{}{跟紧我。}
-{424}{}{离我远点。}
+{422}{}{好的。猫会跟在你后面。}
+{423}{}{猫会自由活动的。}
+{424}{}{猫单干就行。}
 
 
 #wait
@@ -207,13 +207,13 @@
 #{481}{}{Just a few scratches, nothing to worry about.}
 #{482}{}{I've seen worse in the army.}
 #{483}{}{Call a medic. I'm going down fast.}
-#{484}{}{I'm bleeding out of everything now……}
+#{484}{}{I'm bleeding out of everything now...}
 
 {480}{}{这个感觉真好。}
 {481}{}{不过多了几处擦伤，没有好担心的。}
 {482}{}{我在军队里见过更糟的情况。}
 {483}{}{打电话叫急救车，我要医生！越多越好！}
-{484}{}{我现在正在流血……}
+{484}{}{我现在正在流血...}
 
 #ch <= 1
 #{490}{}{Jesus, your ugly. You ought to get yourself checked out. I'm outta here.}
@@ -251,11 +251,11 @@
 #generic floats
 #{600}{}{Some might say I'm a pretty shallow guy, but a shallow guy with a great ass.}
 #{601}{}{In the army it was always, "Cat do this. Cat do that." What am I, a dog?}
-#{602}{}{[singing] 'Cause you make me tongue tied, tongue tied…… [singing]}
+#{602}{}{[singing] 'Cause you make me tongue tied, tongue tied... [singing]}
 
 {600}{}{有些人可能会说我是一个很肤浅的人，但我想说，只不过是他们太浅薄而以。}
-{601}{}{在军队里总是："猫会这样做"，"猫去做那个"，"猫应该这样做的"。我是什么，狗吗？}
-{602}{}{*唱歌*因为你使我舌头打结，舌头打结……*唱*}
+{601}{}{在军队里总是：“猫会这样做”，“猫去做那个”，“猫应该这样做的”。我是什么，狗吗？}
+{602}{}{*唱歌*因为你使我舌头打结，舌头打结...*唱*}
 
 
 
@@ -271,7 +271,7 @@
 
 #Redding
 #{720}{}{GOLD mining? This where they dig up the shiny things?}
-{720}{}{金矿吗？这里看起来更象生产闪亮猫玩具的地方。}
+{720}{}{金矿吗？这里看起来更像生产闪亮猫玩具的地方。}
 #EPA
 #{730}{}{I thought we were leaving this place for good?}
 {730}{}{猫不喜欢这里。}
@@ -288,9 +288,9 @@
 
 #Lenny
 #{820}{}{Least I didn't end up like YOU, Lenny!}
-{820}{}{还好我没变成你这样了，廉尼!}
+{820}{}{幸好我没变成你这样，廉尼！}
 #Marcus
-{830}{}{还好我没变成你这样了，大家伙!}
+{830}{}{幸好我没变成你这样，大家伙！}
 
 
 
@@ -299,7 +299,7 @@
 #{5001}{}{[END]}
 #{5002}{}{Holy shit!}
 
-{5000}{}{[这个男人站起来，他浑身发抖，大口的吸着气试着对抗低温。过了好一会，他望向你的方向，突然……]}
+{5000}{}{[这个男人站起来，他浑身发抖，大口的吸着气试着对抗低温。过了好一会，他望向你的方向，突然...]}
 {5001}{}{[结束]}
 {5002}{}{操！}
 

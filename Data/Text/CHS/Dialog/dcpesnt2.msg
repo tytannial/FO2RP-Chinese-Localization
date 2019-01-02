@@ -4,7 +4,7 @@
 
 #Hello and welcome to- Hey! You're the one who helped make this place possible. The people of the Den really appreciate
  what you have done.
-{200}{}{你好欢迎~ 你就是让这变成可能的人。丹恩的人们都很感谢你所做的一切。}
+{200}{}{你好，欢迎~ 你就是让这一切变成可能的人。丹恩的人们都很感谢你所做的一切。}
 #It was my pleasure. How are the children?
 {201}{}{是我的荣幸。孩子们还好吗？}
 #They are doing fine. Thanks to you they are off the streets and now have a place to live. The squatters you negotiated with

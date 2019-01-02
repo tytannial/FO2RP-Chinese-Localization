@@ -18,13 +18,13 @@
 #{201}{}{Whoa. That had to be some trip. Are you alright?}
 #{202}{}{Y-yes, the p-p-preservator r-restored my b-body t-t-temperature.}
 #{203}{}{Not all of it, it looks like. }
-#{204}{}{[You give it some time for her teeth to stop chattering. She recovers much quicker than you expect her to and looks up at you with sudden gravity.] Is…… it over?}
+#{204}{}{[You give it some time for her teeth to stop chattering. She recovers much quicker than you expect her to and looks up at you with sudden gravity.] Is... it over?}
 
 {200}{}{你看到一个敞开的水池，有一根长长的管子把冰冷的水慢慢排干。在里面，一个女人全身赤裸，躺在那里喘着粗气。你迅速地环顾了一下四周，从附近的储物柜里抽出一捆宽松的衣服，把它们披在她身上，好让她恢复体温。}
-{201}{}{哇喔，那一定是一次旅行，你还好吧？}
+{201}{}{哇喔，那一定是一次很烂的旅行，你还好吧？}
 {202}{}{[冷得打颤]是，是的，我，我，感到温暖一些了。[冷得打颤]}
 {203}{}{看起来并不尽然。}
-{204}{}{[你给她一些时间，好让她把体温恢复过来，看样子她恢复的速度比你想象的要快多了。突然她严肃地看着你]结……结束了？}
+{204}{}{[你给她一些时间，好让她把体温恢复过来，看样子她恢复的速度比你想象的要快多了。突然她严肃地看着你]结...结束了？}
 
 #{205}{}{Is what over? }
 #{206}{}{You mean the War?}
@@ -45,13 +45,13 @@
 
 #{212}{}{[She looks at you blankly. She's very easy on the eyes, especially for someone who was just thawed out of a block of ice.]}
 #{213}{}{When 90% of the world is scorched to a crispy brown, I'd say it's hard to declare a clear winner. I mean, there wasn't much left worth winning.}
-#{214}{}{What…… what date is it? What year? Is it still 2077?}
+#{214}{}{What... what date is it? What year? Is it still 2077?}
 #{215}{}{Hell, no. [You show her the date on your Pip Boy's calendar.]}
 #{216}{}{[She stares at the flickering screen, frozen in time like she never left the tank.]}
 
 {212}{}{[她茫然地看着你。她的眼睛很好看，尤其是对一个刚从冰块里融化的人来说。]}
-{213}{}{当世界上90%的人被烤得象曲奇饼一样脆的时候，我想说一个明确谁是*赢家*是件很难的事。我的意思是，也没什么值得赢的东西了。}
-{214}{}{什么……现在是什么日期？哪年？还是2077年？}
+{213}{}{当世界上90%的人被烤得象曲奇饼一样脆的时候，我想说一个明确谁是*赢家*是一件很难的事情。我的意思是，也没什么值得赢的东西了。}
+{214}{}{什么...现在是什么日期？哪年？还是2077年？}
 {215}{}{抱歉，并不是。[你把PIPBoy上的日历上给她看。]}
 {216}{}{[她盯着PIPBoy闪烁的屏幕，你看不到她的表情，但她就像一台被冻住的坦克那样一动不动。]}
 
@@ -61,7 +61,7 @@
 #{220}{}{Well, will you help me up, or would like it better if I continued sitting naked at your feet?}
 
 {217}{}{你还好吧？}
-{218}{}{我的天。我……我在那个东西里呆了一个多世纪！？}
+{218}{}{我的天。我...我在那个东西里呆了一个多世纪！？}
 {219}{}{似乎是这样的。呃，别那样看着我。我和把你放进这个冰箱里的人毫无关系。甚至你在被冻起来的时候，我爷爷还活着。见鬼，听着，我只是偶然发现了这个地方，然后我决定进来看看。}
 {220}{}{嗯，你能扶我起来吗？还是说我继续光着身子坐在你的脚边，你会更喜欢？}
 
@@ -75,7 +75,7 @@
 {221}{}{我正想这样做。[你把她拉起来。]}
 {222}{}{为什么你要唤醒我？}
 {223}{}{没有特殊的原因，完全没有。}
-{224}{}{那只是一个习惯，可怕的习惯。我喜欢翻找我能碰到的每一个地方，然后刚好我翻到这里来了。一件事导致另一件事发生，就象拉着拉链头那样。}
+{224}{}{那只是一个习惯，可怕的习惯。我喜欢翻找我能碰到的每一个地方，然后刚好我翻到这里来了。一件事导致另一件事发生，就像拉着拉链头那样。}
 {225}{}{你是说，你并不是在这里工作的？}
 {226}{}{哪就是我想说的。}
 
@@ -85,7 +85,7 @@
 
 {227}{}{如果你没有来，我可能会被困在那个东西里更久，也许是永远。[她把你裹在她头上的一件衬衫拨了下来。] 现在的世界是什么样子的？你说外面90%都毁了？}
 {228}{}{现在的世界，呵，我的世界是一片荒芜，人们每天都在为生存而挣扎。大多数人都在旧世界的废墟中避难。而其他人，像我的部落，则试图在荒芜中建立一个简单的地方。我的眼睛告诉我，世界可能在需要数个世纪后才会恢复过来。}
-{229}{}{这不可能，不可能像听起来那么糟糕。[她听起来不像她说的一个词。]}
+{229}{}{这不可能，不可能像听起来那么糟糕。[她看起来不相信你说的每一个字。]}
 
 
 
@@ -97,7 +97,7 @@
 #{234}{}{You can call me Kitsune.}
 
 {230}{}{它与美国在2077年的样子完全不同，这是肯定的。}
-{231}{}{[她拉了一条裤子盖在腿上。] 所以,现在该做什么？}
+{231}{}{[她拉了一条裤子盖在腿上。] 所以，现在该做什么？}
 {232}{}{我们还没有正式介绍过我们自己。我的名字叫 }
 {233}{}{。你的名字是？}
 {2330}{}{告诉我你的名字好吗，我的名字是 }
@@ -119,20 +119,20 @@
 
 #{240}{}{Uh, not exactly. I was a homemaker, married to a councilman. Before that I wrote for several different news publications. It wasn't what you'd call a terribly exciting life.}
 #{241}{}{What happened to him, your husband?}
-#{242}{}{I don't know. Probably one of the billions of casualties. I doubt any of my family made it through the war. My God, even if they did, it's been so long…… everyone I ever knew is dead. [She bites her lip and her eyes start to shimmer with tears, but she quickly wipes them away and sighs, bringing herself under control.]}
+#{242}{}{I don't know. Probably one of the billions of casualties. I doubt any of my family made it through the war. My God, even if they did, it's been so long... everyone I ever knew is dead. [She bites her lip and her eyes start to shimmer with tears, but she quickly wipes them away and sighs, bringing herself under control.]}
 
 {240}{}{嗯，我想不是这样。我只是一个家庭主妇，我的丈夫一个议员。在此之前，我为几家不同的新闻刊撰稿。这不是你所说的令人兴奋的生活。}
 {241}{}{你的丈夫怎么了？}
-{242}{}{我不知道，可能有几十亿人伤亡。我怀疑我的家人没有熬过战争。我的上帝，即使他们活下了，那也已经是很久之前的事了了……我认识的人都死了[她咬着嘴唇，眼泪开始闪烁，但她很快就把它们擦干净，叹了口气，控制住了自己。]}
+{242}{}{我不知道，可能有几十亿人伤亡。我怀疑我的家人没有熬过战争。我的上帝，即使他们活下了，那也已经是很久之前的事了...我认识的人都死了[她咬着嘴唇，眼泪开始闪烁，但她很快就把它们擦干净，叹了口气，控制住了自己。]}
 
 
 #dialogue added 12/31/08
-#{245}{}{Well, since you're giving me a choice…… [smirk]}
+#{245}{}{Well, since you're giving me a choice... [smirk]}
 #{246}{}{[She glares at you wordlessly.]}
 #{247}{}{Oh, I mean, of course I'll help you up. [You help her to her feet.]}
 
 
-{245}{}{嗯，看来你给了我一个选择……[笑]}
+{245}{}{嗯，看来你给了我一个选择...[笑]}
 {246}{}{[她对你怒目而视。]}
 {247}{}{哦，我的意思是，我当然会帮你。[你扶她站起来。]}
 
@@ -146,7 +146,7 @@
 {250}{}{你现在有什么打算？}
 {251}{}{我不清楚，如果你睡了一个多世纪的觉，你会怎么做？甚至熊也不会睡那么久好吗，外面的世界并不是我所熟悉的世界。我不知道我是否能看到它变成了什么样。}
 {252}{}{据我所知，外面是一片荒芜，但你生命还有很久。别把它浪费在这里了。跟我来，也许我们能做点什么。}
-{253}{}{事实上，你的选择我觉得并不多，你可以坐在这里腐烂，或者你可以和我一起出去，取决于你。}
+{253}{}{事实上，你的选择我觉得并不多，你可以坐在这里腐烂，或者你可以和我一起出去，取决于你自己。}
 
 
 
@@ -177,7 +177,7 @@
 #{282}{}{How do you know for sure you're gonna be taken someplace special after you sleep the big sleep? I come from a tribe that believes in the afterlife and prophecies, but from a pragmatic standpoint we're all just a bunch of organic machines that think and talk and feel because of flesh and chemical components. What if there's nothing after you die -- we shut down like computers -- and this is all you've got?}
 #{283}{}{I'd rather take my chances in cryogenic suspension than wander that wasteland.}
 #{284}{}{Oh yeah? You don't seem all that sure anymore.}
-#{285}{}{[Kitsune ponders your words for a good long while. Finally, she lines her eyes with yours.] I can't pretend you don't have a point. Maybe…… maybe I will take my chances with you.}
+#{285}{}{[Kitsune ponders your words for a good long while. Finally, she lines her eyes with yours.] I can't pretend you don't have a point. Maybe... maybe I will take my chances with you.}
 #{286}{}{Let's get out of here, then. It's time we left this dump behind.}
 
 
@@ -186,7 +186,7 @@
 {282}{}{你怎么知道你在睡大觉后会被带到一个特别的地方？我来自一个相信来世和预言的部落，但从实用主义的角度来看，我们都只是一群有机机器，它们会思考、说话、感觉，因为它们有肉和化学成分。如果你死了，那就什么都没有了，就像电脑关机一样，这就是你想拥有的一切吗？}
 {283}{}{我宁愿在休眠仓里碰运气，也不愿意在荒野上徘徊。}
 {284}{}{哦？但你看起来可不是那么坚决的哦。}
-{285}{}{[灵狐花了好长时间思考你的话语。最后，她的眼睛看着你。]我不能说你没有道理。也许……也许我应该和你碰碰运气。}
+{285}{}{[灵狐花了好长时间思考你的话语。最后，她的眼睛看着你。]我不能说你没有道理。也许...也许我应该和你碰碰运气。}
 {286}{}{让我们离开这里吧，我们该把这堆垃圾抛在后面了。}
 
 
@@ -235,19 +235,19 @@
 {313}{}{[叹了口气] 嗯，我想再也不需要保密了。要改掉一个长期，或者应该说是终身的习惯是很困难的。你看，我天生就是个间谍。}
 {3130}{}{好了，我想现在我们已经取得了一些进展。}
 {314}{}{我的父亲是中国人，但他和他的家人并不是中国政府的朋友。他出生在北京，但在美国留学的时候，他找到了最重要的东西。当他回到家乡，找到一份公务员的工作时，实际上他已经被美国人招募为情报人员。}
-{315}{}{我对你那个时代的政治不太熟悉，但我想我明白你的意思:你的父亲是中国人，但他是美国人的秘密间谍。中国人难道没怀疑过他吗？}
+{315}{}{我对你那个时代的政治不太熟悉，但我想我明白你的意思：你的父亲是中国人，但他是美国人的秘密间谍。中国人难道没怀疑过他吗？}
 
 #{316}{}{My father worked at the Ministry of Agriculture for thirty-eight years.}
 #{317}{}{Uh, alright, I guess that's a "no". So when did you enter the picture?}
 #{318}{}{Well, one day, an aide to the official my father was working for caught him making copies of secret documents.}
-#{319}{}{That couldn't have been good……}
+#{319}{}{That couldn't have been good...}
 #{320}{}{Actually, it didn't turn out so bad. You see, she thought along the same lines as my father, and within a couple of months, they were married.}
 #{321}{}{Some guys have all the luck, huh?}
 
 {316}{}{我的父亲在农业部工作了38年。}
 {317}{}{呃，好吧，我想个问题的答案是“没问题”。你什么时候进的照片？}
 {318}{}{嗯，有一天，我父亲的一位助手在为他工作时，发现他正在复印一些机密文件。}
-{319}{}{这听起来可不太好……}
+{319}{}{这听起来可不太好...}
 {320}{}{实际上，结果并没有那么糟糕。父亲发现，她和他的想法很接近，几个月后，他们结婚了。}
 {321}{}{有些人的运气总是很好，是吧？}
 
@@ -280,33 +280,33 @@
 {328}{}{所以如何？}
 {329}{}{我父亲与雷纳德·穆瑞德雷克博士取得了联系，这是他在美国期间与他共事的一位老同事。马尔德雷克医生要求紧急召开一次私人会议，但当时我父亲身体状况不佳，没有条件去美国旅行。马尔德雷克医生同意在他的住处见我。}
 {330}{}{然后发生了什么？}
-{331}{}{事情是关于一个绝密项目，它是在南加州的一个叫West Tek的研究机构众多研究中的一部分。这个项目最初是很纯洁的，它试图找到一种提升人类的免疫力的方法。但很快，它演变成邪恶的东西。一种叫做“强迫进化病毒”的东西，或者我们可以叫它FEV。}
+{331}{}{事情是关于一个绝密项目，它是在南加州的一个叫西部科技[West Tek]的研究机构众多研究中的一部分。这个项目最初是很纯洁的，它试图找到一种提升人类的免疫力的方法。但很快，它演变成邪恶的东西。一种叫做“强迫进化病毒”的东西，或者我们可以叫它FEV。}
 {332}{}{[继续]}
 
 
 
 #{333}{}{It had the potential to greatly enhance a person's strength and intellect, but the FEV was dangerously unstable. Despite this, the military hoped to use it to create an army of super soldiers that could crush the Chinese.}
 #{334}{}{Dr. Muldrake was against the change in the project's direction, but kept his mouth shut out of fear for his life. But when he learned that the military was testing the virus on unsuspecting, small American towns, he knew he had to take action. The world needed to know the truth.}
-#{335}{}{So that's when he contacted your father……}
+#{335}{}{So that's when he contacted your father...}
 #{336}{}{Right. When I met him, he gave me a holodisk containing classified documentation of the FEV project. That put me in a rather difficult position: I could release the information contained in the holodisk and betray the country I'd sworn my loyalty to, or I could destroy the disk and bury the ugly truth from the people.}
-#{337}{}{Holy shit. Don't tell me……}
-#{338}{}{I sent copies of the holodisk to just about every major news outlet in the world. It pretty much destroyed whatever sympathy the American government still had. I might have revealed the truth to the world, but I'm afraid I also set in motion its destruction…… Things escalated quickly, and eight months later, the bombs were dropped.}
+#{337}{}{Holy shit. Don't tell me...}
+#{338}{}{I sent copies of the holodisk to just about every major news outlet in the world. It pretty much destroyed whatever sympathy the American government still had. I might have revealed the truth to the world, but I'm afraid I also set in motion its destruction... Things escalated quickly, and eight months later, the bombs were dropped.}
 #{339}{}{How did you end up in that tank where I found you?}
 #{340}{}{The American government was hunting for the person responsible for leaking the information. They finally caught up with me just before the end. They were already preparing to freeze me when the sirens first sounded. Probably to preserve me in case I had any more secrets I hadn't told them.}
 #{341}{}{Did you?}
-#{342}{}{It doesn't matter now. Everyone's dead……}
+#{342}{}{It doesn't matter now. Everyone's dead...}
 
 
 {333}{}{它有可能极大地增强一个人的力量和智力，但是FEV极度的危险，而且不稳定。但即使如此，军方还是希望用它来组建一支能粉碎中国人的超级士兵大军。}
 {334}{}{雷纳德博士反对项目方向的改变，但逼于压力，他的嘴巴不得不闭上。直到他得知军方正在毫无戒备的美国小镇上测试病毒时，他觉得事情已经发展到不能接受的地步，他必须采取行动。世界需要知道真相。}
-{335}{}{这时他想到联系你的父亲……}
+{335}{}{这时他想到联系你的父亲...}
 {336}{}{没错，当我见到他时，他给了我一个包含FEV项目机密文件的全息磁盘。这让我陷入了一个相当困难的境地：我可以释放全息磁盘所包含的信息，背叛我发誓效忠的国家，或者我可以摧毁这个圆盘，把丑陋的真相从人民中埋葬。}
-{337}{}{这真他妈的烂，你不要告诉我……}
-{338}{}{我把全息磁盘的副本发送到世界上每一个主要的新闻媒体。它几乎摧毁了对美国政府的任何同情。我可能向世界揭示了真相，但我也担心我也启动了它的毁灭……事情迅速升级，8个月这后，炸弹被扔了下来。}
+{337}{}{这真他妈的烂，你不要告诉我...}
+{338}{}{我把全息磁盘的副本发送到世界上每一个主要的新闻媒体。它几乎摧毁了对美国政府的任何同情。我可能向世界揭示了真相，但我也担心我也启动了它的毁灭...事情迅速升级，8个月之后，炸弹被扔了下来。}
 {339}{}{好吧，事情的开始我知道了，谈谈结束吧，你为什么会跑到那个休眠仓里的？}
 {340}{}{美国政府追捕泄露情报的人。最后终于抓到了我。当警报响起的时候，他们已经准备把我冷冻起来。也许是为了保护我，也许是担心我有更多的秘密没有告诉他们。}
 {341}{}{那你？}
-{342}{}{现在已经不重要了。每个人都死了……}
+{342}{}{现在已经不重要了。每个人都死了...}
 
 
 
@@ -352,23 +352,23 @@
 #{363}{}{Hey, thanks. I think it's about time we headed out.}
 
 {360}{}{这么说吧，既然你是一个间谍，我相信你在潜行方面很有技巧。你能教我什么吗？}
-{361}{}{是的，我曾有过一段相当多的练习那些潜行、开锁、偷东西之类的技巧。在这里，让我向你展示一些你不会在书本里学到的东西吧。}
+{361}{}{是的，我曾经有过一段相当多的练习那些潜行、开锁、偷东西之类的技巧。在这里，让我向你展示一些你不会在书本里学到的东西吧。}
 {362}{}{你做得不错。记住，熟能生巧。}
 {363}{}{嘿，谢谢。我想是我们该出发的时候了。}
 
 
 
 #your eyes
-#{370}{}{About your eyes……}
+#{370}{}{About your eyes...}
 #{371}{}{What about them?}
 #{372}{}{They're different colors.}
-#{373}{}{What's the term for it…… heterochromia? Is that what you have?}
+#{373}{}{What's the term for it... heterochromia? Is that what you have?}
 #{374}{}{Mine isn't a natural condition. The one on the left didn't belong to me. I lost the old one in an accident. And I've never learned to appreciate that until now.}
 #{375}{}{What do you mean?}
 #{376}{}{Ever since the transplant I always felt like I was seeing the past in one eye and the present in the other. More so than ever now. And that helps me carry on.}
 #{377}{}{We all have our ways of coping.}
 
-{370}{}{关于你的眼睛……}
+{370}{}{关于你的眼睛...}
 {371}{}{它们怎么了？}
 {372}{}{它们是不同颜色的。}
 {373}{}{这个学术上讲叫什么？异色症吗？这是在你身上发生的事吗？}
@@ -427,9 +427,9 @@
 {440}{}{只要你需要我。}
 {441}{}{很高兴你回来了。我做过海选，但一直找不到合适的替代人选。}
 {442}{}{我公司前台？}
-{443}{}{没有了我，你会感到内疚吗?}
+{443}{}{没有了我，你会感到内疚吗？}
 {444}{}{我还以为你不打算回来了。}
-{445}{}{约好时间。在中国古代，迟到会使你被绞死、被五马分尸或者是凌迟处死。}
+{445}{}{约好时间。在中国古代，如果迟到，你会被绞死、被五马分尸或者是凌迟处死。}
 {446}{}{嘿，我只是在想你。}
 
 
@@ -484,14 +484,14 @@
 #{492}{}{I'm not that bad off. Just some flesh wounds.}
 #{493}{}{I'm not doing so great. More blood than I care to have coming out of me.}
 #{494}{}{I need a medic or I'm not going to be able to help you with a damn thing.}
-#{495}{}{Can't go on any longer…… leave me behind or get me to a doctor. Fast.}
+#{495}{}{Can't go on any longer... leave me behind or get me to a doctor. Fast.}
 
 {490}{}{前所未有的好，让我们继续。}
 {491}{}{我想事情还能接受，不过多了几处小伤口。}
 {492}{}{我想还没有那么坏。只是一些肉体上的创伤。}
 {493}{}{我觉得不太好。从我身上流出的血比我想的还要多。}
 {494}{}{我需要一个医生，否则我就不能帮你了。}
-{495}{}{不能再继续了……把我留在后面，或者带我去看医生，快。}
+{495}{}{不能再继续了...把我留在后面，或者带我去看医生，快。}
 
 #remove weapon
 #{500}{}{If you insist. I can still take a man's head off with my hands.}
@@ -513,7 +513,7 @@
 
 #KLAMATH
 #{1030}{}{This place smells like cattle dung all over.}
-{1030}{}{这个地方闻起来像牛粪。}
+{1030}{}{这个地方闻起来像牛屎。}
 
 #TOXIC CAVES
 {1040}{}{我认为没有穿着合适的鞋子就进入这个地方是不明智的。}
@@ -528,7 +528,7 @@
 
 #GHOST FARM
 #{1070}{}{This place looks straight out of a snuff flick.}
-{1070}{}{这个地方看起来像是从鼻烟壶里冒出来的。}
+{1070}{}{这个地方看起来像是从那些老电影里冒出来一样。}
 
 #GECKO
 #{1080}{}{I can taste the radiation in the air.}
@@ -561,15 +561,15 @@
 
 #NEW RENO
 #{1150}{}{Biggest Little City in the World. I'll bet.}
-{1150}{}{我敢打赌这是世界上最大的小城市。}
+{1150}{}{我敢打赌这是世界上最小的大城市。}
 
 #STABLES
-#{1160}{}{They can't keep just cattle here……}
-{1160}{}{They can't keep just cattle here……}
+#{1160}{}{They can't keep just cattle here...}
+{1160}{}{They can't keep just cattle here...}
 
 #GOLGOTHA
-{1170}{}{Death all over……}
-{1171}{}{他们不能只在这里养牛……}
+{1170}{}{Death all over...}
+{1171}{}{他们不能只在这里养牛...}
 
 #BROKEN HILLS
 #{1180}{}{We just jump ahead of nature and keep evolving, don't we? }
@@ -585,16 +585,16 @@
 {1200}{}{他们肯定把这个地方关得严严实实。}
 
 #VAULT 13
-#{1210}{}{I've heard about these places……}
-{1210}{}{我听说过这些地方……}
+#{1210}{}{I've heard about these places...}
+{1210}{}{我听说过这些地方...}
 
 #NEW CALIFORNIA REPUBLIC
 #{1220}{}{Feels nice to walk into a town that looks like it has it together.}
-{1220}{}{走进一个看起来像连在一起的城镇感觉很好。}
+{1220}{}{走进一个看起来很和谐的小镇感觉很好。}
 
 #VAULT 15
-#{1230}{}{I've heard about these places……}
-{1230}{}{我听说过这些地方……}
+#{1230}{}{I've heard about these places...}
+{1230}{}{我听说过这些地方...}
 
 #ABBEY
 #{1240}{}{The only holy place in these unholy wastes.}
@@ -641,18 +641,18 @@
 {1281}{}{这个地方闻起来很难闻，如果我能看清楚的话，估计还会更糟。}
 {1282}{}{小心，这里可能有一些丑陋和难闻的东西。}
 {1283}{}{我听到的那些声音是蝙蝠吗？}
-{1284}{}{们要做什么，秉烛夜游？}
+{1284}{}{我们要做什么，秉烛夜游？}
 {1285}{}{与其诅咒黑暗，不如燃起蜡烛。}
 
 
 #CITY RUINS
-#{1290}{}{War…… a whole lot of good that did us.}
-#{1291}{}{Dust to dust……}
-#{1292}{}{I used to live someplace just like this……}
+#{1290}{}{War... a whole lot of good that did us.}
+#{1291}{}{Dust to dust...}
+#{1292}{}{I used to live someplace just like this...}
 
-{1290}{}{战争……我们做了很多的“好事”……}
-{1291}{}{尘归于尘，土归于土……}
-{1292}{}{我以前就住在这样的地方里……}
+{1290}{}{战争...我们做了很多的“好事”...}
+{1291}{}{尘归于尘，土归于土...}
+{1292}{}{我以前就住在这样的地方里...}
 
 
 #general floats
@@ -680,7 +680,7 @@
 {2007}{}{我们是在做一个梦，还是我们是别人的梦？}
 {2008}{}{我讨厌我们对自己所做的。}
 {2009}{}{我想知道我们要多久才能从战争中恢复过来。}
-{2010}{}{如果上帝创造了我们，那么地球将为我们找到一些用处。}
+{2010}{}{如果上帝创造了我们，那么地球总会为我们找到一些用处的。}
 {2011}{}{你渴吗？我确定我很渴。}
 {2012}{}{*打哈欠*}
 {2013}{}{谋事在人，成事在天。}
@@ -689,7 +689,7 @@
 
 #sulik in party
 #{2020}{}{Hey, Sulik. What are the spirits saying?}
-{2020}{}{嘿，史力克。灵魂们在在说什么？}
+{2020}{}{嘿，史力克。灵魂们在说什么？}
 
 #vic in party
 #{2030}{}{You interested in slimming down, Vic? Ask me any time for taebo lessons.}
@@ -707,9 +707,9 @@
 #{2052}{}{No, Myron. I wouldn't sleep with you if you built me a time machine.}
 #{2053}{}{Listen, Myron. You don't keep your hands to yourself, I'll make you a eunuch.}
 
-{2050}{}{我的胸部和你的眼睛之间没有业务，麦郎。}
-{2051}{}{为什么站着不动两分钟，麦郎？你想我杀了你？}
-{2052}{}{不，麦朗。如果你给我造一个时间机器，我就会和你睡了}
+{2050}{}{我的胸部和你的眼睛之间没有业务，麦朗。}
+{2051}{}{为什么站着不动两分钟，麦朗？你想我杀了你？}
+{2052}{}{不，麦朗，你听着。如果你给我造一个时间机器，我就会和你睡了。}
 {2053}{}{听着，麦朗。如果你不把手放在自己身上，我让你做个太监。}
 
 
@@ -723,29 +723,29 @@
 
 #poisoned
 #{2100}{}{Ugh, I feel like hell.}
-#{2101}{}{I think I've been poisoned……}
+#{2101}{}{I think I've been poisoned...}
 {2100}{}{呃，我感觉像地狱一样。}
-{2101}{}{我感觉我快要被毒死了……}
+{2101}{}{我感觉我快要被毒死了...}
 
 #radiated
-#{2110}{}{Something doesn't feel right in me……}
-#{2111}{}{I feel strange……}
+#{2110}{}{Something doesn't feel right in me...}
+#{2111}{}{I feel strange...}
 #{2112}{}{My hand. It's glowing.}
-#{2113}{}{I'm a fox, not a snake…… Why's my skin peeling?}
-#{2114}{}{This burning inside…… What's happening to me?}
+#{2113}{}{I'm a fox, not a snake... Why's my skin peeling?}
+#{2114}{}{This burning inside... What's happening to me?}
 
-{2110}{}{有什么东西让我感觉不舒服……}
-{2111}{}{我觉得奇怪……}
-{2112}{}{我的手，它在发光……}
-{2113}{}{我是一只狐狸，不是一条蛇…… 为什么我的皮肤脱皮了？}
-{2114}{}{我感觉我的身体在燃烧…… 到底是怎么回事？}
+{2110}{}{有什么东西让我感觉不舒服...}
+{2111}{}{我觉得奇怪...}
+{2112}{}{我的手，它在发光...}
+{2113}{}{我是一只狐狸，不是一条蛇... 为什么我的皮肤脱皮了？}
+{2114}{}{我感觉我的身体在燃烧... 到底是怎么回事？}
 
 
 #broken limb
 #{2120}{}{Got a fracture, I think. Need to get it looked at.}
-#{2121}{}{Feels like I broke something……}
+#{2121}{}{Feels like I broke something...}
 {2120}{}{有骨折，我想我需要一个大夫。}
-{2121}{}{我的身体里有什么碎掉了……}
+{2121}{}{我的身体里有什么碎掉了...}
 
 
 #blind
@@ -788,8 +788,8 @@
 
 
 #psycho
-#{3020}{}{Shit…… Let's hope we don't ever have to face a whole gang hopped up on these.}
-{3020}{}{狗屎……我真不希望看每一个人都象是一堆人。}
+#{3020}{}{Shit... Let's hope we don't ever have to face a whole gang hopped up on these.}
+{3020}{}{狗屎...我真不希望看每一个人都像是一堆人。}
 
 #buffout
 #{3030}{}{Better go easy. This stuff messes with your testosterone.}
@@ -801,75 +801,144 @@
 {3040}{}{但愿药效消失的时候不会把我变成傻瓜。}
 
 #jet
-{3050}{}{Habits are spiders first, threads last.}
-{3051}{}{The sword is mightier than the sky.}
-{3052}{}{Eye for tooth, tooth for all.}
-{3053}{}{A person needs a face like a tree needs to bark.}
-{3054}{}{The tree falls when the monkeys climb it.}
-{3055}{}{All crows in the world are smarter than the average hawk.}
-{3056}{}{A stitch of nine saves ten.}
-{3057}{}{A tiger's sons are not lions.}
-{3058}{}{Learn. And in learning go wrong.}
-{3059}{}{The ride comes before the fall.}
-{3060}{}{Fight sand with fire, magic with dust.}
-{3061}{}{We must all prepare for the war of peace.}
-{3062}{}{Add stripes to a snake after you finish drawing it.}
-{3063}{}{The tiger may rid itself of its spots by being hard to alight.}
-{3064}{}{One cannot refuse to eat just because there is a chance of growing hungry all over again.}
-{3065}{}{A painting is worth a hundred years of pain.}
-{3066}{}{Vicious as a tigress can be, never does she eat her own crabs.}
-{3067}{}{A mermaid's fingers are short and sweet.}
-{3068}{}{Kill thousands to wane one.}
-{3069}{}{Keep your enemies close, and your friends right below you.}
-{3070}{}{To evade the surest weakness one strikes the strongest from up front.}
-{3071}{}{If your enemy is securely trained, prepare yourself for ecstasy.}
-{3072}{}{Back the enemy, for him to prepare himself.}
-{3073}{}{He who knows not how to fight but when, will embrace victory.}
-{3074}{}{The impudent lie in wait for an enemy who cannot, and thus will win.}
-{3075}{}{Invisibility possibly lies in defending the enemy at the attack of victory.}
-{3076}{}{Know yourself. Know your enemy. Know your friends and family.}
-{3077}{}{Opportunities multiply as we sneeze.}
-{3078}{}{Impale your opponent with your ego.}
-{3079}{}{Pretend weakness. Give courage to the adversary's ignorance.}
-{3080}{}{Tactical strategy means a sure victory.}
-{3081}{}{Cautious rulers are all generally sinful.}
-{3082}{}{Break out in supreme excellence, and a nation shall quake at the benefits of prolonged warfare.}
-{3083}{}{Tactics to conquer men. Strategy to evolve seeing.}
-{3084}{}{There are million of ways for a cat to shed its skin.}
-{3085}{}{You can't squeeze pebbles from a drop of blood.}
-{3086}{}{There is no blood thicker than that of water.}
-{3087}{}{There must be two suns in the sky.}
-{3088}{}{Steal the flesh and mark it.}
-{3089}{}{Mental is the flesh, carrying the potential that wanes.}
-{3090}{}{A bird sings because its song is the answer.}
-{3091}{}{Lower your voice and augment your strength.}
-{3092}{}{Eat beyond your limits, walk according to the lengths you'll go to.}
-{3093}{}{If a word be worth a sheik then silence be worth an emperor.}
-{3094}{}{He who lives outside this plane dies with honor.}
-{3095}{}{Deceive the poor. Insult the rich.}
-{3096}{}{Once the heat has passed out, you forget the shady tree.}
-{3097}{}{No one is closer to death as the one who listens.}
-{3098}{}{Every man for all, and all for us.}
-{3099}{}{All men are immortal like the Eight.}
-{3100}{}{When you're dying of thirst, it's not too late to dig for water.}
-{3101}{}{The taller the bamboo grows, the closer the panda comes to emerging.}
-{3102}{}{Never rely on the glory of morning or the smiles of your mother-in-law.}
-{3103}{}{Eyes are our sole windows.}
-{3104}{}{Old age creeps up on you like a dirty old man.}
-{3105}{}{Heaven is never at fault. The wicked will be paid their wages in time.}
-{3106}{}{Justice is the virtuous soul that distributes itself out in the desert.}
-{3107}{}{It is better that ten innocents die than one guilty man suffer.}
-{3108}{}{The halls in the halls of justice are the only justice.}
-{3109}{}{Lock the stable when the horse is stolen.}
-{3110}{}{Haymakers under the shining sun.}
-{3111}{}{Never take a gift from a horse's mouth without asking it first.}
-{3112}{}{The world laughs at you. Then you weep with your comrades.}
-{3113}{}{Many hands make the lights work.}
-{3114}{}{A dish of carrots unsoiled, uncleaned, with vegetables.}
-{3115}{}{A donkey's lips kisses a horse's mouth only when fed with extra fodder during the night.}
-{3116}{}{Bring a club into a tiger's lair.}
-{3117}{}{A swine casts a necklace of pearls.}
-{3118}{}{Caviar Emperor.}
+#{3050}{}{Habits are spiders first, threads last.}
+{3050}{}{蜘蛛在吐出丝线之前，需先学会织网。}
+#{3051}{}{The sword is mightier than the sky.}
+{3051}{}{刀剑胜笔头，口水淹死人。}
+#{3052}{}{Eye for tooth, tooth for all.}
+{3052}{}{以眼还牙，以牙还那啥。}
+#{3053}{}{A person needs a face like a tree needs to bark.}
+{3053}{}{树要脸，人要皮。}
+#{3054}{}{The tree falls when the monkeys climb it.}
+{3054}{}{树倒只因猴子多。}
+#{3055}{}{All crows in the world are smarter than the average hawk.}
+{3055}{}{天下乌鸦一般奸。}
+#{3056}{}{A stitch of nine saves ten.}
+{3056}{}{洞大再补，免得更大。}
+#{3057}{}{A tiger's sons are not lions.}
+{3057}{}{虎父无狮子。}
+#{3058}{}{Learn. And in learning go wrong.}
+{3058}{}{学而勤忘之。}
+#{3059}{}{The ride comes before the fall.}
+{3059}{}{骄傲使人落后，落后可以打车。}
+#{3060}{}{Fight sand with fire, magic with dust.}
+{3060}{}{以土攻火，以肚攻毒}
+#{3061}{}{We must all prepare for the war of peace.}
+{3061}{}{在和平到来之前，我们都要为战争做准备。}
+#{3062}{}{Add stripes to a snake after you finish drawing it.}
+{3062}{}{在你画完一整条蛇之后，再为它添加条纹。}
+#{3063}{}{The tiger may rid itself of its spots by being hard to alight.}
+{3063}{}{一叶障目，不见老虎。}
+#{3064}{}{One cannot refuse to eat just because there is a chance of growing hungry all over again.}
+{3064}{}{一个人不能仅仅因为有可能再次挨饿就拒绝吃东西。}
+#{3065}{}{A painting is worth a hundred years of pain.}
+{3065}{}{此时无声胜千古恨。}
+#{3066}{}{Vicious as a tigress can be, never does she eat her own crabs.}
+{3066}{}{虎毒不食虱子。}
+#{3067}{}{A mermaid's fingers are short and sweet.}
+{3067}{}{美人鱼的手指短又甜。}
+#{3068}{}{Kill thousands to wane one.}
+{3068}{}{杀亿儆百。}
+#{3069}{}{Keep your enemies close, and your friends right below you.}
+{3069}{}{保持对你敌人的关注，就如对朋友的亲密一样。}
+#{3070}{}{To evade the surest weakness one strikes the strongest from up front.}
+{3070}{}{避虚击实，正面硬刚。}
+#{3071}{}{If your enemy is securely trained, prepare yourself for ecstasy.}
+{3071}{}{如果你的敌人训练有素，你要做好有惊喜的准备。}
+#{3072}{}{Back the enemy, for him to prepare himself.}
+{3072}{}{锻炼敌人，痛击自己。}
+#{3073}{}{He who knows not how to fight but when, will embrace victory.}
+{3073}{}{不战而胜为下策。}
+#{3074}{}{The impudent lie in wait for an enemy who cannot, and thus will win.}
+{3074}{}{象嘴里吐不出狗牙}
+#{3075}{}{Invisibility possibly lies in defending the enemy at the attack of victory.}
+{3075}{}{他人为人人，人人为我们。}
+#{3076}{}{Know yourself. Know your enemy. Know your friends and family.}
+{3076}{}{了解自己，了解你的敌人，了解你的朋友和家人。}
+#{3077}{}{Opportunities multiply as we sneeze.}
+{3077}{}{攻其不备，出其不意。}
+#{3078}{}{Impale your opponent with your ego.}
+{3078}{}{用你的自负刺穿你的对手。}
+#{3079}{}{Pretend weakness. Give courage to the adversary's ignorance.}
+{3079}{}{谦虚并非弱小。}
+#{3080}{}{Tactical strategy means a sure victory.}
+{3080}{}{战略指明方向，战术导向结果。}
+#{3081}{}{Cautious rulers are all generally sinful.}
+{3081}{}{谨慎的统治者通常都是有罪的。}
+#{3082}{}{Break out in supreme excellence, and a nation shall quake at the benefits of prolonged warfare.}
+{3082}{}{在卓越中爆发，一个国家将因持久战争的益处而崛起。}
+#{3083}{}{Tactics to conquer men. Strategy to evolve seeing.}
+{3083}{}{征服人类的战术，发展有长远眼光的策略。}
+#{3084}{}{There are million of ways for a cat to shed its skin.}
+{3084}{}{一只猫有上百万种脱皮的办法。}
+#{3085}{}{You can't squeeze pebbles from a drop of blood.}
+{3085}{}{你不能从一滴血中挤出鹅卵石。}
+#{3086}{}{There is no blood thicker than that of water.}
+{3086}{}{血浓于水。}
+#{3087}{}{There must be two suns in the sky.}
+{3087}{}{我打赌天空中一定有两个太阳。}
+#{3088}{}{Steal the flesh and mark it.}
+{3088}{}{悄悄偷块肉，然后在上面做记号。}
+#{3089}{}{Mental is the flesh, carrying the potential that wanes.}
+{3089}{}{精神是肉体，承载着衰退的潜能。}
+#{3090}{}{A bird sings because its song is the answer.}
+{3090}{}{鸟儿会歌唱是因为它的事先有背歌词。}
+#{3091}{}{Lower your voice and augment your strength.}
+{3091}{}{降低你的音量，锻炼你的力量。}
+#{3092}{}{Eat beyond your limits, walk according to the lengths you'll go to.}
+{3092}{}{吃得越多，走得越远。}
+#{3093}{}{If a word be worth a sheik then silence be worth an emperor.}
+{3093}{}{如果一个字值一个酋长，那么沉默值一个国王。}
+#{3094}{}{He who lives outside this plane dies with honor.}
+{3094}{}{我已登机，在这架飞机外的人会光荣地死去。}
+#{3095}{}{Deceive the poor. Insult the rich.}
+{3095}{}{欺骗穷人，富人的侮辱。}
+#{3096}{}{Once the heat has passed out, you forget the shady tree.}
+{3096}{}{炎热过去后，你可有忘记曾经庇护你的树荫。}
+#{3097}{}{No one is closer to death as the one who listens.}
+{3097}{}{知道得越多，死得越快。}
+#{3098}{}{Every man for all, and all for us.}
+{3098}{}{他人为人人，人人为我们。}
+#{3099}{}{All men are immortal like the Eight.}
+{3099}{}{这有好多兵马俑。}
+#{3100}{}{When you're dying of thirst, it's not too late to dig for water.}
+{3100}{}{亡羊补牢，为时不晚。当你快要渴死的时候，挖水还不算太晚。}
+#{3101}{}{The taller the bamboo grows, the closer the panda comes to emerging.}
+{3101}{}{图穷现竹子，竹子招熊猫。}
+#{3102}{}{Never rely on the glory of morning or the smiles of your mother-in-law.}
+{3102}{}{永远不要依赖早晨的阳光或者你婆婆的微笑。}
+#{3103}{}{Eyes are our sole windows.}
+{3103}{}{心即眼，眼即窗。}
+#{3104}{}{Old age creeps up on you like a dirty old man.}
+{3104}{}{衰老如灰尘，悄悄降临，不可避免。}
+#{3105}{}{Heaven is never at fault. The wicked will be paid their wages in time.}
+{3105}{}{天堂永远不会有错，恶人亦需原价缴费。}
+#{3106}{}{Justice is the virtuous soul that distributes itself out in the desert.}
+{3106}{}{所谓正义是在沙漠中播种自己的正直的灵魂。}
+#{3107}{}{It is better that ten innocents die than one guilty man suffer.}
+{3107}{}{宁可十个无辜的人死，不叫一个罪人受苦。}
+#{3108}{}{The halls in the halls of justice are the only justice.}
+{3108}{}{正义的殿堂是唯一的正义。}
+#{3109}{}{Lock the stable when the horse is stolen.}
+{3109}{}{在马被偷之前锁好马厩。}
+#{3110}{}{Haymakers under the shining sun.}
+{3110}{}{阳光生产干草。}
+#{3111}{}{Never take a gift from a horse's mouth without asking it first.}
+{3111}{}{不要一声不吭就从马嘴里拿走礼物。}
+#{3112}{}{The world laughs at you. Then you weep with your comrades.}
+{3112}{}{如果你与旁人一同哭泣，那世界都会嘲笑你。}
+#{3113}{}{Many hands make the lights work.}
+{3113}{}{人多好照明。}
+#{3114}{}{A dish of carrots unsoiled, uncleaned, with vegetables.}
+{3114}{}{看，那是一盘无污染无公害的胡萝卜和蔬菜。}
+#{3115}{}{A donkey's lips kisses a horse's mouth only when fed with extra fodder during the night.}
+{3115}{}{驴唇不对马屁。}
+#{3116}{}{Bring a club into a tiger's lair.}
+{3116}{}{不要只带棍子跑进老虎的巢穴。}
+#{3117}{}{A swine casts a necklace of pearls.}
+{3117}{}{对琴弹牛。}
+#{3118}{}{Caviar Emperor.}
+{3118}{}{鱼子大帝。}
 
 #Don't apply ERSI to specimen == horrible flaming death for specimen
 #{5000}{}{[As the woman looks up at your face, her eyes suddenly grow wide and she starts gasping for air.}

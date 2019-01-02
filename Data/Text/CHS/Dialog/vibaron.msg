@@ -19,7 +19,7 @@
 
 
 #{210}{}{I think your mom might've bounced you on your head a couple times. Now, do you want to trade, or not? I'm a busy man.}
-{210}{}{我想你出生的时候可能头撞到地板上不止一次。现在，你想不想交易？我很忙。}
+{210}{}{我想你出生的时候头撞到地板上可能不止一次。现在，你想不想交易？我很忙。}
 
 
 #{220}{}{Alright. Anything else?}
@@ -36,7 +36,7 @@
 #{232}{}{Yes, I am.}
 #{233}{}{It's not a shit-hole. They're a struggling community that's making some real progress.}
 
-{230}{}{[他额头上的皱纹折了起来]村庄吗？这附近那里来的村庄……哦！你是在说那个满是老鼠屎的难民营吗？}
+{230}{}{[他额头上的皱纹折了起来]村庄吗？这附近那里来的村庄...哦！你是在说那个满是老鼠屎的难民营吗？}
 {231}{}{呃，也许。}
 {232}{}{是的。}
 {233}{}{不是难民营拉，他们是一个很努力求生存的社区，而且现在他们也开始有一些进展了。}
@@ -47,7 +47,7 @@
 #{242}{}{Oh, come on, it's not that far out of your way. You pretty much pass right by it.}
 #{243}{}{Is there *any* way I could get you to change your mind?}
 
-{240}{}{听着，我已经见过他们了。那个地方实在太小了，我懒得管，再说，那地方臭气熏天。}
+{240}{}{听着，我已经见过他们了。那个地方实在太小了，我懒得管，再说，那个地方臭气熏天。}
 {241}{}{好吧，我们已经谈过了，再见。}
 {242}{}{别这样，那里离你的固定路线其实不远，你顺道过去一下就可以了。}
 {243}{}{有什么可以让你改变你的想法吗？}
@@ -70,9 +70,9 @@
 #{260}{}{So what if I do? I don't care if it's only a *minute* out of my way, it's just not worth the hassle.}
 #{261}{}{Alright. I see it's useless to reason with you. Bye.}
 #{262}{}{Is there *any* way I could get you to change your mind?}
-#{263}{}{That's too bad, because a smart merchant would jump on this opportunity. But hey, if you're not interested, I suppose I'll have to go elsewhere……}
+#{263}{}{That's too bad, because a smart merchant would jump on this opportunity. But hey, if you're not interested, I suppose I'll have to go elsewhere...}
 
-{260}{}{为什么我要做呢？ 我不在乎是不是只*花几分钟*时间，是因为那地方不值得这么麻烦。}
+{260}{}{为什么我要做呢？ 我不在乎是不是只*花几分钟*时间，是因为那个地方不值得这么麻烦。}
 {261}{}{好吧，我看跟你讲道理是没有用的，再见。}
 {262}{}{有什么方法可以让你改变你的想法吗？}
 {263}{}{那太糟糕了，因为聪明的商人总会懂得抓住机会的。如果你不感兴趣的话，我想我去找别人谈好了。}
@@ -81,7 +81,7 @@
 #{270}{}{Now just hold on a moment. I didn't say for certain that I wasn't interested. What's this opportunity you speak of?}
 #{271}{}{You see, that village might not be much to look at now, but I've got some insider information that all but guarantees that place is going to be the new hot spot. Trust me, it's going to be booming in the coming years. So if I were you, I'd want to build up relations now, before they get too big and you miss your chance.}
 
-{270}{}{等一下，我并没有说我不感兴趣。你说的这个机会是什么?}
+{270}{}{等一下，我并没有说我不感兴趣。你说的这个机会是什么？}
 {271}{}{你看，那个村庄现在确实不怎么样，但我有一些内部消息，几乎可以保证那个地方将成为新的热点。相信我，在未来的几年里，它将会蓬勃发展。所以，如果我是你，我现在就会和他们建立关系，如果村子扩展到让其它商队注意上了，那你就没什么机会了。}
 
 #{280}{}{Haha! You expect me to believe that shit-hole is going to turn into something worthwhile? I think I'm about done wasting my time with you.}
@@ -109,7 +109,7 @@
 #{304}{}{You make that village a regular stop on your route, and in return, my wife here will show you a good time you'll never forget.}
 #{305}{}{Actually, never mind. Bye.}
 
-{300}{}{[他似乎在考虑你的问题]你的要求是什么?}
+{300}{}{[他似乎在考虑你的问题]你的要求是什么？}
 {301}{}{你把那个村庄加到你的经商路线上，作为回报，我将付给你$500。}
 {302}{}{你把那个村庄加到你的经商路线上，作为回报，我将尽我所能确保你的车队不会发生"不幸"。}
 {303}{}{你把那个村庄加到你的经商路线上，作为回报。作为回报，我将向你展示你永远不会忘记的美好时光。}
@@ -149,7 +149,7 @@
 #{341}{}{Bring it on!}
 
 {340}{}{你在威胁我吗？没有人可以威胁我和我的生命！[对他的商队卫兵]杀了这该死的混蛋！}
-{341}{}{放马过来!}
+{341}{}{放马过来！}
 
 
 #{350}{}{Look, I don't want any trouble. If you want me to swing by and trade with that village, fine, no big deal. Hell, it's hardly even out of my way. No problem.}
@@ -170,7 +170,7 @@
 #{364}{}{[Bury your ugly face in your hands and run away crying.]}
 
 {360}{}{我宁愿去干一头双头牛，现在离开这里，别再浪费我的时间。}
-{361}{}{去你妈的,混蛋！[攻击]}
+{361}{}{去你妈的，混蛋！[攻击]}
 {362}{}{很好，但是你可以直接说不，不需要做一个混蛋。}
 {363}{}{你不知道你错过了什么。}
 {364}{}{[把你的脸埋在你的手里，哭着跑掉]}
@@ -181,7 +181,7 @@
 #{372}{}{You make that village a regular stop on your route, and in return, I'll do my part to ensure nothing "unfortunate" happens to your caravan.}
 #{373}{}{Nope. Bye.}
 
-{370}{}{嗯，抱歉，女孩。我只是没心情，你还有什么事吗?}
+{370}{}{嗯，抱歉，女孩。我只是没心情，你还有什么事吗？}
 {371}{}{你把那个村庄加到你的经商路线上，作为回报，我将付给你$500。}
 {372}{}{你把那个村庄加到你的经商路线上，作为回报，作为回报，我将尽我所能确保你的车队不会发生"不幸"。}
 {373}{}{没什么事，再见。}
@@ -191,7 +191,7 @@
 #{382}{}{You'll just have to find out, won't you?}
 #{383}{}{Ugh! Hell no! Now let's hurry up and get this over with before I puke.}
 
-{380}{}{[他上下打量你，然后呢嘴笑] 我想我们能达成协议了，你的后门准备好了吗？宝贝。}
+{380}{}{[他上下打量你，然后邪恶的笑了] 我想我们能达成协议了，你的后门准备好了吗？宝贝。}
 {381}{}{宝贝，我能以任何你想要的方式去做。}
 {382}{}{你得自己找到答案，你知道的。}
 {383}{}{啊！现在让我们抓紧时间，在我吐出来之前把这件事做完吧。}
@@ -215,7 +215,7 @@
 #{403}{}{[Check your weapons while you wait.]}
 #{404}{}{[Stand there silently and make awkward eye contact with the caravan guards while you listen to the sounds of your wife being defiled by the merchant master.]}
 
-{400}{}{[他把麦丽雅上上下下打量了一番，然后呢嘴笑了]我想我们已经达成了协议[他握了握你的手，然后搂着麦丽雅到一个远点的地方]。}
+{400}{}{[他把麦丽雅上上下下打量了一番，然后邪恶的笑了]我想我们已经达成了协议[他握了握你的手，然后搂着麦丽雅到一个远点的地方]。}
 {401}{}{[等待的时候，拍拍你的鞋子]}
 {402}{}{[吹口哨等待]}
 {403}{}{[检查你的武器，安心等待]}
@@ -228,7 +228,7 @@
 #{412}{}{Anytime. Bye.}
 #{413}{}{Bye.}
 
-{410}{}{[一小时后，你看到罗伯特·巴伦和麦丽雅汗流浃背地走过来了。你发现麦丽雅走路有点跛，商人在扣上皮带时对你呢嘴一笑]天啊，你真懂得讨价还价。如果下次你需要说服一个商人去做别的事情，你一定要去找我。现在我真的要走了，和你做生意是一件愉快的事。}
+{410}{}{[一小时后，你看到罗伯特·巴伦和麦丽雅汗流浃背地走过来了。你发现麦丽雅走路有点跛，商人在扣上皮带时对你狡黠一笑]天啊，你真懂得讨价还价。如果下次你需要说服一个商人去做别的事情，你一定要去找我。现在我真的要走了，和你做生意是一件愉快的事。}
 {411}{}{无论如何，再见。}
 {412}{}{任何时候，再见。}
 {413}{}{再见。}

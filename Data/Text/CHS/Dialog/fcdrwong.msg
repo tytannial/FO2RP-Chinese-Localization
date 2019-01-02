@@ -8,9 +8,9 @@
 {107}{}{你是谁？}
 {108}{}{你在这里是干什么的？}
 {109}{}{不，谢谢。就这样。}
-{110}{}{我一定要承认，我不会说你的话。你应该要与李健谈谈，他会说各种不同的语言。}
+{110}{}{我一定要承认，我不会说你的语言。你应该要与李健谈谈，他会说各种不同的语言。}
 {111}{}{啊！}
-{112}{}{我是王博士。我是这里的主管科学家。}
+{112}{}{我是王博士，我是这里的主管科学家。}
 {113}{}{更多的问题。}
 {114}{}{谢谢，再见。}
 {115}{}{我是负责监督这里科学实验的人。我也是负责这里电脑网络的人。}
@@ -22,7 +22,7 @@
 {121}{}{好，好。我还有其它的问题。}
 {122}{}{谢谢。再见。}
 {123}{}{如果我用一把枪指着你逼你跟我说呢？}
-{124}{}{如果你是说如何侵入电脑的话，你说我会不会找人把你杀了的呢？}
+{124}{}{如果你是说如何侵入电脑的话，你猜我会不会找人把你杀了呢？}
 {125}{}{你不会真的把我杀掉了吧？}
 {126}{}{也就是说你对我进入电脑不反对？}
 {127}{}{我还有一些问题。}
@@ -34,35 +34,35 @@
 {133}{}{嗯，对。对于我进入电脑，你会反对吗？}
 {134}{}{对。我还有一些其它的问题。}
 {135}{}{再见。}
-{136}{}{如果你有办法说服我的手下让你进去的话..}
+{136}{}{如果你有办法说服我的守卫让你进去的话...}
 {137}{}{如果我用一把枪指着你呢？}
 {138}{}{很好。我还有更多的问题。}
 {139}{}{嗯。我知道了，再见。}
 {140}{}{嗯，对！}
 {141}{}{你还有吗？很好，基特需要它。}
-{142}{}{那是一个人的脾脏啊，你这疯子！}
-{143}{}{你知道那酒是要配肝，而不是脾脏的，对不对？}
+{142}{}{那是一个人的脾脏啊，你这个疯子！}
+{143}{}{你知道那种酒是要配肝，而不是脾脏的，对不对？}
 {144}{}{你知道那是一个人的脾脏，对不对。}
-{145}{}{谁是基德啊？现在那是我的脾脏了，我要把它当晚餐吃了。}
-{146}{}{基德是那脾脏原来的主人。他喝醉了并且把它不小心卖给了朱流。}
-{147}{}{他需要那脾脏才能够活下去，你知道吗？那是从他的身体里活生生取出来的。}
+{145}{}{谁是基德啊？现在那是我的脾脏了，我要把它配点豆子和葡萄酒，作为晚餐吃了。}
+{146}{}{基德是那个脾脏原来的主人。他喝醉了并且把它不小心卖给了朱流。}
+{147}{}{他需要那个脾脏才能够活下去，你知道吗？那是从他的身体里活生生取出来的。}
 {148}{}{那我看我把你杀了之后再把它取回去好了。}
-{149}{}{卖了就是卖了。他不能拿回去了。抱歉，基德只好没有脾了。}
+{149}{}{卖了就是卖了。他不能拿回去了。抱歉，基德只好没有脾脏了。}
 {150}{}{[更多]}
 {151}{}{那是一个人的脾脏？朱流并没有跟我说呀！}
 {152}{}{不过由于你那样的不客气，我决定拿它来做实验。}
 {153}{}{告诉你的朋友叫他在明天之前来，我会很高兴的还他的。我希望你能够及时的把它装回去。}
 {154}{}{很好。}
-{155}{}{哈哈！我也看过那部电影。等一下..你在说什么？你是说..？}
+{155}{}{哈哈！我也看过那部电影。等一下...你在说什么？你是说...？}
 {156}{}{是的，那是一个人的脾脏。}
 {157}{}{事实上，你这个人态度很不好，因此我不跟你说话了。再见。}
 {158}{}{[完成]}
-{159}{}{啊！卫兵！有个老外入侵者在这里！}
+{159}{}{啊！卫兵！有个“老外”入侵者在这里！}
 {160}{}{你有什么设计图要给我吗？}
 {161}{}{李健叫我马上将这些东西给你。}
 {162}{}{是的，我应该到那里拿？}
 {163}{}{不，还没有。}
-{164}{}{去与李健谈，他会告诉你，你未来会发生什么事的。谢谢你，运用这些我们应该能够确定我们的实验资料的。再见。}
+{164}{}{去与李健谈，他会告诉你，你未来会发生什么事的。谢谢你，利用这些资料，我们应该能够确保我们的实验成功。再见。}
 {165}{}{我还有一些问题。}
 {166}{}{再见。}
 
@@ -83,7 +83,7 @@
 
 
 #{205}{}{That's nice, but I found it, so if you want it back, then it's going to cost you.}
-#{206}{}{I don't have time for this……Guards!}
+#{206}{}{I don't have time for this...Guards!}
 #{207}{}{[The man looks like he is about to yell, then calms down.] Fine. Here is $500. More than enough for something that always belonged to us. Now leave, I'm a busy man.}
 #{208}{}{Pleasure doing business with you. Bye.}
 #{209}{}{Oh, shit!}
@@ -91,10 +91,10 @@
 
 
 {205}{}{很好，但这是我找到的，所以如果你想要它回来，你就需要给我报酬。}
-{206}{}{我没有时间和你在这里废话……警卫！}
+{206}{}{我没有时间和你在这里废话...警卫！}
 {207}{}{[这个男人看起来就要大喊大叫了，然后平静下来]好，这里是$500。为了让我们拥有属于自己的东西，现在走吧，我很忙。}
 {208}{}{和你做生意很愉快，再见。}
-{209}{}{喔, 狗屎！}
+{209}{}{喔，狗屎！}
 {210}{}{让我开始跳舞吧！}
 
 
@@ -115,7 +115,7 @@
 #{241}{}{Oh, you must be smelling this body I found. I'm not really sure why I'm carrying it around, to be honest.}
 #{242}{}{Huh-huh! [You pull out the decomposing corpse] Stinky body! U want?}
 
-{240}{}{[他吸着鼻子] 那是什么味道？象死尸[他看着你，皱起了眉毛]}
+{240}{}{[他吸着鼻子] 那是什么味道？像死尸[他看着你，皱起了眉毛]}
 {241}{}{哦，你闻到的一定是我找到的这具尸体。老实说，我也不太清楚为什么要随身带着它。}
 {242}{}{[你把腐烂的尸体拉出来]一个惊喜！一具腐烂的尸体！你想要这个？}
 
@@ -126,8 +126,8 @@
 #{253}{}{Me hoard tings. Me hide it.}
 
 {250}{}{等等，这是Xeno项目的标本！我的前任在这个问题上投入了大量的资金，虽然他现在已经不在了，但当这个标本失踪的时候，我感到很痛苦。这个标本对我们仍有一些用处，谢谢您！}
-{251}{}{不，我不要，等等，这是Xeno项目的主题！我的前任在这个问题上投入了大量的资金[他注视着你眼睛]，嗯，我的意思是，谢谢你把它带回来，再见!}
-{252}{}{再见! }
+{251}{}{不，我不要，等等，这是Xeno项目的主题！我的前任在这个问题上投入了大量的资金[他注视着你眼睛]，嗯，我的意思是，谢谢你把它带回来，再见！}
+{252}{}{再见！ }
 {253}{}{不，这东西是我的。}
 
 #bio specimen end
@@ -135,7 +135,7 @@
 #dr sheng begin
 #{300}{}{So what's the deal with this Dr. Sheng?}
 
-{300}{}{关于申博士，你能告诉我些什么?}
+{300}{}{关于申博士，你能告诉我些什么？}
 
 #{310}{}{How do you know about Dr. Sheng? Eh, I suppose it doesn't matter. Dr. Sheng Ming was a brilliant, but rather unpleasant man who served as my predecessor. He is no longer of any great relevance here.}
 #{311}{}{Well if he's not relevant to you, then why should *I* care? Let me ask you something else.}
@@ -143,7 +143,7 @@
 
 {310}{}{你怎么知道申博士的事的？这和你没关系，申明博士是一位才华横溢但相当令人不愉快的人。他是我的前任，他在这里已不再重要了。}
 {311}{}{嗯，如果你不愿意说，那*我*为什么要关心你呢？让我问你一些别的问题。}
-{312}{}{他发生了什么事?}
+{312}{}{他发生了什么事？}
 
 #{320}{}{What happened? I'd say he lost his mind. During his experiments he stumbled upon something which I admit was rather remarkable, but it was also extremely dangerous and in no way related to the goals of the Shi. But that did not matter to Dr. Sheng. He became obsessed with his creation and since his experiments were deemed too dangerous to continue here, he decided to take them elsewhere. He left on sabbatical and never returned. That is when I stepped up to fill his position.}
 #{321}{}{What kind of experiments was Dr. Sheng performing? And what exactly was his big discovery?}
@@ -151,7 +151,7 @@
 
 {320}{}{发生了什么事？我得说他疯了。在他的实验中，他偶然发现了一些我承认是相当了不起的东西，但它也极其危险，而且与始族的目标毫无关系。但这对申博士来说并不重要，他开始沉迷于自己的创作，因为他的实验被认为太危险，不能继续在这里进行下去，所以他决定把它们带到别处。前段时间他在休假时彻底失踪了，再也没有回来。在这个时候，我挺身而出，填补了他的职位。}
 {321}{}{申博士在实验里发现了什么？}
-{322}{}{那么，申博士现在在哪里?}
+{322}{}{那么，申博士现在在哪里？}
 
 
 #{330}{}{As a man of science, I respect your inquisitive nature. However, I'm afraid I am not willing to share the secrets of the Shi with you, stranger.}
@@ -175,10 +175,10 @@
 #{352}{}{I think I'd like follow up on this Dr. Sheng guy. Could you give me his last known location?}
 #{353}{}{Well, that's that. Let me ask you something else.}
 
-{350}{}{申博士最后被护送到南方，离这里一天左右的路程，如果我没记错的话，他在一些被遗弃的房子里住了下来。他的假斯本应该是一个月，但时间已经很长了，我们也没有再收到他的信息。如果我没猜错的话，我打赌他要么被自己的创造物摧毁了，要么已经死在废土上的各种危险中。}
+{350}{}{申博士最后被护送到南方，离这里一天左右的路程，如果我没记错的话，他在一些被遗弃的房子里住了下来。他的假期本应该是一个月，但时间已经很长了，我们也没有再收到他的信息。如果我没猜错的话，我打赌他要么被自己的创造物摧毁了，要么已经死在废土上的各种危险中。}
 {351}{}{你们当中的一个科学家可能已经死了，你不关心吗？你甚至不打算去看他？}
-{352}{}{我想我想要跟踪这个生博士。你能告诉我他最后的位置吗？}
-{353}{}{嗯,就是这样。让我问你一些别的问题。}
+{352}{}{我想我想要跟踪这个申博士。你能告诉我他最后的位置吗？}
+{353}{}{嗯，就是这样。让我问你一些别的问题。}
 
 
 
@@ -187,14 +187,14 @@
 #{362}{}{I see. Let me ask you something else.}
 
 {360}{}{你必须原谅我对这件事在表面上如此麻木不仁。事实上，申博士在这里不是很受欢迎，我相信我们中的任何一个人都不会对他有丝毫的思念。}
-{361}{}{我想找到这个申博士，你能告诉我他最后的位置吗?}
+{361}{}{我想找到这个申博士，你能告诉我他最后的位置吗？}
 {362}{}{我明白了，让我问你一些别的问题。}
 
-#{370}{}{I suppose I could…… I must admit I am somewhat curious to learn of his fate. Here, I'll mark Dr. Sheng's last known location on your mapping device. But I must warn you that it could prove to be highly dangerous. Of course, it is always dangerous out there in the wastes. Anyway, if you find something of interest, do let me know.}
+#{370}{}{I suppose I could... I must admit I am somewhat curious to learn of his fate. Here, I'll mark Dr. Sheng's last known location on your mapping device. But I must warn you that it could prove to be highly dangerous. Of course, it is always dangerous out there in the wastes. Anyway, if you find something of interest, do let me know.}
 #{371}{}{Thanks, I'll do that. Bye.}
 #{372}{}{Let me ask you something else.}
 
-{370}{}{我想我可以……我必须承认，在科学研究的角度，我有点想知道他的命运。我会在你的地图设备上标记申博士最后的位置。但我必须警告你，你接近那里可能是非常危险的。当然，在废土中什么地方都是很危险的，但不管怎样，如果你有什么发现，一定要告诉我。}
+{370}{}{我想我可以...我必须承认，在科学研究的角度，我有点想知道他的命运。我会在你的地图设备上标记申博士最后的位置。但我必须警告你，你接近那里可能是非常危险的。当然，在废土中什么地方都是很危险的，但不管怎样，如果你有什么发现，一定要告诉我。}
 {371}{}{谢谢，我会的，再见。}
 {372}{}{让我问你一些别的事情。}
 
@@ -203,20 +203,20 @@
 
 {380}{}{申博士他还活着，他创造了一种植物，可以扎根并控制人类的尸体。}
 
-#{390}{}{So he has achieved some success with his Xeno Project. How fascinating …… and disturbing. We put an end to his sentient plant experiments here after we lost one our techs. When he left to continue his research, I assumed he'd fall victim to his own creations. Has he managed to assume some form of control over them?}
+#{390}{}{So he has achieved some success with his Xeno Project. How fascinating ... and disturbing. We put an end to his sentient plant experiments here after we lost one our techs. When he left to continue his research, I assumed he'd fall victim to his own creations. Has he managed to assume some form of control over them?}
 #{391}{}{Yeah, some of them seem to be subservient. They even refer to him as 'master.'}
 
-{390}{}{所以他的Xeno项目取得了一些成功，多么的迷人……和让人不安。在我们失去了一个技术人员之后，我们结束了他在这里的植物实验。当他离开去继续他的研究时，我认为他会成为他自己创作的牺牲品……他有没有想办法对这些东西进行某种形式的控制？}
+{390}{}{所以他的Xeno项目取得了一些成功，多么的迷人...和让人不安。在我们失去了一个技术人员之后，我们结束了他在这里的植物实验。当他离开去继续他的研究时，我认为他会成为他自己创作的牺牲品...他有没有想办法对这些东西进行某种形式的控制？}
 {391}{}{在我看来应该是有的，他们甚至称他为"主人"。}
 
 
-#{400}{}{Hmm…… If he were to somehow establish an army of those plant-creatures, that would not bode well for the Shi. I was hoping it wouldn't come to this, but it seems we have no choice but to ensure that Dr. Sheng and his experiments are eliminated. Since he trusts you enough to allow you get close to him, you are the best candidate. Is that something you'd be willing to do? You would be compensated, of course.}
+#{400}{}{Hmm... If he were to somehow establish an army of those plant-creatures, that would not bode well for the Shi. I was hoping it wouldn't come to this, but it seems we have no choice but to ensure that Dr. Sheng and his experiments are eliminated. Since he trusts you enough to allow you get close to him, you are the best candidate. Is that something you'd be willing to do? You would be compensated, of course.}
 #{401}{}{It'd be a pleasure. The guy and his whole operation creeps me out.}
 #{402}{}{What kind of compensation are we talking here?}
 #{403}{}{Not interested. Dr. Sheng's your problem—you guys can deal with him.}
 
-{400}{}{如果他以某种方式建立一个植物军队，这可能会意味着历史重演……。我本来希望不会出现这种情况，但似乎我们别无选择，只能确保申博士和他的实验被淘汰。既然他信任你，让你接近他，你就是最好的人选。你愿意做这件事吗？当然，这是有报酬的。}
-{401}{}{好，那家伙和他的糖浆人都使我毛骨悚然，我会去干这件事。}
+{400}{}{如果他以某种方式建立一个植物军队，这可能会意味着历史重演...。我本来希望不会出现这种情况，但似乎我们别无选择，只能确保申博士和他的实验被淘汰。既然他信任你，让你接近他，你就是最好的人选。你愿意做这件事吗？当然，这是有报酬的。}
+{401}{}{好，那个家伙和他的糖浆人都使我毛骨悚然，我会去干这件事。}
 {402}{}{会是什么样的报酬呢？}
 {403}{}{我不感兴趣，申博士是你们自己的问题。}
 
@@ -260,15 +260,15 @@
 
 
 
-#{450}{}{Our scouts have reported that Dr. Sheng and his experiments have been destroyed. Such a waste of a brilliant mind…… Anyway, you may claim your reward. Are you interested in weapons, supplies, or cash?}
-#{451}{}{Our scouts have reported that Dr. Sheng and his experiments have been destroyed. Such a waste of a brilliant mind…… Anyway, we never asked you to get so involved, but we are grateful. For your troubles, you may claim a reward. Are you interested in weapons, supplies, or cash?}
+#{450}{}{Our scouts have reported that Dr. Sheng and his experiments have been destroyed. Such a waste of a brilliant mind... Anyway, you may claim your reward. Are you interested in weapons, supplies, or cash?}
+#{451}{}{Our scouts have reported that Dr. Sheng and his experiments have been destroyed. Such a waste of a brilliant mind... Anyway, we never asked you to get so involved, but we are grateful. For your troubles, you may claim a reward. Are you interested in weapons, supplies, or cash?}
 #{452}{}{I'll take weapons.}
 #{453}{}{I could always use more supplies.}
 #{454}{}{Just give me money.}
 #{455}{}{Keep your reward. I only did it because it was the right thing to do.}
 
-{450}{}{我们的侦察兵报告说，申博士和他的实验已经被摧毁了。这样一个杰出的头脑……不管怎样，你可以得到你的报酬，你对武器、用品或现金感兴趣吗?}
-{451}{}{我们的侦察兵报告说，申博士和他的实验已经被摧毁了。这样一个杰出的头脑……不管怎样，我们非常感激。为了补偿你在这件事上的麻烦，你可以得到你的报酬，你对武器、用品或现金感兴趣吗?}
+{450}{}{我们的侦察兵报告说，申博士和他的实验已经被摧毁了。这样一个杰出的头脑...不管怎样，你可以得到你的报酬，你对武器、用品或现金感兴趣吗？}
+{451}{}{我们的侦察兵报告说，申博士和他的实验已经被摧毁了。这样一个杰出的头脑...不管怎样，我们非常感激。为了补偿你在这件事上的麻烦，你可以得到你的报酬，你对武器、用品或现金感兴趣吗？}
 {452}{}{[武器]}
 {453}{}{[补用品]}
 {454}{}{[钱]}
@@ -306,8 +306,8 @@
 #{502}{}{Dr. Sheng wanted me to give you this plant sample as a gift, but I thought I should warn you that it's infused with his sentience serum. I don't know what it's supposed to do, but I'm pretty sure it won't be good for the Shi.}
 
 {500}{}{在我走之前，申博士让我把这个植物样品给你。他说，它应该能帮助你达到制造防辐射植物生命的目标。}
-{501}{}{博士，商希望我把这个样品给你。他说，它应该能帮助你达到制造防辐射植物生命的目标。}
-{502}{}{博士，商希望我给你这个植物样品作为礼物，但我想警告这应该不是什么好礼物。我不知道它会发生什么，但我很确定它不会对始族有好处。}
+{501}{}{博士，申博士希望我把这个样品给你。他说，它应该能帮助你达到制造防辐射植物生命的目标。}
+{502}{}{博士，申博士希望我给你这个植物样品作为礼物，但我想警告这应该不是什么好礼物。我不知道它会发生什么，但我很确定它不会对始族有好处。}
 
 
 
@@ -348,7 +348,7 @@
 
 {540}{}{*心脏彭彭跳* Wahh.}
 {541}{}{Urgh.}
-{542}{}{王博士!}
+{542}{}{王博士！}
 
 #{600}{}{You eliminate Dr. Sheng for the Shi.}
 #{601}{}{You deliver the plant sample to Dr. Wong.}

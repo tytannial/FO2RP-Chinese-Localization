@@ -23,20 +23,20 @@
 #{210}{}{Whoa. That is some herb SUPERB.}
 #{211}{}{Okay, I'm just gonna lie down here for a while.}
 #{212}{}{You begin to feel VERY light headed.}
-#{213}{}{I am feeling really strange right now……}
-#{214}{}{……this must be how Hakunin feels in his garden.}
+#{213}{}{I am feeling really strange right now...}
+#{214}{}{...this must be how Hakunin feels in his garden.}
 #{215}{}{That was crazy. I feel better now though.}
-#{216}{}{Oh shit……}
+#{216}{}{Oh shit...}
 #{217}{}{You pass out.}
 #{218}{}{You wake up feeling dazed and confused.}
 
-{210}{}{哇，那是真一种好草药。}
+{210}{}{哇，那他妈真是一种好草药。}
 {211}{}{好的，我要在这里躺一会儿。}
 {212}{}{你开始感到头晕了。}
-{213}{}{我现在感觉很奇怪……}
-{214}{}{……这一定是哈库林在他的花园里的感觉。}
+{213}{}{我现在感觉很奇怪...}
+{214}{}{...这一定就是哈库林在他的花园里的感觉。}
 {215}{}{那真是疯狂，我现在感觉好多了。}
-{216}{}{啊，狗屎……}
+{216}{}{啊，狗屎...}
 {217}{}{你晕倒了。}
 {218}{}{你醒来的时候感到昏昏沉沉的。}
 

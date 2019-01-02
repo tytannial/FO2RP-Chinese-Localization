@@ -4,7 +4,7 @@
 #{103}{}{Where are you headed?}
 #{104}{}{What do you do?}
 #{105}{}{Ug.}
-#{106}{}{Well……I don't know. I'm pretty new to this area and I've only been to the following areas.}
+#{106}{}{Well...I don't know. I'm pretty new to this area and I've only been to the following areas.}
 #{107}{}{New Reno.}
 #{108}{}{Vault City.}
 #{109}{}{Redding.}
@@ -21,7 +21,7 @@
 {103}{}{你要去哪里？}
 {104}{}{你是怎么做到的？}
 {105}{}{呃.}
-{106}{}{嗯……我对这一带也不是很熟，我只去过以下几个地方。}
+{106}{}{嗯...我对这一带也不是很熟，我只去过以下几个地方。}
 {107}{}{[新里诺]}
 {108}{}{[地下掩体市]}
 {109}{}{[瑞丁]}
@@ -40,19 +40,19 @@
 #{117}{}{Thanks. Bye.}
 #{118}{}{Vault City -- now that's a city of morons. Grow an extra finger and they treat you like some kind of freak. Never been inside, but I know where it is.}
 #{119}{}{Thanks. Bye.}
-#{120}{}{Redding……I don't know much about it, other than it's an old mining town. It's located up north, right smack dab in the middle of some of meanest mountains you've ever seen.}
+#{120}{}{Redding...I don't know much about it, other than it's an old mining town. It's located up north, right smack dab in the middle of some of meanest mountains you've ever seen.}
 #{121}{}{Thanks. Bye.}
 #{122}{}{I'd stay away from the Den if I were you. It's a magnet for lowlifes of the area. I'll show you where it is, but I don't recommend you go there.}
 #{123}{}{Thanks. Bye.}
-#{124}{}{San Francisco. Um……all I can say is that the people there are……strange. It's located on the coast.}
+#{124}{}{San Francisco. Um...all I can say is that the people there are...strange. It's located on the coast.}
 #{125}{}{Thanks. Bye.}
-#{126}{}{The New California Republic……now there's a nice place. I'd like to settle down and live there some day. Clean, nice people, and very well maintained. It's located right here on your map.}
+#{126}{}{The New California Republic...now there's a nice place. I'd like to settle down and live there some day. Clean, nice people, and very well maintained. It's located right here on your map.}
 #{127}{}{Thanks. Bye.}
-#{128}{}{Yeah, a while back I came across an abandoned mining camp. Thought I'd rest there a day or two, but then wolves started showing up and I thought it best if I left. A shame, too; it looks like the miners left in a hurry. They left a lot of stuff behind. I'm not planning to go back, so I guess it's all right if I show you where it is.}
+#{128}{}{Yeah, a while back I came across an abandoned mining camp. Thought I'd rest there a day or two, but then wolves started showing up and I thought it best if I left. A shame, too；it looks like the miners left in a hurry. They left a lot of stuff behind. I'm not planning to go back, so I guess it's all right if I show you where it is.}
 #{129}{}{Thanks. Bye.}
 
 
-{116}{}{新里诺 -- 那是一个很棒的地方。性、毒品和赌博。一个人还能要求什么？来，让我告诉你它在哪儿。}
+{116}{}{新里诺 -- 那是一个很棒的地方。臀部、毒品和赌博。一个人还能要求什么？来，让我告诉你它在哪儿。}
 {117}{}{谢谢，再见。}
 {118}{}{地下掩体市 -- 那是一个白痴之城，你手指长得长一点，他们都有可能把你当成怪物。我从未进过里面，但我知道它在哪里。}
 {119}{}{谢谢，再见。}
@@ -60,7 +60,7 @@
 {121}{}{谢谢，再见。}
 {122}{}{丹恩 -- 如果我是你，我就远离丹恩。那里是各种下三滥的吸铁石。我会告诉你它在哪里，但我不建议你去那里。}
 {123}{}{谢谢，再见。}
-{124}{}{三番市 -- 嗯……我只能说那里的人很奇怪。它位于海岸上。}
+{124}{}{三番市 -- 嗯...我只能说那里的人很奇怪。它位于海岸上。}
 {125}{}{谢谢，再见。}
 {126}{}{新加州共和国 -- 现在是个好地方。我希望有一天能住在那里。干净，善良的人，而且维护得很好。现在我把它标在你的地图上。}
 {127}{}{谢谢，再见。}
@@ -73,10 +73,10 @@
 #{131}{}{Thanks. Bye.}
 
 {130}{}{旧设施 -- 我偶然发现了一个旧的设施，它看起来就像一个被遗弃的地方，而且看起来也很重要。所以我打赌它里面塞满了各种战前的神奇宝贝。但它的院子里到处都是吃人的植物，我把它标在你的地图上吧。}
-{131}{}{Thanks. Bye.}
+{131}{}{谢谢，再见。}
 
 
-#{132}{}{Oh……it doesn't really matter. I just decided to travel one day and well, here I am.}
+#{132}{}{Oh...it doesn't really matter. I just decided to travel one day and well, here I am.}
 #{133}{}{Maybe you can help me. I need some directions.}
 #{134}{}{What do you do?}
 #{135}{}{Nice talking to you.}
@@ -95,9 +95,9 @@
 #{148}{}{I've overstayed my welcome.}
 #{149}{}{I must depart.}
 
-{132}{}{哦……它并不重要。我决定去旅行一下，然后我就出发了。}
+{132}{}{哦...它并不重要。我决定去旅行一下，然后我就出发了。}
 {133}{}{也许你可以帮助我。我需要一些方向。}
-{134}{}{你会怎么做? }
+{134}{}{你会怎么做？}
 {135}{}{很高兴和你聊天。}
 {136}{}{我会在附近的城市做零工赚取我的旅费，但大多数时候我只是旅行。}
 {137}{}{也许你可以帮助我。我需要一些方向。}
@@ -107,7 +107,7 @@
 {141}{}{也许我们会再见面。}
 {142}{}{我想在夜幕降临前到达下一个城镇，我先走了。}
 {143}{}{我最好走吧。}
-{144}{}{伏击!}
+{144}{}{伏击！}
 {145}{}{现在不能相信任何人。}
 {146}{}{你已经破坏了旅行者的代码。}
 {147}{}{旅行时间。}

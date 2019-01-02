@@ -240,7 +240,7 @@
 {674}{}{我会尽力的。}          # F2: Used in PM: CombatAI settings
 {675}{}{我不能那样做。}   # F2: Used in PM: CombatAI settings
 {676}{}{我想我做不到。}   # F2: Used in PM: CombatAI settings
-{677}{}{嗷!}   # F2: Used in PM: CombatAI settings -- RoboDog
+{677}{}{Arf!}   # F2: Used in PM: CombatAI settings -- RoboDog
 {678}{}{汪！}  # F2: Used in PM: CombatAI settings -- RoboDog
 
 #

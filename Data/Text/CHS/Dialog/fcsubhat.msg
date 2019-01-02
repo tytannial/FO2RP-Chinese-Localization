@@ -20,7 +20,7 @@
 #{213}{}{The supermutant struggles to pull the hatch up. For a moment, it looks as if he was about to bust a gut, but
  just then, he rips it open, littering the tower with pieces of the broken lock.}
  
-{210}{}{嘿，马可世，你能帮我打开这个舱口吗?}
+{210}{}{嘿，马可世，你能帮我打开这个舱口吗？}
 {211}{}{当然，让开一点，给我腾出个地方来。}
 {212}{}{*hrrrgnnnr*}
 {213}{}{超级变种人脸涨得通红，头上冒出了青筋，你感觉马可世头都快要爆炸了。舱门和变种的人搏斗持续了好一会，就在你认为要失败的时候，嘭的一声，舱门被巨大的力量强行拉开了。}

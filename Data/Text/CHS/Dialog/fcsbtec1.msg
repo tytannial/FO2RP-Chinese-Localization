@@ -7,8 +7,8 @@
 #{151}{}{Are you some kind of spy?}
 
 #{200}{}{I hate working with this junk.}
-#{201}{}{Let's recalibrate this…… there.}
-#{202}{}{All those loose cables and no insulation in sight……}
+#{201}{}{Let's recalibrate this... there.}
+#{202}{}{All those loose cables and no insulation in sight...}
 #{203}{}{I hope I don't get electrocuted when recharging the generator.}
 
 #{300}{}{Hey, I'm busy here.}
@@ -19,11 +19,11 @@
 {101}{}{你看见一名始族潜艇技师。}
 
 {150}{}{你偷偷摸摸地想做什么？}
-{151}{}{你是间谍吗?}
+{151}{}{你是间谍吗？}
 
 {200}{}{我讨厌这个垃圾。}
-{201}{}{我们需要调整……这里。}
-{202}{}{检查那些松散的电缆有没有短路……}
+{201}{}{我们需要调整...这里。}
+{202}{}{检查那些松散的电缆有没有短路...}
 {203}{}{我希望在检查发电机的时候不会触电。}
 
 {300}{}{嘿，我这里很忙。}

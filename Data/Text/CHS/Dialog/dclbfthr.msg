@@ -13,16 +13,16 @@
 {105}{}{实际上我只是想说那个。认真的说，你知道你的孩子在哪吗？}
 #Actually yeah it is, but that's not important right now. Seriously though, do you know where your children are?
 {106}{}{是这样的，不过这不重要。认真的想想，你知道你的孩在哪吗？}
-#*hickup* I have children? *hickup* Oh yeah, I do. He..or is it she..*hickup* should be around here somewhere.
-{107}{}{*摇摇晃晃* 我有孩子？ *摇摇晃晃* 喔对，我有。 他或是她……*摇摇晃晃* 应该就在附近什么地方吧。}
+#*hickup* I have children? *hickup* Oh yeah, I do. He...or is it she...*hickup* should be around here somewhere.
+{107}{}{*摇摇晃晃* 我有孩子？ *摇摇晃晃* 喔对，我有。 他或是她...*摇摇晃晃* 应该就在附近什么地方吧。}
 #Wow, you're such a drunk. Well, good thing I am working on a way to get your child out of here.
 {108}{}{噢，你喝醉了。那好吧，好事是我正在想办法让你的孩子离开这。}
 #[Ignores what you just said.] Yeah that's great. *hickup* Now let me get back to this drink.
-{109}{}{[不理采你刚说了什么] 太棒了。 *摇摇晃晃* 让我再来一杯。}
+{109}{}{[不理睬你刚说了什么] 太棒了。 *摇摇晃晃* 让我再来一杯。}
 #You are a hero to all fathers out there. Keep it up!
 {110}{}{继续吧！}
-{111}{}{zzzZZZZzzz……}
-{112}{}{zZZZZzzZZzzz……}
+{111}{}{zzzZZZZzzz...}
+{112}{}{zZZZZzzZZzzz...}
 #*mumbles*
 {113}{}{*含糊的说着什么*}
 #Can't you see I'm drinking here? *hickup*
@@ -31,6 +31,6 @@
 {115}{}{别烦我。*摇摇晃晃*}
 
 #Actually it is a little before 11 O'clock, but that's not important right now. Seriously though, do you know where your children are?
-{116}{}{实际上是在11点以前，但是现在不重要了。说真的，你知道你的孩子在哪儿吗?}
+{116}{}{实际上现在还没到11点，但是现在不重要了。说句实在的，你知道你的孩子在哪儿吗？}
 #Actually it is a little past 11 O'clock, but that's not important right now. Seriously though, do you know where your children are?
-{117}{}{实际上是在11点以前，但是现在不重要了。说真的，你知道你的孩子在哪儿吗?}
+{117}{}{实际上现在已经过了11点了，但是现在不重要了。说句实在的，你知道你的孩子在哪儿吗？}

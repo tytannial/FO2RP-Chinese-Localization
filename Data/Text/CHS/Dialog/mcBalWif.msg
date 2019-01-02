@@ -1,7 +1,7 @@
 # Before Jonny Found
 {100}{}{哭-}
 {101}{}{乔尼}
-{102}{}{泣..}
+{102}{}{泣...}
 {103}{}{我好想我的儿子啊。}
 
 # Player accepts find Jonny Seed

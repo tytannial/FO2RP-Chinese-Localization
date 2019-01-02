@@ -19,7 +19,7 @@
 {118}{}{我不要待在这里。}
 {119}{}{你让我觉得好多了。}
 {120}{}{我要走了。}
-{121}{}{不，不是开玩笑。我最好在坏死之前把那条腿切下来。}
+{121}{}{不，这不是开玩笑。我最好在坏死之前把那条腿切下来。}
 {122}{}{我不能，不会，也不可能让你把我任何地方截掉，懂吗？}
 {123}{}{我受够了，我要走了。}
 {124}{}{好吧，那个地方如果烂掉，可不要怪我啊。}
@@ -40,8 +40,8 @@
 {139}{}{并不是张地图，哈？那好吧，我们谈点别的吧。}
 {140}{}{我得要走了。}
 #{141}{}{I ain't heard that mentioned since old Saltbeef was brought in here. Sunstroke. Burned with fever for three days, all the time ranting how he'd found Vault 13, his mother lode.}
-{141}{}{在咸牛来这里之后，我就再没有听过有人提到那个地方了。那个时候他中了暑，那三天里他发着高烧，迷迷糊糊地一直在喊他是怎么找到13号避难所，那个他出生的山洞的。。}
-{142}{}{出生的山洞？}
+{141}{}{在咸牛来这里之后，我就再没有听过有人提到那个地方了。那个时候他中了暑，那三天里他发着高烧，迷迷糊糊地一直在喊他是怎么找到13号避难所，那个他妈的山洞。}
+{142}{}{他妈的山洞？}
 {143}{}{那它到底在那里？}
 {144}{}{避难所在那？}
 {145}{}{不知道，咸牛声称有到那里的地图，但是从来都没人见过。}
@@ -49,20 +49,20 @@
 {147}{}{告诉我更多的。}
 {148}{}{很好，那是我找到的最有用的线索了。}
 {149}{}{咸牛是个老铀矿探矿者，或者更确切的说，他是个醉鬼。这段时间他就住在卫斯丁的双头牛牧场。}
-{150}{}{还有别的问题……}
+{150}{}{还有别的问题...}
 {151}{}{谢谢你告诉我这些事。}
-#CMH changing per Fergus.. Now you have to pay 1000 or steal the painting off of him.
+#CMH changing per Fergus... Now you have to pay 1000 or steal the painting off of him.
 {152}{}{嘿，正好我想拿它卖些钱。只要$}
-{153}{}{也许下次吧，我还有些问题……}
+{153}{}{也许下次吧，我还有些问题...}
 {154}{}{也许下次吧，我要走了。}
-{155}{}{咸牛是老铀矿的探矿者。这段时间他就住在卫斯丁。}
-{156}{}{还有别的问题……}
+{155}{}{咸牛是个铀矿的老探矿者，这段时间他就住在卫斯丁的农场里。}
+{156}{}{还有别的问题...}
 {157}{}{谢谢你告诉我这些事。}
 {158}{}{你最好去与坦蒂总统谈谈。我听说她正在找一些特别的人。}
-{159}{}{还有别的问题……}
+{159}{}{还有别的问题...}
 {160}{}{谢谢。}
-{161}{}{我想，那是一个对抗奴隶贩卖和其他犯罪行为的组织吧。他们在市东的修车厂那里有个落脚点，有可能你能在那里修车子。}
-{162}{}{还有别的问题……}
+{161}{}{我想，那是一个对抗奴隶贩卖和其他犯罪行为的组织吧。他们在城市东面的修车厂那里有个落脚点，有可能你能在那里修车子。}
+{162}{}{还有别的问题...}
 {163}{}{谢谢。}
 {164}{}{嘿，住手，混蛋！}
 {165}{}{当心！别暴露了自己。}
@@ -76,7 +76,7 @@
 {172}{}{你在那里啊，小姐。}
 {173}{}{你不用担心，小姐。如果他不再残害自己的身体，不介意我的治疗方案和药物，他也许比我们活得都长。}
 {174}{}{当然，这里是$}
-{175}{}{谢谢，我一直都想要从咸牛的身上拿钱回来，但是那混帐身上从来都没半毛钱。}
+{175}{}{谢谢，我一直都想要从咸牛的身上拿钱回来，但是那个混帐身上从来都没半毛钱。}
 {176}{}{。}
 
 #RP content - killap
@@ -89,9 +89,9 @@
 #{206}{}{Sorry. I've just always had this irresistible compulsion to dig around in other people's stuff that I've never been able to shake.}
 #{207}{}{Honestly? Not expecting you to be that observant. I guess I'm going to have to improvise.}
 
-{200}{}{离开那儿, }
-{201}{}{小子! }
-{202}{}{女孩! }
+{200}{}{离开那儿， }
+{201}{}{小子！}
+{202}{}{女孩！}
 {203}{}{你不能在那儿，你会把东西弄乱的！我才刚刚量好了卫斯丁先生的药量，我们不希望他现在拿错药。你脑子抽了么，你到底想什么？}
 {204}{}{我只是想看看你架子上的那些药片。}
 {205}{}{哦，别介意，我就是看看而已。}
@@ -119,7 +119,7 @@
 
 {220}{}{嗯，你不能。这是私人诊所，不是药店。你应该去杜普的店里去看看，就在北边不远。}
 {221}{}{看上去就像我正要找的，谢谢。}
-{222}{}{我回去看看的。在此之前能让我问你些事情么?}
+{222}{}{我回去看看的。在此之前能让我问你一些事情么？}
 {223}{}{不，我想我来对地方了，我看得出来你在这里干得很好。我想我应该提供点捐款。}
 
 
@@ -140,33 +140,33 @@
 #{248}{}{Those are the breaks, I guess. Anyway, I should be alright. I've picked up *tons* about cardamomagy from old comic books. Cut the hard chems back to twice a day, TOPS, make sure to get your exercise in short, strenuous bursts so your heart doesn't have time to act up, all kinds of good stuff.}
 
 
-{240}{}{哦哦哦, }
-{241}{}{小子, }
-{242}{}{女孩, }
-{243}{}{我也希望能帮你，但事实上我现在没法接纳新病人了。议会让我退休。我手上没药卖给你了，除了威斯丁议员嘱咐的人在}
-{244}{}{ 天后来取的药, }
-{245}{}{ 天后来取的药, }
+{240}{}{哦哦哦，}
+{241}{}{小子，}
+{242}{}{女孩，}
+{243}{}{我也希望能帮你，但事实上我现在没法接纳新病人了。如果我卖给你药，议会让我退休。而且我手上也没药能卖给你，除了卫斯丁议员嘱咐的人在}
+{244}{}{ 天后来取的药，}
+{245}{}{ 天后来取的药，}
 {246}{}{而且这段时间里也不够我再做一批药了。}
 {247}{}{我理解，医生。也许我会在别的地方找到一个好药剂师，你能给我一些建议吗？在废土上这种药并不常见。}
-#{248}{}{我想，就是得好好休息吧，应该没事的。我已在旧漫画里经看过*成吨的*的蠢蛋。每天不计其数的嗑药，猛烈的而急促的运动。明显这样会让心脏没法做好它该做的事情。}
-{248}{}{好，我想我应该没什么要问的了。我已经在旧漫画里经看过*成吨*关于心脏病方面的资料。例如多嗑点药，保证你的运动足够的剧烈而且短促，这样你的心脏就没有时间去做别的事了，恩，没错。}
+#{248}{}{我想，就是得好好休息吧，应该没事的。我已经在旧漫画里已经看过*成吨的*蠢蛋。每天不计其数的嗑药，猛烈的而急促的运动。明显这样会让心脏没法做好它该做的事情。}
+{248}{}{好，我想我应该没什么要问的了。我已经在旧漫画里已经看过*成吨*关于心脏病方面的资料。例如多嗑点药，保证你的运动足够的剧烈而且短促，这样你的心脏就没有时间去做别的事了，恩，没错。}
 
 #{250}{}{I feel for you, friend, but I'm afraid those pills are for Councilman Westin, and I ain't taking on any new patients right now so I wouldn't be able to write you up a script. Now please, don't go messing around on that shelf anymore. Those prescriptions get mixed up, someone could wind up in a pretty bad way.}
 
-{250}{}{抱歉了，朋友，但是那些药丸确实是给议员威斯丁的，我没办法接纳新病人了，也没办法给你开方子。现在别再弄那个架子了。如果你把这些处方搞混，有人可能会遭殃的。}
+{250}{}{抱歉了，朋友，但是那些药丸确实是给议员卫斯丁的，我没办法接纳新病人了，也没办法给你开方子。现在别再弄那个架子了。如果你把这些处方搞混，有人可能会遭殃的。}
 
 
 #{260}{}{Let's be clear here, }
 #{261}{}{mister. }
 #{262}{}{missy. }
 #{263}{}{What exactly do you mean by "donation?"}
-#{264}{}{A charitable contribution, in furtherance of your service to the public, say…… $150? You can count it out in the back room. Should only take a minute, right?}
+#{264}{}{A charitable contribution, in furtherance of your service to the public, say... $150? You can count it out in the back room. Should only take a minute, right?}
 #{265}{}{Uh, actually, I think I'd better check with my accountant before I do anything rash. See you later, doc.}
 
-{260}{}{我们在这里搞清楚, }
+{260}{}{我们在这里搞清楚，}
 {261}{}{小子。}
 {262}{}{女孩。}
-{263}{}{你所说的“捐款”到底是什么意思?}
+{263}{}{你所说的“捐款”到底是什么意思？}
 {264}{}{为了促进你对公众的服务做的一个慈善的捐赠，$150如何？你可以在后面的房间清点一下。}
 {265}{}{呃，实际上，我想在做任何鲁莽的事之前，我最好先和我的会计核对一下。再见，医生。}
 
@@ -177,29 +177,29 @@
 #{273}{}{and I'm not going to have the time to mix up another batch before then. I'm sure you can find a pharmacist with a lighter workload.}
 #{274}{}{I see. Well, thanks anyway.}
 
-{270}{}{我恐怕不行，这些药是给议员威斯丁的，他的人在 }
-{271}{}{ 天后会来取药, }
-{272}{}{ 天后会来取药, }
+{270}{}{我恐怕不行，这些药是给议员卫斯丁的，他的人在 }
+{271}{}{ 天后会来取药，}
+{272}{}{ 天后会来取药，}
 {273}{}{而且我在那之前没空再做一批新药。我相信你能找到一个有闲余时间的药剂师。}
 {274}{}{我明白了，好，谢谢。}
 
 
 
 #{280}{}{(Doc Jubilee gapes at you for a moment.) Aw, you're puttin' me on, right? You've gotta be puttin' me on. (glances at you again, shakes head, blows out cheeks) Hooo, boy. Either way, I wouldn't be no kind of doctor if I let you walk out of here without a few pointers, at least.}
-#{281}{}{Let's see…… for starters, you should prob'ly stop doing…… well, near to just about everything oughta cover it. No drinking, no smoking, no red meat, NO chems. Try to get a half-hour a day of MILD exercise. And take it easy. Life ain't a race, 'least not the kind where you want to be first to finish. Truth told, no one ever listens to this stuff, but at least I'll be able to rest easier tonight.}
+#{281}{}{Let's see... for starters, you should prob'ly stop doing... well, near to just about everything oughta cover it. No drinking, no smoking, no red meat, NO chems. Try to get a half-hour a day of MILD exercise. And take it easy. Life ain't a race, 'least not the kind where you want to be first to finish. Truth told, no one ever listens to this stuff, but at least I'll be able to rest easier tonight.}
 #{282}{}{More important, you need to find you a half-decent chemist and tell 'em you need set up with a regular supply of Triproxinil. Tri-prox-i-nil. Wasteland stock ain't gonna be as fancy as what I got on the shelf there, but chemically, it's all the same once you get down to brass tacks. 30 milligrams, twice a day.}
 #{283}{}{Now, you gotta be sure to drink plenty of water while you're on this stuff. And for criminy sakes, you stay *as far as you can* from those pecker pills like they got up in New Reno, understand? They don't play nice together. Fella takes one while he's on the other, his John Thomas ain't nearly the only part of him going stiff that day, if you follow.}
-#{284}{}{(To yourself) Hmm, that could work. Yeah. Maybe something in the way of a PDE-5 inhibitor compound……}
+#{284}{}{(To yourself) Hmm, that could work. Yeah. Maybe something in the way of a PDE-5 inhibitor compound...}
 #{285}{}{Oh-- And if you *do* go through one of them Reno hucksters, they might go tellin' you that this stuff'll proof your heart against just about any pusher's poison you'd care to try. I ain't gonna lie to you-- there's prob'ly some truth to that. Still don't make bein' a junkie any more glamorous. You're grown and out of britches, so I ain't gonna lecture, but there it is.}
 #{286}{}{Thanks a million, doc. You have no idea what a help you've been. Take care.}
 #{287}{}{Tri-prox-i-nil, no bo-ner-pill. Heh heh. I'll keep that in mind. See you around, doc.}
 
 
 {280}{}{[朱庇特医生盯着你好一会]你在讽刺我是吗？你就是在讽刺我。[再次瞥了你一眼，摇了摇头]好吧，小子，如果我让你离开这里，但又不给你几句能称之为医嘱的话，我就不会是一个医生了。}
-{281}{}{首先，你应该停止做……其实我说的所有东西都必须要做，不喝酒，不抽烟，不吃红肉，不吃巧克力。试着每天做半小时的轻度锻炼，记得是轻度运动，活着不是赛跑，至少不是你想要先完成的那种。事实证明，没人照着我说的做了，但说完这些也许能让我睡个好觉。}
+{281}{}{首先，你应该停止做...其实我说的所有东西都必须要做，不喝酒，不抽烟，不吃红肉，不吃巧克力。试着每天做半小时的轻度锻炼，记得是轻度运动，活着不是赛跑，至少不是你想要先完成的那种。事实证明，没人照着我说的做了，但说完这些也许能让我睡个好觉。}
 {282}{}{另外，你还得去找个二流的药剂师，让他定期供应的Triproxinil。当然废土里的货肯定不如我架子上的哪些，但毕竟是同样的化合物，吞下后效果也基本上差不多。每次30毫克，每天两次。}
 {283}{}{另外要注意饮水，还有，不要磕药。远离新里诺那些象啄木鸟那样嗑药的飞行员。如果有人把Triproxinil和那些兴奋剂一起嗨，那他硬的可能就不只是他的小弟弟了。}
-{284}{}{[对你说]恩，那应该有效果。是的，可能是一种PDE-5抑制剂化合物就可以……}
+{284}{}{[对你说]恩，那应该有效果。是的，可能是一种PDE-5抑制剂化合物就可以...}
 {285}{}{哦，对了，你如果真碰上了新里诺那帮飞机师，他们可能会说这些东西能证明你的心脏有多强大，我不打算骗你，他们说的可能有一定是对的。但是别认为瘾君子有啥魅力。你已经长大了，不再是小鬼，所以我不说教了。}
 {286}{}{一百万个感谢，医生。感激不尽，无以言表。保重。}
 {287}{}{Tri-prox-i-nil，不是bo-ner-pill，哈哈。我会记住的。再见，医生。}
@@ -233,7 +233,7 @@
 {300}{}{[朱庇特医生脸气的发红]我想你是没听清开始我给你说的话，}
 {301}{}{小子，}
 {302}{}{女孩，}
-{303}{}{听好了：我是NCR的医生。这是一项庄严的职责，也是誓言。你在一次又一次地触犯我的底线，你知道吗？}
+{303}{}{听好了：“我是NCR的医生。这是一项庄严的职责，也是誓言。”，你在一次又一次地触犯我的底线，你知道吗？}
 {304}{}{好吧，去你的。如果你真那么自视伟大，}
 {305}{}{哇，好吧。我无意冒犯你，医生。我还是走吧。}
 
@@ -242,7 +242,7 @@
 #{311}{}{Are you sure you can't reconsider selling me some of those pills?}
 
 {310}{}{医生，关于你在架子上放的那些心脏药。}
-{311}{}{你确定你不能重新考虑卖给我一些这些药片吗?}
+{311}{}{你确定你不能重新考虑卖给我一些这些药片吗？}
 
 
 #{320}{}{Sorry, Councilman Westin's people are due by to pick those up in }
@@ -250,15 +250,15 @@
 #{322}{}{ day, }
 #{323}{}{and I'm just too busy to mix up another batch in time.}
 
-{320}{}{这些药是给议员威斯丁的，他的人在  }
-{321}{}{ 天后会来取药, }
-{322}{}{ 天后会来取药, }
+{320}{}{这些药是给议员卫斯丁的，他的人在  }
+{321}{}{ 天后会来取药，}
+{322}{}{ 天后会来取药，}
 {323}{}{而且我不会有时间在那之前再做一批新药。}
 
 #{324}{}{(Mutters to himself) Where the hell did I put those pills for Mr. Westin. His heart aint gonna last long without 'em. (He looks up) Oh, sorry. What can I do for you today?}
 #{325}{}{I couldn't help overhearing what you said about heart pills. I was actually going to ask you about such medicine.}
 #{330}{}{(Mutters to himself) I can't believe Mr. Westin's dead. Couldn't have been my fault, I measured out those pills preciesly. (He looks up) Oh, sorry. What can I do for you today?}
 
-{324}{}{[喃喃自语]我给威斯丁先生配了药，没有它们，他的心脏坚持不了多久的……[他抬起头]哦，抱歉。今天我能为您做些什么吗？}
+{324}{}{[喃喃自语]我给卫斯丁先生配了药，没有它们，他的心脏坚持不了多久的...[他抬起头]哦，抱歉。今天我能为您做些什么吗？}
 {325}{}{我无意中听到你说关于心脏药片的事，我想了解一下那种药。}
-{330}{}{[喃喃自语]我真不敢相信威斯丁先生死了。我精确地测过剂量，不可能错的啊…….[他抬起头]哦，抱歉。今天我能为您做些什么吗？}
+{330}{}{[喃喃自语]我真不敢相信卫斯丁先生死了。我精确地测过剂量，不可能错的啊...[他抬起头]哦，抱歉。今天我能为您做些什么吗？}

@@ -8,5 +8,5 @@
 #{105}{}{Ignore and continue perusing.}
 {105}{}{忽略然后细读。}
 #{106}{}{30 minutes pass and you find nothing of importance. All that you have found out is that Chad has records documenting every moment of his life. He's a pretty boring guy actually. Just as you are about to close the drawers, you hear a cough from the front door and a handle turning...}
-{106}{}{30分钟后你发现没什么价值。你找到的是Chad一生的记录文件。他是一个相当烦人的家伙。当你关上抽屉时，你听见从门传来咯一声...}
+{106}{}{30分钟后你发现没什么价值。你找到的是查德的日记。从上面看，他是一个相当烦人的家伙。当你关上抽屉时，你听见从门传来“咯”的一声...}
 {107}{}{拉出公文包}

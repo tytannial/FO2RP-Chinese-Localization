@@ -10,7 +10,7 @@
 #{103}{}{That's enough for me. Kill him.}
 #{104}{}{Oh, this will be fun!}
 
-{103}{}{这就够了，杀了这家伙。}
+{103}{}{这就够了，杀了这个家伙。}
 {104}{}{哦，这会很有趣的！}
 
 #{105}{}{Oh yeah, they're dangerous alright, and we suspect them to be fleeing Gecko. For all we know, you're the one we're looking for.}
@@ -48,7 +48,7 @@
 
 
 #{115}{}{Somebody hacked into the Enclave computer network from the Poseidon Oil Reactor. We're trying to track him down.}
-#{116}{}{Hacked into it!? Well, that couldn't have been me. I'm just a tribal. Hell, I don't even know how to use a -- what did you call it? Kom-pu-tor?}
+#{116}{}{Hacked into it！？Well, that couldn't have been me. I'm just a tribal. Hell, I don't even know how to use a -- what did you call it? Kom-pu-tor?}
 
 {115}{}{有人利用波塞冬石油平台的网络入侵那瓦罗的计算机，我们正在追踪他。}
 {116}{}{入侵电脑？！那不可能是我。我只是一个土人，我根本不知道怎么用那些高科技的东西，你们叫它什么来着？颠~脑？？ }

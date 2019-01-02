@@ -56,8 +56,8 @@
 #{120}{}{Hmm, maybe I should go see if I can find one of these ERSI canisters. There's got to be someplace around here to get those chemicals...}
 
 {118}{}{环境排斥综合症抑制剂[ERSI]被成功地应用于实验体，实验体的心率正常，请打开休眠仓进行检查。}
-{119}{}{警告:环境排斥综合症抑制剂[ERSI]没有被应用于实验体，实验体的状态未知。请打开休眠仓进行检查。}
-{120}{}{嗯，也许我应该去看看能不能找到这里所说的ERSI，这里应该有个地方可以弄到这些化学品……}
+{119}{}{警告：环境排斥综合症抑制剂[ERSI]没有被应用于实验体，实验体的状态未知。请打开休眠仓进行检查。}
+{120}{}{嗯，也许我应该去看看能不能找到这里所说的ERSI，这里应该有个地方可以弄到这些化学品...}
 
 #{200}{}{Read log entries.}
 
@@ -73,14 +73,14 @@
 {211}{}{日志文档 A。}
 {212}{}{日志文档 B。}
 {213}{}{日志文档 C。}
-{214}{}{[返回]}
+#{214}{}{[返回]}
 
 
 #{220}{}{Log Entry #87983: It's finally happened. They've launched their nukes at us and we've launched ours at them.
  Brass won't go into detail, but it's probably already Judgment Day topside by now. Radio communications have been disrupted
  indefinitely. Good thing I've grown used to this place. I've got no illusions about ever seeing the surface again.}
 #{221}{}{[MORE]}
-#{222}{}{They brought in a woman to be cryoed. Didn't say why; only that it was top secret business. She was quite the looker.
+#{222}{}{They brought in a woman to be cryoed. Didn't say why；only that it was top secret business. She was quite the looker.
  Petite, Chinese-looking, and there was something about her eyes. She took down two secret service agents when she found
  out what we had in mind. Caught them off guard and opened them both up with one of Delnay's scalpels, Jesus Christ. That was
  a sight for tired eyes. The third one managed to subdue her. It's not like she wouldn't be spending the rest of her
@@ -133,7 +133,7 @@
  -Dr. Dustin C. Delnay, 04/13/2075}
  
 {237}{}{[更多]}
-{238}{}{德克斯将在这里继续冻结，直到政府高层们恢复理智并且重启这个极其重要的项目，我希望那天到来时我还能继续工作。 -Dustin C. Delnay博士, 04/13/2075}
+{238}{}{德克斯将在这里继续冻结，直到政府高层们恢复理智并且重启这个极其重要的项目，我希望那天到来时我还能继续工作。 -Dustin C. Delnay博士- 04/13/2075}
  
  
 #{240}{}{Log Entry #80052: Sergeant Christopher "Cat" Jules was assigned to the EPA military security detail on 17/02/2074.
@@ -168,6 +168,6 @@
 
 
 {300}{}{选择一个休眠仓:}
-{301}{}{[朱利斯.克里斯多夫中士，外号“猫]}
-{302}{}{[德克斯.帕特里克，外号“敏捷”]}
-{303}{}{[灵狐]}
+{301}{}{[朱利斯.克里斯多夫中士，代号“猫”]}
+{302}{}{[德克斯.帕特里克，代号“敏捷”]}
+{303}{}{[姬申，代号“灵狐”]}

@@ -4,7 +4,7 @@
 #{103}{}{On closer inspection, the elevator car is missing and the doors are jammed.}
 #{104}{}{You don't have a chance of repairing this.}
 
-{100}{}{这电梯好像出了问题。}
+{100}{}{这个电梯好像出了问题。}
 {101}{}{这个电梯显然不工作了，你得另寻出路。}
 {102}{}{你看到一个损坏的电梯门。}
 {103}{}{仔细的检查后，你发现这个电梯的轿厢已经不见了，你要另外想办法。}

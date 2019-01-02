@@ -28,4 +28,4 @@
 {131}{}{[导航电脑上线]}
 
 #{200}{}{WARNING: Submarine still active. Proceeding would result in the ship's destruction.}
-{200}{}{[警告]:潜艇仍然活跃，离港将导致本船被破坏。}
+{200}{}{[警告]：潜艇仍然活跃，离港将导致本船被破坏。}

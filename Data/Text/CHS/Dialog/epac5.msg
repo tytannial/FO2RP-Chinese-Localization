@@ -32,7 +32,7 @@
 #{221}{}{What the hell are you talking about?}
 
 {220}{}{[他露出演员般的笑容]我负责协调一切，让球可以滚起来。我喜欢把每个人的优点发挥出来，在EPA，这是我们最重视的原则。谢谢你，我们重视你的意见。}
-{221}{}{你他妈到底在说什么?}
+{221}{}{你他妈到底在说什么？}
 
 # Node  3  [Node004]
 #{230}{}{I assure you that we are working diligently to resolve all issues. We've had a bit of downsizing, but things are looking up. I feel confident that all quotas will be achieved in due time.}

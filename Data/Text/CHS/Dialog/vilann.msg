@@ -7,7 +7,7 @@
 #{202}{}{No problem. See you around.}
 
 #ipisgfx译
-{100}{}{你看见一个年青的女人。}
+{100}{}{你看见一个年轻的女人。}
 {101}{}{你看见安。康尔的妻子。}
 {102}{}{她正在忙着做饭呢。}
 
@@ -20,9 +20,9 @@
 #{302}{}{Can't you people ever deal with your own fucking problems? Bye.}
 #{303}{}{Sure. I'll see what I can do. Who do I talk to about this?}
 
-{300}{}{实际上，我需要一点帮助。现在我们的社区在慢慢扩展，人口也在增长。但现在的问题是，我们食物并不充足。我丈夫曾试图让商队把这里作为一条路线，但商队不认为我们值得花时间。我想你不能让他们重新考虑一下吧?}
+{300}{}{实际上，我需要一点帮助。现在我们的社区在慢慢扩展，人口也在增长。但现在的问题是，我们食物并不充足。我丈夫曾试图让商队把这里作为一条路线，但商队不认为我们值得花时间。我想你不能让他们重新考虑一下吧？}
 {301}{}{对不起女士，但我认为我在这里做得够多了。我得走了。再见。}
-{302}{}{难道你们就不能解决自己的问题吗? }
+{302}{}{难道你们就不能解决自己的问题吗？ }
 {303}{}{我看看我能做些什么，我该跟谁谈这个？}
 
 #{310}{}{One of the caravan masters, Mr. Baron, will be passing by here shortly. The caravan trail isn't far from this village. If you could go out there and meet with him, we'd all appreciate it greatly.}
@@ -39,7 +39,7 @@
 #{321}{}{Not yet. Bye.}
 #{322}{}{Alright. I'm ready.}
 
-{320}{}{你准备好去会见商队的主人了吗?}
+{320}{}{你准备好去会见商队的主人了吗？}
 {321}{}{还没有。再见。}
 {322}{}{好了。我准备好了。}
 
@@ -48,16 +48,16 @@
 #{331}{}{It's the least I could do. Take care.}
 #{332}{}{You think I do all this for free? Let's talk money.}
 
-{330}{}{哦，是你！感谢你和巴伦先生谈判，他刚刚过来，和我丈夫做贸易安排。我们永远感谢你为我们做的事情!}
+{330}{}{哦，是你！感谢你和巴伦先生谈判，他刚刚过来，和我丈夫做贸易安排。我们永远感谢你为我们做的事情！}
 {331}{}{这是我能做的事，保重。}
 {332}{}{你认为我是免费做这些的吗？让我们谈谈报酬。}
 
 
-#{340}{}{[Ann looks a bit flustered.] Well, yes……alright fine. I had a little something stored away for an emergency, but I suppose you can have it. And to think I saw you as a good person.}
+#{340}{}{[Ann looks a bit flustered.] Well, yes...alright fine. I had a little something stored away for an emergency, but I suppose you can have it. And to think I saw you as a good person.}
 #{341}{}{Looks are in the eyes of the beholder, lady. Good day.}
 #{342}{}{Sorry, money makes the world go round. Bye.}
 
-{340}{}{[安看起来有点慌乱]嗯，是的……好的，我有一些东西是打算用来应急的，但我想你可以拿去，你是个好人。}
+{340}{}{[安看起来有点慌乱]嗯，是的...好的，我有一些东西是打算用来应急的，但我想你可以拿去，你是个好人。}
 {341}{}{旁观者清，女士，美好的一天。}
 {342}{}{对不起，金钱使世界运转。再见。}
 
@@ -67,7 +67,7 @@
 #{352}{}{Not my problem. Bye.}
 #{353}{}{You don't need to worry about any damn merchants. Because I plan on killing the whole lot of you.}
 
-{350}{}{哦，是你！我听说了你对巴伦先生做了什么。我从不关心他，但你不必杀他。但如果没有适当的贸易，我们这里也生存不下来的。}
+{350}{}{哦，是你！我听说了你对巴伦先生做了什么。我从不关心他，但你不用杀他。但如果没有适当的贸易，我们这里也生存不下来的。}
 {351}{}{抱歉，这是一个意外，再见。}
 {352}{}{这不是我的问题，再见。}
 {353}{}{你不需要担心任何该死的商人，因为我打算把你们都杀了。}
@@ -106,12 +106,12 @@
 {421}{}{什么怎么样啊？哦，商人。实际上，我对这件事没有兴趣了，再见。}
 
 
-#{430}{}{What!? You realize this was our last chance to make arragements with him. We look like fools now standing him up. You've doomed us.}
+#{430}{}{What！？You realize this was our last chance to make arragements with him. We look like fools now standing him up. You've doomed us.}
 #{431}{}{Sorry, mistakes happen. Bye.}
 #{432}{}{Not my problem. Bye.}
 #{433}{}{You don't need to worry about any damn merchants. Because I plan on killing the whole lot of you.}
 
-{430}{}{什么!? 你是我们最后的希望，我们每天象傻瓜一样盼着商人会过来。}
+{430}{}{什么！？你是我们最后的希望，我们每天像傻瓜一样盼着商人会过来。}
 {431}{}{抱歉，再见。}
 {432}{}{这不是我的问题，再见。}
 {433}{}{你不需要担心任何该死的商人，因为我打算把你们都杀了。}

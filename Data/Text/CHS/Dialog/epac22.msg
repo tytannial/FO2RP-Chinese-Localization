@@ -1,21 +1,21 @@
 #{100}{}{You see a hologram.}
 #{101}{}{You see a hologram.}
 
-{100}{}{你看到一个全息图.}
-{101}{}{你看到一个全息图.}
+{100}{}{你看到一个全息图。}
+{101}{}{你看到一个全息图。}
 
 
-#{200}{}{Zzzzzt...Hello... zzZzzt..Are..zzzZzzZtt...stand...me?}
+#{200}{}{Zzzzzt...Hello... zzZzzt...Are...zzzZzzZtt...stand...me?}
 #{201}{}{Excuse me?}
 #{202}{}{Right. Bye.}
-#{203}{}{My...zZzzzt..sensor...ZzzzzzZzt...*garble*..fixed?}
+#{203}{}{My...zZzzzt...sensor...ZzzzzzZzt...*garble*...fixed?}
 #{204}{}{Sorry, but I can't understand you. There's too much static. I'll see if I can maybe fix it somehow.}
 #{205}{}{I don't have time for this. Bye.}
 
-{200}{}{Zzzzzt[电流声]……你好…… zzZzzt[电流声]..是..zzzZzzZtt[电流声]……站……我?}
-{201}{}{对不起?}
+{200}{}{Zzzzzt[电流声]...你好... zzZzzt[电流声]...是...zzzZzzZtt[电流声]...站...我？}
+{201}{}{对不起？打扰了？}
 {202}{}{再见。}
-{203}{}{我的……zZzzzt[电流声]..投影仪……ZzzzzzZzt[电流声]……旁边*红*..修理?}
+{203}{}{我的...zZzzzt[电流声]...投影仪...ZzzzzzZzt[电流声]...旁边*红*...修理？}
 {204}{}{对不起，我听不懂你说的。有太多干扰了，你说旁边红色的机器？我试试能不能修好它}
 {205}{}{我没有时间做这件事。再见。}
 
@@ -29,10 +29,10 @@
 
 {300}{}{啊，谢谢你修理了我！我一直都很害怕观光客会问我一些问题，因为都是干扰，如果有问题我根本无法正确回答。当然，你是我自从战争以来见过的第一个访客，但如果*我*遇到的是其它人，那可能会很尴尬。}
 {301}{}{没问题，到底这个地方到底是做什么的？}
-{302}{}{[他咧嘴笑着，似乎很高兴有问题要回答]这里是环境保护局，更常被称为EPA。我们是一个政府研究机构，专门研究化学物质以确保它们对地球环境是安全的。但这只是表面上的解释拉，我们这里经常发生各种令人兴奋的事情，至少在这个设施因战争而被弃置之前是这样的。}
+{302}{}{[他咧嘴笑着，似乎很高兴有问题要回答]这里是环境保护局，一般被称为EPA。我们是一个政府研究机构，专门研究化学物质以确保它们对地球环境是安全的。但这只是表面上的解释拉，我们这里经常发生各种令人兴奋的事情，至少在这个设施因战争而被弃置之前是这样的。}
 {303}{}{有趣，那么，你在这里是做什么的？}
 {304}{}{嗯，我不像你遇到的其他全息图，我不是为一个特定的任务而创建的。我只是在这里回答游客的问题，或者帮助解决人类思维无法解决的数学难题。}
-{305}{}{我明白了。那么你可以回答我一些问题吗?}
+{305}{}{我明白了。那么你可以回答我一些问题吗？}
 
 
 #{310}{}{Oh, I'd love to answer your questions. Ask away and I'll answer them to the best of my ability.}
@@ -42,9 +42,9 @@
 #{314}{}{Nevermind. I don't need anything.}
 
 {310}{}{哦，我很乐意回答你的问题。请你开始问吧，我将尽我所能回答它们。}
-{311}{}{我看到这里的电脑一个关于蓝色区域的资料，我要访问它的话要怎么做?}
+{311}{}{我看到这里的电脑一个关于蓝色区域的资料，我要访问它的话要怎么做？}
 {312}{}{我找到了另一种方法进入这个设施，但它蓝色区域需要一个密码。}
-{313}{}{你能解释一下我在附近发现的这些东西的用途吗?}
+{313}{}{你能解释一下我在附近发现的这些东西的用途吗？}
 {314}{}{我目前不需要任何的东西。}
 
 
@@ -62,7 +62,7 @@
 {321}{}{哦，那个电梯坏了，我找到的唯一办法是通过通风口。}
 {322}{}{哦，我明白了。还有另一种方法，有一个服务电梯停在第二层，但是，您需要一个访问密码才能进入内部。既然我感激你修理我，我就告诉你密码，密码是"FLOWERPOT"。}
 {323}{}{谢谢，让我问你一些其它事}
-{324}{}{哦，对不起，蓝色的层次包含绝密的研究。进入这一级别仅限于……哦，见鬼去吧。你对我很好，所以我想我可以给你密码，密码是"FLOWERPOT"。}
+{324}{}{哦，对不起，蓝色的层次包含绝密的研究。进入这一级别仅限于...哦，见鬼去吧。你对我很好，所以我想我可以给你密码，密码是"FLOWERPOT"。}
 
 
 #{330}{}{I will do my best. What item would you like me to identify?}
@@ -75,22 +75,28 @@
 #{337}{}{Actually, let me ask you something else.}
 
 {330}{}{我将尽我最大的努力。您想让我识别什么东西？}
-{331}{}{这狗食有什么用？}
-{332}{}{我发现这个注射器充满了一种未知的物质。你能告诉我是怎么回事吗?}
+{331}{}{这种狗粮有什么用？}
+{332}{}{我发现这个注射器充满了一种未知的物质。你能告诉我是怎么回事吗？}
 {333}{}{我发现了这些试剂，这是什么用途的。}
 {334}{}{使用这些药物的会造成什么影响？}
 {335}{}{我用"点石成金"先生做了一些不知名的化学制品，它们是做什么用的？}
-{336}{}{我发现了一些与众不同的炸药，我如何使用它?}
+{336}{}{我发现了一些与众不同的炸药，我如何使用它？}
 {337}{}{实际上，让我问你一些别的问题。}
 
-{340}{}{Well, the original designers of this place always liked to place little references from movies, books, and other
+#{340}{}{Well, the original designers of this place always liked to place little references from movies, books, and other
  such sources all over the place. They found it funny and so did many others. The dog food is a reference to a movie,
  but I'll leave it up to you to figure out.}
-{341}{}{Alright. Let me ask you something else.}
+#{341}{}{Alright. Let me ask you something else.}
 
-{350}{}{Well, those basic instruments for any chemist. I suppose if you want to create something then one would find
+#{350}{}{Well, those basic instruments for any chemist. I suppose if you want to create something then one would find
  a use for them.}
-{351}{}{Alright. Let me ask you something else.}
+#{351}{}{Alright. Let me ask you something else.}
+
+{340}{}{嗯，这个地方最初的设计师总是喜欢播放一些来自电影、书籍和其他东西的参考资料，这里到处都是这样的东西。他们觉得这很有趣，很多来这里的人也这么认为。狗粮指的是一部电影，但我还是让你们自己来发掘好了。}
+{341}{}{好吧。让我问你一些别的问题。}
+
+{350}{}{那是些基本的化学仪器。我想如果你想创造一些东西，那你就会发现它们的用途。}
+{351}{}{好吧。让我问你一些别的问题。}
 
 #{360}{}{Ah, that's an interesting specimen you have there. I'm afraid I don't recognize it. Please, place it in the container next to me and I'd be happy to analyze it for you.}
 #{361}{}{Alright. [You place the item in the container and close the lid.]}
@@ -101,7 +107,7 @@
 {360}{}{啊，恐怕单凭观察我无法知道这是什么，请把它放在我旁边的容器里，我很乐意为你分析具体的成份。}
 {361}{}{[你把东西放在容器里，然后盖上盖子]}
 {362}{}{让我问你一些别的问题。}
-{363}{}{解析注射器中的液体的分子构成……分析成功，分析完成。这种注射器似乎含有一种独特的血清，带有猫科动物的DNA，它似乎是一种具有增强人类速度的实验性药物。当然，我不建议你使用任何还在实验阶段的东西。}
+{363}{}{解析注射器中的液体的分子构成...分析成功，分析完成。这种注射器似乎含有一种独特的血清，带有猫科动物的DNA，它似乎是一种具有增强人类速度的实验性药物。当然，我不建议你使用任何还在实验阶段的东西。}
 {364}{}{好吧。让我问你一些别的问题。}
 
 
@@ -141,7 +147,7 @@
 #{401}{}{I have some questions.}
 #{402}{}{Nevermind. Bye.}
 
-{400}{}{你好了。还有什么我可以帮你的吗?}
+{400}{}{你好了。还有什么我可以帮你的吗？}
 {401}{}{我有一些问题。}
 {402}{}{没什么事，再见。}
 

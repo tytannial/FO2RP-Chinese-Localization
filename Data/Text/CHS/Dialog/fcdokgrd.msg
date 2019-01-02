@@ -17,7 +17,7 @@
 
 {150}{}{离开那里！}
 {151}{}{不要再想那件事，这是最后的警告。}
-{152}{}{我警告过你，老外，现在准备受死！}
+{152}{}{我警告过你，“老外”，现在准备受死！}
 
 #Main dialogue
 
@@ -28,8 +28,8 @@
 #{203}{}{I need to use the motorboat.}
 #{204}{}{Nothing. Bye.}
 
-{200}{}{嘿，老外，你想要什么?}
-{201}{}{又回来了，你想要什么?老外。}
+{200}{}{嘿，“老外”，你想要什么？}
+{201}{}{又回来了，你想要什么？“老外”。}
 {202}{}{你在这里是干什么的？}
 {203}{}{我要使用这台汽艇。}
 {204}{}{没什么事，再见。}
@@ -47,7 +47,7 @@
 #{221}{}{Alright. Bye.}
 #{222}{}{Nobody tells me what to do. You're fucking dead!}
 
-{220}{}{不能，现在离开这里，外人。}
+{220}{}{不能，现在离开这里，陌生人。}
 {221}{}{好吧，再见}
 {222}{}{没有人能告诉我该做什么，受死吧！}
 
@@ -57,26 +57,26 @@
  Right now, they're in the clutches of those Enclave bastards and they're counting on me to save them. But in order to
  do that, I'm going to need to use that motorboat. If you won't let me use it, I'll have to take it by force and one of
  us will end up dead. Please, don't let it come to that.}
-#{232}{}{Actually, I'm an honorary member of the Shi. I was hired for the submarine maintenance team due to my expertise in……subology. Here's my password……}
+#{232}{}{Actually, I'm an honorary member of the Shi. I was hired for the submarine maintenance team due to my expertise in...subology. Here's my password...}
 #{233}{}{I don't think you realize who you're insulting. Time to die, asshole.}
-#{234}{}{Alright, I'm going…… Sheesh, some people……}
+#{234}{}{Alright, I'm going... Sheesh, some people...}
 
-{230}{}{你需要回去被一打变种人干你的后门，你不能使用这艘汽艇，你是一个老外，不是一个始族人。}
+{230}{}{你需要回去被一打变种人干你的后门，你不能使用这艘汽艇，你是一个“老外”，不是一个始族人。}
 {231}{}{现在我在绝望的边缘，我的部族被一台会飞的机器带走了，我不知道他们会发生什么，他们都等着我去救他们。在这里，我求你让我使用这艘船，否则我只能被逼使用武力，这样我们当中的一个肯定会死在这里，求求你了，我不想发生这种事情。}
-{232}{}{实际上，我是始族的荣誉会员，由于我在电子学方面的专业知识，我受雇于潜艇维护小组，这是我的密码……}
+{232}{}{实际上，我是始族的荣誉会员，由于我在电子学方面的专业知识，我受雇于潜艇维护小组，这是我的密码...}
 {233}{}{你在说什么？It's A Good Day To Die!}
 {234}{}{好的，好的，我现在就走。}
 
 
-#Listen, I might not be Shi……
-#{240}{}{[He stares at you for a long moment, then sighs.] Look, no one gets on this boat without giving the proper password. You know, like the one you just gave me. [Mumbles.] Ken Lee's going to have my head for this……}
+#Listen, I might not be Shi...
+#{240}{}{[He stares at you for a long moment, then sighs.] Look, no one gets on this boat without giving the proper password. You know, like the one you just gave me. [Mumbles.] Ken Lee's going to have my head for this...}
 #{241}{}{Thank you, friend. And don't worry, I won't speak a word of this anyone.}
 
-{240}{}{他盯着你看了很长时间，然后叹了口气]从来没有人能在没有密码的情况下上船，不过你好像已经把密码给我了。[喃喃而语]Ken Lee肯定会为这件事责怪我的……}
+{240}{}{他盯着你看了很长时间，然后叹了口气]从来没有人能在没有密码的情况下上船，不过你好像已经把密码给我了。[喃喃而语]李健肯定会为这件事责怪我的...}
 {241}{}{谢谢你，朋友。别担心，我不会告诉任何人的。}
 
 #I won't speak a word of this anyone
-#{250}{}{I hope not, for both our sakes…… Let me know when you're ready to use the boat. You can't bring anyone with you, as it'll draw too much attention. You'll have to go at this alone.}
+#{250}{}{I hope not, for both our sakes... Let me know when you're ready to use the boat. You can't bring anyone with you, as it'll draw too much attention. You'll have to go at this alone.}
 #{251}{}{I'd like to use it right now.}
 #{252}{}{Not right now.}
 
@@ -85,8 +85,8 @@
 {252}{}{我一会再回来。}
 
 
-#I'm a member of the Shi……
-{260}{}{[警卫听口令，点了点头]我想你真的是个技术员，但始族一般很少雇用外人。现在恐怕你来得有点太早了，维护技术团队要直到午夜才会离开港口。如果你愿意的话，你可以在这里等其他的人。}
+#I'm a member of the Shi...
+{260}{}{[警卫听口令，点了点头]我想你真的是个技术员，但始族一般很少雇佣外人。现在恐怕你来得有点太早了，维护技术团队要直到午夜才会离开港口。如果你愿意的话，你可以在这里等其他的人。}
 {261}{}{现在我没什么其它事，我在这里等吧。}
 {262}{}{我一会再过来。}
 
@@ -108,9 +108,9 @@
 
 {280}{}{你准备好启程了吗？}
 {281}{}{是的，我已经准备好了。}
-{282}{}{不,还没有。}
+{282}{}{不，还没有。}
 
-{290}{}{你没看见我在忙吗?}
+{290}{}{你没看见我在忙吗？}
 
 
 #dumb dialogue
@@ -124,8 +124,8 @@
 
 {300}{}{我能骑这个铁鱼鱼吗？}
 {310}{}{[他看着你，仿佛你是他能想象到的最愚蠢的生物]过了好一会，他摇了摇头，你不能骑铁鱼鱼。离开，否则我开枪，明白吗？}
-{311}{}{好的，再见!}
-{312}{}{你是小气鬼，我要干掉小气鬼!}
+{311}{}{好的，再见！}
+{312}{}{你是小气鬼，我要干掉小气鬼！}
 
 {500}{}{你用你的方式进入了汽艇。}
 

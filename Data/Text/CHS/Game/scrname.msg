@@ -89,7 +89,7 @@
 {171}{}{奴隶}                          # zcSlave.int     ; Generic slave
 {172}{}{二十一点}                     # dcBlkJck.int    ; Den black jack table from Maggie's place
 {173}{}{门}                           # diChcDor.int    ; Church door from the Den
-{174}{}{威士卡包伯}                    # KCBob.int       ; Whiskey Bob from Klamath
+{174}{}{威士忌包伯}                    # KCBob.int       ; Whiskey Bob from Klamath
 {175}{}{骰子}                          # dcCraps.int     ; Maggie Craps dealer in the den
 {176}{}{艾尔多}                           # KCAldo.int      ; Aldo from Klamath
 {177}{}{艾丁}                          # KCArdin.int     ; Ardin from Klamath
@@ -336,8 +336,8 @@
 {418}{}{上锁的盒子}                        # Kisbox.int      ; Klamath sajag inventory box
 {419}{}{拉契}                          # SCRatch.int     ; Ncr entrance JUNK dealer
 {420}{}{拳击手}                          # ncBoxer.int     ; New Reno Generic Boxer
-{421}{}{迈可.麦尼力}                  # ncMcKnee.int    ; New Reno Mike McKneely
-{422}{}{伊凡.好莱菲}                 # ncHollyf.int    ; New Reno Evan Hollyfeld
+{421}{}{迈可．麦尼力}                  # ncMcKnee.int    ; New Reno Mike McKneely
+{422}{}{伊凡．好莱菲}                 # ncHollyf.int    ; New Reno Evan Hollyfeld
 {423}{}{割碎机}                     # ncTyson.int     ; New Reno Mike Tyson
 {424}{}{科学家}                      # ncScient.int    ; New Reno Generic Scientist
 {425}{}{麦尔科}                           # SCMerk.int      ; Merk an NCR mob type guy
@@ -438,29 +438,29 @@
 {520}{}{约翰彼希}                    # ncBishop.int    ; New Reno John Bishop
 {521}{}{赌场机器}                 # niCasMac.int    ; New Reno Casino Machine
 {522}{}{机器行员工}                  # ncChpBoy.int    ; New Reno Chop Shop Boys
-{523}{}{克里斯.莱特}                   # ncChrWri.int    ; New Reno Chris Wright
+{523}{}{克里斯．莱特}                   # ncChrWri.int    ; New Reno Chris Wright
 {524}{}{寇弟}                           # ncCody .int     ; New Reno Cody
 {525}{}{克里西根兄弟}                # ncCorBro.int    ; New Reno Corsican Bothers
 {526}{}{爱尔及}                       # ncEldrid.int    ; New Reno Eldridge
-{527}{}{依希.莱特}                   # ncEthWri.int    ; New Reno Ethyl Wright
+{527}{}{依希．莱特}                   # ncEthWri.int    ; New Reno Ethyl Wright
 {528}{}{塔里神父}                   # ncFTully.int    ; New Reno Father Tully
 {529}{}{可哥迪多}               # ncHumper.int    ; New Reno HumperdumperDIDO
-{530}{}{基苏.莫丁诺}             # ncLilJes.int    ; New Reno Lil' Jesus Mordino
-{531}{}{吉米J}                 # ncJimmyJ.int    ; New Reno Jagged Jimmy J
-{532}{}{基斯.莱特}                   # ncKeiWri.int    ; New Reno Keith Wright
-{533}{}{理.安.彼希}                # ncLABish.int    ; New Reno Lee Anne Bishop
+{530}{}{基苏．莫丁诺}             # ncLilJes.int    ; New Reno Lil' Jesus Mordino
+{531}{}{吉米Ｊ}                 # ncJimmyJ.int    ; New Reno Jagged Jimmy J
+{532}{}{基斯．莱特}                   # ncKeiWri.int    ; New Reno Keith Wright
+{533}{}{理．安．彼希}                # ncLABish.int    ; New Reno Lee Anne Bishop
 {534}{}{漂亮男孩洛依德}               # ncLloyd.int     ; New Reno Pretty Boy Lloyd
 {535}{}{梅森}                          # ncMason.int     ; New Reno Mason
 {536}{}{士兵}                          # ncMyrGrd.int    ; New Reno Myron's Guards
 {537}{}{麦朗}                          # nhMyron.int     ; New Reno Myron (Talking Head)
 {538}{}{妮基}                          # ncNikki.int     ; New Reno Darlin' Nikki
-{539}{}{奥薇尔.莱特}                 # ncOrvill.int    ; New Reno Orville Wright
+{539}{}{奥薇尔．莱特}                 # ncOrvill.int    ; New Reno Orville Wright
 {540}{}{老板}                       # ncPitBos.int    ; New Reno Generic Pit Boss
 {541}{}{洛尼司可}         # ncRenesc.int    ; New Reno Renesco the Rocket-Man
 {542}{}{研究员}                     # ncResear.int    ; New Reno Stables Researcher
 {543}{}{沙尔瓦多老大}                 # ncSalvat.int    ; New Reno Boss Salvatore
-{544}{}{史度特.理特}                  # ncStuLit.int    ; New Reno Stuart Little (Agent)
-{545}{}{T雷}                          # ncTRay .int     ; New Reno T-Ray
+{544}{}{史度特．理特}                  # ncStuLit.int    ; New Reno Stuart Little (Agent)
+{545}{}{Ｔ雷}                          # ncTRay .int     ; New Reno T-Ray
 {546}{}{婊子}                          # ncBitch.int     ; New Reno Corsican Brothers Bitches
 {547}{}{莱特的小孩}                   # ncWriPly.int    ; New Reno Wright Children Playing
 {548}{}{新加州共和国员警}                     # SCCop.int       ; NCR cop
@@ -551,7 +551,7 @@
 {633}{}{麦特}                           # OCMatt.int      ; Matt prisonner in Vault 13
 {634}{}{}                               # RCFitRat.int    ; Redding Fighting Molerats
 {635}{}{地图}                     # RedMEnt.int     ; Redding Mine Entrance Map Script
-{636}{}{第13号避难所地图}                 # vault13.int     ; Vault13 map script
+{636}{}{第１３号避难所地图}                 # vault13.int     ; Vault13 map script
 {637}{}{珊蒂}                          # OCSandy.int     ; Sandy Vault 13 child.
 {638}{}{箱子}                            # ziTmpBox.int    ; Generic Temporary swap box
 {639}{}{史恩}                         # OCThearn.int    ; Vault 13 Guard Thearn.
@@ -566,7 +566,7 @@
 {648}{}{箱子}                            # miBalBox.int    ; Modoc Balthas Merchant box
 {649}{}{铁锁柜}                   # siLocker.int    ; Guard's lockers in NCR 1
 {650}{}{作弊者}                        # Cheater.int     ; Cheater Character
-{651}{}{第15号避难所地图}                 # vault15.int     ; Vault 15 map script
+{651}{}{第１５号避难所地图}                 # vault15.int     ; Vault 15 map script
 {652}{}{费尔}                           # bcPhil.int      ; Phil the secret vault 15 entrance guard
 {653}{}{比尔}                           # bcBill.int      ; Bill in Vault 15 Entrance
 {654}{}{屠夫}                        # mcButchr.int    ; Slaughter house guys in Modoc
@@ -574,8 +574,8 @@
 {656}{}{约翰}                           # bcJohn.int      ; Vault 15 guy entrance
 {657}{}{琼斯}                          # BCJones.int     ; Vault 15 doctor
 {658}{}{卡拉}                          # BCKarla.int     ; Karla Vault 15 guard.
-{659}{}{第15号避难所秘密入口地图}        # V15sent.int     ; Vault 15 secret entrance map
-{660}{}{丽蓓嘉}                        # BCRebecc.int    ; Vault 15 Rebecca
+{659}{}{第１５号避难所秘密入口地图}        # V15sent.int     ; Vault 15 secret entrance map
+{660}{}{丽贝卡}                        # BCRebecc.int    ; Vault 15 Rebecca
 {661}{}{门}                           # miDoor.int      ; Modoc Doors
 {662}{}{死亡爪}                     # mcDthClw.int    ; Modoc Rose's "Chicken"
 {663}{}{萝伯可}                        # bcRobert.int    ; Roberta Vault 15 Entrance
@@ -599,7 +599,7 @@
 {681}{}{贝丝}                           # mcBess.int      ; Modoc Bess the Brahmin
 {682}{}{箱子}                            # miJkyBox.int    ; Modoc Jerky box
 {683}{}{骰子庄家}                   # zcCrpDel.int    ; Craps Dealer
-{684}{}{第15号避难所卫兵}                 # bcGenGrd.int    ; Vault 15 Khan Guard
+{684}{}{第１５号避难所卫兵}                 # bcGenGrd.int    ; Vault 15 Khan Guard
 {685}{}{溶渣}                           # mcSlag.int      ; Modoc Generic Slag
 {686}{}{地毯}                            # mtRug.int       ; Modoc Spacial Script for Rug
 {687}{}{小孩}                          # mcChild.int     ; Modoc Child
@@ -661,7 +661,7 @@
 {743}{}{遇到贝丝}                 # rndBess.int     ; Random Encounter for Bess outside of modoc
 {744}{}{贝丝}                           # ECBess.int      ; Bess in Bess's Encounter (she's dead jim)
 {745}{}{双头牛}                        # ECBesCow.int    ; One of the Brahmin in Bess's herd
-{746}{}{安琪拉.彼希}                  # ncAngBis.int    ; New Reno Angela Bishop
+{746}{}{安琪拉．彼希}                  # ncAngBis.int    ; New Reno Angela Bishop
 {747}{}{汤米}              # ncTommy.int     ; New Reno Tommy the Balls (YEAH! OUR HERO)
 {748}{}{保险箱}                           # niABisSf.int    ; New Reno Angela Bishop's Safe
 {749}{}{保险箱}                           # niMrBSf.int     ; New Reno Mr. Bishop's Safe
@@ -684,7 +684,7 @@
 {766}{}{陷阱门}                      # miTrpDor.int    ; Modoc Ghost Farm Trap Door
 {767}{}{上锁的盒子}                        # Hilbox.int      ; Broken Hills Liz inventory box
 {768}{}{房间}                           # ntLydRom.int    ; New Reno Lloyd Room
-{769}{}{汤姆士.摩尔}                   # VCMoore.int     ; Thomas Moore from Vault City
+{769}{}{汤姆士．摩尔}                   # VCMoore.int     ; Thomas Moore from Vault City
 {770}{}{门}                           # ZILckDor.int    ; Generic Locked Door (-20)
 {771}{}{锁柜}                         # niLydBox.int    ; New Reno Lloyd's Loot Box
 {772}{}{地下水道通道}                        # niManhol.int    ; New Reno Manhole to Lloyd's Loot
@@ -703,15 +703,15 @@
 {785}{}{班地梅尔}                        # ECBedemi.int    ; Bedemir one of the Knights with Arthur
 {786}{}{蓝瑟安特公爵}                  # ECSirLau.int    ; Sir Launcelot one of the Knights with Arthur
 {787}{}{加拉韩德}                        # ECGalaha.int    ; Galahad one of the knights with Arthur
-{788}{}{班.伟德}                       # RCWade.int      ; Ben Wade from Radding
-{789}{}{阿沙巴士卡.狄克}                 # RCDick.int      ; Athabaska Dick from Redding
+{788}{}{班．伟德}                       # RCWade.int      ; Ben Wade from Radding
+{789}{}{阿沙巴士卡．狄克}                 # RCDick.int      ; Athabaska Dick from Redding
 {790}{}{寡妇罗妮}                   # RCRooney.int    ; Widow Rooney from Redding
 {791}{}{镇民}                    # RCGenPes.int    ; Generic Townsperson in Redding
 {792}{}{史丹威尔}                       # RCStanwl.int    ; Stannwell from Redding
 {793}{}{沙文力}                      # RCSavine.int    ; Savinelli from Redding
 {794}{}{马琪}                          # RCMarge.int     ; Marge LeBarge from Redding
 {795}{}{马德嘉士琪夫人}                 # RCModjes.int    ; Madam Modjeska from Redding
-{796}{}{詹姆士.哈菲}                    # RCHoffy.int     ; James Hoffy, Caravan Master for Redding
+{796}{}{詹姆士．哈菲}                    # RCHoffy.int     ; James Hoffy, Caravan Master for Redding
 {797}{}{地图}                     # Rndholy1.int    ; Random Encounter Holy Knights 1 map
 {798}{}{派西}                          # ECPatsy.int     ; Arthur's horse HOLY 1 encounter
 {799}{}{康克地}                       # ECConcor.int    ; Concord Launcelot's horse.
@@ -749,7 +749,7 @@
 {831}{}{地图}                     # RndBridg.int    ; Random Bridge encounter
 {832}{}{神秘的陌生人}            # ECMstStr.int    ; Mysterious Stranger
 {833}{}{疯牛}                    # ECgcwbmb.int    ; Generic Cow bomb
-{834}{}{日本黑帮成员}                  # ECYakuza.int    ; Random Encounter Yakuza
+{834}{}{日本瘪三成员}                  # ECYakuza.int    ; Random Encounter Yakuza
 {835}{}{怀尔得}                         # ECWilder.int    ; Random Encounter Wilder
 {836}{}{狗}                            # ncWriDog.int    ; New Reno Wright Dog
 {837}{}{箱子}                            # niRamBox.int    ; New Reno Box to be delivered to Ramirez
@@ -821,7 +821,7 @@
 {903}{}{理察森总统}           # qhPrzRch.int    ; Enclave President Richardson talking head.
 {904}{}{豪卫慈}                       # WIHowitz.int    ; Howitzer in the Sierra Base
 {905}{}{门}                           # WIEntDor.int    ; Entrance to Sierra Base Door
-{906}{}{死亡爪幼体}                 # OCBabDth.int    ; Baby Deathclaws in Vault 13
+{906}{}{死亡爪幼兽}                 # OCBabDth.int    ; Baby Deathclaws in Vault 13
 {907}{}{危险 丹}                  # RCMcGrew.int    ; Dangerous Dan McGrew from redding
 {908}{}{强森}                    # RCDrJohn.int    ; Painless Doc Johnson (breaks Jet)
 {909}{}{马力安警长}                 # RCMarion.int    ; Sheriff Earl Marion
@@ -873,7 +873,7 @@
 {955}{}{马丁}                         # QCMartin.int    ; Enclave, Martin Frobishner, V13 spokesman
 {956}{}{李健}                        # FCKenLee.int    ; Ken Lee in San Francisco
 {957}{}{葛兰耐特上校}                   # QCGranit.int    ; Sgt. Granite of the Enclave Patrol
-{958}{}{法兰克.荷瑞根}                 # QCFrank.int     ; Secret Service Agent Frank (End Boss)
+{958}{}{法兰克．荷瑞根}                 # QCFrank.int     ; Secret Service Agent Frank (End Boss)
 {959}{}{地图}                     # GeckJunk.int    ; Map Script for Gecko Junkyard
 {960}{}{地图}                     # GeckTunl.int    ; Map Script for Gecko Tunnels
 {961}{}{门}                           # SSFrgDor.int    ; Fergus's Door script
@@ -885,7 +885,7 @@
 {967}{}{布告栏}                 # SSSign.int      ; Sign in NCR Entrance
 {968}{}{地鼠}                       # mcMolRat.int    ; Ghost Farm Mole Rat
 {969}{}{总统的秘书}          # QCPrsSec.int    ; President's personal intern (uh sectertary)
-{970}{}{汤姆.莫雷}                     # QCMurray.int    ; Tom Murray, head of AEC
+{970}{}{汤姆．莫雷}                     # QCMurray.int    ; Tom Murray, head of AEC
 {971}{}{坚固的门}                    # SSCrpDor.int    ; Craps table door in NCR
 {972}{}{镇民}                    # mcPeasan.int    ; Modoc Peasant, they attack the farm
 {973}{}{地下掩体市行政区}        # VCtyCocl.int    ; Map Script Vault City Council Area
@@ -893,7 +893,7 @@
 {975}{}{石头}                          # esEntRks.int    ; Military Base Entrance Rocks
 {976}{}{赌徒}                        # RCGamble.int    ; Redding Generic Gamblers
 {977}{}{假的尸体}                 # HtCorpse.int    ; Spatial Script for Corpses
-{978}{}{来自NCR的骗子}                        # SCCheat.int     ; Cheat Character for NCR
+{978}{}{来自ＮＣＲ的骗子}                        # SCCheat.int     ; Cheat Character for NCR
 {979}{}{囚犯}                       # QCGenPrs.int    ; Enclave Generic Prisoner
 {980}{}{市民}                        # QCGenCit.int    ; Enclave Generic Citizens
 {981}{}{士兵}                          # QCGenGrd.int    ; Enclave Generic Guards
@@ -964,8 +964,8 @@
 {1046}{}{门}                      # diPenDor.int    ; Slave Pen Door in the Den
 {1047}{}{瓦那明球矿坑}                # RedWan1.int     ; Map Script for Wanamingo Mine
 {1048}{}{瓦那明球矿坑入口}       # RedWane.int     ; Map Script for Wanamingo Mine Entrance
-{1049}{}{“青蛙”.摩顿}                   # RCFrog.int      ; Frog Morton
-{1050}{}{达夫H.}                       # FCDaveh.int     ; Dave Handy in San Fran
+{1049}{}{“青蛙”．摩顿}                   # RCFrog.int      ; Frog Morton
+{1050}{}{达夫.H}                       # FCDaveh.int     ; Dave Handy in San Fran
 {1051}{}{门}                          # diVicDor.int    ; Vic's Room Door in the Den
 {1052}{}{门}                          # diRomDor.int    ; Metzger's Room Door in the Den
 {1053}{}{查理}                # vccharly.int    ; Puking Charlie in Vault Courtyard
@@ -1054,7 +1054,7 @@
 {1136}{}{士兵}                      # ncHSPow1.int    ; New Reno Helicopter Script Power Armor 1
 {1137}{}{士兵}                      # ncHSPow2.int    ; New Reno Helicopter Script Power Armor 2
 {1138}{}{箱子}                         # niHSCrat.int    ; New Reno Helicopter Script Crate
-{1139}{}{巧手先生}                     # ncHSHand.int    ; New Reno Helicopter Script Handy
+{1139}{}{韩地先生}                     # ncHSHand.int    ; New Reno Helicopter Script Handy
 {1140}{}{沙尔瓦多的卫兵}               # ncHSGSal.int    ; New Reno Helicopter Script Salvatore Guard
 {1141}{}{特别任务}                # ntHSGrd.int     ; New Reno Helicopter Script Guarding Spacial
 {1142}{}{门}                          # niEldDor.int    ; New Reno Elderidge Door
@@ -1126,7 +1126,7 @@
 {1208}{}{发射器}                       # FSPemtr2.int    ; Palace Emitter 2
 {1209}{}{发射器}                       # FSPemtr3.int    ; Palace Emitter 3
 {1210}{}{发射器}                       # FSEmpEmt.int    ; Emporor Computer's Force Field
-{1211}{}{辐射2攻略本}            # niF2Hint.int    ; New Reno Fallout 2 Hintbook
+{1211}{}{异尘余生２攻略本}            # niF2Hint.int    ; New Reno Fallout 2 Hintbook
 {1212}{}{}                              # csTouch.int     ; Script to signal if dude touches container objects (in Navarro)
 {1213}{}{}                              # csArea.int      ; Script to signal if dude enters an area (in Navarro)
 {1214}{}{士兵}                         # RCAscGrd.int    ; Generic Guard for Ascorti's Bar
@@ -1180,7 +1180,7 @@
 {1262}{}{电脑}                      # FSFace.int      ; Ace Computer system in San Fran
 {1263}{}{控制器}                      # QITurTrm.int    ; Generic Enclave Turret Terminal
 {1264}{}{炮台}                        # QCTurret.int    ; Enclave Turrets
-{1265}{}{恰克.史度杰}                # hcChuck.int     ; Chuck Stodgers, Broken Hills
+{1265}{}{恰克．史度杰}                # hcChuck.int     ; Chuck Stodgers, Broken Hills
 {1266}{}{}                              # htChuck.int     ; Spatial Script for waking up Chuck
 {1267}{}{控制器}                      # viTerm.int      ; Vault City Vault Terminal
 {1268}{}{帮派份子}                     # RCMotGng.int    ; Frog Morton's gang
@@ -1193,7 +1193,7 @@
 {1275}{}{箱子}                           # hiPrfBx1.int    ; Professor's Box in Broken Hills
 {1276}{}{箱子}                           # hiPrfBx2.int    ; Professor's Box in Broken Hills
 {1277}{}{西莫}                       # hcSeymore.int   ; Seymour the talking Plant/Broken Hills
-{1278}{}{约翰.苏罗文}                 # hcSulvan.int    ; John Sullivan - Broken Hills
+{1278}{}{约翰．苏罗文}                 # hcSulvan.int    ; John Sullivan - Broken Hills
 {1279}{}{蓝尔皮}                         # hcLumpy.int     ; Lumpy the car accident victim - Broken Hills
 {1280}{}{}                              # BISpyHol.int    ; Spy Holodisk for NCR
 {1281}{}{}                              # SIHisHol.int    ; NCR History Holodisk
@@ -1275,7 +1275,7 @@
 {1357}{}{码头的流浪汉}                 # FCDocSqa.int    ; San Fran - Doc Squatter
 {1358}{}{码头的小孩}                      # FCDocKid.int    ; San Fran - Doc Kids
 {1359}{}{地图}                    # RndWhale.int    ; Random Whale Script
-{1360}{}{派西.克普}                   # gcPercy.int     ; Percy Crump, Gecko Merchant
+{1360}{}{派西．克普}                   # gcPercy.int     ; Percy Crump, Gecko Merchant
 {1361}{}{箱子}                           # giPerBox.int    ; Percy's Stock Box
 {1362}{}{箱子}                           # giJnkBox.int    ; Gecko Junkyard Temp Inventory Box
 {1363}{}{门}                          # niWriDor.int    ; New Reno Wright Room Door
@@ -1369,7 +1369,7 @@
 {1451}{}{水井}                          # tribei1.int     ; script for well in tribe
 {1452}{}{Tribe map}                     # tribem1.int     ; map script for tribe
 {1453}{}{部落人}                        # tribec8.int     ; tribal fishermen/women
-{1454}{}{瑟里}                         # tribec9.int     ; Missing Tribal (Serin)
+{1454}{}{塞林}                         # tribec9.int     ; Missing Tribal (Serin)
 {1455}{}{Tribe map2}                    # tribem2.int     ; Primitive Tribe Map 2
 {1456}{}{Tribe map 2 - spacial 1}       # tribesp1.int    ; cave entrance spacial
 {1457}{}{Tribe map 2 - spacial 2}       # tribesp2.int    ; cavein spacial
@@ -1390,12 +1390,12 @@
 {1472}{}{小约翰的父亲}        # dcljfthr.int    ; Drunken Father of Johnny
 {1473}{}{流浪汉}                      # dcaddct2.int    ; Addicts who live in building which will become the orphanage
 {1474}{}{毒贩}                   # dcdealer.int    ; Dealer/Body guard in Den Residential
-{1475}{}{丹恩居住区}                  # dcpeasnt.int    ; Citizen of Den Residential
+{1475}{}{丹恩的居门}                  # dcpeasnt.int    ; Citizen of Den Residential
 {1476}{}{孤儿}                        # dcorphn2.int    ; Orphan living at the Orphanage
 {1477}{}{平民}                       # dcpesnt2.int    ; Peasant 2 of Den Residential
 {1478}{}{地图}                    # gcenclen.int    ; Enclave Verti Encounter near Gecko
-{1479}{}{英克雷警卫}                 # gcenc.int       ; gecko enclave patrol guard
-{1480}{}{英克雷警卫}                 # gcenc2.int      ; gecko enclave patrol leader
+{1479}{}{那瓦罗警卫}                  # gcenc.int       ; gecko enclave patrol guard
+{1480}{}{那瓦罗警卫}                  # gcenc2.int      ; gecko enclave patrol leader
 {1481}{}{保险箱}                          # hisafe.int      ; safe at hubologist stash
 {1482}{}{士兵}                         # hcdorgrd.int    ; Door Guard at Hub Stash
 {1483}{}{哈伯教}                    # hcstldr.int     ; Leader at the Hub Stash
@@ -1412,7 +1412,7 @@
 {1494}{}{epax map script}               # epa1.int        ; EPA Map Script (epax.map)
 {1495}{}{EPA MAIN}                      # epa2.int        ; SubLevels Map
 {1496}{}{EPA warehouse map}             # epa3.int        ; map for Doctor's warehouse
-{1497}{}{巧手先生机器人}               # epac1.int       ; Script for depressed Mr Handy
+{1497}{}{"快乐先生"机器人}               # epac1.int       ; Script for depressed Mr Handy
 {1498}{}{全息图像00000}                # epac2.int       ; Hologram 00000 script
 {1499}{}{"神勇"小面包机}      # epac3.int       ; Talking Toaster
 {1500}{}{全息图像10001}                # epac4.int       ; Script for Hologram 10001
@@ -1469,7 +1469,7 @@
 {1551}{}{Spatial Script}                # epas6.int       ; Spatial script for message about magnetic field
 {1552}{}{Spatial Script}                # epas7.int       ; Spatial script on entry to the gas areas
 {1553}{}{Spatial Script}                # epas8.int       ; Spatial script for access to vents idea
-{1554}{}{空调管道}         # epai29.int      ; Vent to allow player to enter vent shafts of epa
+{1554}{}{通风管道}         # epai29.int      ; Vent to allow player to enter vent shafts of epa
 {1555}{}{风扇}                            # epai30.int      ; Left Fan Script
 {1556}{}{风扇}                            # epai31.int      ; Right Fan Script
 {1557}{}{spatial script}                # epas2a.int      ; Fumes near Mr. Chemmie (become harmless when fans fixed)
@@ -1479,14 +1479,14 @@
 {1561}{}{一个全息图象}                    # epac22.int      ; Malfunctioning hologram
 {1562}{}{spatial}                       # epas10.int      ; teleports dude_obj to maze
 {1563}{}{}                              # epac23.int      ; Monster in Doctor's maze
-{1564}{}{全息影像控制终端}             # epai34.int      ; machine controlling hologram that gives static
+{1564}{}{全息图像计算机}             # epai34.int      ; machine controlling hologram that gives static
 {1565}{}{小孩}                         # vilchild.int    ; Children at Vault Village
 {1566}{}{spatial}                       # vsraispt.int    ; spatial for catching the raiders in the act at VC
 {1567}{}{飞鸟}                      # civerti.int     ; Flyable Vertibird
 {1568}{}{电脑}                      # cisactrl.int    ; Navarro Satellite control computer
 {1569}{}{spatial}                       # qsvertel.int    ; spatial for vertibird elevator at enclave
-{1570}{}{巧手先生}                     # qcwrkbot.int    ; Worker bot (enclave verti pad)
-{1571}{}{核弹}                          # qinuke.int      ; Nuke at the Enclave
+{1570}{}{"快乐先生"机器人}                     # qcwrkbot.int    ; Worker bot (enclave verti pad)
+{1571}{}{核子可乐}                          # qinuke.int      ; Nuke at the Enclave
 {1572}{}{水井}                          # viwell.int      ; VC Courtyard Well
 {1573}{}{水井}                          # giwell.int      ; Gecko Well
 {1574}{}{}                              # patchinf.int    ; Patch Information Script
@@ -1512,7 +1512,7 @@
 {1594}{}{妓女}                  # dcprosti.int    ; Prostitute at Tyler's Party (Den)
 {1595}{}{黏液}                           # esgoo.int       ; Goo in EPA
 {1596}{}{Spatial}                       # wstrpwr2.int    ; Spatial that trips the wire in SAD
-{1597}{}{低温休眠舱}   # eshib.int       ; Hibernation Chamber spatial
+{1597}{}{休眠舱}   # eshib.int       ; Hibernation Chamber spatial
 {1598}{}{}                              # nscody.int      ; Spatial script for Cody's death
 {1599}{}{锁柜}                         # eplkr.int       ; Script controlling the lockers holding the NPC's belongings (EPA)
 {1600}{}{Map Script}                    # easter.int      ; RP Easter Egg Map Script
@@ -1533,20 +1533,20 @@
 {1615}{}{罗伯特.巴伦}                  # vibaron.int     ; Robert Baron - Vault Village caravan provider
 {1616}{}{警卫}                        # vimergrd.int    ; Merchant Guard - Robert Baron
 {1617}{}{箱子}                         # tribei2.int     ; Crate of Stimpacks (Primitive Tribe)
-{1618}{}{饥饿的人}                # epac24.int      ; Ravenous Humans at EPA Green Level
+{1618}{}{贪婪的人}                # epac24.int      ; Ravenous Humans at EPA Green Level
 {1619}{}{map}                           # vilmerch.int    ; Vault Village Merchant Map
 {1620}{}{力场控制面板}             # epai38.int      ; force field panel (EPA level 7)
 {1621}{}{风扇}                            # epai39.int      ; Fan to enter EPA base
-{1622}{}{守卫}                        # fcbtgrd.int     ; Shi Motor Boat Guard
-{1623}{}{摩托艇}                    # sfmboat.int     ; Script to Motor Boat at Shi Docks
-{1624}{}{守卫}                         # fcbtech.int     ; Shi Sub Tech Guard
+{1622}{}{警卫}                        # fcbtgrd.int     ; Shi Motor Boat Guard
+{1623}{}{汽艇}                    # sfmboat.int     ; Script to Motor Boat at Shi Docks
+{1624}{}{警卫}                        # fcbtech.int     ; Shi Sub Tech Guard
 {1625}{}{垃圾}                          # abjunk.int      ; Abbey Junk Piles
 {1626}{}{楼梯}                        # epai40.int      ; EPA Greenhouse stairs
 {1627}{}{电梯}                # epai41.int      ; EPA broken elevator shaft entrance
 {1628}{}{spatial}                       # epas11.int      ; EPA elevator shaft entrance spatial
 {1629}{}{电梯}                # epai42.int      ; EPA elevator shaft level 1
 {1630}{}{锁柜}                         # epai43.int      ; EPA Locker with Solar Scorcher
-{1631}{}{码头守卫}                    # fcdokgrd.int    ; Shit Guard at Motor Boat
+{1631}{}{码头警卫}                    # fcdokgrd.int    ; Shit Guard at Motor Boat
 {1632}{}{码头工人}                   # fcsbtec1.int    ; Sub Power Console Techie
 {1633}{}{码头工人}                   # fcsbtec2.int    ; Sub Target Console Techie
 {1634}{}{码头工人}                   # fcsbtec3.int    ; Sub Torpedo Console Techie
@@ -1563,7 +1563,7 @@
 {1645}{}{守卫}                         # fcsubgrd.int    ; Shi Sub Guard
 {1646}{}{飞鸟}                     # ncverti.int     ; Vertibird at Salvatore Secret Transaction
 {1647}{}{spatial}                       # fssubsp.int     ; Shi Sub Interior Text Spatial
-{1648}{}{猎豹血清}                         # epai44.int      ; Agility +1 serum at the EPA
+{1648}{}{豹的速度血清}                         # epai44.int      ; Agility +1 serum at the EPA
 {1649}{}{老练的商队保镖}             # abguard.int     ; Retired Caravan Guard
 {1650}{}{申博士}                     # fcdrshng.int    ; Dr. Sheng
 {1651}{}{孢子生命体}                # fcplntmn.int    ; Dr. Sheng's Plant Creature

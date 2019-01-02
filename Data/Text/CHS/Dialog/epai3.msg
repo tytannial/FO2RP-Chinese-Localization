@@ -39,7 +39,7 @@
 
 {110}{}{随着美国和中国之间的紧张局势不断升级，我们的军事官员们的脑海中出现了一种恐惧。那就是中国可能会对美国军队部署生物武器。WestTek，一个高科技公司被要求开发可与其对抗的武器。这导致了对免疫系统粒子研究的开始，这个项目被命名为PVP：Pan-Immunity Virion Project，目标是通过重组士兵的DNA以增强士兵的免疫力。但在2076年PVP测试期间，试验对象中观察到异常的副作用，实验动物肌肉量显著地生长，并且他们的脑容量也得到增长。}
 {111}{}{[更多]}
-{112}{}{看到此项目的潜力，军队迅速占领了这个项目，并重新命名为FEV：Forced Evolutionary Virus(强迫进化病毒)。不仅仅满足于对疾病免疫，FEV旨在增强士兵身体，并取得智力增长，目标是制造"超人"。在动物实验取得合乎逻辑的结果后，FEV研究被转移到马里泊萨号军事基地，在那里将对军事囚犯进行人体测试。我们急切地期待着这些激动人心实验的结果。}
+{112}{}{看到此项目的潜力，军队迅速占领了这个项目，并重新命名为FEV：Forced Evolutionary Virus（强迫进化病毒）。不仅仅满足于对疾病免疫，FEV旨在增强士兵身体，并取得智力增长，目标是制造"超人"。在动物实验取得合乎逻辑的结果后，FEV研究被转移到马里泊萨号军事基地，在那里将对军事囚犯进行人体测试。我们急切地期待着这些激动人心实验的结果。}
 {113}{}{[返回]}
 
 
@@ -70,7 +70,7 @@
 {132}{}{也许还能找到一些，你要继续查找吗？}
 {133}{}{也许再找找。}
 {134}{}{经过许多痛苦的查找。你找到了一个隐藏文件。}
-{135}{}{访问标题为MFP：Mass Fluoridation Project(大规模氟化项目)的文件。}
+{135}{}{访问标题为MFP：Mass Fluoridation Project（大规模氟化项目）的文件。}
 
 
 #{136}{}{In the continued effort to make the citizens of the United States more controllable, the inclusion of sodium
@@ -112,8 +112,8 @@
 
 #{200}{}{You learn about the true intent of water fluoridation.}
 
-{200}{}{你了解到MFP：Mass Fluoridation Project(大规模氟化项目)的真正意图。}
+{200}{}{你了解到MFP：Mass Fluoridation Project（大规模氟化项目）的真正意图。}
 
-{311}{}{Whirrrr....}
+{311}{}{Whirrrr...}
 {312}{}{BEEP!!}
 {313}{}{Clunk...}

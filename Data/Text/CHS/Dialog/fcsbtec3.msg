@@ -10,7 +10,7 @@
 {101}{}{你看见一名始族潜艇技师。}
 
 {150}{}{你偷偷摸摸地想做什么？}
-{151}{}{你是间谍吗?}
+{151}{}{你是间谍吗？}
 
 #{200}{}{This is filthy, look at all that rust!}
 #{201}{}{I can't fathom why we need to keep this running.}
@@ -35,10 +35,10 @@
 
 {300}{}{我记得曾在这里见过你，你在鱼雷室做什么？你到底是谁？}
 {301}{}{你又回来了？你在鱼雷室做什么？你到底是谁？}
-{302}{}{我最近加入技术团队的，很抱歉没有提前通知你。哦，安排我来这儿是要做什么来着？对，维修鱼雷！他们看起来很可怕，一场事故正在等着发生!}
+{302}{}{我最近加入技术团队的，很抱歉没有提前通知你。哦，安排我来这儿是要做什么来着？对，维修鱼雷！他们看起来很可怕，一场事故正在等着发生！}
 {303}{}{我是最近才加到技术团队花名册上的，我被要求修正鱼雷的制导系统。报告上说这个系统近来工作都不正常，我认为这可能是由于某些不可逆转的设计缺陷造成的。}
 {304}{}{我是一个修理工，我刚刚加入你的花名册，我的工作是定期维护鱼雷，没错，就是定期维护鱼雷。看看那些锈！看看那些螺旋桨马上要掉下来的样子！}
-{305}{}{抱歉,错误的房间。}
+{305}{}{抱歉，走错房间了。}
 
 
 
@@ -52,16 +52,16 @@
 {311}{}{我会小心的，我保证。}
 
 
-#{320}{}{They finally sent me a mechanic, after all those weeks of begging……}
+#{320}{}{They finally sent me a mechanic, after all those weeks of begging...}
 
-{320}{}{在几个星期的乞讨之后，他们最后给我一个修理工……}
+{320}{}{在几个星期的乞讨之后，他们最后给我一个修理工...}
 
 #{330}{}{Uh, you don't look like a mechanic. Frankly, I don't think you can tell a spanner from a screwdriver from the
  looks of it, so why don't you go back and help the rest of the guys, instead of loitering in the torpedo room? I don't
  want you to blow us up accidentally.}
 #{331}{}{Fine, I'll go.}
 
-{330}{}{呃，你看起来不像个机械师。坦白地说，我认为你甚至连螺丝刀和扳手都分不清，你为什么不回去帮助其他的？我不希望你把我们炸上天。}
+{330}{}{呃，你看起来不像个机械师。坦白地说，我认为你甚至连螺丝刀和扳手都分不清，你为什么不回去干点其它事？我不希望你把我们炸上天。}
 {331}{}{好的，我去。}
 
 
@@ -87,19 +87,19 @@
 
 
 {360}{}{我现在很忙}
-{361}{}{抱歉, 我现在很忙}
+{361}{}{抱歉，我现在很忙}
 
 #{370}{}{Don't touch that!}
 #{371}{}{What did I tell you?!}
 #{372}{}{I warned you!}
 
-{370}{}{别碰!}
-{371}{}{我说你说过!}
-{372}{}{警告你!}
+{370}{}{别碰！}
+{371}{}{我说你说过！}
+{372}{}{警告你！}
 
 #{375}{}{What the hell are you doing! Guards!}
 
-{375}{}{你在干什么!守卫!}
+{375}{}{你在干什么！守卫！}
 
 #{380}{}{Stop wasting time and get to work.}
 

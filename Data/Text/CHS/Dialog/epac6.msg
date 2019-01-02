@@ -14,7 +14,7 @@
 #{201}{}{Let's see... I used a rope to climb down an elevator shaft to the utility level... Then I crawled through a fan duct and found myself in a robot maintenance area...}
 
 {200}{}{您好，介意我问一下你是怎么进来的吗？到地面的电梯坏了一段不短的时间了。}
-{201}{}{怎么说好呢……我用绳子爬下电梯井……然后我爬过一个油腻腻的风扇管道，发现自己在一个机器人维修区……然后……}
+{201}{}{怎么说好呢...我用绳子爬下电梯井...然后我爬过一个油腻腻的风扇管道，发现自己在一个机器人维修区...然后...}
 
 
 # Node  1  [Node002]
@@ -24,7 +24,7 @@
 
 {210}{}{我很惊讶，你竟然没被那些该死的植物吃掉。我是全息图像10031，环境保护局地面维护主任[他重重的叹了口气。我知道这里看起来很糟糕]}
 {211}{}{如果你不满意这里，你为什么不做点什么呢？}
-{212}{}{这真不是开玩笑的，满地都是放射性物质、尸体、还有一箩筐的变异食肉植物……说真的，你一定是史上最差的园丁。}
+{212}{}{这真不是开玩笑的，满地都是放射性物质、尸体、还有一箩筐的变异食肉植物...说真的，你一定是史上最差的园丁。}
 
 
 # Node  2  [Node003]
@@ -32,8 +32,8 @@
 #{221}{}{Maybe I could help somehow?}
 #{222}{}{That's really a shame. I have to be going now. Goodbye.}
 
-{220}{}{如果我能做点什么，相信我，我肯定会去做的。我没有身体，也没有权限，该死的机器人不会回应我说的话。在过去的几十年里，我一直在以100%的低效率工作……这是多么可悲的事？其他的全息图也不会管这些事情，唯一比我更没用的是运营总监。}
-{221}{}{也许我可以帮助你?}
+{220}{}{如果我能做点什么，相信我，我肯定会去做的。我没有身体，也没有权限，该死的机器人不会回应我说的话。在过去的几十年里，我一直在以100%的低效率工作...这是多么可悲的事？其他的全息图也不会管这些事情，唯一比我更没用的是运营总监。}
+{221}{}{也许我可以帮助你？}
 {222}{}{那真是太遗憾了，我得走了，再见。}
 
 # Node  3  [Node004]
@@ -59,7 +59,7 @@
 #{251}{}{You're looking rather glum. What's wrong?}
 
 {250}{}{你好，我能为您做些什么？[叹气]}
-{251}{}{你看起来很忧郁，怎么了?}
+{251}{}{你看起来很忧郁，怎么了？}
 
 
 # Node  6  [Node007]
@@ -92,7 +92,7 @@
 #{290}{}{You look rather messy. Is everything all right?}
 #{291}{}{Yeah, I'm fine. I had some trouble with some mutated plants on the way down here but I took care of them.}
 
-{290}{}{你看起来不是很好，一切都还好吗? }
+{290}{}{你看起来不是很好，一切都还好吗？ }
 {291}{}{嗯，我很好。我在来这儿的路上遇到了一些突变的植物，但我已经"照顾"好它们了。}
 
 # Node  10  [Node011]
@@ -108,12 +108,14 @@
 #{310}{}{Hey, you've done me a good turn so you'll take the key and anything you want or need. It's my way of saying thank you for what you've done.}
 #{311}{}{Oh, all right then. Say who are you anyway? Why is it so important to you that I've killed all of these plants?}
 
-{310}{}{Hey, you've done me a good turn so you'll take the key and anything you want or need. It's my way of saying thank you for what you've done.}
-{311}{}{Oh, all right then. Say who are you anyway? Why is it so important to you that I've killed all of these plants?}
+{310}{}{你帮了我一个大忙，所以你可以拿走钥匙和任何你想要或需要的东西，这是我对你表示感谢的方式。}
+{311}{}{哦，那好吧。你到底是谁？为什么我杀了所有这些植物对你这么重要？}
 
 # Node  12  [Node013]
-{320}{}{你帮了我一个大忙，所以你可以拿走钥匙和任何你想要或需要的东西，这是我对你表示感谢的方式。}
-{321}{}{哦，那好吧。你到底是谁？为什么我杀了所有这些植物对你这么重要？}
+#{320}{}{I'm the Director for Ground Maintenance. I ensure that the grounds are in good order, but as I'm a Hologram and can't do anything myself, I command the robots to do it all for me. As most of them have stopped working, I've operated at 100% inefficiency for the last few years. You've helped me more than you could ever imagine.}
+#{321}{}{Well, no problem. I've got to be going now.}
+{320}{}{我是地面维护主任，我的 职责是确保地面井然有序。但因为我是全息图像，我自己什么也做不了，所以我命令机器人为我做所有的事情。但现在它们中的大多数已经停止工作了，在过去的几年里我的工作效率下降了100%，你对我的帮助超出了你的想象。}
+{321}{}{嗯，这真好，我现在得走了。}
 
 
 #{330}{}{Keep up the good work, assistant.}
@@ -130,11 +132,11 @@
 #{341}{}{Maybe 10001 is right. Maybe we should just destroy it all.}
 
 {330}{}{好好干！助理。}
-{331}{}{我现在的工作效率是1%!}
+{331}{}{我现在的工作效率是1%！}
 {332}{}{你消灭在EPA土地上蔓延的变种植物。}
 {333}{}{整个地区都被这些突变植物接管了。}
 {334}{}{它们到处都是。}
-{335}{}{然后是螳螂……}
+{335}{}{然后是螳螂...}
 {336}{}{这个温室一团糟。}
 {337}{}{如果只有机器人会对命令作出反应。}
 {338}{}{我知道，我是一个彻底的失败者。}

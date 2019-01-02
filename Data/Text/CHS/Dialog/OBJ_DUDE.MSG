@@ -19,7 +19,7 @@
 
 {110}{}{你的脚真的很痒。}
 {120}{}{你两只脚都长了很可怕的肉瘤。}
-{130}{}{你的鞋子觉得越来越紧了；那一些肉瘤开始发炎了。}
+{130}{}{你的鞋子觉得越来越紧了，那一些肉瘤开始发炎了。}
 {140}{}{那一些肉瘤长得大到好像你多了一只脚趾似的。不过，至少你再也感觉不到那烦人的痒感了。}
 {141}{}{我的天，是贝丝！}
 
@@ -44,9 +44,9 @@
 #{800}{}{The cravings are getting worse.}
 {800}{}{这种渴望越来越强烈。}
 #{801}{}{You've got the shakes. You have this intense urge to drink something with alcohol in it.}
-{801}{}{你浑身发抖。你有强烈的冲动想要喝一些含有酒精的东西，现在就要!}
+{801}{}{你浑身发抖。你有强烈的冲动想要喝一些含有酒精的东西，现在就要！}
 #{802}{}{You feel as if a great burden has been lifted from your mind. No longer do you crave the need to drink alcohol.}
-{802}{}{你觉得好像卸下了沉重的负担。你不再渴望需要喝酒了。}
+{802}{}{你觉得好像卸下了沉重的负担。你不再渴望喝酒了。}
 
 #{900}{}{Something doesn't feel quite right in your stomach.}
 {900}{}{你的胃感觉不太舒服。}

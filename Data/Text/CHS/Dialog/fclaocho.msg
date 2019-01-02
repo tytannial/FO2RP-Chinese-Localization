@@ -14,12 +14,12 @@
 {113}{}{*摇头*}
 {114}{}{这是我们有的东西。}
 {115}{}{[结束]}
-{116}{}{我恐怕那就是我能够帮你的了。再见。}
+{116}{}{嗯，恐怕我只能为你做这些了。再见。}
 {117}{}{[完成]}
 {118}{}{我是朱流，是这里的负责人，而这里是飞龙888，一间商店，也是一个“消息交流”的地方。}
 {119}{}{什么样的消息？}
 {120}{}{我知道了。我想要一些器材。}
-{121}{}{在这个镇里发生的事很少有我不知道的。当然，你知道你想要问什么，对不对？你想要知道什么？}
+{121}{}{在这个镇子里发生的事很少有我不知道的。当然，你知道你想要问什么，对不对？你想要知道什么？}
 {122}{}{我正想要升级我的器材。}
 {123}{}{我在那里可以找到飞鸟设计图？}
 {124}{}{我想要找一些燃料。}
@@ -39,11 +39,11 @@
 {138}{}{谢谢。再见。}
 {139}{}{一个脾脏？哈哈！是，基德在一场赌局中输了自己的脾脏。我把它卖给了王博士。他好像对那很有兴趣。}
 {140}{}{王博士？我在那里可以找到他？}
-{141}{}{你怎样让脾脏不见的呢？}
+{141}{}{你怎么样让脾脏不见的呢？}
 {142}{}{谢谢，我需要再问一些事。}
 {143}{}{谢谢。再见。}
-{144}{}{王博士是钢铁王宫的科学家，到那里去找他吧。}
-{145}{}{你怎样让脾脏不见的呢？}
+{144}{}{王博士是铁宫的科学家，到那里去找他吧。}
+{145}{}{你怎么样让脾脏不见的呢？}
 {146}{}{谢谢，我需要再问一些事。}
 {147}{}{谢谢。再见。}
 {148}{}{他喝醉了。非常的醉。他整个晚上都提到他的脾脏，最后他把它拿去赌了。}
@@ -57,11 +57,11 @@
 {156}{}{随便你。}
 {157}{}{你说的机器不在这里，他们从北方飞过来，经过我们的头顶，然后朝海的方向飞去了。}
 {158}{}{飞到海上？我要怎才能够到那里去？}
-{159}{}{骗鬼吧，跟我说真话，不然我就把你杀了。}
-{160}{}{嗯..我们没有一艘船可以航行那么远的。除了..}
-{161}{}{除了..？}
+{159}{}{骗鬼吧，跟我说实话，不然我就把你杀了。}
+{160}{}{嗯...我们没有一艘船可以航行那么远的。除了...}
+{161}{}{除了...？}
 {162}{}{谢谢你的“帮助”。我会去问别人的意见的。}
-{163}{}{..除非你能够开动那艘旧油轮。那是一艘老船，但是却能够航行长距离。}
+{163}{}{...除非你能够开动那艘旧油轮。那是一艘老船，但是却能够航行很长的距离。}
 {164}{}{谢谢，我需要再问一些事。}
 {165}{}{谢谢。再见。}
 {166}{}{有人说哈伯教取得了大量的燃料。去跟他们谈吧。}
@@ -77,8 +77,8 @@
 {176}{}{我正在寻找一些讯息。}
 {177}{}{再见。}
 {178}{}{你已经将它们给了哈伯教徒，不是吗？}
-{179}{}{嗯..我可以问你一些事吗？}
-{180}{}{嗯..再见。}
+{179}{}{嗯...我可以问你一些事吗？}
+{180}{}{嗯...再见。}
 
 
 #RP 1.3
@@ -100,9 +100,9 @@
 {200}{}{关于港口那艘油轮，你能告诉我什么？}
 
 {210}{}{即使你能让油轮的电脑工作，并给它加满油，但如果你真的想让船再次航行，你仍然需要相当可观的好运才行。}
-{211}{}{你说的"相当可观的好运"是什么意思?}
+{211}{}{你说的"相当可观的好运"是什么意思？}
 
-{220}{}{我的意思是，这艘"豪华游轮"的年纪比大多数食尸鬼还要老。如果它不沉在你身上，那真是一个奇迹。}
+{220}{}{我的意思是，这艘"豪华游轮"的年纪比大多数僵尸还要老。如果它不沉在你身上，那真是一个奇迹。}
 {221}{}{我有一种感觉，你没有告诉我关于这艘油轮全部的事。}
 
 {230}{}{[微笑]也许有，也许没有，也许只是荒野让你变得偏执罢了。}
@@ -113,37 +113,37 @@
 
 
 
-#SPEECH >90%  Listen……
-#{240}{}{Bah. They are nothing. However, it's not the tanker that's special. It's just a big rusty tanker like you said. Our submarine, on the other hand……}
+#SPEECH >90%  Listen...
+#{240}{}{Bah. They are nothing. However, it's not the tanker that's special. It's just a big rusty tanker like you said. Our submarine, on the other hand...}
 #{241}{}{Submarine?}
 
-{240}{}{这不过是一艘生锈的普通大油轮罢了，但另一方面，我们的潜艇……}
-{241}{}{潜艇?}
+{240}{}{这不过是一艘生锈的普通大油轮罢了，但另一方面，我们的潜艇...}
+{241}{}{潜艇？}
 
 
-#SPEECH <90%  Come on……
+#SPEECH <90%  Come on...
 #{250}{}{Let's talk, then. But there's nothing special about the tanker. I give you my word.}
 #{251}{}{What if I paid you to tell me?}
 
 {250}{}{这艘油轮并没有什么特别之处，我向你保证。}
 {251}{}{如果我愿意付你钱呢？}
 
-#{260}{}{Hmm…… Business has been slow lately. I could use more customers. Or a donation from a very generous one. Say, $2000?}
+#{260}{}{Hmm... Business has been slow lately. I could use more customers. Or a donation from a very generous one. Say, $2,000?}
 #{261}{}{Here you go. But your information better be worth it.}
-#{262}{}{$1500 and that's my final offer.}
+#{262}{}{$1,500 and that's my final offer.}
 #{263}{}{I don't think so. That's too much.}
 
-{260}{}{近来生意清淡，更多的顾客我总是欢迎的，这个信息需要$2000。}
+{260}{}{近来生意清淡，更多的顾客我总是欢迎的，这个信息需要$2,000。}
 {261}{}{钱在这儿，你的信息最好是值得的。}
-{262}{}{$1500，这是我最后的报价。}
+{262}{}{$1,500，这是我最后的报价。}
 {263}{}{我不这么认为，这个价太高了。}
 
 
-#{270}{}{[Lao Chou pockets the $2000.] It's not the tanker that's special. It's just a big rusty tanker like you said. Our submarine, on the other hand……}
+#{270}{}{[Lao Chou pockets the $2,000.] It's not the tanker that's special. It's just a big rusty tanker like you said. Our submarine, on the other hand...}
 #{271}{}{Submarine?}
 
-{270}{}{[朱流用你看不见的速度把钱装进口袋]这不过是一艘生锈的大油轮。另一方面，我们的潜艇……}
-{271}{}{潜艇?}
+{270}{}{[朱流用你看不见的速度把钱装进口袋]这不过是一艘生锈的大油轮。另一方面，我们的潜艇...}
+{271}{}{潜艇？}
 
 
 #{280}{}{We have nothing further to discuss, then.}
@@ -155,40 +155,40 @@
 {282}{}{再见。}
 
 
-#{285}{}{You drive a hard bargain. Fine, $1500.}
+#{285}{}{You drive a hard bargain. Fine, $1,500.}
 #{286}{}{Here you go. But your information better be worth it.}
-#{287}{}{[Lao Chou pockets the $1500.] It's not the tanker that's special. It's just a big rusty tanker like you said. Our submarine, on the other hand……}
+#{287}{}{[Lao Chou pockets the $1,500.] It's not the tanker that's special. It's just a big rusty tanker like you said. Our submarine, on the other hand...}
 #{288}{}{Submarine?}
 
-{285}{}{你很会讨价还价，好，就$1500。}
+{285}{}{你很会讨价还价，好，就$1,500。}
 {286}{}{钱在这儿，但是你说的话最好值这个价。}
-{287}{}{[朱流用你看不见的速度把钱装进口袋]这不过是一艘生锈的大油轮。另一方面，我们的潜艇……}
-{288}{}{潜艇?}
+{287}{}{[朱流用你看不见的速度把钱装进口袋]这不过是一艘生锈的大油轮。另一方面，我们的潜艇...}
+{288}{}{潜艇？}
 
 
 #SPEECH <90% BUT PC IS FEMALE AND CH >=7 OR SEX APPEAL
 #{290}{}{Well if you put it that way, I have been cooped up in this dusty shop for a long time. It has been a quite a while since I enjoyed the company of a charming woman like yourself.}
 #{291}{}{[CONTINUE]}
 
-{290}{}{嗯，如果你这样说的话，我每天都被关在这个尘土飞扬的商店里。离上一个象你这样迷人的女人来这里，已经有好长一段时间了。}
+{290}{}{嗯，如果你这样说的话，我每天都被关在这个尘土飞扬的商店里。离上一个像你这样迷人的女人来这里，已经有好长一段时间了。}
 {291}{}{[继续]}
 
 
 #{300}{}{[Hours past with no end in sight. You begin to suspect that Lao Chou may not be completely human. You black out, eventually.]}
-#{301}{}{hhh…… What happened?}
+#{301}{}{hhh... What happened?}
 
 {300}{}{[数小时过去了，看不到尽头，你开始怀疑朱流是不是一个人类。到后来你眼睛一黑，晕过去了]}
-{301}{}{……发生了什么事？}
+{301}{}{...发生了什么事？}
 
 
-#{310}{}{You fainted as I moved us into the triple-lotus position, and I had to finish pleasuring myself with the grinning-panda kata. But a deal's a deal. It's not the tanker that's special -- it's just a big rusty tanker like you said. Our submarine, on the other hand……}
+#{310}{}{You fainted as I moved us into the triple-lotus position, and I had to finish pleasuring myself with the grinning-panda kata. But a deal's a deal. It's not the tanker that's special -- it's just a big rusty tanker like you said. Our submarine, on the other hand...}
 #{311}{}{Submarine?} 
 
-{310}{}{你在我们做一个经典姿势的时候晕过去了，我只好用那只掉光毛的熊猫娃娃来解决问题。但交易就是交易，这么说吧，港口的不过是一搜生锈的普通油轮罢了。另一方面，我们的潜艇……}
+{310}{}{你在我们做一个经典姿势的时候晕过去了，我只好用那只掉光毛的熊猫娃娃来解决问题。但交易就是交易，这么说吧，港口的不过是一搜生锈的普通油轮罢了。另一方面，我们的潜艇...}
 {311}{}{潜艇？} 
 
 #IF SPEECH <90% BUT PC IS FEMALE AND CH <7
-#{330}{}{I…… don't think so.}
+#{330}{}{I... don't think so.}
 #{331}{}{Don't try and fight it now. You want me and you know it.}
 
 #{340}{}{No, actually. You are not my type.}
@@ -197,7 +197,7 @@
 #{350}{}{I am. I just do not find you very attractive. Perhaps if I were drunk.}
 #{351}{}{You're obviously blind. Whatever. It's your loss.}
 
-{330}{}{不……我不这么想。}
+{330}{}{不...我不这么想。}
 {331}{}{不要对抗你自己，你想要我，你知道的。}
 
 {340}{}{实际上没有，你不是我喜欢的类型。}
@@ -208,33 +208,33 @@
 
 
 #IF SPEECH <90% BUT PC W/ MIRIA
-#{360}{}{What are you proposing? Ahh…… well, I have been cooped up in this shop for a long time. I will reveal all I know in exchange for a sample of your lady friend's charms.}
-#{361}{}{Miria, honey…… I guess you'll have to, erm, pump this guy for information.}
-#{362}{}{I was joking, old man. Like I'd let you make time with my wife…… I'm leaving.}
+#{360}{}{What are you proposing? Ahh... well, I have been cooped up in this shop for a long time. I will reveal all I know in exchange for a sample of your lady friend's charms.}
+#{361}{}{Miria, honey... I guess you'll have to, erm, pump this guy for information.}
+#{362}{}{I was joking, old man. Like I'd let you make time with my wife... I'm leaving.}
 
-{360}{}{你的建议，好像还不错……我在这家店已经关了很长时间了。为了换取你那位女士朋友的魅力，我会把我所知道的一切都告诉你。}
-{361}{}{麦丽雅，亲爱的……我猜你得帮这个家伙一个小忙。}
+{360}{}{你的建议，好像还不错...我在这家店已经关了很长时间了。为了换取你那位女士朋友的魅力，我会把我所知道的一切都告诉你。}
+{361}{}{麦丽雅，亲爱的...我猜你得帮这个家伙一个小忙。}
 {362}{}{我是在开玩笑，老头子。我和我妻子现在要离开了。}
 
 
 #{370}{}{[You wait outside and hear faint moans from inside the Flying Dragon 8. An hour passes, and then another. You bang on the door, shouting, "Hurry up in there!" Finally, the moans become a primal scream.]}
 #{371}{}{[Bang on the door] Hey, what are you two doing in there!?}
 
-{370}{}{[你在外面等着，你听到店里面有微弱的呻吟声。一个小时过去了，另一个小时过去了，你砰地一拳砸在门上，大喊:"快点！"。最后，呻吟声变成了原始的尖叫。}
+{370}{}{[你在外面等着，你听到店里面有微弱的呻吟声。一个小时过去了，另一个小时过去了，你砰地一拳砸在门上，大喊："快点！"。最后，呻吟声变成了原始的尖叫。}
 {371}{}{[把门踹开]嘿，你们俩在里面干什么？}
 
 
 #{380}{}{A smiling Lao Chou emerges from his bedroom, still pulling on his pants. A few moments later Miria stumbles out behind him, looking dazed and confused but deeply satisfied] Your wife is a great deal more experienced than she looks.}
 #{381}{}{I, erm, know. Now pull your damn pants up and tell me what's so special about the tanker.}
 
-{380}{}{[朱流拉着他的裤子，微笑着从他的卧室里出来]。几分钟后，麦丽雅在他身后跌跌绊绊地走了出来了，看上去有点恍惚。朱流很满意地说:"你的妻子比她看起来更有经验。"}
+{380}{}{[朱流拉着他的裤子，微笑着从他的卧室里出来]。几分钟后，麦丽雅在他身后跌跌绊绊地走了出来了，看上去有点恍惚。朱流很满意地说："你的妻子比她看起来更有经验。"}
 {381}{}{嗯，我知道。现在把你的裤子拉起来，告诉我这艘油轮有什么特别之处。}
 
 
-#{390}{}{There's nothing special about the tanker. It's just a big rusty tanker like you said. Our submarine, on the other hand……}
+#{390}{}{There's nothing special about the tanker. It's just a big rusty tanker like you said. Our submarine, on the other hand...}
 #{391}{}{Submarine?}
 
-{390}{}{这么说吧，港口的不过是一搜生锈的普通油轮罢了。另一方面，我们的潜艇……}
+{390}{}{这么说吧，港口的不过是一搜生锈的普通油轮罢了。另一方面，我们的潜艇...}
 {391}{}{潜艇？}
 
 #Submarine?
@@ -252,7 +252,7 @@
 {411}{}{这是报应。}
 
 
-#{420}{}{But there was salvation. After weeks of drifting, the sub finally came to rest out in the shallow waters of the San Francisco bay. This city became our new home. We eventually restored the Shi-Huang-Ti; its targeting systems, its weapons. It has enough firepower to blow any potential invaders out of the water. So even if you got that old tanker running, it wouldn't get far, as the submarine will destroy any non-Chinese vessel that sails through the bay.}
+#{420}{}{But there was salvation. After weeks of drifting, the sub finally came to rest out in the shallow waters of the San Francisco bay. This city became our new home. We eventually restored the Shi-Huang-Ti；its targeting systems, its weapons. It has enough firepower to blow any potential invaders out of the water. So even if you got that old tanker running, it wouldn't get far, as the submarine will destroy any non-Chinese vessel that sails through the bay.}
 #{421}{}{That sounds like a problem alright. So how would I get to the submarine?}
 
 {420}{}{幸运的是，经过几周的漂流，潜艇终于在旧金山湾的浅水中搁浅了，这个城市成了我们的新家。在这里，我们最终修复了"始皇帝"，就和以前一样，它拥有足够的武器能将任何打算入侵这里的船变成珊瑚礁。所以即使你有了那艘旧的油轮，它也不会走得太远，因为潜艇的系统会扫描并摧毁任何驶进海湾的非中国船只。}
@@ -261,7 +261,7 @@
 #{430}{}{You swim. Or take the motorboat at the docks. It is guarded, though, by one of our best soldiers, and he will not let an outsider like you past him.}
 #{431}{}{You have any idea how I can get past him then, without shooting him in the face?}
 
-{430}{}{你可以游泳，或者乘码头那艘生锈的汽艇过去。不过，我们一个士兵把守着它，他不会让像你这样的外人离开他视线范围的。}
+{430}{}{你可以游泳，或者乘码头那艘生锈的汽艇过去。不过，我们一个士兵把守着它，他不会让像你这样的外地人离开他视线范围的。}
 {431}{}{有什么办法能让我能从他身边离开，又不用向他头上开枪吗？}
 
 
@@ -269,20 +269,20 @@
 #{441}{}{I don't suppose you know it?}
 
 {440}{}{他接到的命令是每天24小时，每周7天守着那里，他不会让任何没有正确密码的人通过的。}
-{441}{}{你认为，我会觉得你不知道密码吗?}
+{441}{}{你认为，我会觉得你不知道密码吗？}
 
-#{450}{}{That depends. I don't suppose you have $10000 to ensure the continued prosperity of my shop?}
-#{451}{}{Here's your $10000.}
-#{452}{}{That's outrageous for a simple password. I'll only go as high as $5000.}
+#{450}{}{That depends. I don't suppose you have $10,000 to ensure the continued prosperity of my shop?}
+#{451}{}{Here's your $10,000.}
+#{452}{}{That's outrageous for a simple password. I'll only go as high as $5,000.}
 #{453}{}{No deal.}
 
-{450}{}{知道与不知道视情况而定。我不觉得你有$10000来保证我商店的持续繁荣。}
-{451}{}{这里是$10000。}
-{452}{}{对于一个简单的密码来说，这太离谱了，$5000。}
+{450}{}{知道与不知道视情况而定。我不觉得你有$10,000来保证我商店的持续繁荣。}
+{451}{}{这里是$10,000。}
+{452}{}{对于一个简单的密码来说，这太离谱了，$5,000。}
 {453}{}{我还是回头再来。}
 
 
-#here's the $5000
+#here's the $5,000
 #{460}{}{Ah, much appreciated. The password is XY8QIV2SHI. Others may be watching me after this, so don't forget the password. If ever we discuss it again, I'll need even more money for bribes.}
 #{461}{}{Thank you. Goodbye.}
 
@@ -297,12 +297,12 @@
 {471}{}{再见。}
 
 #fail barter check
-#{480}{}{Don't insult me with your meager offers. $10000. Take it or leave it.}
-#{481}{}{Fine. Here's your $10000.}
+#{480}{}{Don't insult me with your meager offers. $10,000. Take it or leave it.}
+#{481}{}{Fine. Here's your $10,000.}
 #{482}{}{No deal.}
 
-{480}{}{$10000，Yes OR No。}
-{481}{}{好，这里是$10000。}
+{480}{}{不要用你微薄的报价来侮辱我，$10,000，要么接受，要么放弃。}
+{481}{}{好，这里是$10,000。}
 {482}{}{我还是回头再来。}
 
 

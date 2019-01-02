@@ -10,16 +10,16 @@
 #{151}{}{Are you some kind of spy?}
 
 {150}{}{你偷偷摸摸地想做什么？}
-{151}{}{你是间谍吗?}
+{151}{}{你是间谍吗？}
 
-#{200}{}{This'd be easier if my Chinese was better……}
-#{201}{}{I/O error!? How can a guidance system get an I/O error!?}
-#{202}{}{001100010010011110100001101101110011? Where's my error code chart……}
+#{200}{}{This'd be easier if my Chinese was better...}
+#{201}{}{I/O error！？How can a guidance system get an I/O error!?}
+#{202}{}{001100010010011110100001101101110011? Where's my error code chart...}
 #{203}{}{I wish the IFF database still worked. That'd make things a whole lot easier.}
 
-{200}{}{如果我的中文水平更好一点就好了……}
+{200}{}{如果我的中文水平更好一点就好了...}
 {201}{}{ I/O错误！？导航系统也能产生I/O错误！？干！}
-{202}{}{001100010010011110100001101101110011？我的错误代码图在哪里……}
+{202}{}{001100010010011110100001101101110011？我的错误代码图在哪里...}
 {203}{}{我希望IFF数据库仍然有效，那会让事情简单得多。}
 
 
@@ -30,18 +30,18 @@
  navigation subsystem and the IFF transponder finally died, so you have to do a workaround. Mind if I help?}
 #{303}{}{Sorry to bother you.}
 
-{300}{}{你想要什么？老外，你看不出来我正在重新配置目标系统吗？}
+{300}{}{你想要什么？“老外”，你看不出来我正在重新配置目标系统吗？}
 {301}{}{实际上，这就是我在这里的目的，皇帝要求我过来为鱼雷制导系统输入新的定位数据，你能帮我输入吗？你似乎是最了解这个系统的人。}
-{302}{}{这就是我在这里的原因，我可以帮助你配置系统。这艘潜艇可能使用的是海军陆战队的内部加密系统，所以你不能单纯使用IFF数据库里的资料，你需要做一个变通。介意我帮助吗? }
+{302}{}{这就是我在这里的原因，我可以帮助你配置系统。这艘潜艇可能使用的是海军陆战队的内部加密系统，所以你不能单纯使用IFF数据库里的资料，你需要做一个变通。介意我帮助吗？ }
 {303}{}{抱歉打扰你。}
 
 
 
 
-#{310}{}{Oh, I've been waiting for these new specifications for ages! You should've been here a week ago, though, when I was working on what's left of the battle database. Now I have to bust it open again…… Oh well, life of a tech, I guess.}
+#{310}{}{Oh, I've been waiting for these new specifications for ages! You should've been here a week ago, though, when I was working on what's left of the battle database. Now I have to bust it open again... Oh well, life of a tech, I guess.}
 #{311}{}{Have fun. I'll see what else needs fixing.}
 
-{310}{}{哦，我已经等了好久了！你应该在一周前就来到这里，这个系统让我深感困扰。}
+{310}{}{哦，我已经等了很久了！你应该在一周前就来到这里，这个系统让我深感困扰。}
 {311}{}{很高兴可以帮到你，我看看还有什么需要修复的。}
 
 
@@ -50,7 +50,7 @@
 #{322}{}{Alright, sorry to bother you.}
 
 {320}{}{我从来都没有见过你！你很可能是一名外国间谍，想要关闭这艘潜艇的鱼雷制导系统，这样你就可以在没有鱼雷击沉你的船的情况下，在海上航行到陌生的地方。我不能接受这些坐标，除非是我亲自从我们的领导那里得到的。}
-{321}{}{嗯，我至少能帮你配置潜艇吗？我对古代计算机系统有一些经验，足以了解一个200岁的真空管系统为什么会拒绝服从它的主人。}
+{321}{}{嗯，我至少能帮你配置潜艇吗？我对旧世界计算机系统有一些经验，足以了解一个200岁的真空管系统为什么会拒绝服从它的主人。}
 {322}{}{好，抱歉打扰你。}
 
 

@@ -7,9 +7,9 @@
 {103}{}{[离线]}
 #{104}{}{Align satellite to receive Enclave coordinates.}
 {104}{}{连接导航卫星目标英克雷基地。}
-#{105}{}{Satellite realigning. One moment please……}
-{105}{}{连接导航卫星中……稍等片刻…… }
+#{105}{}{Satellite realigning. One moment please...}
+{105}{}{连接导航卫星中...稍等片刻... }
 {106}{}{[更多]}
 #{107}{}{Realignment successful. Docking rig ready to receive incoming aircrafts.}
-{107}{}{连接成功。开始加载程序……}
+{107}{}{连接成功。开始加载程序...}
 {108}{}{[离线]}

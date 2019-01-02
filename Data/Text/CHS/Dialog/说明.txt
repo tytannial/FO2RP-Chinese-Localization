@@ -1,0 +1,1 @@
+用这5个msg文件覆盖游戏目录下Data\Text\CHS\Dialog中的对应文件

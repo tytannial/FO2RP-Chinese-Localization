@@ -67,7 +67,7 @@
 {1501}{}{他朝你点头。}
 
 #{1600}{}{You see Mr。 Wolna。}
-#{1601}{}{This guy is seriously enthusiastic……}
+#{1601}{}{This guy is seriously enthusiastic...}
 #{1700}{}{You see encinodude。}
 #{1701}{}{He looks like a good guy。}
 #{1800}{}{You see Minigun Jim。}
@@ -76,7 +76,7 @@
 #{1901}{}{He stands up straight as he sees you looking at him。}
 
 {1600}{}{你看到Mr.Wolna。}
-{1601}{}{这个家伙真的非常热情……}
+{1601}{}{这个家伙真的非常热情...}
 {1700}{}{你看到encinodude。}
 {1701}{}{他看起来是个好人。}
 {1800}{}{你看到Minigun Jim。}
@@ -107,7 +107,7 @@
 {2400}{}{你看到一堆石头。}
 {2401}{}{在岩石上有一块牌子。}
 {2500}{}{你看到一堆粘液。}
-{2501}{}{这堆粘液似乎在说同一句话：“献给那些不知名，却提供了帮助，使这一切成为可能的人。"} 
+{2501}{}{这堆粘液似乎在说同一句话：“献给那些不知名，却提供了帮助，使这一切成为可能的人。”} 
 
 #MIB88
 #{110}{}{You see a tough, ruthless bounty hunter。 He doesn't look like he talks much。 He helped with the new scripts and ideas。 And with killing people。}
@@ -117,21 +117,21 @@
 #if energy weapons > 100
 #{210}{}{Kid, I've flown from one side of this galaxy to the other, and I've seen a lot of strange stuff, but I've never seen *anything* to make me believe that there's one all-powerful Force controlling everything。 'Cause no mystical energy field controls *my* destiny。 It's all a lot of simple tricks and nonsense。 Hokey religions and ancient weapons are no match for a good blaster at your side。 I can tell when a guy is handy with a gun, so take this。 Trust me: it'll come in handy when you've got a price on your head。 [He hands you a blaster。]}
 #{211}{}{My real name is Ivan Zaharath。}
-#{212}{}{I translated the RP into Polski for the benefit of the great and powerful Republic of Poland …… I mean Rebel Alliance。}
+#{212}{}{I translated the RP into Polski for the benefit of the great and powerful Republic of Poland ... I mean Rebel Alliance。}
 #{213}{}{Laugh it up, fuzzball。}
 #{214}{}{Hokey religions and ancient weapons are no match for a good blaster at your side, kid。}
 #{215}{}{Who're you callin' 'scruffy lookin'！？}
 
 {210}{}{小子，我什么地方都去过。也见过不少奇怪的东西，但是我却永远不能相信有一种力量能控制一切。没有任何奇怪的力量能够控制我的命运，这只是些小把戏用来唬人的而已。那些虚伪的宗教和古老的武器并不怎么适合你，比起一把爆能枪来说不算什么。我知道一个人什么时候需要枪，所以带上它。相信我：关键时刻这玩意能救你命。[他给了你一把大家伙，爆能枪]}
 {211}{}{我真名叫做Ivan Zaharath。}
-{212}{}{我将RP的文本翻译成了波兰语，让它能够给强大、伟大的波兰共和国带来好处……我说的是反抗军同盟。}
+{212}{}{我将RP的文本翻译成了波兰语，让它能够给强大、伟大的波兰共和国带来好处...我说的是反抗军同盟。}
 {213}{}{瞧瞧吧，绒球。}
 {214}{}{那些虚伪的宗教和古老的武器，根本比不上一把爆能枪。}
 {215}{}{嘿嘿，你在叫谁脏鬼！？}
 
 #Continuum
 {310}{}{Roow rooo arrrrr rooow。}
-{311}{}{Rrrrrrrrrrrrr ……。 squeak！}
+{311}{}{Rrrrrrrrrrrrr ...。 squeak！}
 {312}{}{Nowrrrrragh。}
 {313}{}{Yawrrrk！}
 {314}{}{Roow rooo Nowrrrrragh！}
@@ -166,17 +166,17 @@
 
 #Jotisz
 #{510}{}{I'm Jotisz the Hutt。 I may look like a big fat green slug, but I actually helped create those nice new armored threads your buddy Sulik is wearing。 Those were created by Yosan12 and me。 I know！ And with these stubby hands！}
-#{511}{}{I'm Jotisz the Hutt。 I may look like a big fat green slug, but I actually helped create those nice new armored threads your buddy……hey where is Sulik？ You should go get him and see how he looks。 His threads were created by Yosan12 and me。 I know！ And with these stubby hands！}
-#{512}{}{*whistles* I'm a big fat green slug……}
+#{511}{}{I'm Jotisz the Hutt。 I may look like a big fat green slug, but I actually helped create those nice new armored threads your buddy...hey where is Sulik？ You should go get him and see how he looks。 His threads were created by Yosan12 and me。 I know！ And with these stubby hands！}
+#{512}{}{*whistles* I'm a big fat green slug...}
 #{513}{}{In case you didn't notice, I'm suspiciously easy to strangle。}
-#{514}{}{Now, where did I put Leia……？}
+#{514}{}{Now, where did I put Leia...？}
 
 {510}{}{我是赫特人Jotisz，我可能看起来像个大胖子，但实际上我帮你创造了你的朋友史克力穿的那些漂亮的新护甲，
 这些是由Yosan12和我一起创造的！}
 {511}{}{我是赫特人Jotisz。我可能看起来像一个绿色的大鼻涕虫，但实际上我帮助创造了史克力穿的那些漂亮的新护甲}
-{512}{}{[吹口哨]我是一个巨大的绿色鼻涕虫……}
+{512}{}{[吹口哨]我是一个巨大的绿色鼻涕虫...}
 {513}{}{注意别踩到我。}
-{514}{}{现在,我把莱娅在哪里放在那里了？}
+{514}{}{现在，我把莱娅在哪里放在那里了？}
 
 #Wild Qwerty
 {610}{}{Beep beep！}
@@ -202,8 +202,8 @@
 #{813}{}{Once, a puppet with wisdom and character was I。 Now, a hollow, CGI character for the kids I have become。}
 #{814}{}{Stupid JarJar Binks is。}
 
-{810}{}{Yosan12是我。创造了NPC护甲我，我也用奇怪的方式说话。很难理解，对吧？哈哈哈！另外我创建新的狙击动作,光剑动作我。}
-{811}{}{记住:愤怒，恐惧，仇恨，黑暗的另一面就是他们。}
+{810}{}{Yosan12是我。创造了NPC护甲我，我也用奇怪的方式说话。很难理解，对吧？哈哈哈！另外我创建新的狙击动作，光剑动作我。}
+{811}{}{记住：愤怒，恐惧，仇恨，黑暗的另一面就是他们。}
 {812}{}{当我离开的时候，我会变成一个模糊的发光的幽灵。}
 {813}{}{曾经我是一个有智慧和性格的角色。现在，我变成了一个只有几句对话的配角。}
 {814}{}{愚蠢的JarJar Binks。}
@@ -215,7 +215,7 @@
 #{913}{}{What the Hell is Fallout？}
 #{914}{}{Ok。 And who, pray tell, are these other people？}
 #
-#{920}{}{I am a Programming Master, skilled in the way of 原码力。 It is an energy field created by all digital things。 It surrounds us and penetrates us。 It binds the galaxy together。 You, me - the tree - the rock。 Pixilated beings are we……。not this crude matter *pokes you*。 I have learned to use this power through years of staring at a computer screen。}
+#{920}{}{I am a Programming Master, skilled in the way of 原码力。 It is an energy field created by all digital things。 It surrounds us and penetrates us。 It binds the galaxy together。 You, me - the tree - the rock。 Pixilated beings are we...。not this crude matter *pokes you*。 I have learned to use this power through years of staring at a computer screen。}
 #{930}{}{Fallout is the world you are in。 I created it, or at least, made it work like it was supposed to。 You see, not long ago, this world was in chaos。 Travelers that came here were often killed by the huge number of bugs that roamed the wasteland corrupting saved games indiscriminately。 The gods of this world had been careless。 But then I came, and, using the power of 原码力, my friends and I cleaned up the wasteland。 You could say I am the savior。 I am seen by many as a hero: The Bear Dude。}
 #{940}{}{These are my companions。 They helped me improve this world: MIBoba Fe88, Hivan Zolo, Contie-bacca, Darek Vader, Jotisz the Hutt, R2Qwerty, Chris3ParksO, Yosan12, Empress Timeslip, Luke Skynet, Mon-Morticia, Kanhef, HawkEyE, Adam Dravean, Mr。 Wolna, encinodude, Minigun Jim, Bofast, Pixote, Mash, Mikael Grizzly, x'il, Per, and the Masses。 They all helped in the great project to restore this world from the bug infestation。 The only good bug is a dead bug。} 
 ##response to 920
@@ -235,17 +235,17 @@
 #{938}{}{Who, pray tell, are these other people？}
 #
 ##response to 940
-#{941}{}{Hmm。 those names somehow sound familiar…… Well, I think I'll go talk to them。}
+#{941}{}{Hmm。 those names somehow sound familiar... Well, I think I'll go talk to them。}
 #
 ##response to 921
 ##player > level 15
-#{950}{}{Indeed I can。 You must learn to use your feelings: let go of your conscious mind。 Turn off the monitor。 Close your eyes, and FEEL 原码力 flowing through the mouse …… [Follow his instructions。]}
+#{950}{}{Indeed I can。 You must learn to use your feelings: let go of your conscious mind。 Turn off the monitor。 Close your eyes, and FEEL 原码力 flowing through the mouse ... [Follow his instructions。]}
 #{951}{}{You lack the experience to start training。 Return to me when you've at least learned some basic Programming, young padawan。}
 #
 #{960}{}{As you wish, young }
 #{961}{}{。 But before you go on your way, remember this: Many of the truths we cling to depend greatly on our own point of view。 Now go, and may 原码力 be with you。}
 ##player has high karma
-#{962}{}{。 Your actions on your quest have proved you good, kind and honest。 Take this to aid you in your struggle against the Dark Side: it is your ancestor's light saber。 This is the weapon of a Java Knight。 Not as clumsy or random as a blaster; an elegant weapon for a more civilized age。 And though you may be tempted to use it to arbitrarily cut people in half for entertainment, you should use it only in service of good。 Good luck, and may 原码力 be with you, my friend。}
+#{962}{}{。 Your actions on your quest have proved you good, kind and honest。 Take this to aid you in your struggle against the Dark Side: it is your ancestor's light saber。 This is the weapon of a Java Knight。 Not as clumsy or random as a blaster；an elegant weapon for a more civilized age。 And though you may be tempted to use it to arbitrarily cut people in half for entertainment, you should use it only in service of good。 Good luck, and may 原码力 be with you, my friend。}
 #{963}{}{What？！ My ancestor, The Vault Dweller, had one of these？！ I don't remember finding this in Fallout 1！ *run off to check*}
 #{964}{}{Thank you, Mr。 Bear Dude。 For everything。 May 原码力 be with you too。}
 
@@ -255,7 +255,7 @@
 {913}{}{什么是Fallout？}
 {914}{}{好的，谁告诉我下，这些人是谁？}
 
-{920}{}{我是一个编程大师，遵循原码力之路。它是由所有数字化而创造的一个能量场，它包围着我们，穿透我们，它让银河紧密地联系在一起。你、我-树-岩石，像素化的生物就是我们……不是这个粗俗的东西*捅你*。我通过紧盯着屏幕很多年来学习这种能力。}
+{920}{}{我是一个编程大师，遵循原码力之路。它是由所有数字化而创造的一个能量场，它包围着我们，穿透我们，它让银河紧密地联系在一起。你、我-树-岩石，像素化的生物就是我们...不是这个粗俗的东西*捅你*。我通过紧盯着屏幕很多年来学习这种能力。}
 {930}{}{Fallout是你所处的世界。我创造了它，或者说让它按照本来设计的那样运转。不久之前，你看到这个世界处于混乱状态。来到这里的旅者常常被这里大量的漏洞杀死。 但后来我来了，利用原码力的力量，我朋友们与我清理了废土，你可以说我是救世主。我被许多人视为英雄：The Bear Dude。}
 {940}{}{这些是我的同伴，他们帮助我改善这个世界：MIBoba Fe88，Hivan Zolo，Contie-bacca，Darek Vader，Hutt Jotisz，R2Qwerty，Chris3ParksO，Yosan12，Empress Timeslip，Luke Skynet，Mon-Morticia，Kanhef，HawkEyE，Adam Dravean，Mr.Wolna，encinodude，Minigun Jim，Bofast，Pixote，Mash，Mikael Grizzly，x'il，Per和Masses。他们都帮助这个伟大的项目，从漏洞中拯救了这个世界。没有漏洞允许留下。} 
 #response to 920
@@ -271,22 +271,22 @@
 {936}{}{无所谓了，就是过日子吧。}
 
 #response to 935-936
-{937}{}{那么，你到底是怎样清理这个世界的？}
+{937}{}{那么，你到底是怎么样清理这个世界的？}
 {938}{}{谁，请告诉我，这些人是谁？}
 
 #response to 940
-{941}{}{嗯，这些名字听起来很熟悉…………我想我会和他们谈谈。}
+{941}{}{嗯，这些名字听起来很熟悉.....我想我会和他们谈谈。}
 
 #response to 921
 #player > level 15
-{950}{}{事实上，我可以，你必须学会使用你的感官：放开你的意识，关闭显示器，闭上你的眼睛，并感受原码力流过鼠标……[按照他的指示]。}
+{950}{}{事实上，我可以，你必须学会使用你的感官：放开你的意识，关闭显示器，闭上你的眼睛，并感受原码力流过鼠标...[按照他的指示]。}
 {951}{}{你缺乏接受训练的经验。当你至少学会了一些基本的编程，年轻的徒弟，回到我身边。}
 
 {960}{}{如你所愿，年轻的 }
 {961}{}{。但在你走之前，请记住这一点：我们坚持的许多事实都很大程度上取决于我们自己的观点，现在去吧，愿原码力与你同在。}
 #player has high karma
-{962}{}{。你的任务已经证明你是善良，善良和诚实的，并且帮助你对抗黑暗面：这是你祖先的光剑，这是Java骑士的武器，不像笨拙或不稳定的爆能枪; 这是一个更文明的时代的优雅武器，尽管你可能会试图用它来将人们劈开取乐，但是你应该明白它服务于正义，祝你好运，愿原码力与你同在，我的朋友。}
-{963}{}{什么？！我的祖先，避难所居民，有这些之一？！我不记得在Fallout 1中能找到这个！*跑去检查*}
+{962}{}{。你的任务已经证明你是善良，善良和诚实的，并且帮助你对抗黑暗面：这是你祖先的光剑，这是Java骑士的武器，不像笨拙或不稳定的爆能枪；这是一个更文明的时代的优雅武器，尽管你可能会试图用它来将人们劈开取乐，但是你应该明白它服务于正义，祝你好运，愿原码力与你同在，我的朋友。}
+{963}{}{什么？！我的祖先，避难所住民，有这些之一？！我不记得在Fallout 1中能找到这个！*跑去检查*}
 {964}{}{谢谢你，Mr. Bear Dude。谢谢你做的一切。愿原码力与你同在。}
 
 #Timeslip
@@ -303,11 +303,11 @@
 ##Response to 1020/1030
 #{1022}{}{Sauce？ What kind of sauce？ Are you saying cooking is the key to controlling the universe？ Whatever you say, chef。}
 #{1023}{}{Yeah yeah。 Jeeze, whatever you say。 I think I will leave now。}
-#{1024}{}{Uh, ok。 that's great。 Well, I need to go……erm ……water my plants……}
+#{1024}{}{Uh, ok。 that's great。 Well, I need to go...erm ...water my plants...}
 #
 ##Response to 1022-1024
-#{1030}{}{Ignorant fool。 Your overconfidence is your weakness, and my faith in your friends is …… er …… mine。 *looks confused* Be gone from my sight！}
-#{1040}{}{Wait！ You will leave IF and WHEN I decide。 In case you haven't noticed, you have been exceedingly evil in your quest。 Your hate has made you powerful and your character has developed according to my desires。 Anger, fear, hatred …… of the dark side are they。 Now you will become my apprentice and fulfill your place AT MY SIDE！}
+#{1030}{}{Ignorant fool。 Your overconfidence is your weakness, and my faith in your friends is ... er ... mine。 *looks confused* Be gone from my sight！}
+#{1040}{}{Wait！ You will leave IF and WHEN I decide。 In case you haven't noticed, you have been exceedingly evil in your quest。 Your hate has made you powerful and your character has developed according to my desires。 Anger, fear, hatred ... of the dark side are they。 Now you will become my apprentice and fulfill your place AT MY SIDE！}
 #
 #{1041}{}{As you wish, my master。 I'm at your bidding。}
 #{1042}{}{Not interested。 Bye。}
@@ -328,11 +328,11 @@
 #Response to 1020/1030
 {1022}{}{酱？什么样的酱？你说烹饪是控制宇宙的关键吗？得了吧，伙夫。[英文里酱和Source读音相近]}
 {1023}{}{好，好，不管你说什么，我该走了。}
-{1024}{}{呃，好吧，那很好，我需要去……呃……给我的植物浇水……}
+{1024}{}{呃，好吧，那很好，我需要去...呃...给我的植物浇水...}
 
 #Response to 1022-1024
-{1030}{}{无知的傻瓜，你的过度自信是你的弱点，我对你朋友的信仰是……呃……我的。*看起来很困惑*从我的眼前消失！}
-{1040}{}{等等！我在想你为何以及何时要离开。或许你没有注意到，你所追求的邪恶让你变得强大，你的角色已经根据我的愿望发展了。愤怒、恐惧与憎恨，它们就是黑暗面，现在你将成为我的徒弟，并在我的身边实现你的价值！}
+{1030}{}{无知的傻瓜，你的过度自信是你的弱点，我对你朋友的信仰是...呃...我的。*看起来很困惑*从我的眼前消失！}
+{1040}{}{等等！我在想你想要做什么以及何时要离开。或许你没有注意到，你所追求的邪恶让你变得强大，你的角色已经根据我的愿望发展了。愤怒、恐惧与憎恨，它们就是黑暗面，现在你将成为我的徒弟，并在我的身边实现你的价值！}
 
 {1041}{}{如你所愿，师傅，我将照做。}
 {1042}{}{不感兴趣，再见。}
@@ -342,9 +342,9 @@
 
 #response to 1041
 {1050}{}{Eeeeeeexcellent。 Then take this Java weapon。 Use it。 Kill indiscriminately。 USE YOUR AGRRESSIVE FEELINGS, CHILD！ [He hands you a red lightsaber。]}
-{1051}{}{So……。 basically carry on as I've been doing。 No problem。 Bye！}
+{1051}{}{So...。 basically carry on as I've been doing。 No problem。 Bye！}
 {1052}{}{I will not fail you, my master。}
-{1053}{}{Kill everything？ you mean …… even the children？}
+{1053}{}{Kill everything？ you mean ... even the children？}
 
 {1060}{}{ESPECIALLY the children。}
 
@@ -353,7 +353,7 @@
 #
 #{1111}{}{Rescue me？}
 #{1112}{}{Do I look like a princess？ What do you mean 'rescue'？}
-#{1113}{}{Right。 I think you're the one that needs rescuing, pal……from your own movie career。 Bye。}
+#{1113}{}{Right。 I think you're the one that needs rescuing, pal...from your own movie career。 Bye。}
 #
 #{1120}{}{Yes, I'm here to rescue you。 I created the basis to what you see at the Abbey, and there you will find salvation。 There you will find the light！}
 #{1121}{}{I've actually already been there。 I 'rescued' a lot stuff from getting lost in all those drawers and containers。}
@@ -375,7 +375,7 @@
 
 {1111}{}{拯救我？}
 {1112}{}{我看起来像个公主吗？你说的“拯救”是什么意思？}
-{1113}{}{是的，我认为你是需要拯救的人，朋友……从你自己的电影生涯。再见。}
+{1113}{}{是的，我认为你是需要拯救的人，朋友...从你自己的电影生涯。再见。}
 
 {1120}{}{是的，我是来拯救你的。我完成了修道院的基本设置，你在那里会找到救赎。在那里你会找到光明！}
 {1121}{}{实际上我已经去过那里了，我从很多抽屉和容器中“救”出了很多东西。}
@@ -422,16 +422,16 @@
 {1310}{}{我基本上是 NMA 服务台。}
 {1311}{}{我跟这些怪人不同。}
 {1312}{}{妈的。为什么不同。23号总是迟到？}
-{1313}{}{怕你不知道, 我是个上知天文下知地理的人。}
+{1313}{}{怕你不知道，我是个上知天文下知地理的人。}
 
 #French Translator - HawkEyE
 #{1410}{}{Bonjour。 Je suis Hawk-Eye。 J'ai translate le version Francais。 }
 #{1411}{}{I'm Hawk-EyE。 I headed the translation of the French version。 Vive la France！！}
-#{1412}{}{I like to eat ……。 little fishies so sweeeet！}
+#{1412}{}{I like to eat ...。 little fishies so sweeeet！}
 #{1413}{}{Nobody here but us chickens。}
 
 {1410}{}{你好，我是Hawk-Eye。 我负责法语版本的翻译！ }
-{1411}{}{我是Hawk-EyE，我负责翻译法语版本，法兰西万岁! ！！}
+{1411}{}{我是Hawk-EyE，我负责翻译法语版本，法兰西万岁！！！}
 {1412}{}{我喜欢吃小甜鱼！！}
 {1413}{}{除了那些美国弱鸡，这里没其它人。}
 
@@ -472,13 +472,13 @@
 #{1640}{}{Look, don't worry about it。 But if you ever decide to embark on another epic quest, make sure to stop by the EPA。 There's a shitload of things to do there and if you play your cards right, you might find yourself a new companion。 [He looks you over and grins。] Yeah, you're just Dex's type, so you'll be friends for sure。}
 #{1641}{}{Thanks。 I'll keep that in mind。}
 
-{1640}{}{好吧，别在意这些。但是如果你决定走上另一个史诗级任务，确保游历下EPA。那真有一大堆的事情要做，你如果选择了正确的方式，可能会发现自己的新的伙伴。[他看起来对你呢嘴一笑。]是的，看来你是德克斯喜欢的类型，你们当然会成为朋友。}
+{1640}{}{好吧，别在意这些。但是如果你决定走上另一个史诗级任务，确保游历下EPA。那真有一大堆的事情要做，你如果选择了正确的方式，可能会发现自己的新的伙伴。[他看起来对你狡黠的笑了。]是的，看来你是德克斯喜欢的类型，你们当然会成为朋友。}
 {1641}{}{谢谢，我会留意的。}
 
-#{1650}{}{Look, don't worry about it。 But if you ever decide to embark on another epic quest, make sure to stop by the EPA。 There's a shitload of things to do there and if you play your cards right, you might find yourself a new companion。 [He looks you over。] You'll probably have to change your attitude if you want to make friends with Dex。 He likes his companions to be a bit more …… morally impaired。}
+#{1650}{}{Look, don't worry about it。 But if you ever decide to embark on another epic quest, make sure to stop by the EPA。 There's a shitload of things to do there and if you play your cards right, you might find yourself a new companion。 [He looks you over。] You'll probably have to change your attitude if you want to make friends with Dex。 He likes his companions to be a bit more ... morally impaired。}
 #{1651}{}{Thanks。 I'll keep that in mind。}
 
-{1650}{}{好吧，别在意这些。但是如果你决定走上另一个史诗级任务，确保游历下EPA。那真有一大堆的事情要做，你如果选择了正确的方式，可能会发现自己的新的伙伴。[他打量了你。]你如果想和德克斯做朋友，也许你需要改变下态度。他并不太喜欢一个彻底的……好人。}
+{1650}{}{好吧，别在意这些。但是如果你决定走上另一个史诗级任务，确保游历下EPA。那真有一大堆的事情要做，你如果选择了正确的方式，可能会发现自己的新的伙伴。[他打量了你。]你如果想和德克斯做朋友，也许你需要改变下态度。他并不太喜欢一个彻底的...好人。}
 {1651}{}{谢谢，我会留意的。}
 
 #{1660}{}{[He nods and looks off into the distance。] You know, Dex wasn't my only contribution。 I also helped the Bear Dude in sprucing this world up by serving as adviser, tester, and guardian of canon and original intent。 But mostly, I was tasked with bringing all the new wasteland speech up to par。 It's been a hell of a long road, but if you ask me, this thing turned out pretty fuckin' sweet。 [He looks back at you and grins。]}
@@ -509,7 +509,7 @@
 {1710}{}{[仔细查看你的队伍成员]}
 {1711}{}{我创造了灵狐。另外我提醒你要看好灵狐，我不想让她陷入麻烦。}
 {1712}{}{RP里潜水艇的部分我也有参与制作哦。}
-{1713}{}{嘿, 灵狐在那里？ 我曾经参加过她的对话创作，你知道吗？}
+{1713}{}{嘿，灵狐在那里？ 我曾经参加过她的对话创作，你知道吗？}
 {1714}{}{三番市的潜水艇我也有参与制作哦。}
 
 #Minigun Jim - Cat Jules
@@ -553,7 +553,7 @@
 #{2060}{}{I so enjoy creating new things。}
 #{2061}{}{So many new details now。 So beautiful。}
 
-{2010}{}{[机器人点头并走向你]你好，你在这世界玩得愉快么？}
+{2010}{}{[机器人点头并走向你]你好，你在这个世界玩得愉快么？}
 {2011}{}{是的，谢谢你的问候。}
 {2012}{}{一般般吧，或许能更好。}
 {2013}{}{我没注意，再见。}
@@ -568,10 +568,10 @@
 {2032}{}{还真没有注意到。}
 {2033}{}{还行吧，再见。}
 
-{2040}{}{[机器人手舞足蹈]我很高兴你喜欢它。好吧，我现在必须得走了。这世界上还有很多值得展现的好东西。}
+{2040}{}{[机器人手舞足蹈]我很高兴你喜欢它。好吧，我现在必须得走了。这个世界上还有很多值得展现的好东西。}
 {2041}{}{好的，保重。}
 
-{2050}{}{[机器人垂头丧气]嗯，我想我做的事情不是所有人都能理解吧，不过现在，如果你不介意的话，我必须走了。这世界上还有很多值得展现的好东西。}
+{2050}{}{[机器人垂头丧气]嗯，我想我做的事情不是所有人都能理解吧，不过现在，如果你不介意的话，我必须走了。这个世界上还有很多值得展现的好东西。}
 {2051}{}{无所谓了，再见。}
 
 {2060}{}{我超喜欢创造新事物。}
@@ -597,7 +597,7 @@
 #{2151}{}{Enjoy the expanded visibility of this world！}
 #{2152}{}{Enjoy the new you！}
 
-{2110}{}{您好！很高兴你已经走了这么远，希望你享受了原码力开放世界的乐趣。尽管没人能够一次性看完整个世界。我也尽力去改变，皇帝Timeslip和我是主要的编写者。我们把这个旧世界带入了一个新时代。}
+{2110}{}{您好！很高兴你已经走了这么远，希望你享受了原码力开放世界的乐趣。尽管没人能够一次性看完整个世界。我也尽力去改变，皇帝Timeslip和我是主要的编写者。我们把这个旧世界带进了一个新时代。}
 {2111}{}{哇，谢谢你。一切都好多了。有时候有点不适，但我也可以轻松适应。}
 {2112}{}{我没有时间闲聊，再见。}
 

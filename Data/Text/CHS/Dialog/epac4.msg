@@ -8,7 +8,7 @@
 
 {100}{}{你看到一个全息图像。}
 {101}{}{你看到安全主任。}
-{102}{}{全息图像10001，他负责监督EPA的安全.}
+{102}{}{全息图像10001，他负责监督EPA的安全。}
 
 
 # Node  0  [Node001]
@@ -25,11 +25,11 @@
 {204}{}{，我并不想打扰，我只是在探索这里。}
 
 # Node  1  [Node002]
-#{210}{}{Exploring!? Exploring...MY...EPA!? How dare you have the audacity to break in here and just casually wander around! Vollidiot! I have a half a mind to arrest you and toss your ass in the petting zoo -- give them freakshows a real feast!}
+#{210}{}{Exploring！？Exploring...MY...EPA！？How dare you have the audacity to break in here and just casually wander around! Vollidiot! I have a half a mind to arrest you and toss your ass in the petting zoo -- give them freakshows a real feast!}
 #{211}{}{No, wait! I'm not doing you any harm! Let me explain...}
 
 {210}{}{探索！？探索！？在负责安全的本大爷眼皮子底下你竟然敢"探索"这个美利坚合众国的机密机构EPA？我现在就要把你一脚踢到下面的动物园里当饲料！}
-{211}{}{不，等等！让我解释一下……}
+{211}{}{不，等等！让我解释一下...}
 
 # Node  2  [Node003]
 #{220}{}{You aren't going anywhere fast, Pisskopf. Nobody saunters into MY EPA without explaining themselves. How do I know you're not a Chinese spy?}
@@ -47,7 +47,7 @@
 #{231}{}{Alright. First off, I'm not a Chinese spy -- I'm what you might call a tribal. I've been chosen to embark on a perilous quest so that I might save my tribe from destruction. I only entered this complex in hope of scavenging something that could aid me in my quest.}
 #{232}{}{Fuck off. Seriously, you're a *hologram*. The worst you can do is try and shout me to death, which you seem to be giving your best shot. As for those scrap heaps you call robots, I might be a little more intimidated if I saw any around here that actually work.}
 
-{230}{}{入侵者，现在开始解释。你最好让你的解释听起来合理一点，否则我就让机器人打趴你，然后把你拉到电椅上!}
+{230}{}{入侵者，现在开始解释。你最好让你的解释听起来合理一点，否则我就让机器人打趴你，然后把你拉到电椅上！}
 {231}{}{好吧。首先，我不是中国间谍--我来自阿罗由，我被选中从事一项危险的任务，拯救我的部落免于毁灭。我进入EPA，是希望能找到一些能帮助我的东西。}
 {232}{}{滚开，在大吼大叫之前，你能先搞清楚你只是一个*全息图像*吗？你所能做的最坏的事就是试着把我喊死，在这方面我看到你已经在尽你最大的努力了。至于那些被你称为机器人的垃圾堆，如果我在这里能看到任何真正有用的东西，我可能会有点害怕。}
 
@@ -59,7 +59,7 @@
 
 {240}{}{什么！没有人能从这栋楼里拿出一张纸！不过等等，进入EPA的话需要一些技巧，也许我能找到你的用处。}
 {241}{}{嗯？}
-{242}{}{不，我想我还去去捡更多的垃圾好了，再见!}
+{242}{}{不，我想我还去去捡更多的垃圾好了，再见！}
 
 
 # Node  5  [Node006]
@@ -67,7 +67,7 @@
 #{251}{}{Maybe it will, maybe it will. And if that day were ever to come, I shall deal with it then and there. What is certain, is it will not come from you. You're a nobody. You have nothing left to rule over, which is why you cover up your sadness with anger. How long have the robots failed to respond to you?}
 
 {250}{}{傲慢！你竟然敢这样对我说话！在我做训话的时候，傲慢是要受到惩罚的！我会惩罚你的，有一天我会把你的舌头拉出来钉在那里的墙上！}
-{251}{}{如果真的有那一天，我会处理好它的。但我可以肯定的是，那和你肯定没什么关系，你只是一个*全息图像*，你什么都做不了。这就是为什么你要用愤怒来掩盖你的悲伤，好好想想机器人没有回应你多久了？}
+{251}{}{如果真的有那一天，我会处理好它的。但我可以肯定的是，那和你肯定没什么关系，你只是一个*全息图像*，你什么都做不了。这就是为什么你要用愤怒来掩盖你的无力，好好想想机器人没有回应你多久了？}
 
 
 
@@ -76,7 +76,7 @@
 #{261}{}{Well why not? I'll see what I can do.}
 #{262}{}{No, I don't have the time. Bye.}
 
-{260}{}{EPA的机器人不再工作了，计算机控制台也不服从我的口头命令，我没有一个身体来激活控制台。我……我什么都做不到，你能帮我修理机器人控制电脑吗？我需要指挥机器人的能力。}
+{260}{}{EPA的机器人不再工作了，计算机控制台也不服从我的口头命令，我没有一个身体来激活控制台。我...我什么都做不到，你能帮我修理机器人控制电脑吗？我需要指挥机器人的能力。}
 {261}{}{好，我会考虑你这件事的，我看看我能做什么。}
 {262}{}{不，我没有时间。再见。}
 
@@ -102,7 +102,7 @@
 #{290}{}{Lech mich! I have nothing more to say to you.}
 #{291}{}{Fine.}
 
-{290}{}{再见!我没什么可说的了。}
+{290}{}{再见！我没什么可以说的了。}
 {291}{}{好的。}
 
 
@@ -135,9 +135,9 @@
 #{331}{}{I want nothing more to do with you.}
 #{332}{}{MACH ES DIR SELBER!!}
 
-{330}{}{别点我! }
+{330}{}{别点我！}
 {331}{}{我不想和你有任何关系。}
-{332}{}{该死的共产主义者!!}
+{332}{}{该死的共产主义者！！}
 
 
 #{333}{}{I'm busy right now.}
@@ -158,15 +158,15 @@
 {334}{}{稍后回来。}
 {335}{}{你看不出我在开会吗？}
 {336}{}{我们必须立即摧毁这个地方！}
-{337}{}{这是荒谬的! }
-{338}{}{决不! }
+{337}{}{这是荒谬的！}
+{338}{}{决不！}
 {339}{}{只有在旧的东西被破坏的情况下，新的才会重生。}
 {340}{}{都在忙吗？ }
 {341}{}{机器人必须被重新激活！}
 {342}{}{共产主义者！你们都是！}
 {343}{}{我们的武器防御系统急需弹药！}
-{344}{}{如果我是负责人，事情就会在这里发生！}
-{345}{}{Halt die Schnauze!}
+{344}{}{如果我负责的话，这里的事情都能搞定！}
+{345}{}{闭嘴！}
 
 
 #{400}{}{Arrest me? You're a hologram. You can't even touch me.}
@@ -186,7 +186,7 @@
 
 {410}{}{你是把机器人控制电脑重新连网的那个人吗？}
 {411}{}{没错。}
-{412}{}{嗯……也许吧。}
+{412}{}{嗯...也许吧。}
 {413}{}{不，不是我。}
 {420}{}{撒谎！除了动物园你是这里唯一的有体温的人型生物体，所以我知道那是你。}
 {421}{}{好，好，是我。}
